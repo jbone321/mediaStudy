@@ -1,0 +1,29 @@
+{
+    "videoId": "_wDBq8Ik7sE",
+    "history": [
+        {
+            "fetchedAt": "20260212_005222",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Oiii",
+                    "author": "@AryaMedeiros",
+                    "likes": 1,
+                    "publishedAt": "2026-02-11T23:08:15Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260212_005600",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Oiii",
+                    "author": "@AryaMedeiros",
+                    "likes": 1,
+                    "publishedAt": "2026-02-11T23:08:15Z"
+                }
+            ]
+        }
+    ]
+}

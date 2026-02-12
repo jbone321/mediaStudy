@@ -1,0 +1,77 @@
+{
+    "videoId": "xt-CTRkNbpA",
+    "history": [
+        {
+            "fetchedAt": "20260212_004539",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Ada mbg",
+                    "author": "@AriTamari",
+                    "likes": 2,
+                    "publishedAt": "2026-02-11T14:01:05Z"
+                },
+                {
+                    "text": "Ada mbg",
+                    "author": "@Gufron-p6h",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T14:57:41Z"
+                },
+                {
+                    "text": "Ada mbg",
+                    "author": "@OnarJagoan",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T23:24:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260212_005156",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Ada mbg",
+                    "author": "@AriTamari",
+                    "likes": 2,
+                    "publishedAt": "2026-02-11T14:01:05Z"
+                },
+                {
+                    "text": "Ada mbg",
+                    "author": "@Gufron-p6h",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T14:57:41Z"
+                },
+                {
+                    "text": "Ada mbg",
+                    "author": "@OnarJagoan",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T23:24:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260212_005544",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Ada mbg",
+                    "author": "@AriTamari",
+                    "likes": 2,
+                    "publishedAt": "2026-02-11T14:01:05Z"
+                },
+                {
+                    "text": "Ada mbg",
+                    "author": "@Gufron-p6h",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T14:57:41Z"
+                },
+                {
+                    "text": "Ada mbg",
+                    "author": "@OnarJagoan",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T23:24:40Z"
+                }
+            ]
+        }
+    ]
+}
