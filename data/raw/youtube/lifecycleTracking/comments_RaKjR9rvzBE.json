@@ -5,6 +5,36 @@
             "fetchedAt": "20260212_005621",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260212_201041",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Que letra!",
+                    "author": "@jadowave",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T03:07:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_020044",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Que letra!",
+                    "author": "@jadowave",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T03:07:42Z"
+                },
+                {
+                    "text": "OH SAUDADE DANADA, MEU RIO GRANDE DO SUL EM BREVE ESTAREMOS DE VOLTA A ESTES PAGOS MARAVILHOSOS. RIO GRANDE DO SUL O MELHOR ESTADO DO BRASIL.",
+                    "author": "@NasserOthman-z7r",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:49:40Z"
+                }
+            ]
         }
     ]
 }

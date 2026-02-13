@@ -10,6 +10,18 @@
             "fetchedAt": "20260212_005557",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260212_201014",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@JosanBogdan",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T11:48:24Z"
+                }
+            ]
         }
     ]
 }

@@ -10,6 +10,72 @@
             "fetchedAt": "20260212_005601",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260212_201018",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u0628\u0633\u0645 \u0627\u0644\u0644\u0647 \u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u0631\u062d\u06cc\u0645 \ud83d\ude2e",
+                    "author": "@ParvinBaxtiyarixiyavi",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T19:33:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_015957",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u0628\u0633\u0645 \u0627\u0644\u0644\u0647 \u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u0631\u062d\u06cc\u0645 \ud83d\ude2e",
+                    "author": "@ParvinBaxtiyarixiyavi",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T19:33:21Z"
+                },
+                {
+                    "text": "Bu nedi",
+                    "author": "@Zehraismayilova-p8e",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T21:59:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210759",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "\u0628\u0633\u0645 \u0627\u0644\u0644\u0647 \u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u0631\u062d\u06cc\u0645 \ud83d\ude2e",
+                    "author": "@ParvinBaxtiyarixiyavi",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T19:33:21Z"
+                },
+                {
+                    "text": "Tez tez olaq \ud83d\ude02",
+                    "author": "@Elnur-n5t",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T10:35:35Z"
+                },
+                {
+                    "text": "DEY\u0130R\u018fM KA\u015eK\u0130 SATI\u015eDA RENTGEN EYN\u018fKL\u018fR OLAYDI G\u00d6R\u018fYD\u0130K BU T\u018fB\u0130\u0130D\u0130R YA BROYLERD\u0130R\ud83d\ude12\ud83d\ude12\ud83d\ude12\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14",
+                    "author": "@IlhamSekerov",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T06:24:15Z"
+                },
+                {
+                    "text": "\u0418\u043b\u0430\u0445\u0438 \u0431\u0443 \u043d\u0435\u0434\u0438.",
+                    "author": "@\u0425\u0430\u043b\u0438\u043c\u0430\u0442\u041d\u0443\u0440\u0438\u0435\u0432\u0430-\u04359\u0432",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T20:59:41Z"
+                },
+                {
+                    "text": "Bu nedi",
+                    "author": "@Zehraismayilova-p8e",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T21:59:20Z"
+                }
+            ]
         }
     ]
 }

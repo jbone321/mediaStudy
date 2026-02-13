@@ -1,0 +1,52 @@
+{
+    "videoId": "WagzWKYk8tQ",
+    "history": [
+        {
+            "fetchedAt": "20260212_201046",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260213_035938",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2728\ud83d\udc99\ud83d\udc9d",
+                    "author": "@vijaysen2229",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T02:49:14Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210831",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@thakursahab54321",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T04:23:03Z"
+                },
+                {
+                    "text": "\u2728\ud83d\udc99\ud83d\udc9d",
+                    "author": "@vijaysen2229",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T02:49:14Z"
+                },
+                {
+                    "text": "MAINE NAHI PATAYI",
+                    "author": "@GauravSingh-ok7dw",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T15:57:12Z"
+                },
+                {
+                    "text": "Sir foundation batch me registration karne ki leya 2k fees summet ho rahe hai kya",
+                    "author": "@GKIQtest",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T12:01:30Z"
+                }
+            ]
+        }
+    ]
+}

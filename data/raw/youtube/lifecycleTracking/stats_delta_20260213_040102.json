@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "videoId": "2Q9X365kQG8",
+            "viewCount": 420,
+            "likeCount": 22,
+            "commentCount": 1,
+            "pollTimestamp": "2026-02-13T04:01:02.831833Z"
+        },
+        {
+            "videoId": "LsVx39hEOjs",
+            "viewCount": 12814,
+            "likeCount": 802,
+            "commentCount": 0,
+            "pollTimestamp": "2026-02-13T04:01:02.831865Z"
+        },
+        {
+            "videoId": "brKpwa3gIVI",
+            "viewCount": 289,
+            "likeCount": 2,
+            "commentCount": 0,
+            "pollTimestamp": "2026-02-13T04:01:02.831875Z"
+        },
+        {
+            "videoId": "Et0NJD4jLsE",
+            "viewCount": 2206,
+            "likeCount": 0,
+            "commentCount": 2,
+            "pollTimestamp": "2026-02-13T04:01:02.831884Z"
+        },
+        {
+            "videoId": "3SkBAsQoGt4",
+            "viewCount": 107382,
+            "likeCount": 6394,
+            "commentCount": 26,
+            "pollTimestamp": "2026-02-13T04:01:02.831893Z"
+        },
+        {
+            "videoId": "UwV_2T6sSPs",
+            "viewCount": 7491,
+            "likeCount": 528,
+            "commentCount": 0,
+            "pollTimestamp": "2026-02-13T04:01:02.831901Z"
+        },
+        {
+            "videoId": "OETk3i2sej0",
+            "viewCount": 468,
+            "likeCount": 25,
+            "commentCount": 28,
+            "pollTimestamp": "2026-02-13T04:01:02.831910Z"
+        },
+        {
+            "videoId": "JZER_Lkjq0Y",
+            "viewCount": 3327,
+            "likeCount": 38,
+            "commentCount": 4,
+            "pollTimestamp": "2026-02-13T04:01:02.831920Z"
+        }
+    ]
+}

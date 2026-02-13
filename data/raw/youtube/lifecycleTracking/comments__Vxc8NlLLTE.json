@@ -1,0 +1,22 @@
+{
+    "videoId": "_Vxc8NlLLTE",
+    "history": [
+        {
+            "fetchedAt": "20260213_020103",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260213_210837",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "9",
+                    "author": "@VaduguruSunitha",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T11:34:09Z"
+                }
+            ]
+        }
+    ]
+}

@@ -15,6 +15,18 @@
             "fetchedAt": "20260212_005547",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260212_201003",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Super pozdrawiam",
+                    "author": "@LilaPawlak-b9w",
+                    "likes": 2,
+                    "publishedAt": "2026-02-12T07:17:20Z"
+                }
+            ]
         }
     ]
 }

@@ -12,6 +12,24 @@
                     "publishedAt": "2026-02-11T21:43:40Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260213_020012",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Por que no bas en donde es tan  las ranas O algun otro animal",
+                    "author": "@irmaloaniperalesrecio",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T21:43:40Z"
+                },
+                {
+                    "text": "Qual o sentido desse jogo?",
+                    "author": "@LORDEREMITA-s3i",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T23:25:18Z"
+                }
+            ]
         }
     ]
 }

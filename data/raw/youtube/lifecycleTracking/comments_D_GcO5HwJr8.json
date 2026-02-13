@@ -1,0 +1,59 @@
+{
+    "videoId": "D_GcO5HwJr8",
+    "history": [
+        {
+            "fetchedAt": "20260212_201029",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "I love this song! \u2764",
+                    "author": "@kristenk3009",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T02:53:28Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_020024",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "RIP Glen Campbell \u2665\ufe0f\u2665\ufe0f",
+                    "author": "@TexasCountryCowgirl",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T20:19:53Z"
+                },
+                {
+                    "text": "I love this song! \u2764",
+                    "author": "@kristenk3009",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T02:53:28Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210812",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "RIP Glen Campbell \u2665\ufe0f\u2665\ufe0f",
+                    "author": "@TexasCountryCowgirl",
+                    "likes": 2,
+                    "publishedAt": "2026-02-12T20:19:53Z"
+                },
+                {
+                    "text": "I love this song! \u2764",
+                    "author": "@kristenk3009",
+                    "likes": 2,
+                    "publishedAt": "2026-02-12T02:53:28Z"
+                },
+                {
+                    "text": "AI, not Glen singing/",
+                    "author": "@chuckcts-v3460",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T18:42:19Z"
+                }
+            ]
+        }
+    ]
+}

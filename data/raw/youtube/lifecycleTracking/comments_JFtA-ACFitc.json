@@ -12,6 +12,96 @@
                     "publishedAt": "2026-02-11T21:32:09Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260213_020021",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Soy sagitario \ud83d\ude0a\ud83d\ude0a\ud83d\ude05\ud83d\ude05",
+                    "author": "@soniaquesadaluque6670",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T21:32:09Z"
+                },
+                {
+                    "text": "Soy sagitario",
+                    "author": "@brendalescano7309",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T22:55:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_035920",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Soy sagitario \ud83d\ude0a\ud83d\ude0a\ud83d\ude05\ud83d\ude05",
+                    "author": "@soniaquesadaluque6670",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T21:32:09Z"
+                },
+                {
+                    "text": "Soy sagitario",
+                    "author": "@brendalescano7309",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T22:55:13Z"
+                },
+                {
+                    "text": "Soy libraaaa",
+                    "author": "@Cataleya-h3v",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T02:34:10Z"
+                },
+                {
+                    "text": "Soi tauro",
+                    "author": "@MadelinQuino",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T02:44:02Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210810",
+            "commentCount": 6,
+            "comments": [
+                {
+                    "text": "Soy libraaaa",
+                    "author": "@Cataleya-h3v",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T02:34:10Z"
+                },
+                {
+                    "text": "Soy sagitario \ud83d\ude0a\ud83d\ude0a\ud83d\ude05\ud83d\ude05",
+                    "author": "@soniaquesadaluque6670",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T21:32:09Z"
+                },
+                {
+                    "text": "Soy sagitario",
+                    "author": "@brendalescano7309",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T22:55:13Z"
+                },
+                {
+                    "text": "Por qu\u00e9 nunca pareces Escorpio",
+                    "author": "@YsmaelinaPaulinoperez",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T15:10:23Z"
+                },
+                {
+                    "text": "Soy  Piscis",
+                    "author": "@SofiaFern\u00e1ndez-j6x",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T17:21:37Z"
+                },
+                {
+                    "text": "Soi tauro",
+                    "author": "@MadelinQuino",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T02:44:02Z"
+                }
+            ]
         }
     ]
 }

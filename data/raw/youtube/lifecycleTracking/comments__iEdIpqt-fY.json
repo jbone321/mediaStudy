@@ -5,6 +5,48 @@
             "fetchedAt": "20260212_005610",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260212_201027",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@QamarAbbas-z4h",
+                    "likes": 4,
+                    "publishedAt": "2026-02-12T02:35:04Z"
+                },
+                {
+                    "text": "Mashallah \u2764\u2764\ud83c\udf89\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\u2764\u2764\ud83c\udf89\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\u2764\ud83c\udf89",
+                    "author": "@RomanSubhan-u4k",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T09:09:46Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210809",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@QamarAbbas-z4h",
+                    "likes": 4,
+                    "publishedAt": "2026-02-12T02:35:04Z"
+                },
+                {
+                    "text": "Mashallah \u2764\u2764\ud83c\udf89\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\u2764\u2764\ud83c\udf89\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\u2764\ud83c\udf89",
+                    "author": "@RomanSubhan-u4k",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T09:09:46Z"
+                },
+                {
+                    "text": "\ud83d\ude2d\ud83d\ude2d",
+                    "author": "@\u0414\u0430\u0432\u043b\u0430\u0442\u0418\u0431\u0440\u0430\u0433\u0438\u043c\u043e\u0432-\u04366\u043a",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T10:23:13Z"
+                }
+            ]
         }
     ]
 }

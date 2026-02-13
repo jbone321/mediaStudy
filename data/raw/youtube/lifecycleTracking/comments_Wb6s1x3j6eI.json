@@ -1,0 +1,40 @@
+{
+    "videoId": "Wb6s1x3j6eI",
+    "history": [
+        {
+            "fetchedAt": "20260213_020104",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260213_035944",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Pl",
+                    "author": "@ImamsabTahasildar-x8f",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T03:17:25Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210838",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Yyg \ud83c\udf89\u2764\ud83d\ude05\ud83d\ude0a",
+                    "author": "@OdinaMahbubova-w8c",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T13:08:43Z"
+                },
+                {
+                    "text": "Pl",
+                    "author": "@ImamsabTahasildar-x8f",
+                    "likes": 2,
+                    "publishedAt": "2026-02-13T03:17:25Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "videoId": "KAXmT0nQp-M",
+    "history": [
+        {
+            "fetchedAt": "20260213_020104",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Therd",
+                    "author": "@goko-sitma",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:53:04Z"
+                },
+                {
+                    "text": "Second",
+                    "author": "@FarnazMubeen",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:49:53Z"
+                },
+                {
+                    "text": "First",
+                    "author": "@crystalrosediy3045",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:27:25Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_035944",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Therd",
+                    "author": "@goko-sitma",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:53:04Z"
+                },
+                {
+                    "text": "Second",
+                    "author": "@FarnazMubeen",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T01:49:53Z"
+                },
+                {
+                    "text": "Fourth",
+                    "author": "@DIAHTHEDIAMONDCAT",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T02:06:17Z"
+                },
+                {
+                    "text": "First",
+                    "author": "@crystalrosediy3045",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:27:25Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210838",
+            "commentCount": 6,
+            "comments": [
+                {
+                    "text": "Yummyy deve estar uma del\u00edcia\u2764\u2764\ud83e\udd24\ud83d\ude0b",
+                    "author": "@erikaibanez4860",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T18:35:34Z"
+                },
+                {
+                    "text": "Therd",
+                    "author": "@goko-sitma",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T01:53:04Z"
+                },
+                {
+                    "text": "Fourth",
+                    "author": "@DIAHTHEDIAMONDCAT",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T02:06:17Z"
+                },
+                {
+                    "text": "First",
+                    "author": "@crystalrosediy3045",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:27:25Z"
+                },
+                {
+                    "text": "Second",
+                    "author": "@FarnazMubeen",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T01:49:53Z"
+                },
+                {
+                    "text": "5",
+                    "author": "@Sui11Sui00",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T09:37:05Z"
+                }
+            ]
+        }
+    ]
+}

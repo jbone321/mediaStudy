@@ -5,6 +5,18 @@
             "fetchedAt": "20260212_005610",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260212_201027",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "There were null-faces",
+                    "author": "@2fresh4you",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T19:05:53Z"
+                }
+            ]
         }
     ]
 }

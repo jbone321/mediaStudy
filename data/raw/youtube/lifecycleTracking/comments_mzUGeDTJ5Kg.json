@@ -1,0 +1,35 @@
+{
+    "videoId": "mzUGeDTJ5Kg",
+    "history": [
+        {
+            "fetchedAt": "20260213_020111",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd20\ud83e\udd20\ud83e\udd20\ud83e\udd20",
+                    "author": "@JasmmenHernandez-b9w",
+                    "likes": 2,
+                    "publishedAt": "2026-02-12T22:09:48Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210842",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd20\ud83e\udd20\ud83e\udd20\ud83e\udd20",
+                    "author": "@JasmmenHernandez-b9w",
+                    "likes": 2,
+                    "publishedAt": "2026-02-12T22:09:48Z"
+                },
+                {
+                    "text": "Chulada compita",
+                    "author": "@GustavoHernandez-x9c",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T19:52:41Z"
+                }
+            ]
+        }
+    ]
+}

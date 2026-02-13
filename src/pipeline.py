@@ -24,7 +24,7 @@ class PipelineConfig:
 			"apiKey": os.getenv("YOUTUBE_API_KEY"),
 			"baseDir": "data/raw/youtube",
 			"categories": ["Entertainment", "Music", "Gaming", "Education", "Howto & Style"],
-			"videosPerCategory": 15,
+			"videosPerCategory": 30,
 			"region": "US",
 			"order": "date"
 		}

@@ -1,0 +1,35 @@
+{
+    "videoId": "DIVWnkQaRDQ",
+    "history": [
+        {
+            "fetchedAt": "20260212_201042",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Im the 67 likeeee \u2764\u2764\u2764",
+                    "author": "@NelaWagner-s1l",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T19:24:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210826",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "love you",
+                    "author": "@ilovedevy",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T17:27:14Z"
+                },
+                {
+                    "text": "Im the 67 likeeee \u2764\u2764\u2764",
+                    "author": "@NelaWagner-s1l",
+                    "likes": 2,
+                    "publishedAt": "2026-02-12T19:24:42Z"
+                }
+            ]
+        }
+    ]
+}

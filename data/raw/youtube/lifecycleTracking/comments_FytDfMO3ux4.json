@@ -1,0 +1,35 @@
+{
+    "videoId": "FytDfMO3ux4",
+    "history": [
+        {
+            "fetchedAt": "20260213_035954",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Otay!!!",
+                    "author": "@ou_dang8218",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T03:20:29Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210849",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Gracious",
+                    "author": "@1mic513",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T05:27:52Z"
+                },
+                {
+                    "text": "Otay!!!",
+                    "author": "@ou_dang8218",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T03:20:29Z"
+                }
+            ]
+        }
+    ]
+}

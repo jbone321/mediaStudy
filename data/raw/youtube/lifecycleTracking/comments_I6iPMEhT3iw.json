@@ -5,6 +5,60 @@
             "fetchedAt": "20260212_005618",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260212_201035",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Has to be white, the only box that is named",
+                    "author": "@endu-the-little",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T18:59:18Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_020036",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Has to be white, the only box that is named",
+                    "author": "@endu-the-little",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T18:59:18Z"
+                },
+                {
+                    "text": "if the white box is the only true one then the gray one is lying meaning there's not 2 false statements but if there's not 2 false statements than more than 1 has to be correct so the white box is lying \n\n- Gray box, maybe truthful but sus\n- White box, definitely not truthful\n- Black box, no evidence either way\n\nNow that we can rule out the white if the gray box is lying then that means there's only 1 false statement but if it isn't obviously the gray box would be truthful so the black would be wrong if gray is truthful but we establish white is lying so if gray is lying that means theres 2 false statements which means its telling the truth creating a paradox forcing the gray box to be truthful\n\n-Gray box, Truthful\n-White box, Lying\n-Black box, Forced to be lying since gray is truthful\n\nBut what I forgot to consider what if all 3 or fake or what you thought I didn't consider all 3 cant be fake because if 3 are lying that means there's at least 2 false statements the gray box never states there's ONLY 2 false statements it's states there's 2 false statements making it forced to be truthful\n\nBut we still don't know which has the gems\n\n- White box is lying, but it doesn't give us any information besides that\n- Gray box is truthful, meaning black box is lying\n-  Black box is lying, meaning there is SOMETHING inside of the WHITE BOX\n\nSo while we can't determine it because for all we know there can be an empty bag in the white box we know it definitely has something making it the best choice\n\nWHITE BOX",
+                    "author": "@SharkieCutiii",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:20:55Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210819",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "if black is true, then white is false, and blue is paradoxical\nif white is true, then black is false, and blue is paradoxical\nif blue is true, then white and black are false, and thus white is not empty.",
+                    "author": "@Information_Seeker",
+                    "likes": 3,
+                    "publishedAt": "2026-02-13T07:31:31Z"
+                },
+                {
+                    "text": "Has to be white, the only box that is named",
+                    "author": "@endu-the-little",
+                    "likes": 5,
+                    "publishedAt": "2026-02-12T18:59:18Z"
+                },
+                {
+                    "text": "if the white box is the only true one then the gray one is lying meaning there's not 2 false statements but if there's not 2 false statements than more than 1 has to be correct so the white box is lying \n\n- Gray box, maybe truthful but sus\n- White box, definitely not truthful\n- Black box, no evidence either way\n\nNow that we can rule out the white if the gray box is lying then that means there's only 1 false statement but if it isn't obviously the gray box would be truthful so the black would be wrong if gray is truthful but we establish white is lying so if gray is lying that means theres 2 false statements which means its telling the truth creating a paradox forcing the gray box to be truthful\n\n-Gray box, Truthful\n-White box, Lying\n-Black box, Forced to be lying since gray is truthful\n\nBut what I forgot to consider what if all 3 or fake or what you thought I didn't consider all 3 cant be fake because if 3 are lying that means there's at least 2 false statements the gray box never states there's ONLY 2 false statements it's states there's 2 false statements making it forced to be truthful\n\nBut we still don't know which has the gems\n\n- White box is lying, but it doesn't give us any information besides that\n- Gray box is truthful, meaning black box is lying\n-  Black box is lying, meaning there is SOMETHING inside of the WHITE BOX\n\nSo while we can't determine it because for all we know there can be an empty bag in the white box we know it definitely has something making it the best choice\n\nWHITE BOX",
+                    "author": "@SharkieCutiii",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T01:20:55Z"
+                }
+            ]
         }
     ]
 }

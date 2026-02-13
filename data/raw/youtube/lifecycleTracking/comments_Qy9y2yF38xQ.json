@@ -1,0 +1,35 @@
+{
+    "videoId": "Qy9y2yF38xQ",
+    "history": [
+        {
+            "fetchedAt": "20260213_035957",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Ficou daora vei, eu voltei \ud83d\ude42",
+                    "author": "@vacoamerelo8096",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T01:40:52Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_210852",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Ficou daora vei, eu voltei \ud83d\ude42",
+                    "author": "@vacoamerelo8096",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T01:40:52Z"
+                },
+                {
+                    "text": "Faz o shinji hirako",
+                    "author": "@otakufedido-g5q",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T13:33:18Z"
+                }
+            ]
+        }
+    ]
+}

@@ -5,6 +5,24 @@
             "fetchedAt": "20260212_005610",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260213_020017",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Amei\u2764",
+                    "author": "@lara_das",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T22:22:44Z"
+                },
+                {
+                    "text": "Oi\u2764\u2764\u2764\u2764\ud83d\ude0a",
+                    "author": "@99_noites_na_floresta_oficial",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T23:29:16Z"
+                }
+            ]
         }
     ]
 }

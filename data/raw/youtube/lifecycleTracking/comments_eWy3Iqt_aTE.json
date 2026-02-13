@@ -1,0 +1,35 @@
+{
+    "videoId": "eWy3Iqt_aTE",
+    "history": [
+        {
+            "fetchedAt": "20260212_201050",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0e\ud83d\ude0e\ud83d\ude0e\ud83d\ude0e",
+                    "author": "@AlbaZamudio-m3m",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T19:23:57Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260213_020100",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0e\ud83d\ude0e\ud83d\ude0e\ud83d\ude0e",
+                    "author": "@AlbaZamudio-m3m",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T19:23:57Z"
+                },
+                {
+                    "text": "Nombre?",
+                    "author": "@Unpatoquevacantando138",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T20:44:31Z"
+                }
+            ]
+        }
+    ]
+}

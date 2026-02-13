@@ -207,42 +207,44 @@ class YoutubeCollector:
 
 	def getComments(self, videoId, maxComments=25):
 		# gathers top-level comments at the time gathered no replies
+
 		comments = []
-	
+
 		try:
 			request = self.youtube.commentThreads().list(
 				part="snippet",
 				videoId=videoId,
-				maxResults=min(100, maxComments),
+				maxResults=maxComments,
 				textFormat="plainText",
 				order="relevance"
 			)
 
-			while request and len(comments) < maxComments:
-				response = request.execute()
+			
+			response = request.execute()
 
-				for item in response.get("items", []):
-					comment = item["snippet"]["topLevelComment"]["snippet"]
-					comments.append({
-						"text": comment["textDisplay"],
-						"author": comment["authorDisplayName"],
-						"likes": comment["likeCount"],
-						"publishedAt": comment["publishedAt"]
-					})
+			for item in response.get("items", []):
+				comment = item["snippet"]["topLevelComment"]["snippet"]
+				comments.append({
+					"text": comment["textDisplay"],
+					"author": comment["authorDisplayName"],
+					"likes": comment["likeCount"],
+					"publishedAt": comment["publishedAt"]
+				})
 
-					if len(comments) >= maxComments:
-						break
+				if len(comments) >= maxComments:
+					break
 
-				request = self.youtube.commentThreads().list_next(request, response)
+			request = self.youtube.commentThreads().list_next(request, response)
 
 			comments = comments[:maxComments]
 
+			# one file per video
 			trackingDir = os.path.join(self.baseDir, "lifecycleTracking")
 			os.makedirs(trackingDir, exist_ok=True)
-			
-			# orginally was saving new file for every run track on same file now
+
 			historyFile = os.path.join(trackingDir, f"comments_{videoId}.json")
-			
+
+			# load or start new
 			if os.path.exists(historyFile):
 				with open(historyFile, "r", encoding="utf-8") as f:
 					history = json.load(f)
@@ -251,30 +253,40 @@ class YoutubeCollector:
 					"videoId": videoId,
 					"history": []
 				}
-			
+
 			timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
-			history["history"].append({
+			newSnapshot = {
 				"fetchedAt": timestamp,
 				"commentCount": len(comments),
 				"comments": comments
-			})
-			
-			# save updated history
+			}
+
+			#only save if differents from last snapshor
+			if history["history"] and history["history"][-1]["commentCount"] == newSnapshot["commentCount"]:
+				print(f"Skipping save for {videoId}, no change in comment count")
+			else:
+				history["history"].append(newSnapshot)
+
+			# Save
 			with open(historyFile, "w", encoding="utf-8") as f:
 				json.dump(history, f, indent=4)
 
-			print(f"{len(comments)} comments saved (history: {len(history['history'])} snapshots)")
+			print(f"{len(comments)} comments saved(snapshots: {len(history['history'])})")
+
 			return comments
 
-		except HttpError as e:
-			if e.resp.status == 403:
-				print(f"Comments are disabled for {videoId}")
+		except googleapiclient.errors.HttpError as e:
+			status = e.resp.status
+			if status == 403:
+				print(f"Comments disabled or forbidden for {videoId}")
+				return []
+			if status == 404:
+				print(f"Video not found or removed: {videoId}")
 				return []
 			
-			if e.resp.status == 404:
-				print(f"Video not found or removed {videoId}")
-				return []
-			raise	
-	
+			print(f"HTTP error {status} for {videoId}: {e.content.decode('utf-8')}")
+			return []
+
 		except Exception as e:
-			raise Exception(f"Unexpected error: {str(e)[:100]}")
+			print(f"Unexpected error fetching comments for {videoId}: {str(e)}")
+			return []
