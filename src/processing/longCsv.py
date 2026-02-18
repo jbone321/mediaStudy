@@ -10,19 +10,37 @@ class jsonToLongCsv:
 		self.statsDir = self.baseDir / "lifecycleTracking"
 		self.outputPath = Path(outputDir) / outputFile
 
+
+
 	def loadBaselines(self) -> pd.DataFrame:
 		rows: List[Dict] = []
+
+		#UPDATE: category id -> category Name
+		catMap = {
+			"24": "Entertainment",
+			"10": "Music",
+			"20": "Gaming",
+			"27": "Education",
+			"26": "Howto & Style"
+		}
+
 		for file in self.baselineDir.glob("*.json"):
 			try:
 				with open(file, "r", encoding="utf-8") as f:
 					data = json.load(f)
+
+				#UPDATE: category id -> category name
+				# missed this first time
+				catId = data.get("categoryId")
+				catName = catMap.get(catId, "Unknown")
 				rows.append({
 					"videoId": data.get("videoId"),
 					"title": data.get("title"),
 					"publishedAt": data.get("publishedAt"),
 					"duration": data.get("duration"),
 					"channelTitle": data.get("channelTitle"),
-					"firstSeen": data.get("firstSeen")
+					"firstSeen": data.get("firstSeen"),
+					"category": catName #UPDATE
 				})
 			except Exception as e:
 				print(f"Error loading baseline {file.name}: {e}")

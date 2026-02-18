@@ -108,7 +108,7 @@ class YoutubeCollector:
 					videoIds.append(video["videoId"])
 
 					# save baseline once
-					self._saveBaseline(video)
+					self._saveBaseline(video, categoryId=categoryId)
 
 			# save search filters
 			nameNormal = (query or f"cat_{categoryId or 'all'}").replace(" ", "_").replace("/", "_")
@@ -135,7 +135,7 @@ class YoutubeCollector:
 			print(f"Error: {e}")
 			return [], []
 
-	def _saveBaseline(self, video):
+	def _saveBaseline(self, video, categoryId=None):
 		baseline = {
 			"videoId": video["videoId"],
 			"title": video.get("title"),
@@ -144,6 +144,7 @@ class YoutubeCollector:
 			"channelTitle": video.get("channelTitle"),
 			"channelId": video.get("channelId"),
 			"firstSeen": datetime.utcnow().isoformat() + "Z"
+			"categoryId": categoryId
 		}
 
 		filePath = os.path.join(self.baseDir, "baselines", f"{video['videoId']}.json")
