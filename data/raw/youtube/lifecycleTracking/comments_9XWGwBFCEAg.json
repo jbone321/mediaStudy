@@ -1,0 +1,47 @@
+{
+    "videoId": "9XWGwBFCEAg",
+    "history": [
+        {
+            "fetchedAt": "20260216_214016",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u041f\u0435\u0440\u0432\u044b\u0439",
+                    "author": "@\u041a\u0430\u0438\u0447\u0438-\u04366\u0443",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T19:46:49Z"
+                },
+                {
+                    "text": "\u041e\u043a\u0430\u043a",
+                    "author": "@\u041a\u0430\u0438\u0447\u0438-\u04366\u0443",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T19:46:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260217_190216",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude2e",
+                    "author": "@BarySweet",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T18:30:03Z"
+                },
+                {
+                    "text": "\u041e\u043a\u0430\u043a",
+                    "author": "@\u041a\u0430\u0438\u0447\u0438-\u04366\u0443",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T19:46:40Z"
+                },
+                {
+                    "text": "\u041f\u0435\u0440\u0432\u044b\u0439",
+                    "author": "@\u041a\u0430\u0438\u0447\u0438-\u04366\u0443",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T19:46:49Z"
+                }
+            ]
+        }
+    ]
+}

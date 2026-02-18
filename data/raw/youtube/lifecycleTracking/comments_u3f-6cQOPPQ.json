@@ -1,0 +1,22 @@
+{
+    "videoId": "u3f-6cQOPPQ",
+    "history": [
+        {
+            "fetchedAt": "20260215_220741",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260216_191325",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "lmfao",
+                    "author": "@GleeChan",
+                    "likes": 2,
+                    "publishedAt": "2026-02-15T23:46:39Z"
+                }
+            ]
+        }
+    ]
+}

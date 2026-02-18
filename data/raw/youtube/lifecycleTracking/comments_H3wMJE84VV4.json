@@ -12,6 +12,48 @@
                     "publishedAt": "2026-02-13T01:56:50Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260216_191132",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Excelente thankyou",
+                    "author": "@haultnaz_mc922",
+                    "likes": 1,
+                    "publishedAt": "2026-02-16T17:21:22Z"
+                },
+                {
+                    "text": "Super",
+                    "author": "@JosephJosephsiju",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:56:50Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260217_181935",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Excelente thankyou",
+                    "author": "@haultnaz_mc922",
+                    "likes": 1,
+                    "publishedAt": "2026-02-16T17:21:22Z"
+                },
+                {
+                    "text": "Amei obrigada sucesso",
+                    "author": "@marliaraujocabral2686",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T22:56:20Z"
+                },
+                {
+                    "text": "Super",
+                    "author": "@JosephJosephsiju",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T01:56:50Z"
+                }
+            ]
         }
     ]
 }

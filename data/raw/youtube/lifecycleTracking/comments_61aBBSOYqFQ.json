@@ -42,6 +42,36 @@
                     "publishedAt": "2026-02-13T02:49:44Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260214_085002",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@SGariya-c3r",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T15:42:49Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@AnnadSing",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T05:06:00Z"
+                },
+                {
+                    "text": ".",
+                    "author": "@poojabhandari2681",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T02:29:54Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@FamilyComedyManju",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T02:49:44Z"
+                }
+            ]
         }
     ]
 }

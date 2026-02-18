@@ -1,0 +1,22 @@
+{
+    "videoId": "jO6F19SXwUU",
+    "history": [
+        {
+            "fetchedAt": "20260215_220750",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260217_182141",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Me gusta hesa mano",
+                    "author": "@rodrigoantoniolopezsanchez262",
+                    "likes": 1,
+                    "publishedAt": "2026-02-16T23:49:33Z"
+                }
+            ]
+        }
+    ]
+}

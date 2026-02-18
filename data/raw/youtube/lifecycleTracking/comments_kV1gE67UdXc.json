@@ -546,6 +546,312 @@
                     "publishedAt": "2026-02-12T01:21:56Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260214_084901",
+            "commentCount": 24,
+            "comments": [
+                {
+                    "text": "I just swapped the 3 and 5: 3^4=81, 5^3=125. Surprised this actually worked...",
+                    "author": "@nicholasharvey1232",
+                    "likes": 2,
+                    "publishedAt": "2026-02-13T08:36:41Z"
+                },
+                {
+                    "text": "first, and ONLY time *EVER* that I've seen NO *\"SOOOOOO GOOOOOOOOOD !!\"* at the end !! :O\nWow...",
+                    "author": "@kurzackd",
+                    "likes": 4,
+                    "publishedAt": "2026-02-11T17:48:34Z"
+                },
+                {
+                    "text": "Solved by examination in less than 15 seconds",
+                    "author": "@seang.douglas4278",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T00:26:44Z"
+                },
+                {
+                    "text": "I speak spanish but I always try to understand how to solve it",
+                    "author": "@Tommrj08",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T16:42:33Z"
+                },
+                {
+                    "text": "absolute math",
+                    "author": "@lanoviadearana",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T12:36:46Z"
+                },
+                {
+                    "text": "isnt it basically what you are doing with the log method too? You just represent all that stuff with logs , imo both methods look same",
+                    "author": "@soozo2929",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T11:20:25Z"
+                },
+                {
+                    "text": "x=log\u2083(125)\ny=log\u2085(81)\nxy=log\u2083(125)log\u2085(81)\n=(ln(125)/ln(3))(ln(81)/ln(5))\n=(ln(125)ln(81))/(ln(3)ln(5))\n=(ln(5\u00b3)ln(3\u2074))/(ln(3)ln(5))\n=(3ln(5)4ln(3))/(ln(3)ln(5))\n= 3\u00d74\n= 12",
+                    "author": "@Azimsultan919",
+                    "likes": 7,
+                    "publishedAt": "2026-02-11T15:34:52Z"
+                },
+                {
+                    "text": "Tf bro I thought I have to get x and y . I've been trying for so long\nEdit: yeah i should've looked at the thumbnail",
+                    "author": "@JEETarget2027-t2g",
+                    "likes": 4,
+                    "publishedAt": "2026-02-11T14:14:08Z"
+                },
+                {
+                    "text": "3^x=125=5^3\nOr 3=5^(3/x)\n\nNow 5^y=81=3^4\nOr 5^y={(5^(3/x))}4\nOr 5^y=5^(12/x)\nOr 5^xy=5^12\n==>>xy=12\n\nI did not use logarithm. I don't know how to use logarithm either\ud83d\ude05",
+                    "author": "@DisneyFan2011",
+                    "likes": 1,
+                    "publishedAt": "2026-02-11T15:39:20Z"
+                },
+                {
+                    "text": "A positive integer m\u00b2 has the property that m\u00b2 is expressible in the form 4n\u00b2-5n+16, where n is an integer. Find the maximum value of |m-n|\n\nBro can you please solve this question for me\ud83d\ude05??",
+                    "author": "@DarshitPandey-x2f",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T16:41:37Z"
+                },
+                {
+                    "text": "3^X . 5^Y = 5^3 . 3^4 \nSo one solution is X=4 and Y=3 . So X.Y=12",
+                    "author": "@alemo25",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T12:51:41Z"
+                },
+                {
+                    "text": "5=3^4/y so 3^x= 5\u00b3 3^x=3^12/y now x=y/12 so xy =12",
+                    "author": "@saksham-ti1wp",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T05:34:03Z"
+                },
+                {
+                    "text": "Solved in 15 seconds\nAnswer : 12\nI have seen similar problems just swap the numbers\nMove 5 in place of 3 and 3 in place of 5\n3^x = 81\n5^y = 125\nX = 4\nY = 3\nXy = 12",
+                    "author": "@RazaArcX",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T16:18:08Z"
+                },
+                {
+                    "text": "I solved without trigonometry.\n3^x = 125\n5^y = 81.\nAdd both equations.\n3^x + 5^y = 125 + 81\n3^x + 5^y = 5\u00b3 + 3\u2074\nBy comparison, \nx = 4 ; y = 3.\nxy = 4 \u00d7 3 = 12. Simple",
+                    "author": "@Boyzzzgameryoutube0001",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T16:02:39Z"
+                },
+                {
+                    "text": "Form : log(base,num): log(3,125)*log(5,81)=z\nlog(3,5^3)*log(5,3^4)=z\n3log(3,5)*4log(5,3)=z\n12 log(3,5)*log(5,3)=z\n(Log(a,b)*log(b,a)=1 \nProof would be: b=a^log(a,b)\na=b^log(b,a)=(a^log(a,b))^log(b,a)=a^(log(a,b)log(b,a))==a=> log(a,b)log(b,a)=1\n\n\n12 log(3,5)*log(5,3)=z\n12=z",
+                    "author": "@louisvollert1420",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T18:13:51Z"
+                },
+                {
+                    "text": "7th comment",
+                    "author": "@prax3690",
+                    "likes": 2,
+                    "publishedAt": "2026-02-11T15:17:16Z"
+                },
+                {
+                    "text": "give the equations 1 and 2 now multiply them hence you got 3^x.5^y=5^3.3^4 now we gey x=4 and y=3 so the x.y=12",
+                    "author": "@ashishtandekar1780",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T06:42:01Z"
+                },
+                {
+                    "text": "I can solve it much faster...",
+                    "author": "@RashidulSays",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T14:48:31Z"
+                },
+                {
+                    "text": "What i did is just multiply them and due to the fundamental theorem of arithmetic we can say that X= 4 and y = 3 thus xy = 12 \n\nIs this correct?",
+                    "author": "@arnavkar7040",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T17:15:22Z"
+                },
+                {
+                    "text": "It will\n3^x=5\u00b3\n3\u2074=5^y\nSee both eq are same so x=4 y=3",
+                    "author": "@animeart0208",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T07:44:58Z"
+                },
+                {
+                    "text": "I dunno What is y",
+                    "author": "@DevCalled",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T12:36:38Z"
+                },
+                {
+                    "text": "1st comment \ud83d\ude00\ud83c\udf89",
+                    "author": "@lygophillic34567",
+                    "likes": 2,
+                    "publishedAt": "2026-02-11T12:32:38Z"
+                },
+                {
+                    "text": "Bruh this was so simple that I got an existential crisis because I couldn't see this",
+                    "author": "@ThewolfsaSuS",
+                    "likes": 1,
+                    "publishedAt": "2026-02-11T15:21:26Z"
+                },
+                {
+                    "text": "3\u02e3=5\u00b3, 5\u02b8=3\u2074\r\nin the first equation, raise both sides to the 1/x power:\r\n(3\u02e3)\u00b9/\u02e3=(5\u00b3)\u00b9/\u02e3; 3=5\u00b3/\u02e3\r\nin the second equation, raise both sides to the 1/4 power:\r\n(5\u02b8)\u00b9/\u2074=(3\u2074)\u00b9/\u2074; 5\u02b8/\u2074=3.  \r\n5\u00b3/\u02e3=3\r\n5\u02b8/\u2074=3\r\nThus:\r\n5\u00b3/\u02e3=5\u02b8/\u2074\r\nThey have the same base, so the exponents are equal:\r\n3/x=y/4.  Cross multiply:\r\nxy=3\u22c54=12",
+                    "author": "@ricardoguzman5014",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T01:21:56Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260214_212038",
+            "commentCount": 25,
+            "comments": [
+                {
+                    "text": "I just swapped the 3 and 5: 3^4=81, 5^3=125. Surprised this actually worked...",
+                    "author": "@nicholasharvey1232",
+                    "likes": 4,
+                    "publishedAt": "2026-02-13T08:36:41Z"
+                },
+                {
+                    "text": "first, and ONLY time *EVER* that I've seen NO *\"SOOOOOO GOOOOOOOOOD !!\"* at the end !! :O\nWow...",
+                    "author": "@kurzackd",
+                    "likes": 4,
+                    "publishedAt": "2026-02-11T17:48:34Z"
+                },
+                {
+                    "text": "Solved by examination in less than 15 seconds",
+                    "author": "@seang.douglas4278",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T00:26:44Z"
+                },
+                {
+                    "text": "I speak spanish but I always try to understand how to solve it",
+                    "author": "@Tommrj08",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T16:42:33Z"
+                },
+                {
+                    "text": "absolute math",
+                    "author": "@lanoviadearana",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T12:36:46Z"
+                },
+                {
+                    "text": "isnt it basically what you are doing with the log method too? You just represent all that stuff with logs , imo both methods look same",
+                    "author": "@soozo2929",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T11:20:25Z"
+                },
+                {
+                    "text": "x=log\u2083(125)\ny=log\u2085(81)\nxy=log\u2083(125)log\u2085(81)\n=(ln(125)/ln(3))(ln(81)/ln(5))\n=(ln(125)ln(81))/(ln(3)ln(5))\n=(ln(5\u00b3)ln(3\u2074))/(ln(3)ln(5))\n=(3ln(5)4ln(3))/(ln(3)ln(5))\n= 3\u00d74\n= 12",
+                    "author": "@Azimsultan919",
+                    "likes": 7,
+                    "publishedAt": "2026-02-11T15:34:52Z"
+                },
+                {
+                    "text": "3^x=125=5^3\nOr 3=5^(3/x)\n\nNow 5^y=81=3^4\nOr 5^y={(5^(3/x))}4\nOr 5^y=5^(12/x)\nOr 5^xy=5^12\n==>>xy=12\n\nI did not use logarithm. I don't know how to use logarithm either\ud83d\ude05",
+                    "author": "@DisneyFan2011",
+                    "likes": 1,
+                    "publishedAt": "2026-02-11T15:39:20Z"
+                },
+                {
+                    "text": "Tf bro I thought I have to get x and y . I've been trying for so long\nEdit: yeah i should've looked at the thumbnail",
+                    "author": "@JEETarget2027-t2g",
+                    "likes": 4,
+                    "publishedAt": "2026-02-11T14:14:08Z"
+                },
+                {
+                    "text": "A positive integer m\u00b2 has the property that m\u00b2 is expressible in the form 4n\u00b2-5n+16, where n is an integer. Find the maximum value of |m-n|\n\nBro can you please solve this question for me\ud83d\ude05??",
+                    "author": "@DarshitPandey-x2f",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T16:41:37Z"
+                },
+                {
+                    "text": "3^X . 5^Y = 5^3 . 3^4 \nSo one solution is X=4 and Y=3 . So X.Y=12",
+                    "author": "@alemo25",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T12:51:41Z"
+                },
+                {
+                    "text": "5=3^4/y so 3^x= 5\u00b3 3^x=3^12/y now x=y/12 so xy =12",
+                    "author": "@saksham-ti1wp",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T05:34:03Z"
+                },
+                {
+                    "text": "Solved in 15 seconds\nAnswer : 12\nI have seen similar problems just swap the numbers\nMove 5 in place of 3 and 3 in place of 5\n3^x = 81\n5^y = 125\nX = 4\nY = 3\nXy = 12",
+                    "author": "@RazaArcX",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T16:18:08Z"
+                },
+                {
+                    "text": "I solved without trigonometry.\n3^x = 125\n5^y = 81.\nAdd both equations.\n3^x + 5^y = 125 + 81\n3^x + 5^y = 5\u00b3 + 3\u2074\nBy comparison, \nx = 4 ; y = 3.\nxy = 4 \u00d7 3 = 12. Simple",
+                    "author": "@Boyzzzgameryoutube0001",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T16:02:39Z"
+                },
+                {
+                    "text": "unique method:\nmultiply both eqn--->3^x*5^y=125*81\n                                  >3^x * 5^y =5^3 * 3^4\n                        so now,x=4 and y=3 therefore xy=12!",
+                    "author": "@soumyachakraborty-b6r",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T13:23:57Z"
+                },
+                {
+                    "text": "Form : log(base,num): log(3,125)*log(5,81)=z\nlog(3,5^3)*log(5,3^4)=z\n3log(3,5)*4log(5,3)=z\n12 log(3,5)*log(5,3)=z\n(Log(a,b)*log(b,a)=1 \nProof would be: b=a^log(a,b)\na=b^log(b,a)=(a^log(a,b))^log(b,a)=a^(log(a,b)log(b,a))==a=> log(a,b)log(b,a)=1\n\n\n12 log(3,5)*log(5,3)=z\n12=z",
+                    "author": "@louisvollert1420",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T18:13:51Z"
+                },
+                {
+                    "text": "7th comment",
+                    "author": "@prax3690",
+                    "likes": 2,
+                    "publishedAt": "2026-02-11T15:17:16Z"
+                },
+                {
+                    "text": "give the equations 1 and 2 now multiply them hence you got 3^x.5^y=5^3.3^4 now we gey x=4 and y=3 so the x.y=12",
+                    "author": "@ashishtandekar1780",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T06:42:01Z"
+                },
+                {
+                    "text": "I can solve it much faster...",
+                    "author": "@RashidulSays",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T14:48:31Z"
+                },
+                {
+                    "text": "What i did is just multiply them and due to the fundamental theorem of arithmetic we can say that X= 4 and y = 3 thus xy = 12 \n\nIs this correct?",
+                    "author": "@arnavkar7040",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T17:15:22Z"
+                },
+                {
+                    "text": "It will\n3^x=5\u00b3\n3\u2074=5^y\nSee both eq are same so x=4 y=3",
+                    "author": "@animeart0208",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T07:44:58Z"
+                },
+                {
+                    "text": "I dunno What is y",
+                    "author": "@DevCalled",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T12:36:38Z"
+                },
+                {
+                    "text": "1st comment \ud83d\ude00\ud83c\udf89",
+                    "author": "@lygophillic34567",
+                    "likes": 3,
+                    "publishedAt": "2026-02-11T12:32:38Z"
+                },
+                {
+                    "text": "Bruh this was so simple that I got an existential crisis because I couldn't see this",
+                    "author": "@ThewolfsaSuS",
+                    "likes": 1,
+                    "publishedAt": "2026-02-11T15:21:26Z"
+                },
+                {
+                    "text": "3\u02e3=5\u00b3, 5\u02b8=3\u2074\r\nin the first equation, raise both sides to the 1/x power:\r\n(3\u02e3)\u00b9/\u02e3=(5\u00b3)\u00b9/\u02e3; 3=5\u00b3/\u02e3\r\nin the second equation, raise both sides to the 1/4 power:\r\n(5\u02b8)\u00b9/\u2074=(3\u2074)\u00b9/\u2074; 5\u02b8/\u2074=3.  \r\n5\u00b3/\u02e3=3\r\n5\u02b8/\u2074=3\r\nThus:\r\n5\u00b3/\u02e3=5\u02b8/\u2074\r\nThey have the same base, so the exponents are equal:\r\n3/x=y/4.  Cross multiply:\r\nxy=3\u22c54=12",
+                    "author": "@ricardoguzman5014",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T01:21:56Z"
+                }
+            ]
         }
     ]
 }

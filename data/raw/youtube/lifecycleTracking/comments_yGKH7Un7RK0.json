@@ -1,0 +1,35 @@
+{
+    "videoId": "yGKH7Un7RK0",
+    "history": [
+        {
+            "fetchedAt": "20260217_182215",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@funnyvideo004-F",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T16:52:30Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260218_163816",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Funny",
+                    "author": "@mahipalporia5358",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T03:45:13Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@funnyvideo004-F",
+                    "likes": 3,
+                    "publishedAt": "2026-02-17T16:52:30Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "EIpOGr_5fmA",
+    "history": [
+        {
+            "fetchedAt": "20260214_041652",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260214_085030",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Trey t",
+                    "author": "@ayuarifin8469",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T07:42:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260216_191215",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Socn",
+                    "author": "@SriMulyati-q3c",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T07:00:23Z"
+                },
+                {
+                    "text": "Trey t",
+                    "author": "@ayuarifin8469",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T07:42:24Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "videoId": "PTImg38yYu8",
+    "history": [
+        {
+            "fetchedAt": "20260214_212221",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Ta de regulos",
+                    "author": "@Lumos_Ez",
+                    "likes": 1,
+                    "publishedAt": "2026-02-14T21:10:55Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260215_041010",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Collab da hora!",
+                    "author": "@FlorestalPvP",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T22:07:38Z"
+                },
+                {
+                    "text": "Ta de regulos",
+                    "author": "@Lumos_Ez",
+                    "likes": 1,
+                    "publishedAt": "2026-02-14T21:10:55Z"
+                }
+            ]
+        }
+    ]
+}

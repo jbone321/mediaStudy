@@ -1,0 +1,41 @@
+{
+    "videoId": "KFsJiUMhhLw",
+    "history": [
+        {
+            "fetchedAt": "20260215_220745",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "https://techie007.substack.com/",
+                    "author": "@Techie007",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T19:09:28Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260216_191330",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "https://techie007.substack.com/",
+                    "author": "@Techie007",
+                    "likes": 3,
+                    "publishedAt": "2026-02-15T19:09:28Z"
+                },
+                {
+                    "text": "Sir please make a video on Apache Cassandra for beginners \u2764",
+                    "author": "@SayantanMondal-sv6pn",
+                    "likes": 1,
+                    "publishedAt": "2026-02-16T04:30:20Z"
+                },
+                {
+                    "text": "Brother if it first saves the data in memory and then flushes to disk , then isnt there fear of data loss ?",
+                    "author": "@allmighty2000",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T18:21:40Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "videoId": "_YyRUpST68g",
+    "history": [
+        {
+            "fetchedAt": "20260215_041029",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260215_143539",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "BUT WHY STOP HERE!?!?!",
+                    "author": "@Ghost-l3e",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T09:59:06Z"
+                },
+                {
+                    "text": "What",
+                    "author": "@youtubepower1",
+                    "likes": 0,
+                    "publishedAt": "2026-02-15T04:12:37Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260216_191302",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "It says Chinese youtuber in the title but he says Japanese youtuber so which is the one??",
+                    "author": "@FudgingBunny",
+                    "likes": 1,
+                    "publishedAt": "2026-02-16T08:30:58Z"
+                },
+                {
+                    "text": "BUT WHY STOP HERE!?!?!",
+                    "author": "@Ghost-l3e",
+                    "likes": 3,
+                    "publishedAt": "2026-02-15T09:59:06Z"
+                },
+                {
+                    "text": "What",
+                    "author": "@youtubepower1",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T04:12:37Z"
+                }
+            ]
+        }
+    ]
+}

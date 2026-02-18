@@ -1,0 +1,34 @@
+{
+    "videoId": "Ll7mMwdgk4k",
+    "history": [
+        {
+            "fetchedAt": "20260216_191344",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260217_182150",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a",
+                    "author": "@SergioSilvaVasquez",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T00:24:20Z"
+                },
+                {
+                    "text": "\ud83d\ude22\ud83d\ude0a2+4=6\ud83d\ude0a",
+                    "author": "@SergioSilvaVasquez",
+                    "likes": 2,
+                    "publishedAt": "2026-02-17T00:24:17Z"
+                },
+                {
+                    "text": "2+4=6\ud83d\ude02",
+                    "author": "@\u041d\u0430\u0437\u0433\u0443\u043b\u0410\u043a\u0438\u043c\u0431\u0435\u043a\u043e\u0432\u0430",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T01:08:09Z"
+                }
+            ]
+        }
+    ]
+}

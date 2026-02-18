@@ -1,0 +1,40 @@
+{
+    "videoId": "rQl9DH9YMy4",
+    "history": [
+        {
+            "fetchedAt": "20260214_041643",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260214_085018",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Hi",
+                    "author": "@Shahazada_4772",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T07:43:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260214_212149",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Hi",
+                    "author": "@Shahazada_4772",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T07:43:20Z"
+                },
+                {
+                    "text": "Bhai Tum bas subscribers ko Puri puri raat bitha ke rakte ho , Ready , ready bol ke 8-10 gante zaya karte ho na tumhne price action master, kiya hai na hi Market structure or chutiype ka logic",
+                    "author": "@NoelDavid-y4o",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T15:42:47Z"
+                }
+            ]
+        }
+    ]
+}

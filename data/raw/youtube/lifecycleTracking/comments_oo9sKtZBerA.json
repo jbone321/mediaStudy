@@ -1,0 +1,35 @@
+{
+    "videoId": "oo9sKtZBerA",
+    "history": [
+        {
+            "fetchedAt": "20260217_182222",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@cherry_qvt",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T18:15:33Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260218_163825",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@cherry_qvt",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T18:15:33Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@vantuluong8309",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T04:34:59Z"
+                }
+            ]
+        }
+    ]
+}

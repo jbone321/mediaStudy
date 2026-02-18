@@ -1,0 +1,40 @@
+{
+    "videoId": "NqBQxsmBs5w",
+    "history": [
+        {
+            "fetchedAt": "20260215_143552",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260216_191316",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\ud83c\udf89\ud83c\udf89\u2764\ud83c\udf89\u2764\ud83c\udf89",
+                    "author": "@Villageviewsong02",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T03:05:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260217_182121",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\ud83c\udf89\ud83c\udf89\u2764\ud83c\udf89\u2764\ud83c\udf89",
+                    "author": "@Villageviewsong02",
+                    "likes": 2,
+                    "publishedAt": "2026-02-16T03:05:08Z"
+                },
+                {
+                    "text": "Nice",
+                    "author": "@playcartoys...7044",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T04:07:27Z"
+                }
+            ]
+        }
+    ]
+}

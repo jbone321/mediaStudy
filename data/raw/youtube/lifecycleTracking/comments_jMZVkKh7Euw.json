@@ -1,0 +1,28 @@
+{
+    "videoId": "jMZVkKh7Euw",
+    "history": [
+        {
+            "fetchedAt": "20260216_224700",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260218_163814",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Beautiful!",
+                    "author": "@jodiejdesigns",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T03:19:47Z"
+                },
+                {
+                    "text": "Simply lovely \ud83e\udd29",
+                    "author": "@shawnc4326",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T03:31:18Z"
+                }
+            ]
+        }
+    ]
+}

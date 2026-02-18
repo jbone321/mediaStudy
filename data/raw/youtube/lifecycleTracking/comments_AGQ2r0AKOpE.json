@@ -23,6 +23,96 @@
                     "publishedAt": "2026-02-13T11:07:00Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260214_041628",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "9 power root x + 9 Power root x = 162\n2 * 9 power root x = 162\n2 * 9 power root x/2 = 162/2\n9 power root x/2 = 81\n3 power 2 power root x = 3 power 4\n3 power 2*root x = 3 power 4\n2*root x = 4\nRoot x = 2\nx = 4",
+                    "author": "@khushleensingh5055",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T00:21:14Z"
+                },
+                {
+                    "text": "X=4",
+                    "author": "@vijayselvant1103",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T09:17:43Z"
+                },
+                {
+                    "text": "X=4",
+                    "author": "@dimascrego1278",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T11:07:00Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260215_143420",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "9 power root x + 9 Power root x = 162\n2 * 9 power root x = 162\n2 * 9 power root x/2 = 162/2\n9 power root x/2 = 81\n3 power 2 power root x = 3 power 4\n3 power 2*root x = 3 power 4\n2*root x = 4\nRoot x = 2\nx = 4",
+                    "author": "@khushleensingh5055",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T00:21:14Z"
+                },
+                {
+                    "text": "162",
+                    "author": "@JuhiBegum-q4m2b",
+                    "likes": 0,
+                    "publishedAt": "2026-02-15T14:03:34Z"
+                },
+                {
+                    "text": "X=4",
+                    "author": "@vijayselvant1103",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T09:17:43Z"
+                },
+                {
+                    "text": "X=4",
+                    "author": "@dimascrego1278",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T11:07:00Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260216_191141",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "9 power root x + 9 Power root x = 162\n2 * 9 power root x = 162\n2 * 9 power root x/2 = 162/2\n9 power root x/2 = 81\n3 power 2 power root x = 3 power 4\n3 power 2*root x = 3 power 4\n2*root x = 4\nRoot x = 2\nx = 4",
+                    "author": "@khushleensingh5055",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T00:21:14Z"
+                },
+                {
+                    "text": "162",
+                    "author": "@JuhiBegum-q4m2b",
+                    "likes": 0,
+                    "publishedAt": "2026-02-15T14:03:34Z"
+                },
+                {
+                    "text": "9^\u221ax=9^2\nx=4",
+                    "author": "@russelltaylor7415",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T16:04:31Z"
+                },
+                {
+                    "text": "X=4",
+                    "author": "@vijayselvant1103",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T09:17:43Z"
+                },
+                {
+                    "text": "X=4",
+                    "author": "@dimascrego1278",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T11:07:00Z"
+                }
+            ]
         }
     ]
 }

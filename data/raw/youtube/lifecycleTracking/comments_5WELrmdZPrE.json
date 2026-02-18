@@ -1,0 +1,40 @@
+{
+    "videoId": "5WELrmdZPrE",
+    "history": [
+        {
+            "fetchedAt": "20260214_212221",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260215_143518",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Whole game was shit, world at war is the goat",
+                    "author": "@loz336",
+                    "likes": 2,
+                    "publishedAt": "2026-02-15T12:29:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260216_191241",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "This is call of duty World War II isn\u2019t it?",
+                    "author": "@SirKingMalesadventure",
+                    "likes": 3,
+                    "publishedAt": "2026-02-16T05:43:17Z"
+                },
+                {
+                    "text": "Whole game was shit, world at war is the goat",
+                    "author": "@loz336",
+                    "likes": 4,
+                    "publishedAt": "2026-02-15T12:29:24Z"
+                }
+            ]
+        }
+    ]
+}

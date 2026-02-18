@@ -1,0 +1,64 @@
+{
+    "videoId": "hfMTdUn16oI",
+    "history": [
+        {
+            "fetchedAt": "20260215_220741",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260216_213959",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Oh good another song about double standards",
+                    "author": "@J-Mittens",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T20:13:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260217_182131",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Love the spunk and spice",
+                    "author": "@deedord",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T03:43:23Z"
+                },
+                {
+                    "text": "Oh good another song about double standards",
+                    "author": "@J-Mittens",
+                    "likes": 1,
+                    "publishedAt": "2026-02-16T20:13:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260218_163726",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "I LOVE THIS SONG!!!!\ud83c\udfa7 \ud83c\udfb5\ud83c\udfa4\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@itsbellagrace113",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T21:13:48Z"
+                },
+                {
+                    "text": "Love the spunk and spice",
+                    "author": "@deedord",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T03:43:23Z"
+                },
+                {
+                    "text": "Oh good another song about double standards",
+                    "author": "@J-Mittens",
+                    "likes": 4,
+                    "publishedAt": "2026-02-16T20:13:21Z"
+                }
+            ]
+        }
+    ]
+}

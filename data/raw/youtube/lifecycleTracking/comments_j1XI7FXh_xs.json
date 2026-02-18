@@ -1,0 +1,59 @@
+{
+    "videoId": "j1XI7FXh_xs",
+    "history": [
+        {
+            "fetchedAt": "20260214_212219",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u05e2\u05dd \u05d9\u05e9\u05e8\u05d0\u05dc \u05d7\u05d9!\ud83d\ude0a",
+                    "author": "@\u05e9\u05d9\u05e8\u05d4\u05e7\u05e8\u05d0\u05e4\u05d8-\u05e85\u05e7",
+                    "likes": 3,
+                    "publishedAt": "2026-02-14T20:48:41Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260215_143516",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "HOROSHO! \u05d4\u05db\u05dc \u05d8\u05d5\u05d1!",
+                    "author": "@MichaelBeigelman",
+                    "likes": 0,
+                    "publishedAt": "2026-02-15T14:26:30Z"
+                },
+                {
+                    "text": "\u05e2\u05dd \u05d9\u05e9\u05e8\u05d0\u05dc \u05d7\u05d9!\ud83d\ude0a",
+                    "author": "@\u05e9\u05d9\u05e8\u05d4\u05e7\u05e8\u05d0\u05e4\u05d8-\u05e85\u05e7",
+                    "likes": 4,
+                    "publishedAt": "2026-02-14T20:48:41Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260216_191239",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "I just love that song and also I love to see the young people having he best time praising HaShem\u2764",
+                    "author": "@Libby-Sameaj",
+                    "likes": 2,
+                    "publishedAt": "2026-02-15T23:43:04Z"
+                },
+                {
+                    "text": "\u05e2\u05dd \u05d9\u05e9\u05e8\u05d0\u05dc \u05d7\u05d9!\ud83d\ude0a",
+                    "author": "@\u05e9\u05d9\u05e8\u05d4\u05e7\u05e8\u05d0\u05e4\u05d8-\u05e85\u05e7",
+                    "likes": 4,
+                    "publishedAt": "2026-02-14T20:48:41Z"
+                },
+                {
+                    "text": "HOROSHO! \u05d4\u05db\u05dc \u05d8\u05d5\u05d1!",
+                    "author": "@MichaelBeigelman",
+                    "likes": 2,
+                    "publishedAt": "2026-02-15T14:26:30Z"
+                }
+            ]
+        }
+    ]
+}

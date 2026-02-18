@@ -1,0 +1,35 @@
+{
+    "videoId": "LPOFB0-_ONQ",
+    "history": [
+        {
+            "fetchedAt": "20260217_202040",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Horror month came early, Dan. \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Dravok",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T17:26:56Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260218_163847",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "amazing",
+                    "author": "@jasonnash4452",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T10:55:03Z"
+                },
+                {
+                    "text": "Horror month came early, Dan. \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Dravok",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T17:26:56Z"
+                }
+            ]
+        }
+    ]
+}

@@ -27,6 +27,24 @@
                     "publishedAt": "2026-02-12T07:17:20Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260215_220438",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Super pozdrawiam",
+                    "author": "@LilaPawlak-b9w",
+                    "likes": 3,
+                    "publishedAt": "2026-02-12T07:17:20Z"
+                },
+                {
+                    "text": "To s\u0105 pi\u0119kne piosenki nie to badziewie obecnie \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@marian_8557",
+                    "likes": 2,
+                    "publishedAt": "2026-02-15T15:09:25Z"
+                }
+            ]
         }
     ]
 }

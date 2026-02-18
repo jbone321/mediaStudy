@@ -1,0 +1,40 @@
+{
+    "videoId": "u7ksv89JNxY",
+    "history": [
+        {
+            "fetchedAt": "20260216_224656",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260217_182209",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "I watched this live on MTV",
+                    "author": "@williamzimmer4511",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T04:39:56Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260218_163810",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "I watched this live on MTV",
+                    "author": "@williamzimmer4511",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T04:39:56Z"
+                },
+                {
+                    "text": "Young Vince Neil looks like Lady Gaga",
+                    "author": "@carljacobson7156",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T04:25:01Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "AFHo91_cCRY",
+    "history": [
+        {
+            "fetchedAt": "20260214_212219",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260215_041009",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "no vatid\u0101o",
+                    "author": "@Vitoctoriaantono",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T23:54:25Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260215_143516",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "No batid\u00e3o",
+                    "author": "@LuelaneSilvaSouza",
+                    "likes": 0,
+                    "publishedAt": "2026-02-15T13:45:28Z"
+                },
+                {
+                    "text": "no vatid\u0101o",
+                    "author": "@Vitoctoriaantono",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T23:54:25Z"
+                }
+            ]
+        }
+    ]
+}

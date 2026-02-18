@@ -1,0 +1,22 @@
+{
+    "videoId": "0AuCd0Ppnj0",
+    "history": [
+        {
+            "fetchedAt": "20260217_190249",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260218_163823",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Why'd this randomly show up in my watch history?",
+                    "author": "@Ybshots",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T23:31:42Z"
+                }
+            ]
+        }
+    ]
+}

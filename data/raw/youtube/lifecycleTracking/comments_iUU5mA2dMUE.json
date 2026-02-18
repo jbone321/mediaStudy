@@ -1,0 +1,52 @@
+{
+    "videoId": "iUU5mA2dMUE",
+    "history": [
+        {
+            "fetchedAt": "20260215_220737",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260216_213954",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Name pls",
+                    "author": "@ajaomariam-c8z2b",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T19:56:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260217_182125",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Why do the \"uglies\" look better \ud83d\ude2d",
+                    "author": "@pastelpreppyplays",
+                    "likes": 2,
+                    "publishedAt": "2026-02-17T10:29:33Z"
+                },
+                {
+                    "text": "I bet this is what SK is like \ud83d\ude02 and yes Im from SEA.",
+                    "author": "@Mstro-bm5zw",
+                    "likes": 4,
+                    "publishedAt": "2026-02-17T01:56:46Z"
+                },
+                {
+                    "text": "Oh no way I watched this before",
+                    "author": "@JacobBriones-z4l",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T12:50:21Z"
+                },
+                {
+                    "text": "Name pls",
+                    "author": "@ajaomariam-c8z2b",
+                    "likes": 2,
+                    "publishedAt": "2026-02-16T19:56:13Z"
+                }
+            ]
+        }
+    ]
+}

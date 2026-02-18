@@ -1,0 +1,22 @@
+{
+    "videoId": "9opA4Su4OBc",
+    "history": [
+        {
+            "fetchedAt": "20260215_220737",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260216_191320",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Hils",
+                    "author": "@BenjaminPedrozo-j1r",
+                    "likes": 0,
+                    "publishedAt": "2026-02-15T23:40:14Z"
+                }
+            ]
+        }
+    ]
+}

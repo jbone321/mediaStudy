@@ -47,6 +47,36 @@
                     "publishedAt": "2026-02-12T23:02:25Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260214_041556",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Hilarious! Love George and Ringo!",
+                    "author": "@butchdugan",
+                    "likes": 1,
+                    "publishedAt": "2026-02-12T02:42:40Z"
+                },
+                {
+                    "text": "Wow, that's a real time-capsule.",
+                    "author": "@stuartwiner7920",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T01:35:31Z"
+                },
+                {
+                    "text": "Carrie was on another level of adorable, beautiful and downright cute as hell.  That smile of hers\u2026\u263a\ufe0f\n\ud83e\udd14\ud83e\udd17\ud83e\udd70\u2026and of course, there\u2019s George and Ringo.",
+                    "author": "@scottkronenberg",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T19:38:05Z"
+                },
+                {
+                    "text": "Is the full episode available?",
+                    "author": "@fords_nothere_100",
+                    "likes": 2,
+                    "publishedAt": "2026-02-12T23:02:25Z"
+                }
+            ]
         }
     ]
 }

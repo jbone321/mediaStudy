@@ -1,0 +1,28 @@
+{
+    "videoId": "zrqG0uwzGWg",
+    "history": [
+        {
+            "fetchedAt": "20260217_202036",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260218_163842",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Julia",
+                    "author": "@DaviAlves-f1p",
+                    "likes": 2,
+                    "publishedAt": "2026-02-17T22:26:25Z"
+                },
+                {
+                    "text": "Juro",
+                    "author": "@sinaraoliveira872",
+                    "likes": 2,
+                    "publishedAt": "2026-02-17T20:50:14Z"
+                }
+            ]
+        }
+    ]
+}

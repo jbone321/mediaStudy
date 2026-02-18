@@ -1,0 +1,35 @@
+{
+    "videoId": "5dvnETkwlFA",
+    "history": [
+        {
+            "fetchedAt": "20260215_220743",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Que buenas misiones",
+                    "author": "@Andr\u00e9s-u6t4w",
+                    "likes": 0,
+                    "publishedAt": "2026-02-15T21:23:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260216_191327",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Muy bien el pace",
+                    "author": "@CesarCampos-o3e",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T01:17:22Z"
+                },
+                {
+                    "text": "Que buenas misiones",
+                    "author": "@Andr\u00e9s-u6t4w",
+                    "likes": 0,
+                    "publishedAt": "2026-02-15T21:23:42Z"
+                }
+            ]
+        }
+    ]
+}

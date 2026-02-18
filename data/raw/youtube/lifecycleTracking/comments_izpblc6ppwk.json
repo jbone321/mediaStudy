@@ -1,0 +1,35 @@
+{
+    "videoId": "izpblc6ppwk",
+    "history": [
+        {
+            "fetchedAt": "20260217_202042",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Could you make a video about using Framer for client work specifically? Like contracts, handoff process, and teaching clients to use the CMS",
+                    "author": "@tinhlinh2846",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T16:21:21Z"
+                },
+                {
+                    "text": "You mentioned Google Analytics but what about privacy focused alternatives like Plausible or Fathom? Do those integrate easily or is it only GA4",
+                    "author": "@MiroAwny",
+                    "likes": 3,
+                    "publishedAt": "2026-02-17T16:20:03Z"
+                },
+                {
+                    "text": "At 14:32 you mentioned the component marketplace but didn't show it. Are these free components or is it like ThemeForest where everything costs extra",
+                    "author": "@BrendaBridgesTV",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T16:19:27Z"
+                },
+                {
+                    "text": "Stripe fees?",
+                    "author": "@zackpial9725",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T14:46:35Z"
+                }
+            ]
+        }
+    ]
+}

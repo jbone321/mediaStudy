@@ -5,6 +5,36 @@
             "fetchedAt": "20260213_210911",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260214_041644",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "fantastic\ud83c\udf89",
+                    "author": "@\ubc15\uc8fc\uc131-y1d",
+                    "likes": 1,
+                    "publishedAt": "2026-02-14T02:55:14Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260216_191202",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Bagus banget/super cool",
+                    "author": "@Mamas-32158",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T03:23:29Z"
+                },
+                {
+                    "text": "fantastic\ud83c\udf89",
+                    "author": "@\ubc15\uc8fc\uc131-y1d",
+                    "likes": 3,
+                    "publishedAt": "2026-02-14T02:55:14Z"
+                }
+            ]
         }
     ]
 }

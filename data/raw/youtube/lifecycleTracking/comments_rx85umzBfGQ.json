@@ -1,0 +1,71 @@
+{
+    "videoId": "rx85umzBfGQ",
+    "history": [
+        {
+            "fetchedAt": "20260217_202035",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "10",
+                    "author": "@AsserWesam-n7o",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T20:12:53Z"
+                },
+                {
+                    "text": "El hombre oh debuto",
+                    "author": "@leonardochura5969",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T19:35:23Z"
+                },
+                {
+                    "text": "C est pas encore rentre",
+                    "author": "@KankouHaidara-j5t",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T20:04:55Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260218_163842",
+            "commentCount": 6,
+            "comments": [
+                {
+                    "text": "El hombre oh debuto",
+                    "author": "@leonardochura5969",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T19:35:23Z"
+                },
+                {
+                    "text": "10",
+                    "author": "@AsserWesam-n7o",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T20:12:53Z"
+                },
+                {
+                    "text": "C est pas encore rentre",
+                    "author": "@KankouHaidara-j5t",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T20:04:55Z"
+                },
+                {
+                    "text": "50",
+                    "author": "@GretaSinka",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T19:59:00Z"
+                },
+                {
+                    "text": "40",
+                    "author": "@OmarbarucUribe",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T20:22:32Z"
+                },
+                {
+                    "text": "50",
+                    "author": "@Dulce-h8v",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T20:38:43Z"
+                }
+            ]
+        }
+    ]
+}

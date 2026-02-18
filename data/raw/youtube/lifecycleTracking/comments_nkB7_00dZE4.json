@@ -1,0 +1,34 @@
+{
+    "videoId": "nkB7_00dZE4",
+    "history": [
+        {
+            "fetchedAt": "20260215_143545",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260215_220727",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "OP \ud83d\ude02",
+                    "author": "@anshpatel3434",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T15:00:34Z"
+                },
+                {
+                    "text": "OP \u2763\ufe0f\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@gaming_zone12-z6m",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T14:59:40Z"
+                },
+                {
+                    "text": "Past comment please pin me \ud83e\udd18",
+                    "author": "@gaming_zone12-z6m",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T14:59:51Z"
+                }
+            ]
+        }
+    ]
+}

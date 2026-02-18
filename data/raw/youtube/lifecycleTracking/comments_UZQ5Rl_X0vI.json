@@ -1,0 +1,28 @@
+{
+    "videoId": "UZQ5Rl_X0vI",
+    "history": [
+        {
+            "fetchedAt": "20260217_182225",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260218_163829",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "36",
+                    "author": "@sintudas6866",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T09:57:13Z"
+                },
+                {
+                    "text": "36",
+                    "author": "@ThuNguyen-n7m7e",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T13:26:28Z"
+                }
+            ]
+        }
+    ]
+}

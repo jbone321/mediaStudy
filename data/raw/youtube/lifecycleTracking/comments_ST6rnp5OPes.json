@@ -1,0 +1,47 @@
+{
+    "videoId": "ST6rnp5OPes",
+    "history": [
+        {
+            "fetchedAt": "20260214_212222",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "How do you go to this custom game ?",
+                    "author": "@swarezirl9774",
+                    "likes": 2,
+                    "publishedAt": "2026-02-14T19:55:26Z"
+                },
+                {
+                    "text": "This is what I wanted in elden ring",
+                    "author": "@Khayboo",
+                    "likes": 2,
+                    "publishedAt": "2026-02-14T19:45:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260216_224537",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "This is what I wanted in elden ring",
+                    "author": "@Khayboo",
+                    "likes": 12,
+                    "publishedAt": "2026-02-14T19:45:40Z"
+                },
+                {
+                    "text": "First rule of the clobberin club is that we don\u2019t talk about the clobberin club",
+                    "author": "@chxmichanga",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T22:28:02Z"
+                },
+                {
+                    "text": "How do you go to this custom game ?",
+                    "author": "@swarezirl9774",
+                    "likes": 6,
+                    "publishedAt": "2026-02-14T19:55:26Z"
+                }
+            ]
+        }
+    ]
+}

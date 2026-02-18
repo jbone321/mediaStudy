@@ -1,0 +1,40 @@
+{
+    "videoId": "RG0BFcYti9k",
+    "history": [
+        {
+            "fetchedAt": "20260215_041029",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260216_191303",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Villageviewsong02",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T03:06:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260217_182107",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Villageviewsong02",
+                    "likes": 2,
+                    "publishedAt": "2026-02-16T03:06:20Z"
+                },
+                {
+                    "text": "Wow",
+                    "author": "@playcartoys...7044",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T04:11:41Z"
+                }
+            ]
+        }
+    ]
+}

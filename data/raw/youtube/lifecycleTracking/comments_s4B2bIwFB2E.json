@@ -1,0 +1,40 @@
+{
+    "videoId": "s4B2bIwFB2E",
+    "history": [
+        {
+            "fetchedAt": "20260215_143545",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260215_220727",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Borro pra caralho\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@HectorOliveira-q6l",
+                    "likes": 0,
+                    "publishedAt": "2026-02-15T19:14:04Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260217_182114",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02yo\ud83d\ude05\ud83d\ude05\ud83d\ude05ioo",
+                    "author": "@RosshelleFaustino",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T03:30:39Z"
+                },
+                {
+                    "text": "Borro pra caralho\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@HectorOliveira-q6l",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T19:14:04Z"
+                }
+            ]
+        }
+    ]
+}
