@@ -5,6 +5,18 @@
             "fetchedAt": "20260218_163908",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260220_080522",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "O",
+                    "author": "@BayarjargalBayarbat-z9p",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T04:36:57Z"
+                }
+            ]
         }
     ]
 }

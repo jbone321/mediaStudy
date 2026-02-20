@@ -17,6 +17,24 @@
                     "publishedAt": "2026-02-14T10:13:55Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080222",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude30\ud83d\ude28\ud83d\ude13\ud83d\ude25\ud83d\ude30\ud83d\ude28",
+                    "author": "@phamquocdoanh1764",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T10:13:55Z"
+                },
+                {
+                    "text": "^^",
+                    "author": "@hongthanh2584",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T03:25:57Z"
+                }
+            ]
         }
     ]
 }

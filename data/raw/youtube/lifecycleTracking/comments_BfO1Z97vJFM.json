@@ -1,0 +1,41 @@
+{
+    "videoId": "BfO1Z97vJFM",
+    "history": [
+        {
+            "fetchedAt": "20260218_234811",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "SUBSCRIBE AND USE CODE MYTHICAL1",
+                    "author": "@Mythical1_",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T20:37:31Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260220_080540",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "SUBSCRIBE AND USE CODE MYTHICAL1",
+                    "author": "@Mythical1_",
+                    "likes": 2,
+                    "publishedAt": "2026-02-18T20:37:31Z"
+                },
+                {
+                    "text": "los puggies for los quesoida",
+                    "author": "@DayronEmilianno",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T14:25:58Z"
+                },
+                {
+                    "text": "Only number 5 is true",
+                    "author": "@EvanSantos-yy5iz",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T03:01:57Z"
+                }
+            ]
+        }
+    ]
+}

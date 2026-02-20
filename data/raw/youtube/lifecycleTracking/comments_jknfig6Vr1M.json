@@ -12,6 +12,30 @@
                     "publishedAt": "2026-02-18T13:45:33Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080528",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "WOW\ud83c\udf89\ud83c\udf89 nice",
+                    "author": "@nurul.qaida1",
+                    "likes": 2,
+                    "publishedAt": "2026-02-18T13:45:33Z"
+                },
+                {
+                    "text": "\u2764 superb idea",
+                    "author": "@Ek_Fauji48",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T05:05:03Z"
+                },
+                {
+                    "text": "Shandaar",
+                    "author": "@dream4interior",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T05:12:05Z"
+                }
+            ]
         }
     ]
 }

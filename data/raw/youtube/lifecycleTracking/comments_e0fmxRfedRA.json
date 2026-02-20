@@ -5,6 +5,18 @@
             "fetchedAt": "20260217_190304",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260220_080456",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Un tip sencillo Pero que desconoc\u00eda... gracias",
+                    "author": "@edithbecerril8288",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T11:07:20Z"
+                }
+            ]
         }
     ]
 }

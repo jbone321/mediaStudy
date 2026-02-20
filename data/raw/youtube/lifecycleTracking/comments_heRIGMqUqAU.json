@@ -1,0 +1,59 @@
+{
+    "videoId": "heRIGMqUqAU",
+    "history": [
+        {
+            "fetchedAt": "20260218_234806",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2ew",
+                    "author": "@AltagraciaEvangelista-x7u",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T23:42:43Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764\u2764",
+                    "author": "@jacc8878",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T23:42:16Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764Se feliz",
+                    "author": "@GenesisMarquez-m9l",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T22:31:46Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260220_080535",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764Se feliz",
+                    "author": "@GenesisMarquez-m9l",
+                    "likes": 3,
+                    "publishedAt": "2026-02-18T22:31:46Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764\u2764",
+                    "author": "@jacc8878",
+                    "likes": 2,
+                    "publishedAt": "2026-02-18T23:42:16Z"
+                },
+                {
+                    "text": "\ud83d\ude2ew",
+                    "author": "@AltagraciaEvangelista-x7u",
+                    "likes": 2,
+                    "publishedAt": "2026-02-18T23:42:43Z"
+                },
+                {
+                    "text": "Sup",
+                    "author": "@JDChrisRon",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T12:19:17Z"
+                }
+            ]
+        }
+    ]
+}

@@ -33,7 +33,7 @@ class PipelineConfig:
 		self.sentiment = {
 			"enabled": True,
 			"sources": ["comments", "titles", "descriptions"],
-			"outputDir": "data/processed/sentiment"	
+			"outputDir": "data/processed/sentiment"
 		}
 
 	def validate(self) -> bool:
@@ -90,7 +90,7 @@ class MediaPipeline:
 
 		with open(trackingFile, "w", encoding="utf-8") as f:
 			json.dump(videoIds, f, indent=4)
-		print(f"Tracked video list updated,  now tracking {len(videoIds)} videos total")
+		print(f"Tracked video list updated,  now tracking {len(videoIds)} videos total")
 
 	def collectYoutubeData(self):
 		"""
@@ -138,12 +138,12 @@ class MediaPipeline:
 			allTrackedIds.extend(actuallyNew)
 			self.saveTrackedVideos(allTrackedIds)
 
+			for video in actuallyNew:
+				self.collector.getComments(video)
 		# Update stats
 		if allTrackedIds:
 			print(f"Pulling current stats for {len(allTrackedIds)} videos")
 			self.collector.getVideoStats(allTrackedIds)
-			for trackedId in allTrackedIds:
-				self.collector.getComments(trackedId)
 
 		print("YouTube data collection finished.\n")
 
@@ -201,11 +201,11 @@ class MediaPipeline:
 				# titles and descriptions are in baseline files
 				baselinesDir = os.path.join(self.config.youtube["baseDir"], "baselines")
 				if not os.path.exists(baselinesDir):
-					print(f"    No baselines folder found for {source}")
+					print(f"    No baselines folder found for {source}")
 					continue
 
 				baselineFiles = list(Path(baselinesDir).glob("*.json"))
-				print(f"    Found {len(baselineFiles)} baseline files")
+				print(f"    Found {len(baselineFiles)} baseline files")
 
 				for filePath in baselineFiles:
 					with open(filePath, "r", encoding="utf-8") as f:
@@ -219,7 +219,7 @@ class MediaPipeline:
 					score = self.analyzer.analyzeText(text)
 					allResults.append({
 						"videoId": videoId,
-						"source": source.rstrip("s"),  # "title" or "description"
+						"source": source.rstrip("s"),
 						"text": text,
 						"publishedAt": baseline.get("publishedAt"),
 						"sentiment": score,
@@ -242,7 +242,7 @@ class MediaPipeline:
 
 		print("Sentiment analysis finished.\n")
 
-	def run(self, runYoutube: bool = False, runSentiment: bool = False):
+	def run(self, runYoutube: bool = False, runSentiment: bool = False, updateComments: bool = False):
 		# runs the selected parts of the pipeline, will be all mostly but may need to check individual parts once we start adding
 		if not self.config.validate():
 			print("Pipeline stopped due to invalid configuration.")
@@ -253,17 +253,26 @@ class MediaPipeline:
 		if runYoutube:
 			self.collectYoutubeData()
 
+		if updateComments:
+			print("Running full comment update for all tracked videos.")
+			allTrackedIds = self.loadTrackedVideos()
+			if allTrackedIds:
+				for vid in allTrackedIds:
+					self.collector.getComments(vid)
+			else:
+				print("No tracked videos yet")
+
 		if runSentiment:
 			self.runSentimentAnalysis()
 
-		if not (runYoutube or runSentiment):
-			print("No tasks selected. Use --youtube, --sentiment or --all")
+		if not (runYoutube or runSentiment or updateComments):
+			print("No tasks selected. Use --youtube, --update-comments or --all")
+
 
 if __name__ == "__main__":
-	# sentiment always runs
 	parser = argparse.ArgumentParser(description="Media Attention Lifecycle Pipeline")
 	parser.add_argument("--youtube", action="store_true", help="Run YouTube collection")
-	# parser.add_arguemnet("--updateComments", action="store_true", help="Enrich videos that were collected before comments were working properly with that data")
+	parser.add_argument("--update-comments", action="store_true", help="Force full comment update for ALL tracked videos")
 	parser.add_argument("--all", action="store_true", help="Run everything, for multi-platform functionality")
 	args = parser.parse_args()
 
@@ -272,5 +281,6 @@ if __name__ == "__main__":
 
 	pipeline.run(
 		runYoutube=args.youtube or args.all,
-		runSentiment=True
+		runSentiment=True,
+		updateComments=args.update_comments or args.all
 	)

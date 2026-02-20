@@ -108,6 +108,54 @@
                     "publishedAt": "2026-02-15T14:28:49Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080323",
+            "commentCount": 7,
+            "comments": [
+                {
+                    "text": "itu game apa?",
+                    "author": "@MejikuHibiniiu",
+                    "likes": 3,
+                    "publishedAt": "2026-02-16T11:55:05Z"
+                },
+                {
+                    "text": "\u0410\u043b\u043c\u0430\u0442\u044b.  \u041a\u04e9\u043f\u0442\u0435\u0433\u0435\u043d \u2764\ud83d\ude22\ud83d\ude2e\ud83d\ude2e\ud83d\ude05\ud83d\ude05",
+                    "author": "@\u0410\u043c\u0438\u0440\u0445\u0430\u043d\u0422\u043b\u0435\u0443",
+                    "likes": 11,
+                    "publishedAt": "2026-02-15T15:47:39Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@\u0424\u0435\u0440\u0443\u0437\u0430\u0421\u0443\u043b\u0442\u043e\u043d\u0438\u0432\u0430",
+                    "likes": 1,
+                    "publishedAt": "2026-02-16T11:05:38Z"
+                },
+                {
+                    "text": "\ud83d\ude22",
+                    "author": "@T\u1ea5nV\u0129Hu\u1ef3nh-d2d",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T04:05:17Z"
+                },
+                {
+                    "text": "\u0410\u04a3\u043f\u0456",
+                    "author": "@\u0415\u0440\u043a\u0435\u0431\u0443\u043b\u0430\u043d\u041c\u0443\u0445\u0430\u0442\u043e\u0432-\u043c6\u0439",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T13:50:35Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                    "author": "@mirisworld-ww5fi",
+                    "likes": 6,
+                    "publishedAt": "2026-02-16T07:56:14Z"
+                },
+                {
+                    "text": "\ud83d\ude0a",
+                    "author": "@DarrellWashington-ml7vr",
+                    "likes": 8,
+                    "publishedAt": "2026-02-15T14:28:49Z"
+                }
+            ]
         }
     ]
 }

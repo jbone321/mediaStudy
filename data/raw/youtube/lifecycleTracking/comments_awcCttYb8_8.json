@@ -12,6 +12,24 @@
                     "publishedAt": "2026-02-13T03:00:47Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080138",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Hello sir",
+                    "author": "@SufiyaNaaz-q2u",
+                    "likes": 1,
+                    "publishedAt": "2026-02-13T03:00:47Z"
+                },
+                {
+                    "text": "Aap kha se hai",
+                    "author": "@drveerendrasinghposwal8220",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T07:45:52Z"
+                }
+            ]
         }
     ]
 }

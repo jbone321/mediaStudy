@@ -30,6 +30,30 @@
                     "publishedAt": "2026-02-16T20:35:10Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260218_234630",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Me encanta el barsa",
+                    "author": "@CarlaPlanas-gd5sj",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T07:19:21Z"
+                },
+                {
+                    "text": "En la tienda del madrid?",
+                    "author": "@Brunodijksman",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T18:41:02Z"
+                },
+                {
+                    "text": "\ud83d\ude0aMe saludas \u2764 plis \ud83d\ude0a\u2764",
+                    "author": "@claudiagonzalez9045",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T20:35:10Z"
+                }
+            ]
         }
     ]
 }

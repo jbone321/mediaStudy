@@ -5,6 +5,30 @@
             "fetchedAt": "20260218_163904",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260220_080518",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Directo para ti",
+                    "author": "@MireyaGarces-d3n",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T21:49:16Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@elenapopione5726",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T22:17:47Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@JuliaPozo-hw7sc",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T00:32:41Z"
+                }
+            ]
         }
     ]
 }

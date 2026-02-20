@@ -1,0 +1,22 @@
+{
+    "videoId": "kdY6U4hYjN4",
+    "history": [
+        {
+            "fetchedAt": "20260218_234802",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260220_080532",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "P",
+                    "author": "@Fabi-g8o1d",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T06:39:56Z"
+                }
+            ]
+        }
+    ]
+}

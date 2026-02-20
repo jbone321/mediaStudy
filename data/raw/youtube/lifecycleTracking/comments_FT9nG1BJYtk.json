@@ -5,6 +5,18 @@
             "fetchedAt": "20260216_224658",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260218_234647",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Hajrate bilal",
+                    "author": "@HelloHello-r6w",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T22:28:04Z"
+                }
+            ]
         }
     ]
 }

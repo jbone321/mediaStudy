@@ -35,6 +35,18 @@
                     "publishedAt": "2026-02-14T23:54:25Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080249",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "No batid\u00e3o",
+                    "author": "@LuelaneSilvaSouza",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T13:45:28Z"
+                }
+            ]
         }
     ]
 }

@@ -5,6 +5,18 @@
             "fetchedAt": "20260218_163906",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260220_080520",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Hi\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@maristellaoliveira5347",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T16:44:43Z"
+                }
+            ]
         }
     ]
 }

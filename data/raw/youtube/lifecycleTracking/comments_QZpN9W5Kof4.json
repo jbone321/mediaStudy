@@ -17,6 +17,36 @@
                     "publishedAt": "2026-02-17T00:24:04Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080330",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Har har mahadev",
+                    "author": "@MuskanATusharA",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T13:28:47Z"
+                },
+                {
+                    "text": "Bholenath",
+                    "author": "@MuskanATusharA",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T13:28:58Z"
+                },
+                {
+                    "text": "\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+                    "author": "@MuskanATusharA",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T13:29:10Z"
+                },
+                {
+                    "text": "Har har Mahadev \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+                    "author": "@ShanuDawas",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T00:24:04Z"
+                }
+            ]
         }
     ]
 }

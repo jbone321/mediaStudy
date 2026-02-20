@@ -30,6 +30,66 @@
                     "publishedAt": "2026-02-17T14:46:35Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080504",
+            "commentCount": 9,
+            "comments": [
+                {
+                    "text": "\u2705 (update: I just found out that Base44 is better) FREE Masterclass: Build Apps, SaaS & Websites with AI https://mikeyno-code.com/Skool-base44\n\u2705 Build Website with Framer https://framer.link/mikey-no-code",
+                    "author": "@Mikeywebsite",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T15:00:36Z"
+                },
+                {
+                    "text": "Could you make a video about using Framer for client work specifically? Like contracts, handoff process, and teaching clients to use the CMS",
+                    "author": "@tinhlinh2846",
+                    "likes": 3,
+                    "publishedAt": "2026-02-17T16:21:21Z"
+                },
+                {
+                    "text": "You mentioned Google Analytics but what about privacy focused alternatives like Plausible or Fathom? Do those integrate easily or is it only GA4",
+                    "author": "@MiroAwny",
+                    "likes": 5,
+                    "publishedAt": "2026-02-17T16:20:03Z"
+                },
+                {
+                    "text": "At 14:32 you mentioned the component marketplace but didn't show it. Are these free components or is it like ThemeForest where everything costs extra",
+                    "author": "@BrendaBridgesTV",
+                    "likes": 3,
+                    "publishedAt": "2026-02-17T16:19:27Z"
+                },
+                {
+                    "text": "Good video, but do you have to keep zooming in and out? It's driving me crazy!",
+                    "author": "@nathanlsandland",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T04:52:36Z"
+                },
+                {
+                    "text": "does it come with CMS? can I control blog post, projects, product details? thank",
+                    "author": "@NamNguyenVinh",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T14:55:33Z"
+                },
+                {
+                    "text": "How would this work for a podcast site with an embedded player and episode archive? Does Framer have audio player components or do you em",
+                    "author": "@Abimanthejan",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T01:30:36Z"
+                },
+                {
+                    "text": "Stripe fees?",
+                    "author": "@zackpial9725",
+                    "likes": 2,
+                    "publishedAt": "2026-02-17T14:46:35Z"
+                },
+                {
+                    "text": "I'm a freelancer and I bill hourly. Does Framer track time spent on projects or do I need to use a separate tool for client billing",
+                    "author": "@aktara62828",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T03:27:24Z"
+                }
+            ]
         }
     ]
 }

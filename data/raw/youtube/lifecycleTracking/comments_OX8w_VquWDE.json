@@ -30,6 +30,30 @@
                     "publishedAt": "2026-02-17T21:32:29Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080507",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\udc9a \ud83d\udc9a \ud83d\udc9a",
+                    "author": "@bjarla",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T05:29:24Z"
+                },
+                {
+                    "text": "\u0428\u0438\u043a\u0430\u0440\u043d\u044b\u0439 \u0433\u043e\u043b\u043e\u0441 \u2764",
+                    "author": "@Lord_Slog",
+                    "likes": 3,
+                    "publishedAt": "2026-02-17T20:23:56Z"
+                },
+                {
+                    "text": "\u0422\u0430\u0440\u044c\u044e \u043d\u0435 \u043f\u0435\u0440\u0435\u043f\u043b\u044e\u043d\u0443\u0442\u044c",
+                    "author": "@klide555",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T20:28:42Z"
+                }
+            ]
         }
     ]
 }

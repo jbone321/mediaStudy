@@ -5,6 +5,18 @@
             "fetchedAt": "20260217_202042",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260220_080504",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Ale \u0142adne",
+                    "author": "@BartlomiejKubas-b2x",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T15:57:33Z"
+                }
+            ]
         }
     ]
 }

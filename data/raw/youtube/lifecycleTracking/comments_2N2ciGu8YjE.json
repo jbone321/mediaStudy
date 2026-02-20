@@ -5,6 +5,18 @@
             "fetchedAt": "20260216_191345",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260220_080402",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "How could you not include the moments before the hug \ud83d\ude22",
+                    "author": "@lynchGore",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T03:31:25Z"
+                }
+            ]
         }
     ]
 }

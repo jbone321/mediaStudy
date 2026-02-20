@@ -132,6 +132,42 @@
                     "publishedAt": "2026-02-17T20:50:08Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260218_234459",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "\u2764\ud83d\ude02\ud83d\ude02\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764",
+                    "author": "@Fatoumatad\u00e9mb\u00e9l\u00e9-v4q",
+                    "likes": 5,
+                    "publishedAt": "2026-02-15T00:33:32Z"
+                },
+                {
+                    "text": "Chips \ud83e\udd22\ud83d\ude05\ud83d\ude02\ud83d\ude02",
+                    "author": "@Polat_Keldiyorov",
+                    "likes": 6,
+                    "publishedAt": "2026-02-14T16:53:58Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@RobinCastro-e6o",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T23:47:50Z"
+                },
+                {
+                    "text": "Nice \ud83d\ude0a",
+                    "author": "@PRIYA-GAMING-v",
+                    "likes": 2,
+                    "publishedAt": "2026-02-15T04:50:27Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@GraceGabriel-w5i",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T20:50:08Z"
+                }
+            ]
         }
     ]
 }

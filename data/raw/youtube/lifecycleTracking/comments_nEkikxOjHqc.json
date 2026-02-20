@@ -1,0 +1,35 @@
+{
+    "videoId": "nEkikxOjHqc",
+    "history": [
+        {
+            "fetchedAt": "20260218_234810",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\"Lt. tell then what we're all about.\"",
+                    "author": "@TocaGaming-r4y",
+                    "likes": 2,
+                    "publishedAt": "2026-02-18T21:46:49Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260220_080539",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\"Lt. tell then what we're all about.\"",
+                    "author": "@TocaGaming-r4y",
+                    "likes": 11,
+                    "publishedAt": "2026-02-18T21:46:49Z"
+                },
+                {
+                    "text": "\u041e,\u0440\u0443\u043a\u0438 \u0434\u043e\u0431\u0440\u0430\u043b\u0438\u0441\u044c)))",
+                    "author": "@PayneBasket",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T07:24:23Z"
+                }
+            ]
+        }
+    ]
+}

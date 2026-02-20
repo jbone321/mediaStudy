@@ -17,6 +17,24 @@
                     "publishedAt": "2026-02-14T10:55:37Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080232",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@AmnaMajeed-c1s",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T10:21:40Z"
+                },
+                {
+                    "text": "90ook",
+                    "author": "@IrumZahra-er1dt",
+                    "likes": 1,
+                    "publishedAt": "2026-02-14T10:55:37Z"
+                }
+            ]
         }
     ]
 }

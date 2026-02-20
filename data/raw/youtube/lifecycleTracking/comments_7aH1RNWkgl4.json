@@ -12,6 +12,30 @@
                     "publishedAt": "2026-02-18T15:35:21Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080515",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "TV in",
+                    "author": "@RENAMANISETHI",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T08:39:50Z"
+                },
+                {
+                    "text": "\u00d6l\u00fcm",
+                    "author": "@FerdiAslan-n8y2o",
+                    "likes": 8,
+                    "publishedAt": "2026-02-18T15:35:21Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@A66lljj",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T14:38:40Z"
+                }
+            ]
         }
     ]
 }

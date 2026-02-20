@@ -36,6 +36,30 @@
                     "publishedAt": "2026-02-11T19:48:26Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080032",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Hay gente estupida",
+                    "author": "@tomasjuanmagarcialopez5125",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T12:32:49Z"
+                },
+                {
+                    "text": "Primera me saludas plis",
+                    "author": "@JulietaRamos-m3g",
+                    "likes": 0,
+                    "publishedAt": "2026-02-11T19:32:14Z"
+                },
+                {
+                    "text": "Ami me regalas algo\ud83d\ude22",
+                    "author": "@ariadnaroldan-z2b",
+                    "likes": 1,
+                    "publishedAt": "2026-02-11T19:48:26Z"
+                }
+            ]
         }
     ]
 }

@@ -12,6 +12,30 @@
                     "publishedAt": "2026-02-18T02:50:45Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260218_234734",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "essa \u00e9 braba mr sem cao mn namoral boa dem",
+                    "author": "@johnesantos3347",
+                    "likes": 3,
+                    "publishedAt": "2026-02-18T02:50:45Z"
+                },
+                {
+                    "text": "GT5",
+                    "author": "@chuysita-v1z",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T16:57:52Z"
+                },
+                {
+                    "text": "GT5",
+                    "author": "@chuysita-v1z",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T16:58:44Z"
+                }
+            ]
         }
     ]
 }

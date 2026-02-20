@@ -66,6 +66,54 @@
                     "publishedAt": "2026-02-17T20:38:43Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080456",
+            "commentCount": 7,
+            "comments": [
+                {
+                    "text": "El hombre oh debuto",
+                    "author": "@leonardochura5969",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T19:35:23Z"
+                },
+                {
+                    "text": "C est pas encore rentre",
+                    "author": "@KankouHaidara-j5t",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T20:04:55Z"
+                },
+                {
+                    "text": "10",
+                    "author": "@AsserWesam-n7o",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T20:12:53Z"
+                },
+                {
+                    "text": "50",
+                    "author": "@GretaSinka",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T19:59:00Z"
+                },
+                {
+                    "text": "11+44-5=50",
+                    "author": "@\u0414\u0430\u0443\u0440\u0430\u043d\u0414\u0430\u0443\u043b\u0435\u0442\u0431\u0430\u0435\u0432-\u04323\u044a",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T07:29:15Z"
+                },
+                {
+                    "text": "40",
+                    "author": "@OmarbarucUribe",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T20:22:32Z"
+                },
+                {
+                    "text": "50",
+                    "author": "@Dulce-h8v",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T20:38:43Z"
+                }
+            ]
         }
     ]
 }

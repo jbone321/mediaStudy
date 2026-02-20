@@ -5,6 +5,60 @@
             "fetchedAt": "20260218_163900",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260220_080514",
+            "commentCount": 8,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Keishakeefandra",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T07:42:43Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@usupsupiadi-v8n",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T02:36:26Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@DoniAzka-o3u",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T15:30:06Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Keishakeefandra",
+                    "likes": 2,
+                    "publishedAt": "2026-02-19T07:42:53Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Keishakeefandra",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T07:43:23Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Keishakeefandra",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T07:44:16Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Keishakeefandra",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T07:44:38Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Keishakeefandra",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T07:45:48Z"
+                }
+            ]
         }
     ]
 }

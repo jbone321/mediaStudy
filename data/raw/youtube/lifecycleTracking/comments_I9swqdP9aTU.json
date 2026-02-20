@@ -1,0 +1,35 @@
+{
+    "videoId": "I9swqdP9aTU",
+    "history": [
+        {
+            "fetchedAt": "20260219_172744",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Claradichelaputri",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T16:51:07Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260220_080626",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Claradichelaputri",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T16:51:07Z"
+                },
+                {
+                    "text": "thxs for the tutorials \u2764\ud83c\udf89",
+                    "author": "@Sarah-Delgado3rd",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T18:03:51Z"
+                }
+            ]
+        }
+    ]
+}

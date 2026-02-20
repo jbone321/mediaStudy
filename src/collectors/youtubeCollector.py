@@ -45,7 +45,7 @@ class YoutubeCollector:
 			print(f"Error fetching categories: {e}")
 			return {}
 
-	def searchVideos(self, query="", categoryId=None, maxResults=50, order="relevance", regionCode="US"):
+	def searchVideos(self, query="", categoryId=None, maxResults=30, order="relevance", regionCode="US"):
 		"""
 		Category searches videos with an optional keyword filter
 		order = date is preferred for our research to try and pull newer videos initially
@@ -143,7 +143,7 @@ class YoutubeCollector:
 			"duration": video.get("duration"),
 			"channelTitle": video.get("channelTitle"),
 			"channelId": video.get("channelId"),
-			"firstSeen": datetime.utcnow().isoformat() + "Z"
+			"firstSeen": datetime.utcnow().isoformat() + "Z",
 			"categoryId": categoryId
 		}
 

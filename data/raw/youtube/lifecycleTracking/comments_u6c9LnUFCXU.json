@@ -1,0 +1,22 @@
+{
+    "videoId": "u6c9LnUFCXU",
+    "history": [
+        {
+            "fetchedAt": "20260218_234805",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260220_080535",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "I love olivia Rodrigo",
+                    "author": "@Robinbuckley-6",
+                    "likes": 2,
+                    "publishedAt": "2026-02-18T23:51:12Z"
+                }
+            ]
+        }
+    ]
+}

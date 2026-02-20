@@ -12,6 +12,30 @@
                     "publishedAt": "2026-02-13T03:29:29Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260220_080135",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@ffGamer75-jr",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T00:11:33Z"
+                },
+                {
+                    "text": "\u09b8\u09be\u09ab\u09be\u0988\u09a6s\u09ce",
+                    "author": "@Mh.SumayaKhn",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T02:27:54Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@SkShahin-gn1xv",
+                    "likes": 0,
+                    "publishedAt": "2026-02-13T03:29:29Z"
+                }
+            ]
         }
     ]
 }
