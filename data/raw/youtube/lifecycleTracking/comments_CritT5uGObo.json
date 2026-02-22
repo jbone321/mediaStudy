@@ -5,6 +5,18 @@
             "fetchedAt": "20260218_163903",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260222_080512",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@\u0930\u0941\u092c\u0940\u092a\u091f\u0947\u0932-\u09187\u092e",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T14:33:30Z"
+                }
+            ]
         }
     ]
 }

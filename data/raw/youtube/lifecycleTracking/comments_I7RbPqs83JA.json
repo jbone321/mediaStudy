@@ -5,6 +5,18 @@
             "fetchedAt": "20260220_080605",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260221_080542",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4d\ud83d\udc4d\u270c\ufe0f\u270c\ufe0f\u270c\ufe0f\ud83d\udc4d\ud83d\udc4f\ud83d\udc4f",
+                    "author": "@ORAONCHHONDACREATER",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T18:42:12Z"
+                }
+            ]
         }
     ]
 }

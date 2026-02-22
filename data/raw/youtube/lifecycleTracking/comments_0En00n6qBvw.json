@@ -23,6 +23,30 @@
                     "publishedAt": "2026-02-14T13:40:49Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260222_080236",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Pku",
+                    "author": "@manmuatare9117",
+                    "likes": 9,
+                    "publishedAt": "2026-02-14T13:40:49Z"
+                },
+                {
+                    "text": "\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647 \u0623\u0637\u0641\u0627\u0644",
+                    "author": "@yousfimiloud4347",
+                    "likes": 2,
+                    "publishedAt": "2026-02-21T11:26:58Z"
+                },
+                {
+                    "text": "WOW\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430\u041c\u043e\u0442\u0430\u0435\u0432\u0430",
+                    "likes": 7,
+                    "publishedAt": "2026-02-14T19:25:16Z"
+                }
+            ]
         }
     ]
 }

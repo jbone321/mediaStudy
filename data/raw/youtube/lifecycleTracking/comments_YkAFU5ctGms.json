@@ -5,6 +5,24 @@
             "fetchedAt": "20260220_080559",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260221_080536",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "I just found out guys' lips are like that\ud83d\ude2d",
+                    "author": "@Author_Rinz-XD",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T12:32:53Z"
+                },
+                {
+                    "text": "I will never draw my mouth...\ud83d\ude02",
+                    "author": "@\u99a8\u5440",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T16:19:20Z"
+                }
+            ]
         }
     ]
 }

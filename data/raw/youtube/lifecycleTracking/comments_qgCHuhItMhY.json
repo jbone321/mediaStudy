@@ -18,6 +18,30 @@
                     "publishedAt": "2026-02-17T19:39:48Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260222_080507",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Living healthy aint cheap",
+                    "author": "@WestDre.26",
+                    "likes": 2,
+                    "publishedAt": "2026-02-17T19:39:48Z"
+                },
+                {
+                    "text": "What is HBS power? Where can I purchase \ud83e\udd14",
+                    "author": "@berthasturdivant7932",
+                    "likes": 1,
+                    "publishedAt": "2026-02-18T00:23:56Z"
+                },
+                {
+                    "text": "thank u",
+                    "author": "@karen-h4d8x",
+                    "likes": 0,
+                    "publishedAt": "2026-02-22T00:53:57Z"
+                }
+            ]
         }
     ]
 }

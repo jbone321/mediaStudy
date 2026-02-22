@@ -17,6 +17,24 @@
                     "publishedAt": "2026-02-19T01:00:01Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260221_080451",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Look",
+                    "author": "@Shtyam-v2i",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T01:00:01Z"
+                },
+                {
+                    "text": "What",
+                    "author": "@AliciaChoque-ye4mg",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T02:43:09Z"
+                }
+            ]
         }
     ]
 }

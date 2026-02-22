@@ -12,6 +12,30 @@
                     "publishedAt": "2026-02-19T12:09:09Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260221_080544",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Poor yin \ud83d\ude22",
+                    "author": "@AtoniKai",
+                    "likes": 3,
+                    "publishedAt": "2026-02-19T12:09:09Z"
+                },
+                {
+                    "text": "Are you northeastern player?\ud83d\ude05",
+                    "author": "@WhoYouFoolin7",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T19:40:40Z"
+                },
+                {
+                    "text": "Epical glory rank?",
+                    "author": "@ItoshiGaming-g9u",
+                    "likes": 1,
+                    "publishedAt": "2026-02-21T01:55:23Z"
+                }
+            ]
         }
     ]
 }

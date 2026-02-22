@@ -12,6 +12,36 @@
                     "publishedAt": "2026-02-19T01:27:24Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260222_080544",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude05",
+                    "author": "@Jegarevathy",
+                    "likes": 6,
+                    "publishedAt": "2026-02-19T01:27:24Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+                    "author": "@diles4089",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T16:45:04Z"
+                },
+                {
+                    "text": "\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05",
+                    "author": "@KarpagamSivakumar-qy2qv",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T14:10:03Z"
+                },
+                {
+                    "text": "500 vana 5000000 vanum",
+                    "author": "@Karthikeyan27.03.1",
+                    "likes": 0,
+                    "publishedAt": "2026-02-22T03:28:34Z"
+                }
+            ]
         }
     ]
 }

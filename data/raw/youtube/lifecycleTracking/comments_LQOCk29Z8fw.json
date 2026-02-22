@@ -210,6 +210,90 @@
                     "publishedAt": "2026-02-14T12:45:51Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260221_080224",
+            "commentCount": 13,
+            "comments": [
+                {
+                    "text": "Worms eye camera shots are always a good choice for showing how big & tall structures are",
+                    "author": "@DragonActual",
+                    "likes": 4,
+                    "publishedAt": "2026-02-14T02:59:30Z"
+                },
+                {
+                    "text": "another banger from the GOAT \ud83d\ude4flove it",
+                    "author": "@morguelife08",
+                    "likes": 2,
+                    "publishedAt": "2026-02-14T05:03:22Z"
+                },
+                {
+                    "text": "goated post as always",
+                    "author": "@codygg.",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T03:05:45Z"
+                },
+                {
+                    "text": "Pretty useful ngl",
+                    "author": "@purpletango_mangle",
+                    "likes": 1,
+                    "publishedAt": "2026-02-14T02:55:53Z"
+                },
+                {
+                    "text": "Always happy to watch",
+                    "author": "@definitelynotzeddd",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T03:31:04Z"
+                },
+                {
+                    "text": "I am only 05:59 into the video, so maybe Max addresses this later on, but there are a few things you should keep mind of while messing around with the camera settings. You can set compositional guides under the tab Viewport display for things like the golden ratio as well as the rule of thirds. Under your Blender Preferences, you can change that overlay from black into something more use able like white. Also when you're selecting your focal length, keep in mind what your sensor size is. By default I believe Blender uses a full frame sensor, at 36 mm. You can try different sensors like a RED camera or even a 6x9 medium format sensor. In the real world, your sensor size is supposed to reflect how much light enters the image and your depth of field. When I work in blender, i try to use what I have learned in photography to mimic its feel. Like, realistically not everyone can afford an f1.2 aperture lens. However, your regular f3.5 lens, when you put it on a medium format camera is going to be a lot more zoomed in and also have a shallower depth of field than what you're used to. \nThere are other lessons from photography that you can use too. Like don't be afraid of trying different angles as long as you can think of how you would get there. Like if you want to shoot from above, don't just pretend that its a drone shot, maybe show a surface the camera and the photographer was standing on. \nWhen you're trying to take a photograph from the ground level, think of how you would approach photographing the subject from the ground level. If you know your height in meters. just deduct 15cm from it to get the ideal height your eye would be looking through the view finder and set that to the Z height of the camera location. Alternatively, set the angle you would rotate your camera to one of the following degrees, 0, 30, 45, 60, 90, 120 - Usually when you're shooting with a camera in real life, these are the tilt angles you would mostly use.",
+                    "author": "@blueabelwilson",
+                    "likes": 4,
+                    "publishedAt": "2026-02-14T04:45:24Z"
+                },
+                {
+                    "text": "Excellent info",
+                    "author": "@lastsonofktn",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T03:40:33Z"
+                },
+                {
+                    "text": "first, thanks Max for sharing",
+                    "author": "@garyromero924",
+                    "likes": 1,
+                    "publishedAt": "2026-02-14T02:48:19Z"
+                },
+                {
+                    "text": "what is your rendering settings for cycles and evee?",
+                    "author": "@Gartist45",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T18:14:26Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@\ud3ed\ud0c4\uba38\ub9ac-k7p",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T06:28:20Z"
+                },
+                {
+                    "text": "O God... Amazing work... Can you uploadthe project file for free on your website? You always surprise us, bro. \ud83d\udd25 \ud83d\udd25",
+                    "author": "@monivisualpro",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T13:41:00Z"
+                },
+                {
+                    "text": "how did you create the environment? high poly models or they're optimised?",
+                    "author": "@artandmusic519",
+                    "likes": 0,
+                    "publishedAt": "2026-02-14T12:45:51Z"
+                },
+                {
+                    "text": "Can I do this on Mac",
+                    "author": "@EmanuelOrtiz-e4k",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T00:18:15Z"
+                }
+            ]
         }
     ]
 }

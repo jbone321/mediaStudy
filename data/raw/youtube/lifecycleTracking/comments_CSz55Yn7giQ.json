@@ -5,6 +5,18 @@
             "fetchedAt": "20260220_080614",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260221_080551",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Bom dia aben\u00e7oado, parab\u00e9ns pelo trabalho",
+                    "author": "@LuizCavalcante-ls9ec",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T12:01:34Z"
+                }
+            ]
         }
     ]
 }

@@ -5,6 +5,18 @@
             "fetchedAt": "20260220_080615",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260221_080552",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Terimakasih bnyk pak",
+                    "author": "@PatrisLengmani07",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T08:24:17Z"
+                }
+            ]
         }
     ]
 }

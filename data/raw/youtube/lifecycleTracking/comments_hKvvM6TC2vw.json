@@ -36,6 +36,72 @@
                     "publishedAt": "2026-02-18T20:53:03Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260221_080508",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Zx?",
+                    "author": "@SamantaRosaGomes",
+                    "likes": 5,
+                    "publishedAt": "2026-02-19T17:16:45Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@janainabaeta6690",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T16:10:56Z"
+                },
+                {
+                    "text": "\ud83d\ude22\u2764\ud83d\ude01\ud83d\ude2d\ud83d\ude21",
+                    "author": "@SuelemAlvesdacosta-s6f",
+                    "likes": 4,
+                    "publishedAt": "2026-02-19T13:23:31Z"
+                },
+                {
+                    "text": "\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@IsabellaPrado-r4n",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T20:53:03Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260222_080526",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "n",
+                    "author": "@heitorsouz-e1g",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T23:08:47Z"
+                },
+                {
+                    "text": "\ud83d\ude22\u2764\ud83d\ude01\ud83d\ude2d\ud83d\ude21",
+                    "author": "@SuelemAlvesdacosta-s6f",
+                    "likes": 5,
+                    "publishedAt": "2026-02-19T13:23:31Z"
+                },
+                {
+                    "text": "Zx?",
+                    "author": "@SamantaRosaGomes",
+                    "likes": 7,
+                    "publishedAt": "2026-02-19T17:16:45Z"
+                },
+                {
+                    "text": "\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@IsabellaPrado-r4n",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T20:53:03Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@janainabaeta6690",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T16:10:56Z"
+                }
+            ]
         }
     ]
 }

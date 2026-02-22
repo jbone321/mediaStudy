@@ -23,6 +23,30 @@
                     "publishedAt": "2026-02-20T06:11:21Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260222_080624",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@RejabulIslam-e6y",
+                    "likes": 0,
+                    "publishedAt": "2026-02-22T04:17:55Z"
+                },
+                {
+                    "text": "JEIEK\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude2e\ud83d\ude22",
+                    "author": "@ArfanRamadhan-z9z",
+                    "likes": 2,
+                    "publishedAt": "2026-02-20T06:11:21Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@Villageviewsong02",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T03:05:27Z"
+                }
+            ]
         }
     ]
 }

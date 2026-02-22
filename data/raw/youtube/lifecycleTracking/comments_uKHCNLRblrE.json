@@ -12,6 +12,24 @@
                     "publishedAt": "2026-02-19T11:42:17Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260222_080552",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Gostaria de mais informa\u00e7\u00f5es \u2764\u2764\u2764",
+                    "author": "@MarlenePini",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T20:48:29Z"
+                },
+                {
+                    "text": "Fica bom, mas d\u00f3i com for\u00e7a",
+                    "author": "@crisriane",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T11:42:17Z"
+                }
+            ]
         }
     ]
 }

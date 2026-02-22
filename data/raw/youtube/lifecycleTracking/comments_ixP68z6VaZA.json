@@ -5,6 +5,18 @@
             "fetchedAt": "20260220_080555",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260221_080532",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Eu sou seu f\u00e3 \ud83d\ude0a\ud83c\udf89\ud83d\ude0a\ud83c\udf89\ud83d\ude0a\ud83c\udf89\ud83d\ude0a\ud83c\udf89\ud83d\ude0a\ud83c\udf89\ud83d\ude0a\ud83c\udf89\u2764",
+                    "author": "@ThiagoOliveira-r3r",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T11:56:45Z"
+                }
+            ]
         }
     ]
 }

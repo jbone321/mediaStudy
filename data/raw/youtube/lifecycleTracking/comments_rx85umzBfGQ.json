@@ -114,6 +114,60 @@
                     "publishedAt": "2026-02-17T20:38:43Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260221_080435",
+            "commentCount": 8,
+            "comments": [
+                {
+                    "text": "50",
+                    "author": "@GretaSinka",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T19:59:00Z"
+                },
+                {
+                    "text": "11+44-5=50",
+                    "author": "@\u0414\u0430\u0443\u0440\u0430\u043d\u0414\u0430\u0443\u043b\u0435\u0442\u0431\u0430\u0435\u0432-\u04323\u044a",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T07:29:15Z"
+                },
+                {
+                    "text": "10",
+                    "author": "@AsserWesam-n7o",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T20:12:53Z"
+                },
+                {
+                    "text": "C est pas encore rentre",
+                    "author": "@KankouHaidara-j5t",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T20:04:55Z"
+                },
+                {
+                    "text": "El hombre oh debuto",
+                    "author": "@leonardochura5969",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T19:35:23Z"
+                },
+                {
+                    "text": "40",
+                    "author": "@OmarbarucUribe",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T20:22:32Z"
+                },
+                {
+                    "text": "50",
+                    "author": "@Dulce-h8v",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T20:38:43Z"
+                },
+                {
+                    "text": "50",
+                    "author": "@\u0631\u0642\u064a\u0647\u0627\u0644\u062e\u0632\u0627\u0639\u064a-\u062e5\u06312\u0632",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T18:46:25Z"
+                }
+            ]
         }
     ]
 }

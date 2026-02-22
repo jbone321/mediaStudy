@@ -5,6 +5,18 @@
             "fetchedAt": "20260218_234816",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260222_080540",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "The logic with the multiple wallets is smart, avoids detection by bubble maps",
+                    "author": "@Shawarmaguzz",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T00:46:23Z"
+                }
+            ]
         }
     ]
 }

@@ -5,6 +5,18 @@
             "fetchedAt": "20260220_080612",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260222_080607",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@NawabKhan-x6x3o",
+                    "likes": 1,
+                    "publishedAt": "2026-02-22T00:10:18Z"
+                }
+            ]
         }
     ]
 }

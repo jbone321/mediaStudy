@@ -18,6 +18,18 @@
                     "publishedAt": "2026-02-18T19:41:10Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260221_080523",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Hi",
+                    "author": "@DailsonCamara",
+                    "likes": 7,
+                    "publishedAt": "2026-02-18T19:41:10Z"
+                }
+            ]
         }
     ]
 }

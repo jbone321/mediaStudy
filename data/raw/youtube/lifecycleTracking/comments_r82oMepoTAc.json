@@ -30,6 +30,30 @@
                     "publishedAt": "2026-02-19T16:37:33Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260222_080532",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Locura lenta \ud83e\udd76\ud83e\udd75\ud83d\udc80\ud83c\udfa7\ud83d\udd25",
+                    "author": "@DanielJp-s1d",
+                    "likes": 2,
+                    "publishedAt": "2026-02-18T22:16:36Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@AnojaThushari-n7l",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T16:37:33Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@ehmasdfg",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T13:42:33Z"
+                }
+            ]
         }
     ]
 }

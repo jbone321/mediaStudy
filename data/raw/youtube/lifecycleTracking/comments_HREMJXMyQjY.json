@@ -5,6 +5,18 @@
             "fetchedAt": "20260220_080615",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260221_080552",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0412\u0430\u043c \u043e\u0433\u0440\u043e\u043c\u043d\u043e\u0435 \u0437\u0430 \u043e\u0447\u0435\u043d\u044c \u0446\u0435\u043d\u043d\u044b\u0435 \u0441\u043e\u0432\u0435\u0442\u044b!",
+                    "author": "@NinaLitvinovica",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T05:13:43Z"
+                }
+            ]
         }
     ]
 }

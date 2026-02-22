@@ -12,6 +12,24 @@
                     "publishedAt": "2026-02-19T10:30:09Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260221_080529",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u3068\u3066\u3082\u683c\u597d\u826f\u304f\u3066\u7d20\u6575\u3067\u3059\u3088\u3046\ud83d\udc96\u2764\ufe0f",
+                    "author": "@\u5b97\u57f9\u5b89\u539f",
+                    "likes": 3,
+                    "publishedAt": "2026-02-19T10:30:09Z"
+                },
+                {
+                    "text": "Like it",
+                    "author": "@FilomenaMisa",
+                    "likes": 0,
+                    "publishedAt": "2026-02-20T20:52:42Z"
+                }
+            ]
         }
     ]
 }

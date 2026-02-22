@@ -5,6 +5,18 @@
             "fetchedAt": "20260217_202039",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260222_080456",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a pap\u00e1 pap\u00e1 pap\u00e1",
+                    "author": "@RosaPerez-z9b3f",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T21:21:11Z"
+                }
+            ]
         }
     ]
 }
