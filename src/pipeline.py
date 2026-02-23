@@ -61,7 +61,7 @@ class MediaPipeline:
 	def _initializeComponents(self):
 		# intializes pipeline components and ensures correct API authentication
 		if self.config.youtube["apiKey"]:
-			self.collector = YoutubeCollector(self.config.youtube["apiKey"])
+			self.collector = YoutubeCollector(self.config.youtube["apiKey"], baseDir=self.config.youtube["baseDir"])
 		else:
 			print("No YouTube API key")
 

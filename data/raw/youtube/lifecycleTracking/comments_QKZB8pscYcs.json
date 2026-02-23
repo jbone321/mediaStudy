@@ -59,6 +59,36 @@
                     "publishedAt": "2026-02-19T13:04:11Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260223_080353",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@ChiaisabelleOkon",
+                    "likes": 1,
+                    "publishedAt": "2026-02-22T15:12:49Z"
+                },
+                {
+                    "text": "\u2764\u2764\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude05",
+                    "author": "@\u0410\u043a\u0442\u0438\u0411\u0438\u043b\u0430\u0439\u043d",
+                    "likes": 5,
+                    "publishedAt": "2026-02-20T11:43:10Z"
+                },
+                {
+                    "text": "\ud83e\udd2a",
+                    "author": "@Z\u00f6hreSalt\u0131k",
+                    "likes": 6,
+                    "publishedAt": "2026-02-18T16:44:10Z"
+                },
+                {
+                    "text": "Nice",
+                    "author": "@Xtreme-m3x",
+                    "likes": 5,
+                    "publishedAt": "2026-02-19T13:04:11Z"
+                }
+            ]
         }
     ]
 }

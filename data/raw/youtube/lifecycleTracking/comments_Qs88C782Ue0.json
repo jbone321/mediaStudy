@@ -89,6 +89,24 @@
                     "publishedAt": "2026-02-12T00:48:40Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260223_080102",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "My friend sent me this. Launched two tokens back-to-back. First made $700. Second is already at $1300 and pumping! Thanks bro, more vids please!",
+                    "author": "@alphawebmaster",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T00:51:20Z"
+                },
+                {
+                    "text": "This method is a few days old, should work for another week or two.",
+                    "author": "@ingmariech",
+                    "likes": 0,
+                    "publishedAt": "2026-02-12T00:48:40Z"
+                }
+            ]
         }
     ]
 }

@@ -72,6 +72,42 @@
                     "publishedAt": "2026-02-15T15:10:11Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260223_080314",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Tanya\u2019s fatality got me staring at the screen like \ud83d\ude10\u2026 \ud83d\ude33\u2026 \ud83d\ude2d",
+                    "author": "@marceloxfactory1624",
+                    "likes": 5,
+                    "publishedAt": "2026-02-15T13:41:59Z"
+                },
+                {
+                    "text": "Queria ter um mortal kombat 1",
+                    "author": "@BocaMoreira",
+                    "likes": 2,
+                    "publishedAt": "2026-02-15T14:13:22Z"
+                },
+                {
+                    "text": "Boa",
+                    "author": "@Du_franca",
+                    "likes": 0,
+                    "publishedAt": "2026-02-23T00:24:35Z"
+                },
+                {
+                    "text": "Boa mano",
+                    "author": "@Fernando_Gameplay",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T08:59:47Z"
+                },
+                {
+                    "text": "1v1?",
+                    "author": "@Clashtime-A.A",
+                    "likes": 1,
+                    "publishedAt": "2026-02-15T15:10:11Z"
+                }
+            ]
         }
     ]
 }

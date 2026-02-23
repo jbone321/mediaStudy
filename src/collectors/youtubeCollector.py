@@ -68,17 +68,12 @@ class YoutubeCollector:
 			if categoryId:
 				params["videoCategoryId"] = categoryId
 			
-			categoryKeywords = {
-				"24": "entertainment OR funny OR movie OR show",
-				"10": "music OR song OR official OR album",
-				"20": "gaming OR gameplay OR game OR play",
-				"27": "education OR tutorial OR learn OR how",
-				"26": "how to OR diy OR tutorial OR make",
-			}
-			
-			keyword = categoryKeywords.get(categoryId, "video OR review OR how")
-			params["q"] = keyword
-			
+			cats = self.getVideoCategories(regionCode=regionCode)
+			catsReverse = {id: title for title, id in cats.items()}
+			keyword = catsReverse.get(str(categoryId), "")
+
+			if keyword:
+				params["q"] = keyword
 
 			#only videos in last 7 days
 			twoDays = (datetime.utcnow() - timedelta(days=7)).isoformat() + "Z"
