@@ -66,6 +66,42 @@
                     "publishedAt": "2026-02-18T15:35:21Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260224_080452",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Dhwe\ud83d\ude22\ud83e\udd2f\ud83d\udc3b",
+                    "author": "@JafferAli-sx8vj",
+                    "likes": 0,
+                    "publishedAt": "2026-02-24T06:25:30Z"
+                },
+                {
+                    "text": "TV in",
+                    "author": "@RENAMANISETHI",
+                    "likes": 4,
+                    "publishedAt": "2026-02-19T08:39:50Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@A66lljj",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T14:38:40Z"
+                },
+                {
+                    "text": "\ud83d\ude05\ud83d\ude05\ud83d\ude05",
+                    "author": "@PardeepSharma-jx5vt",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T10:13:36Z"
+                },
+                {
+                    "text": "\u00d6l\u00fcm",
+                    "author": "@FerdiAslan-n8y2o",
+                    "likes": 12,
+                    "publishedAt": "2026-02-18T15:35:21Z"
+                }
+            ]
         }
     ]
 }

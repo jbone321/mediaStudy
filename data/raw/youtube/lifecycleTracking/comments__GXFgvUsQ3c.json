@@ -5,6 +5,18 @@
             "fetchedAt": "20260220_080556",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260224_080533",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22",
+                    "author": "@mano_Mirzayt",
+                    "likes": 0,
+                    "publishedAt": "2026-02-23T13:30:59Z"
+                }
+            ]
         }
     ]
 }
