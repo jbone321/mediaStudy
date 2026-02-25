@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 # pipeline.py usage
 1.
-'''python
+```python
    class PipelineConfig:
         """
         All configuration values held in one place
@@ -52,7 +52,7 @@ pip install -r requirements.txt
                         "sources": ["comments", "titles", "descriptions"],
                         "outputDir": "data/processed/sentiment"
                 }
-   '''
+   ```
    First thing is to ensure that everything is saving to a seperate file to prevent unwanted joins of our data. Edit "baseDir": "data/raw/youtube" to "baseDir": "data/raw/youtube{YOUR_NAME}" and while not required "categories": can be any categories that you wish.
 3. Make sure to be at the root of the project and run src/pipeline.py
 
