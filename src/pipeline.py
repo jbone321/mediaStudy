@@ -11,7 +11,7 @@ load_dotenv()
 # CUSTOM CLASSES
 from collectors.youtubeCollector import YoutubeCollector
 from processing.sentimentAnalyzer import SentimentAnalyzer
-
+from collectors.googleTrendsCollector import GoogleTrendsCollector
 
 class PipelineConfig:
 	"""
@@ -27,6 +27,11 @@ class PipelineConfig:
 			"videosPerCategory": 30,
 			"region": "US",
 			"order": "date"
+		}
+
+		self.google = {
+			"cats": [3, 35, 8, 18, 65],
+			"timeframe": "2026-02-11 2026-02-25"
 		}
 
 		# Sentiment analysis settings
@@ -242,7 +247,20 @@ class MediaPipeline:
 
 		print("Sentiment analysis finished.\n")
 
-	def run(self, runYoutube: bool = False, runSentiment: bool = False, updateComments: bool = False):
+
+	def collectGoogleTrends(self):
+		# collect google trends data and history using googleTrendsCollector.py
+		cats=self.config.google["cats"]
+		timeframe=self.config.google["timeframe"]
+
+		collector = GoogleTrendsCollector()
+		dfTrends = collector.gatherHistory(cats=cats, timeframe=timeframe)
+		
+		dfTrends.to_csv("data/raw/googleTrendsData.csv")
+
+		print("Google Trends data finished collecting.")
+
+	def run(self, runYoutube: bool = False, runSentiment: bool = False, updateComments: bool = False, runTrends=False):
 		# runs the selected parts of the pipeline, will be all mostly but may need to check individual parts once we start adding
 		if not self.config.validate():
 			print("Pipeline stopped due to invalid configuration.")
@@ -252,6 +270,9 @@ class MediaPipeline:
 
 		if runYoutube:
 			self.collectYoutubeData()
+		
+		if runTrends:
+			self.collectGoogleTrends()
 
 		if updateComments:
 			print("Running full comment update for all tracked videos.")
@@ -265,13 +286,14 @@ class MediaPipeline:
 		if runSentiment:
 			self.runSentimentAnalysis()
 
-		if not (runYoutube or runSentiment or updateComments):
+		if not (runYoutube or runTrends or runSentiment or updateComments):
 			print("No tasks selected. Use --youtube, --update-comments or --all")
 
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(description="Media Attention Lifecycle Pipeline")
 	parser.add_argument("--youtube", action="store_true", help="Run YouTube collection")
+	parser.add_argument("--google-trends", action="store_true", help="Run Google Trends Collection")
 	parser.add_argument("--update-comments", action="store_true", help="Force full comment update for ALL tracked videos")
 	parser.add_argument("--all", action="store_true", help="Run everything, for multi-platform functionality")
 	args = parser.parse_args()
@@ -281,6 +303,7 @@ if __name__ == "__main__":
 
 	pipeline.run(
 		runYoutube=args.youtube or args.all,
-		runSentiment=True,
+		runTrends=args.google_trends or args.all,
+		runSentiment=args.youtube or args.update_comments or args.all,
 		updateComments=args.update_comments or args.all
 	)
