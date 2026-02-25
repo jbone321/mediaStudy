@@ -414,6 +414,84 @@
                     "publishedAt": "2026-02-16T16:17:58Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260225_080409",
+            "commentCount": 12,
+            "comments": [
+                {
+                    "text": "Join our FREE community with all our prompts: https://www.skool.com/ai-launchpad/about\n\nGoogle AI Studio is good, but if you want to make 10X better Apps with a full backend & database, use Base44: https://base44.pxf.io/c/4386336/2049275/25619?trafcat=base",
+                    "author": "@zinhoautomates",
+                    "likes": 7,
+                    "publishedAt": "2026-02-16T15:22:52Z"
+                },
+                {
+                    "text": "Without a doubt the best app currently available for creating apps.",
+                    "author": "@AfonsoCuteta",
+                    "likes": 7,
+                    "publishedAt": "2026-02-16T15:52:03Z"
+                },
+                {
+                    "text": "Finally someone explains it clearly",
+                    "author": "@YehiaTharwat",
+                    "likes": 5,
+                    "publishedAt": "2026-02-16T15:49:03Z"
+                },
+                {
+                    "text": "Super impressive demo, but small reality check: to do *exactly* what he shows (especially with VEO and deployment) you need to hook AI Studio to a paid Gemini API project with a credit card on Google Cloud. It\u2019s not a free toy, it\u2019s basically a pay\u2011as\u2011you\u2011go checkbook \u2014 you **must** set budgets and limits or it turns into a blank check. I think this part matters as much as the features themselves: not just *what* the tool can do, but how much it charges you to do it.",
+                    "author": "@Jos\u00e9GilDieguezNeto",
+                    "likes": 5,
+                    "publishedAt": "2026-02-19T10:42:33Z"
+                },
+                {
+                    "text": "It\u2019s wild that Google gives away this much power for free",
+                    "author": "@YakWhisper",
+                    "likes": 3,
+                    "publishedAt": "2026-02-17T03:53:14Z"
+                },
+                {
+                    "text": "Insane how fast you built and deployed that mood tracker! \ud83d\udd25 Google AI Studio is wild, but yeah, Base44 feels like the real upgrade for full apps. Subbed for more breakdowns like this!",
+                    "author": "@janethfuentesa",
+                    "likes": 3,
+                    "publishedAt": "2026-02-16T15:51:31Z"
+                },
+                {
+                    "text": "Awesome video",
+                    "author": "@AnkoreniNadawo-m2j",
+                    "likes": 3,
+                    "publishedAt": "2026-02-16T15:41:57Z"
+                },
+                {
+                    "text": "Finally someone explained it",
+                    "author": "@EngineerStella",
+                    "likes": 0,
+                    "publishedAt": "2026-02-17T07:52:02Z"
+                },
+                {
+                    "text": "Best knowledge shared in the video thanks",
+                    "author": "@Englishconversationpractice786",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T16:36:25Z"
+                },
+                {
+                    "text": "What happened at 21:30? How did you enter that by voice? You skipped it. I see the mic button on bottom but i was under the impression it could just stay listening and it be like a live chat with screen share",
+                    "author": "@youtubechannel8854",
+                    "likes": 0,
+                    "publishedAt": "2026-02-18T15:20:53Z"
+                },
+                {
+                    "text": "I've built over 90+",
+                    "author": "@WARMABLON",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T11:09:58Z"
+                },
+                {
+                    "text": "Stop talking",
+                    "author": "@BruceLeeStudio",
+                    "likes": 0,
+                    "publishedAt": "2026-02-16T18:59:01Z"
+                }
+            ]
         }
     ]
 }

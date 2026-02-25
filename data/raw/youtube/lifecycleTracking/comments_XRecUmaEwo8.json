@@ -30,6 +30,30 @@
                     "publishedAt": "2026-02-20T14:10:03Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260225_080609",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@ansaralam5263",
+                    "likes": 0,
+                    "publishedAt": "2026-02-24T08:43:09Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e",
+                    "author": "@NadeemJee-q2g",
+                    "likes": 2,
+                    "publishedAt": "2026-02-20T14:10:03Z"
+                },
+                {
+                    "text": "\ud83d\ude0a",
+                    "author": "@ManMohan-k6t3w",
+                    "likes": 5,
+                    "publishedAt": "2026-02-20T01:49:50Z"
+                }
+            ]
         }
     ]
 }

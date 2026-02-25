@@ -5,6 +5,18 @@
             "fetchedAt": "20260214_085036",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260225_080228",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@KhanKhan-s8q3o",
+                    "likes": 0,
+                    "publishedAt": "2026-02-24T13:20:06Z"
+                }
+            ]
         }
     ]
 }

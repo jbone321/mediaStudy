@@ -72,6 +72,30 @@
                     "publishedAt": "2026-02-17T14:28:51Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260225_080501",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\ud83d\ude0a",
+                    "author": "@funny_short-99o.k",
+                    "likes": 0,
+                    "publishedAt": "2026-02-21T03:02:11Z"
+                },
+                {
+                    "text": "Nice \u2764",
+                    "author": "@HRVLOGER01",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T14:28:51Z"
+                },
+                {
+                    "text": "Nice\ud83d\ude0a",
+                    "author": "@Maa-Bapu0",
+                    "likes": 1,
+                    "publishedAt": "2026-02-17T13:47:04Z"
+                }
+            ]
         }
     ]
 }
