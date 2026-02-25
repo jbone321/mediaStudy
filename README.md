@@ -23,7 +23,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # pipeline.py usage
-1. '''python
+1.
+'''python
    class PipelineConfig:
         """
         All configuration values held in one place
