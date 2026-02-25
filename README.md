@@ -26,34 +26,34 @@ pip install -r requirements.txt
 1.
 ```python
 class PipelineConfig:
-"""
-All configuration values held in one place
-Makes tweaking the pipeline much quicker
-"""
-def __init__(self):
-# YouTube collection settings
-self.youtube = {
-"apiKey": os.getenv("YOUTUBE_API_KEY"),
-"baseDir": "data/raw/youtube",
-"categories": ["Entertainment", "Music", "Gaming", "Education", "Howto & Style"],
-"videosPerCategory": 30,
-"region": "US",
-"order": "date"
-}
+    """
+    All configuration values held in one place
+    Makes tweaking the pipeline much quicker
+    """
+    def __init__(self):
+        # YouTube collection settings
+        self.youtube = {
+            "apiKey": os.getenv("YOUTUBE_API_KEY"),
+            "baseDir": "data/raw/youtube",
+            "categories": ["Entertainment", "Music", "Gaming", "Education", "Howto & Style"],
+            "videosPerCategory": 30,
+            "region": "US",
+            "order": "date"
+        }
 
-self.google = {
-"cats": [3, 35, 8, 18, 65],
-"timeframe": "2026-02-11 2026-02-25"
-}
+        self.google = {
+            "cats": [3, 35, 8, 18, 65],
+            "timeframe": "2026-02-11 2026-02-25"
+        }
 
-# Sentiment analysis settings
-self.sentiment = {
-"enabled": True,
-"sources": ["comments", "titles", "descriptions"],
-"outputDir": "data/processed/sentiment"
-}
+        # Sentiment analysis settings
+        self.sentiment = {
+            "enabled": True,
+            "sources": ["comments", "titles", "descriptions"],
+            "outputDir": "data/processed/sentiment"
+        }
 ```
-   First thing is to ensure that everything is saving to a seperate file to prevent unwanted joins of our data. Edit "baseDir": "data/raw/youtube" to "baseDir": "data/raw/youtube{YOUR_NAME}" and while not required "categories": can be any categories that you wish.
+   First thing is to ensure that everything is saving to a seperate file to prevent unwanted joins of our data. Edit "baseDir": "data/raw/youtube" to "baseDir": "data/raw/youtube{YOUR_NAME}" and while not required "categories": can be any categories that you wish. Also make sure to edit the "outputDir" in the sentiment config
 3. Make sure to be at the root of the project and run src/pipeline.py
 
    src/pipeline.py has 4 flags [--youtube][--google-trends][--update-comments][--all]
