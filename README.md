@@ -23,7 +23,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # pipeline.py usage
-1. class PipelineConfig:
+1. '''python
+   class PipelineConfig:
         """
         All configuration values held in one place
         Makes tweaking the pipeline much quicker
@@ -50,14 +51,18 @@ pip install -r requirements.txt
                         "sources": ["comments", "titles", "descriptions"],
                         "outputDir": "data/processed/sentiment"
                 }
+   '''
    First thing is to ensure that everything is saving to a seperate file to prevent unwanted joins of our data. Edit "baseDir": "data/raw/youtube" to "baseDir": "data/raw/youtube{YOUR_NAME}" and while not required "categories": can be any categories that you wish.
-2. Make sure to be at the root of the project and run src/pipeline.py
+3. Make sure to be at the root of the project and run src/pipeline.py
 
    src/pipeline.py has 4 flags [--youtube][--google-trends][--update-comments][--all]
 
    [--youtube] runs youtube collection
+   
    [--google-trends] runs google trends collection
+   
    [--update-comments] updates youtube video comments
+   
    [--all] runs full pipeline
    
 
