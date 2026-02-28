@@ -1,0 +1,47 @@
+{
+    "videoId": "7vrE6qMOvaE",
+    "history": [
+        {
+            "fetchedAt": "20260225_230324",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Love the 2nd look\u2764",
+                    "author": "@patatribera0204",
+                    "likes": 2,
+                    "publishedAt": "2026-02-25T05:27:20Z"
+                },
+                {
+                    "text": "Awesome job \u2764",
+                    "author": "@BipinKotecha-z6f",
+                    "likes": 0,
+                    "publishedAt": "2026-02-25T08:51:31Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080617",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Love the 2nd look\u2764",
+                    "author": "@patatribera0204",
+                    "likes": 2,
+                    "publishedAt": "2026-02-25T05:27:20Z"
+                },
+                {
+                    "text": "Awesome job \u2764",
+                    "author": "@BipinKotecha-z6f",
+                    "likes": 0,
+                    "publishedAt": "2026-02-25T08:51:31Z"
+                },
+                {
+                    "text": "Chi",
+                    "author": "@madhumathi7588",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T16:40:25Z"
+                }
+            ]
+        }
+    ]
+}

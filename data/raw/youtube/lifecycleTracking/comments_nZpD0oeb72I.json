@@ -1,0 +1,40 @@
+{
+    "videoId": "nZpD0oeb72I",
+    "history": [
+        {
+            "fetchedAt": "20260225_230315",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260226_080638",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@tulayzimmer5569",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T01:33:02Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080607",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764",
+                    "author": "@Tamam\u00c7elik-f5f",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T07:30:56Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@tulayzimmer5569",
+                    "likes": 1,
+                    "publishedAt": "2026-02-26T01:33:02Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "videoId": "mNW1XolMbbQ",
+    "history": [
+        {
+            "fetchedAt": "20260228_050013",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                    "author": "@SilviaRodrigues-d8r",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T03:05:43Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080756",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                    "author": "@SilviaRodrigues-d8r",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T03:05:43Z"
+                },
+                {
+                    "text": "\uba4b\ucc0c\ub2e4^^",
+                    "author": "@\ub9e4\ud654\uac00\uc88b\uc544",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T07:27:15Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "DDzeCVSSFRo",
+    "history": [
+        {
+            "fetchedAt": "20260225_230316",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260226_080639",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Yayyy Ed sheeran is on there amazing underrated artist!\u2764",
+                    "author": "@BensonBooneFan12-l5w",
+                    "likes": 1,
+                    "publishedAt": "2026-02-26T02:45:26Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260227_080707",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Yayyy Ed sheeran is on there amazing underrated artist!\u2764",
+                    "author": "@BensonBooneFan12-l5w",
+                    "likes": 3,
+                    "publishedAt": "2026-02-26T02:45:26Z"
+                },
+                {
+                    "text": "Isn\u2019t despacito the most popular with 8billion views\ud83d\ude12",
+                    "author": "@SlugShotok",
+                    "likes": 1,
+                    "publishedAt": "2026-02-26T16:55:33Z"
+                }
+            ]
+        }
+    ]
+}

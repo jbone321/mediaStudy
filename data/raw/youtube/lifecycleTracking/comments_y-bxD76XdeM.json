@@ -1,0 +1,40 @@
+{
+    "videoId": "y-bxD76XdeM",
+    "history": [
+        {
+            "fetchedAt": "20260226_170023",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260227_080750",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "20",
+                    "author": "@MeriemSalmi-n6v",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T17:02:36Z"
+                },
+                {
+                    "text": "90",
+                    "author": "@MeriemSalmi-n6v",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T17:02:51Z"
+                },
+                {
+                    "text": "4,000 Good \ud83d\udc4d",
+                    "author": "@ArjunSingh-vn4cq",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T17:03:57Z"
+                },
+                {
+                    "text": "Good \ud83d\udc4d",
+                    "author": "@ArjunSingh-vn4cq",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T17:06:17Z"
+                }
+            ]
+        }
+    ]
+}

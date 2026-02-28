@@ -1,0 +1,28 @@
+{
+    "videoId": "gGl3-WhwJyQ",
+    "history": [
+        {
+            "fetchedAt": "20260227_110029",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260228_080725",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "J\ud83c\udf89\u2764",
+                    "author": "@PakYana-y4b",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T12:48:52Z"
+                },
+                {
+                    "text": "HI\ud83c\udf89\u2764",
+                    "author": "@PakYana-y4b",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T12:49:40Z"
+                }
+            ]
+        }
+    ]
+}

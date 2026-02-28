@@ -1,0 +1,28 @@
+{
+    "videoId": "xVAHY3AwuAo",
+    "history": [
+        {
+            "fetchedAt": "20260225_230315",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260226_080638",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Heeeeee lo sorprendieron jajajaj",
+                    "author": "@MarcosZacarias-n8n",
+                    "likes": 0,
+                    "publishedAt": "2026-02-25T23:46:39Z"
+                },
+                {
+                    "text": "Como se llama la cancion",
+                    "author": "@gloxlopez1027",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T06:11:52Z"
+                }
+            ]
+        }
+    ]
+}

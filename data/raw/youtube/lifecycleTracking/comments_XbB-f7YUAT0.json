@@ -1,0 +1,28 @@
+{
+    "videoId": "XbB-f7YUAT0",
+    "history": [
+        {
+            "fetchedAt": "20260227_110022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260228_080721",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@PayalKumari-z3v8p",
+                    "likes": 2,
+                    "publishedAt": "2026-02-27T17:47:06Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@lakshmikumari-ct5kh",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T02:04:56Z"
+                }
+            ]
+        }
+    ]
+}

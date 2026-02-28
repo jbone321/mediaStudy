@@ -1,0 +1,35 @@
+{
+    "videoId": "kG27el65lZU",
+    "history": [
+        {
+            "fetchedAt": "20260227_230014",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ud83e\udd17\ud83d\ude4c\ud83c\udffb",
+                    "author": "@LuisT-b5n",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T21:40:23Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080746",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ud83e\udd17\ud83d\ude4c\ud83c\udffb",
+                    "author": "@LuisT-b5n",
+                    "likes": 2,
+                    "publishedAt": "2026-02-27T21:40:23Z"
+                },
+                {
+                    "text": "Gimmicky, sounds like every juvenile gymnastics lyric song out there, and yet there is an audience for this.",
+                    "author": "@authorworld",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T23:55:26Z"
+                }
+            ]
+        }
+    ]
+}

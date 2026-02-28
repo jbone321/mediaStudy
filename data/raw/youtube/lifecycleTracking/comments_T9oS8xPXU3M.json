@@ -1,0 +1,47 @@
+{
+    "videoId": "T9oS8xPXU3M",
+    "history": [
+        {
+            "fetchedAt": "20260227_110015",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0421\u0442\u0430\u0440\u0438\u0448\u043a\u043e-\u04422\u0446",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T10:46:04Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080719",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0421\u0442\u0430\u0440\u0438\u0448\u043a\u043e-\u04422\u0446",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T10:46:04Z"
+                },
+                {
+                    "text": "3\ud83d\ude0a",
+                    "author": "@\u0410\u044f\u043b\u0430-\u04494\u04331\u0445",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T07:52:43Z"
+                },
+                {
+                    "text": "\u0412\u0430\u0443 \u043a\u0440\u0443\u0442\u0430",
+                    "author": "@\u041c\u043e\u0439\u041c\u043e\u0439-\u043a3\u043c",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T04:26:41Z"
+                },
+                {
+                    "text": "3",
+                    "author": "@AyaruAmangali",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T05:53:36Z"
+                }
+            ]
+        }
+    ]
+}

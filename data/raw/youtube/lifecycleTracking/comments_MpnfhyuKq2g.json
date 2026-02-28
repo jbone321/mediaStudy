@@ -1,0 +1,40 @@
+{
+    "videoId": "MpnfhyuKq2g",
+    "history": [
+        {
+            "fetchedAt": "20260226_050019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260227_080723",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Muy buen d\u00fao",
+                    "author": "@usuaystalin8721",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T13:47:50Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080622",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Padre he hijo, bendiciones sigan adelante hasta la victoria siempre \ud83d\ude05",
+                    "author": "@raulfranciscomolina",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T16:54:52Z"
+                },
+                {
+                    "text": "Muy buen d\u00fao",
+                    "author": "@usuaystalin8721",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T13:47:50Z"
+                }
+            ]
+        }
+    ]
+}

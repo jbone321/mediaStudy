@@ -1,0 +1,28 @@
+{
+    "videoId": "5otuXGqK6Ns",
+    "history": [
+        {
+            "fetchedAt": "20260227_050014",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260228_080710",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude2e",
+                    "author": "@bongjim-b1x",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T04:54:39Z"
+                },
+                {
+                    "text": "Wow",
+                    "author": "@ronifirmansyah6388",
+                    "likes": 2,
+                    "publishedAt": "2026-02-27T08:53:05Z"
+                }
+            ]
+        }
+    ]
+}

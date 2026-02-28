@@ -1,0 +1,47 @@
+{
+    "videoId": "42C7OXdVadQ",
+    "history": [
+        {
+            "fetchedAt": "20260227_050018",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@SNJaRaYT",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T03:54:38Z"
+                },
+                {
+                    "text": "Pin Pzz \u2764",
+                    "author": "@EMRAN-u1z",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T03:49:51Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080713",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@SNJaRaYT",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T03:54:38Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@ShinurAli-j1q4n",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T10:21:32Z"
+                },
+                {
+                    "text": "Pin Pzz \u2764",
+                    "author": "@EMRAN-u1z",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T03:49:51Z"
+                }
+            ]
+        }
+    ]
+}

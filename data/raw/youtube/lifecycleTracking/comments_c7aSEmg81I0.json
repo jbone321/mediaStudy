@@ -1,0 +1,22 @@
+{
+    "videoId": "c7aSEmg81I0",
+    "history": [
+        {
+            "fetchedAt": "20260226_170027",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260228_080651",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "yA Ali ya Ali ya Ali madad",
+                    "author": "@AlliKosar",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T10:49:01Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "videoId": "a8uPhC8XtpU",
+    "history": [
+        {
+            "fetchedAt": "20260226_110018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260227_080739",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a",
+                    "author": "@TuNguyen-rm3ux",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T03:08:59Z"
+                },
+                {
+                    "text": "T\u1eeb",
+                    "author": "@HuongThu-ds2yc",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T23:35:28Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "videoId": "-KVpDsETB0w",
+    "history": [
+        {
+            "fetchedAt": "20260228_050010",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260228_080754",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Great",
+                    "author": "@NabiGhulam-ic7tx",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T05:55:14Z"
+                }
+            ]
+        }
+    ]
+}

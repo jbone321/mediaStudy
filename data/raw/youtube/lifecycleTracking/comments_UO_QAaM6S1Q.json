@@ -22,6 +22,18 @@
             "fetchedAt": "20260223_080544",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260226_080544",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "seeing the LP burn transaction instantly is satisfying",
+                    "author": "@dennisrooks",
+                    "likes": 0,
+                    "publishedAt": "2026-02-19T00:46:32Z"
+                }
+            ]
         }
     ]
 }

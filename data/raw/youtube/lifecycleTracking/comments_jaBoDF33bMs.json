@@ -1,0 +1,35 @@
+{
+    "videoId": "jaBoDF33bMs",
+    "history": [
+        {
+            "fetchedAt": "20260227_050014",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@heshaniVimukthika",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T03:33:49Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080710",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u0db6\u0dd4\u0daf\u0dca\u0dba\u0dcf\u2764\u2764\u2764\u2764",
+                    "author": "@NilankaNayanashanthi",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T10:00:17Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@heshaniVimukthika",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T03:33:49Z"
+                }
+            ]
+        }
+    ]
+}

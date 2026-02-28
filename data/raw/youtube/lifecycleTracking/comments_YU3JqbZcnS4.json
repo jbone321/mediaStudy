@@ -1,0 +1,46 @@
+{
+    "videoId": "YU3JqbZcnS4",
+    "history": [
+        {
+            "fetchedAt": "20260226_170022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260227_080750",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Whole shift about to green light ti",
+                    "author": "@joshuasJR",
+                    "likes": 1,
+                    "publishedAt": "2026-02-26T17:39:52Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080646",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Whole shift about to green light ti",
+                    "author": "@joshuasJR",
+                    "likes": 1,
+                    "publishedAt": "2026-02-26T17:39:52Z"
+                },
+                {
+                    "text": "Wounderful guys",
+                    "author": "@JudithBelvis",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T12:44:46Z"
+                },
+                {
+                    "text": "Damn son this song is good",
+                    "author": "@matthew3823",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T01:22:43Z"
+                }
+            ]
+        }
+    ]
+}

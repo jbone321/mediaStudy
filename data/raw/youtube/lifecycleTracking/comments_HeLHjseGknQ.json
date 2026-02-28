@@ -1,0 +1,35 @@
+{
+    "videoId": "HeLHjseGknQ",
+    "history": [
+        {
+            "fetchedAt": "20260226_110014",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22\u2764",
+                    "author": "@lyricsangel3112",
+                    "likes": 1,
+                    "publishedAt": "2026-02-26T10:17:41Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080633",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22\u2764",
+                    "author": "@lyricsangel3112",
+                    "likes": 1,
+                    "publishedAt": "2026-02-26T10:17:41Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\ud83d\ude02\ud83d\ude02\ud83d\ude02\u2764",
+                    "author": "@Sweety-n2s3p",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T08:18:32Z"
+                }
+            ]
+        }
+    ]
+}

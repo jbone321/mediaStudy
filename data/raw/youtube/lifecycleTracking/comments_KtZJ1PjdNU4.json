@@ -1,0 +1,58 @@
+{
+    "videoId": "KtZJ1PjdNU4",
+    "history": [
+        {
+            "fetchedAt": "20260226_110013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260227_080734",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Nice song \u2764\u2764\ud83d\ude0a",
+                    "author": "@BGMI_PLAYER-w9z",
+                    "likes": 1,
+                    "publishedAt": "2026-02-26T14:20:20Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Tarun-s5p7d",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T06:43:26Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260228_080632",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "This is the beaut of song",
+                    "author": "@lordforthgaming",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T07:14:13Z"
+                },
+                {
+                    "text": "Nice song \u2764\u2764\ud83d\ude0a",
+                    "author": "@BGMI_PLAYER-w9z",
+                    "likes": 2,
+                    "publishedAt": "2026-02-26T14:20:20Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Tarun-s5p7d",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T06:43:26Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@TARUNYADAV-x1q1b",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T13:03:57Z"
+                }
+            ]
+        }
+    ]
+}
