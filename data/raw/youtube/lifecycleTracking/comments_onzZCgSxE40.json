@@ -5,6 +5,18 @@
             "fetchedAt": "20260226_230023",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260301_080814",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@DimelzaMercado-p4i",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T11:24:01Z"
+                }
+            ]
         }
     ]
 }

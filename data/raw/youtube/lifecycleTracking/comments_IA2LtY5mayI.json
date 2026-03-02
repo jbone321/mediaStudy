@@ -35,6 +35,30 @@
                     "publishedAt": "2026-02-28T07:05:14Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260301_080757",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "5+2=7",
+                    "author": "@LionaCantik22",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T04:16:22Z"
+                },
+                {
+                    "text": "\u2764\ud83d\ude02\ud83c\udf89\ud83d\ude22\ud83d\ude2e\ud83d\ude05\ud83d\ude0a",
+                    "author": "@JasurRustamov-g5e2l",
+                    "likes": 2,
+                    "publishedAt": "2026-02-27T04:55:50Z"
+                },
+                {
+                    "text": "=7",
+                    "author": "@leydamiscubangirl8803",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T07:05:14Z"
+                }
+            ]
         }
     ]
 }

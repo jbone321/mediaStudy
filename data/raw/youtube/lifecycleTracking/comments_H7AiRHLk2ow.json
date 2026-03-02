@@ -17,6 +17,24 @@
                     "publishedAt": "2026-02-27T12:42:53Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260301_080830",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Tevez muy bonita\u2764",
+                    "author": "@ArietReyes",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T12:42:53Z"
+                },
+                {
+                    "text": "En un video de mi mama la jusgaron por como se vestia",
+                    "author": "@VioletaMenaresLlant\u00e9n",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T12:40:59Z"
+                }
+            ]
         }
     ]
 }

@@ -5,6 +5,18 @@
             "fetchedAt": "20260226_230015",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260301_080807",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\uc601\uc0c1\uc774 \ub108\ubb34 \uc798 \uc5b4\uc6b8\ub824\uc11c \ubcf4\ub294 \ub9db\uc774 \ub098\ub124\uc694\ud83e\udd79\ud83e\udef6",
+                    "author": "@koyangee_meaong",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T17:23:24Z"
+                }
+            ]
         }
     ]
 }

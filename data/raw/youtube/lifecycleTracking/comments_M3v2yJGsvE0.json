@@ -30,6 +30,30 @@
                     "publishedAt": "2026-02-28T01:46:49Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260301_080903",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u043a\u0440\u0430\u0441\u0438\u0432\u043e)",
+                    "author": "@ElvisBF",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T22:52:58Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@edithcepedamunoz7180",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T14:53:44Z"
+                },
+                {
+                    "text": "\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a",
+                    "author": "@bjarla",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T22:13:45Z"
+                }
+            ]
         }
     ]
 }

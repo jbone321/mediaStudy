@@ -5,6 +5,24 @@
             "fetchedAt": "20260226_230020",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260301_080813",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Allahu akber",
+                    "author": "@ArbazAli-o3g",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T17:09:31Z"
+                },
+                {
+                    "text": "Labbaik ya mehdi",
+                    "author": "@MirTaherali-f7i",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T19:48:58Z"
+                }
+            ]
         }
     ]
 }

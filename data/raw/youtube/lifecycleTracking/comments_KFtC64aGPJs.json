@@ -1,0 +1,22 @@
+{
+    "videoId": "KFtC64aGPJs",
+    "history": [
+        {
+            "fetchedAt": "20260228_170021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260301_080948",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Mazaa aa gaya yaar",
+                    "author": "@gamingwithkalyan24",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T04:40:14Z"
+                }
+            ]
+        }
+    ]
+}

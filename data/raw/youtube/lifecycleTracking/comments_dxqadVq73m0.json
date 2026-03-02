@@ -1,0 +1,22 @@
+{
+    "videoId": "dxqadVq73m0",
+    "history": [
+        {
+            "fetchedAt": "20260301_050017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260301_081013",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Pertama",
+                    "author": "@rudi7893",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T06:25:34Z"
+                }
+            ]
+        }
+    ]
+}

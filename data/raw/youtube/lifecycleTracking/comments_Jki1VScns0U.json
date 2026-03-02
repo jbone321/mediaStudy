@@ -35,6 +35,30 @@
                     "publishedAt": "2026-02-26T07:26:51Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260301_080733",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Sentrifugal!!\n\nRiset dulu sebelum membuat konten",
+                    "author": "@MrRall_1jt",
+                    "likes": 3,
+                    "publishedAt": "2026-02-26T07:26:51Z"
+                },
+                {
+                    "text": "Keduaa",
+                    "author": "@rudi7893",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T06:55:37Z"
+                },
+                {
+                    "text": "waw",
+                    "author": "@Rizkia-nz9ob",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T05:29:01Z"
+                }
+            ]
         }
     ]
 }

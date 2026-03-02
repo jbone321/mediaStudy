@@ -12,6 +12,24 @@
                     "publishedAt": "2026-02-28T08:39:42Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260301_080926",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "China",
+                    "author": "@zeljkavlaisavljevic7981",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T15:08:05Z"
+                },
+                {
+                    "text": "China is better  man",
+                    "author": "@NcediswaCengani",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T08:39:42Z"
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,28 @@
+{
+    "videoId": "KMYSxko6uyQ",
+    "history": [
+        {
+            "fetchedAt": "20260301_050008",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260301_081003",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a",
+                    "author": "@NXTKING-k3s",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T08:08:01Z"
+                },
+                {
+                    "text": "Hi",
+                    "author": "@LakshitaMangawa",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T07:44:51Z"
+                }
+            ]
+        }
+    ]
+}

@@ -5,6 +5,18 @@
             "fetchedAt": "20260226_110019",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260301_080745",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nayk betiua zindabad",
+                    "author": "@chbashir1899",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T18:43:14Z"
+                }
+            ]
         }
     ]
 }

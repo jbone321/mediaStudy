@@ -1,0 +1,28 @@
+{
+    "videoId": "BMAqmOurerg",
+    "history": [
+        {
+            "fetchedAt": "20260228_170016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260301_080942",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Am\u00e9m",
+                    "author": "@LuizMiguel-v7r7h",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T18:32:39Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@LuizMiguel-v7r7h",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T18:32:19Z"
+                }
+            ]
+        }
+    ]
+}
