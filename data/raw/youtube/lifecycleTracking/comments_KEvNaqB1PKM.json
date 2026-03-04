@@ -5,6 +5,42 @@
             "fetchedAt": "20260301_230015",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260303_081035",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "A desktop is better for gaming",
+                    "author": "@jasonwarner-s1h",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T18:01:36Z"
+                },
+                {
+                    "text": "Ive had a 1660 ti 6GB with 32GB DDR4 since 2019. Been an absolute machine and sadly its becoming obsolete today. But for 80% of games it did its job just spectacularly and in its day it was the perfect mid range card.",
+                    "author": "@markjohnson1734",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T08:34:01Z"
+                },
+                {
+                    "text": "2nd game name?",
+                    "author": "@Discorddrive-p7w",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T20:33:19Z"
+                },
+                {
+                    "text": "Song?",
+                    "author": "@GamerGenerationBR",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T12:08:30Z"
+                },
+                {
+                    "text": "My laptop has a 1080P/60hz display\u2026 the 1660TI is doing an amazing job, EVEN TODAY.",
+                    "author": "@tuttoto",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T23:06:43Z"
+                }
+            ]
         }
     ]
 }

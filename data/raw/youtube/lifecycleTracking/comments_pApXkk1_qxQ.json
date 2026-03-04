@@ -5,6 +5,18 @@
             "fetchedAt": "20260301_110018",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260302_080949",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "I liked the part where you threw Molotovs everywhere \ud83d\ude02\u2764",
+                    "author": "@Grizzly_TYVS",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T03:53:58Z"
+                }
+            ]
         }
     ]
 }

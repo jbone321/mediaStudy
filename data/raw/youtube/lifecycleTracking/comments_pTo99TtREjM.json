@@ -35,6 +35,36 @@
                     "publishedAt": "2026-02-19T16:38:10Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260303_080308",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude05\ud83d\ude0a\ud83d\ude02",
+                    "author": "@SitiAidah-g2j",
+                    "likes": 2,
+                    "publishedAt": "2026-02-16T04:16:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260304_080301",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude05\ud83d\ude0a\ud83d\ude02",
+                    "author": "@SitiAidah-g2j",
+                    "likes": 2,
+                    "publishedAt": "2026-02-16T04:16:24Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Berkahmulia-m6f",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T16:38:10Z"
+                }
+            ]
         }
     ]
 }

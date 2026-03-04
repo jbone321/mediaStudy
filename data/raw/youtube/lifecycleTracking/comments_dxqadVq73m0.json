@@ -17,6 +17,24 @@
                     "publishedAt": "2026-03-01T06:25:34Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260302_080939",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "semangat bang konten",
+                    "author": "@DelimaAyu-w4b",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T09:13:54Z"
+                },
+                {
+                    "text": "Pertama",
+                    "author": "@rudi7893",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T06:25:34Z"
+                }
+            ]
         }
     ]
 }

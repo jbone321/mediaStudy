@@ -1,0 +1,22 @@
+{
+    "videoId": "xdomACSRZY8",
+    "history": [
+        {
+            "fetchedAt": "20260302_170020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260303_081118",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "-1",
+                    "author": "@zarinashabi8600",
+                    "likes": 0,
+                    "publishedAt": "2026-03-03T05:48:36Z"
+                }
+            ]
+        }
+    ]
+}

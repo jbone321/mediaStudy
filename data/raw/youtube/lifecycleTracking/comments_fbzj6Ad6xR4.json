@@ -5,6 +5,18 @@
             "fetchedAt": "20260301_170020",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260302_081008",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@mariecelestinemendy4067",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T00:14:12Z"
+                }
+            ]
         }
     ]
 }

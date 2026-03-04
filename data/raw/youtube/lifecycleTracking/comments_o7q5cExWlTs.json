@@ -150,6 +150,150 @@
                     "publishedAt": "2026-02-27T18:49:01Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260303_080844",
+            "commentCount": 10,
+            "comments": [
+                {
+                    "text": "I REALLY hope this ends up working well. There are so many \u201clow-end\u201d games in my library that I\u2019m sure would run perfectly on my Mac but just aren\u2019t officially compatible.",
+                    "author": "@EdibleGymSock",
+                    "likes": 22,
+                    "publishedAt": "2026-02-27T18:33:58Z"
+                },
+                {
+                    "text": "Well, those 3 games do run great on Mac with crossover, and BG3 runs natively. Which is why Mac users are not impressed right now, but hopefully they show more stuff. It could be really cool.",
+                    "author": "@nicolealmeida",
+                    "likes": 7,
+                    "publishedAt": "2026-02-27T21:41:33Z"
+                },
+                {
+                    "text": "Also isn\u2019t balders gate 3 able to run natively on Apple silicon via steam?",
+                    "author": "@oofers1151",
+                    "likes": 8,
+                    "publishedAt": "2026-02-27T19:32:25Z"
+                },
+                {
+                    "text": "I think Crossover does this already",
+                    "author": "@chrismack.",
+                    "likes": 3,
+                    "publishedAt": "2026-02-27T20:03:30Z"
+                },
+                {
+                    "text": "Nah. This is just going to be free crossover.",
+                    "author": "@TechnicalSpecter",
+                    "likes": 0,
+                    "publishedAt": "2026-03-03T01:13:31Z"
+                },
+                {
+                    "text": "wait the controller company also makes software?",
+                    "author": "@Il_Dilettante",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T18:26:44Z"
+                },
+                {
+                    "text": "Crossover",
+                    "author": "@TheQuickByteShorts",
+                    "likes": 2,
+                    "publishedAt": "2026-02-27T19:21:53Z"
+                },
+                {
+                    "text": "crossover?",
+                    "author": "@djvonfunkin",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T18:57:42Z"
+                },
+                {
+                    "text": "Mac silicon is ARM, so FEX was needed after they dropped Intel",
+                    "author": "@minedad",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T23:46:52Z"
+                },
+                {
+                    "text": "the man bun lookin good bro",
+                    "author": "@JerryMeehanJr",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T18:49:01Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260304_080829",
+            "commentCount": 12,
+            "comments": [
+                {
+                    "text": "I REALLY hope this ends up working well. There are so many \u201clow-end\u201d games in my library that I\u2019m sure would run perfectly on my Mac but just aren\u2019t officially compatible.",
+                    "author": "@EdibleGymSock",
+                    "likes": 26,
+                    "publishedAt": "2026-02-27T18:33:58Z"
+                },
+                {
+                    "text": "Well, those 3 games do run great on Mac with crossover, and BG3 runs natively. Which is why Mac users are not impressed right now, but hopefully they show more stuff. It could be really cool.",
+                    "author": "@nicolealmeida",
+                    "likes": 8,
+                    "publishedAt": "2026-02-27T21:41:33Z"
+                },
+                {
+                    "text": "Also isn\u2019t balders gate 3 able to run natively on Apple silicon via steam?",
+                    "author": "@oofers1151",
+                    "likes": 10,
+                    "publishedAt": "2026-02-27T19:32:25Z"
+                },
+                {
+                    "text": "I think Crossover does this already",
+                    "author": "@chrismack.",
+                    "likes": 3,
+                    "publishedAt": "2026-02-27T20:03:30Z"
+                },
+                {
+                    "text": "Nah. This is just going to be free crossover.",
+                    "author": "@TechnicalSpecter",
+                    "likes": 0,
+                    "publishedAt": "2026-03-03T01:13:31Z"
+                },
+                {
+                    "text": "There are so many indie games on steam that aren\u2019t made for Macs this would honestly kill my need for a steam deck or steam machine",
+                    "author": "@joeokeefe2771",
+                    "likes": 0,
+                    "publishedAt": "2026-03-03T11:04:12Z"
+                },
+                {
+                    "text": "wait the controller company also makes software?",
+                    "author": "@Il_Dilettante",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T18:26:44Z"
+                },
+                {
+                    "text": "I hope this also goes on iPadOS.",
+                    "author": "@fahrai4983",
+                    "likes": 0,
+                    "publishedAt": "2026-03-03T18:44:51Z"
+                },
+                {
+                    "text": "Crossover",
+                    "author": "@TheQuickByteShorts",
+                    "likes": 2,
+                    "publishedAt": "2026-02-27T19:21:53Z"
+                },
+                {
+                    "text": "crossover?",
+                    "author": "@djvonfunkin",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T18:57:42Z"
+                },
+                {
+                    "text": "Mac silicon is ARM, so FEX was needed after they dropped Intel",
+                    "author": "@minedad",
+                    "likes": 0,
+                    "publishedAt": "2026-02-27T23:46:52Z"
+                },
+                {
+                    "text": "the man bun lookin good bro",
+                    "author": "@JerryMeehanJr",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T18:49:01Z"
+                }
+            ]
         }
     ]
 }

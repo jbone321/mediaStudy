@@ -17,6 +17,48 @@
                     "publishedAt": "2026-03-01T00:52:23Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260302_080925",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Use shotgun",
+                    "author": "@AmariBrown-j6m",
+                    "likes": 3,
+                    "publishedAt": "2026-03-01T00:52:23Z"
+                },
+                {
+                    "text": "Use a ar",
+                    "author": "@blastboygaming",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T10:09:35Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260303_080938",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Theres an easter egg to gta v leg shots for the cops, if a cop sees the other cop shot in the leg, he will try to bring him to safety",
+                    "author": "@brickManosu",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T17:59:43Z"
+                },
+                {
+                    "text": "Use shotgun",
+                    "author": "@AmariBrown-j6m",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T00:52:23Z"
+                },
+                {
+                    "text": "Use a ar",
+                    "author": "@blastboygaming",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T10:09:35Z"
+                }
+            ]
         }
     ]
 }

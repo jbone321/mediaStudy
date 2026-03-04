@@ -5,6 +5,18 @@
             "fetchedAt": "20260228_230014",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260302_080922",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Eu gosto daquela m\u00fasica do Goo goo dolls iris",
+                    "author": "@RodrigoSouzaRibeiro-i8k",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T16:35:51Z"
+                }
+            ]
         }
     ]
 }

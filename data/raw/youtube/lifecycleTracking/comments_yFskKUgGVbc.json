@@ -5,6 +5,36 @@
             "fetchedAt": "20260301_170013",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260302_081000",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e\ud83c\udf89",
+                    "author": "@itadore-mvp",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T00:53:48Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260304_080953",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Hey pls, toma no amor \u2764",
+                    "author": "@MAYCONZINN",
+                    "likes": 0,
+                    "publishedAt": "2026-03-04T00:26:35Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83c\udf89",
+                    "author": "@itadore-mvp",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T00:53:48Z"
+                }
+            ]
         }
     ]
 }

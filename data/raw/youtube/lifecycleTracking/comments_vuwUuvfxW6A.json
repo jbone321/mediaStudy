@@ -5,6 +5,48 @@
             "fetchedAt": "20260301_170013",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260302_081000",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Allah seni qorusun Sevinc xan\u0131m super oxuyursan",
+                    "author": "@AsefTagiyev-s4u",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T17:05:43Z"
+                },
+                {
+                    "text": "Super\u2764",
+                    "author": "@T\u0259ran\u0259S\u0259f\u0259rova-j2d",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T19:55:26Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260303_081018",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Allah seni qorusun Sevinc xan\u0131m super oxuyursan",
+                    "author": "@AsefTagiyev-s4u",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T17:05:43Z"
+                },
+                {
+                    "text": "Super\u2764",
+                    "author": "@T\u0259ran\u0259S\u0259f\u0259rova-j2d",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T19:55:26Z"
+                },
+                {
+                    "text": "\u2764super",
+                    "author": "@\u042d\u043b\u043d\u0430\u0440\u0430\u0410\u0431\u0434\u0443\u043b\u043b\u0430\u0435\u0430\u0430",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T13:05:05Z"
+                }
+            ]
         }
     ]
 }

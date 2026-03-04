@@ -5,6 +5,18 @@
             "fetchedAt": "20260227_110032",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260302_080811",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "I can speak better than him",
+                    "author": "@its_max_h3z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T07:17:50Z"
+                }
+            ]
         }
     ]
 }

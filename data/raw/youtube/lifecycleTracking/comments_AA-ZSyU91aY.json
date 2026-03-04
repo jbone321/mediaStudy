@@ -5,6 +5,18 @@
             "fetchedAt": "20260213_020112",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260302_080123",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "KLO mati akhirnya ya sayang, KLO bisa hidup bagus,",
+                    "author": "@M.shokehArema",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T22:38:40Z"
+                }
+            ]
         }
     ]
 }

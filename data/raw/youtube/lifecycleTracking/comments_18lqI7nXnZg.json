@@ -12,6 +12,24 @@
                     "publishedAt": "2026-02-26T17:32:25Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260302_080758",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "La r\u00e9ponse est 7.",
+                    "author": "@elhassanbaaziz6074",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T12:31:59Z"
+                },
+                {
+                    "text": "La r\u00e9ponse est 7",
+                    "author": "@timm5303",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T17:32:25Z"
+                }
+            ]
         }
     ]
 }

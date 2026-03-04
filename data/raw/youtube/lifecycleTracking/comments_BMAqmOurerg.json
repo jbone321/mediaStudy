@@ -23,6 +23,30 @@
                     "publishedAt": "2026-02-28T18:32:19Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260302_080909",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Am\u00e9m",
+                    "author": "@LuizMiguel-v7r7h",
+                    "likes": 2,
+                    "publishedAt": "2026-02-28T18:32:39Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@LuizMiguel-v7r7h",
+                    "likes": 2,
+                    "publishedAt": "2026-02-28T18:32:19Z"
+                },
+                {
+                    "text": "Am\u00e9m \ud83d\ude4f \ud83d\ude4c \u2764\u2764",
+                    "author": "@GuilhermeFerreira-f1o",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T15:31:21Z"
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,35 @@
+{
+    "videoId": "vvzSUBZ8-gQ",
+    "history": [
+        {
+            "fetchedAt": "20260302_170021",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Ini yang sering live permainan cari perbedaan itu kan",
+                    "author": "@nagitaanindasulistia2267",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T15:16:46Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260304_081048",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Ini yang sering live permainan cari perbedaan itu kan",
+                    "author": "@nagitaanindasulistia2267",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T15:16:46Z"
+                },
+                {
+                    "text": "Keduaa",
+                    "author": "@rudi7893",
+                    "likes": 0,
+                    "publishedAt": "2026-03-03T09:07:13Z"
+                }
+            ]
+        }
+    ]
+}

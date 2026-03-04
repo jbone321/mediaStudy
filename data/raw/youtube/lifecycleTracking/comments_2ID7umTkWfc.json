@@ -23,6 +23,30 @@
                     "publishedAt": "2026-02-28T19:48:58Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260303_080749",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Labbaik ya mehdi",
+                    "author": "@MirTaherali-f7i",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T19:48:58Z"
+                },
+                {
+                    "text": "Allahu akber",
+                    "author": "@ArbazAli-o3g",
+                    "likes": 0,
+                    "publishedAt": "2026-02-28T17:09:31Z"
+                },
+                {
+                    "text": "Imnsha allah iran kifatah hogi ameen",
+                    "author": "@shadannuzhatcan1732",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T17:43:10Z"
+                }
+            ]
         }
     ]
 }

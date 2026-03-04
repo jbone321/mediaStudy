@@ -17,6 +17,24 @@
                     "publishedAt": "2026-02-28T05:01:38Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260304_080817",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Well done",
+                    "author": "@kennethallen1765",
+                    "likes": 2,
+                    "publishedAt": "2026-02-28T05:01:38Z"
+                },
+                {
+                    "text": "What weapon is it? It's a mod.",
+                    "author": "@dylancastano5427",
+                    "likes": 0,
+                    "publishedAt": "2026-03-03T17:53:07Z"
+                }
+            ]
         }
     ]
 }

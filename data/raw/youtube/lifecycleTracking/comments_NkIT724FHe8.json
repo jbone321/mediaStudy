@@ -17,6 +17,24 @@
                     "publishedAt": "2026-02-27T09:17:30Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260303_080707",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Warum machen die sowas? \nEs gibt heute doch Herde!",
+                    "author": "@evelineschenk3463",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T13:59:01Z"
+                },
+                {
+                    "text": "Stum \ud83d\ude12",
+                    "author": "@Patrick-y6j5k",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T09:17:30Z"
+                }
+            ]
         }
     ]
 }

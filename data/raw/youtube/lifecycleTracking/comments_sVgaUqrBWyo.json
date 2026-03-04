@@ -1,0 +1,77 @@
+{
+    "videoId": "sVgaUqrBWyo",
+    "history": [
+        {
+            "fetchedAt": "20260302_230013",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Essa foi a minha melhor edit!",
+                    "author": "@ITOSHI_RIN_YEAH",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T22:26:29Z"
+                },
+                {
+                    "text": "Muita bom mono",
+                    "author": "@givaldosantos2875",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T22:39:39Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260303_081122",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Essa foi a minha melhor edit!",
+                    "author": "@ITOSHI_RIN_YEAH",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T22:26:29Z"
+                },
+                {
+                    "text": "QUE MANEIROO!\u2606>:3",
+                    "author": "@Amoreira22",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T23:43:57Z"
+                },
+                {
+                    "text": "Muita bom mono",
+                    "author": "@givaldosantos2875",
+                    "likes": 2,
+                    "publishedAt": "2026-03-02T22:39:39Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260304_081051",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Essa foi a minha melhor edit!",
+                    "author": "@ITOSHI_RIN_YEAH",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T22:26:29Z"
+                },
+                {
+                    "text": "QUE MANEIROO!\u2606>:3",
+                    "author": "@Amoreira22",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T23:43:57Z"
+                },
+                {
+                    "text": "Muita bom mono",
+                    "author": "@givaldosantos2875",
+                    "likes": 2,
+                    "publishedAt": "2026-03-02T22:39:39Z"
+                },
+                {
+                    "text": "Seu pola cade o \u2022 depois da bola verd-",
+                    "author": "@ItadoriEDITZOFC",
+                    "likes": 1,
+                    "publishedAt": "2026-03-03T10:59:43Z"
+                }
+            ]
+        }
+    ]
+}

@@ -36,6 +36,24 @@
                     "publishedAt": "2026-02-26T14:56:55Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260304_080723",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u041d\u0435\u043d\u0435 \u0441\u0438\u0437\u0435 \u0433\u0443\u0440\u0431\u0430\u043d\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@T\u0259rg\u00fcl\u018fliyeva",
+                    "likes": 1,
+                    "publishedAt": "2026-02-26T14:56:55Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@Nizami\u018fhm\u0259dov-x3m",
+                    "likes": 0,
+                    "publishedAt": "2026-02-26T18:37:24Z"
+                }
+            ]
         }
     ]
 }

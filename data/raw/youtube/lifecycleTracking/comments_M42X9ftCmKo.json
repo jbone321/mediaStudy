@@ -1,0 +1,22 @@
+{
+    "videoId": "M42X9ftCmKo",
+    "history": [
+        {
+            "fetchedAt": "20260302_081013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260303_081034",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "35:12",
+                    "author": "@apex\u304c\u5927\u597d\u304d\u306a\u3082\u3061\u307e\u308b",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T11:58:24Z"
+                }
+            ]
+        }
+    ]
+}

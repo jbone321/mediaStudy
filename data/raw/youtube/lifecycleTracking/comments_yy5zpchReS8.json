@@ -1,0 +1,22 @@
+{
+    "videoId": "yy5zpchReS8",
+    "history": [
+        {
+            "fetchedAt": "20260302_230021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260303_081130",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "doss",
+                    "author": "@lewisgomez4051",
+                    "likes": 0,
+                    "publishedAt": "2026-03-03T01:43:24Z"
+                }
+            ]
+        }
+    ]
+}

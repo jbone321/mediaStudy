@@ -35,6 +35,30 @@
                     "publishedAt": "2026-02-25T23:09:30Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260303_080642",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u0e2e\u0e31\u0e01\u0e04\u0e37\u0e2d\u0e40\u0e01\u0e48\u0e32\ud83d\ude02",
+                    "author": "@\u0e2a\u0e35\u0e1b\u0e32\u0e01\u0e40\u0e0a-\u0e1c9\u0e14",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T12:59:12Z"
+                },
+                {
+                    "text": "\ud83d\ude05\u2764\u2764\u2764\ud83d\ude05",
+                    "author": "@\u0e2a\u0e32\u0e22\u0e2a\u0e38\u0e14\u0e32\u0e08\u0e39\u0e14\u0e21\u0e32\u0e01-\u0e2d9\u0e23",
+                    "likes": 1,
+                    "publishedAt": "2026-02-28T18:48:56Z"
+                },
+                {
+                    "text": "\u0e2e\u0e31\u0e01\u0e46\u0e46\u0e46\u0e46\u0e46\u0e40\u0e14\u0e49\u0e2d\u2764\ud83c\udf89\ud83d\ude0a",
+                    "author": "@choochartsingha-dara8064",
+                    "likes": 1,
+                    "publishedAt": "2026-02-25T23:09:30Z"
+                }
+            ]
         }
     ]
 }

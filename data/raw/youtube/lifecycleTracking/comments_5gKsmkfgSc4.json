@@ -5,6 +5,18 @@
             "fetchedAt": "20260228_170020",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260303_080925",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "67\ud83c\udf89\ud83d\ude0a\u0436\u04d9\u043d\u0435 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043b\u0456\u043a \ud83d\ude02",
+                    "author": "@\u0410\u043d\u0430\u0440-\u043f3\u044e",
+                    "likes": 0,
+                    "publishedAt": "2026-03-03T05:25:23Z"
+                }
+            ]
         }
     ]
 }

@@ -5,6 +5,18 @@
             "fetchedAt": "20260301_110013",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260303_081001",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u0915\u0949\u092e\u0947\u0921\u0940 \u0915\u094d\u0935\u0940\u0928\ud83d\ude02\ud83d\ude02",
+                    "author": "@LalitMali-g1p",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T15:51:43Z"
+                }
+            ]
         }
     ]
 }

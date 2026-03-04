@@ -5,6 +5,18 @@
             "fetchedAt": "20260301_170017",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260302_081004",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude05\ud83d\ude05\ud83d\ude05",
+                    "author": "@LindaSombart",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T00:41:53Z"
+                }
+            ]
         }
     ]
 }

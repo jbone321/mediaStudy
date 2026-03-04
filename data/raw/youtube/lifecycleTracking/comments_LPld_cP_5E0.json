@@ -12,6 +12,24 @@
                     "publishedAt": "2026-03-01T22:43:53Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260303_081040",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "You look amazing",
+                    "author": "@LovelyBuoy-pj8yi",
+                    "likes": 0,
+                    "publishedAt": "2026-03-02T17:54:29Z"
+                },
+                {
+                    "text": "\ud83c\udf89\u2764, jolie",
+                    "author": "@HampiDayo",
+                    "likes": 0,
+                    "publishedAt": "2026-03-01T22:43:53Z"
+                }
+            ]
         }
     ]
 }
