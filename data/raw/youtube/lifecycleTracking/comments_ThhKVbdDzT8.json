@@ -1,0 +1,22 @@
+{
+    "videoId": "ThhKVbdDzT8",
+    "history": [
+        {
+            "fetchedAt": "20260309_220017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260311_071647",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Great",
+                    "author": "@borisobamendong6674",
+                    "likes": 1,
+                    "publishedAt": "2026-03-10T07:54:52Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "dsXJFqNYeZk",
+    "history": [
+        {
+            "fetchedAt": "20260307_050017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260309_071330",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@MukeshKumar-t5t8l",
+                    "likes": 0,
+                    "publishedAt": "2026-03-08T07:24:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081638",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Op \ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@StututuProGamer",
+                    "likes": 0,
+                    "publishedAt": "2026-03-11T09:17:58Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@MukeshKumar-t5t8l",
+                    "likes": 0,
+                    "publishedAt": "2026-03-08T07:24:42Z"
+                }
+            ]
+        }
+    ]
+}

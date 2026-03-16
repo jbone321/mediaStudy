@@ -1,0 +1,35 @@
+{
+    "videoId": "kYnvJR_kxco",
+    "history": [
+        {
+            "fetchedAt": "20260309_100021",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "X = 1 also",
+                    "author": "@worldofcartoon-24",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T09:35:29Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260310_071621",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Proof:  9/4 = 2.25\n\n2.25^ sq rte 2.25 = 2.25^1.5 = 3.75\n\n2.25 x sqre rte 2.25 = 2.25 x 1.5 = 3.75",
+                    "author": "@StevenTorrey",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T12:33:33Z"
+                },
+                {
+                    "text": "X = 1 also",
+                    "author": "@worldofcartoon-24",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T09:35:29Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "Jn7LYd2-vXo",
+    "history": [
+        {
+            "fetchedAt": "20260307_230019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260309_071406",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Good morning\u2764\u2764",
+                    "author": "@KarmonTcg",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T05:54:38Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081721",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Good morning\u2764\u2764",
+                    "author": "@KarmonTcg",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T05:54:38Z"
+                },
+                {
+                    "text": "X=12",
+                    "author": "@dimascrego1278",
+                    "likes": 1,
+                    "publishedAt": "2026-03-12T15:19:52Z"
+                }
+            ]
+        }
+    ]
+}

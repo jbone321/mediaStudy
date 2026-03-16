@@ -1,0 +1,40 @@
+{
+    "videoId": "U70R5-JueK8",
+    "history": [
+        {
+            "fetchedAt": "20260308_100020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260309_071431",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "X=7",
+                    "author": "@dimascrego1278",
+                    "likes": 0,
+                    "publishedAt": "2026-03-08T11:21:15Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081753",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "X_2=25\nX=25+2\nX=27ansji",
+                    "author": "@Keshavsilwalkeshav",
+                    "likes": 1,
+                    "publishedAt": "2026-03-12T05:14:47Z"
+                },
+                {
+                    "text": "X=7",
+                    "author": "@dimascrego1278",
+                    "likes": 0,
+                    "publishedAt": "2026-03-08T11:21:15Z"
+                }
+            ]
+        }
+    ]
+}

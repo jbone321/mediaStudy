@@ -1,0 +1,47 @@
+{
+    "videoId": "mtpgACgevnE",
+    "history": [
+        {
+            "fetchedAt": "20260312_170019",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@multiplechannel9753",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T15:54:58Z"
+                },
+                {
+                    "text": "Khuda aapko Khoob Barkat de bhai",
+                    "author": "@multiplechannel9753",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T15:55:15Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260315_081759",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@RajuYadav-m4o",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T19:11:27Z"
+                },
+                {
+                    "text": "Khuda aapko Khoob Barkat de bhai",
+                    "author": "@multiplechannel9753",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T15:55:15Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@multiplechannel9753",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T15:54:58Z"
+                }
+            ]
+        }
+    ]
+}

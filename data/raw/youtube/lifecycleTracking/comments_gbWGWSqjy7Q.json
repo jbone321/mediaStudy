@@ -1,0 +1,40 @@
+{
+    "videoId": "gbWGWSqjy7Q",
+    "history": [
+        {
+            "fetchedAt": "20260308_100018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260309_071430",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@rajeshvari191",
+                    "likes": 0,
+                    "publishedAt": "2026-03-08T17:58:25Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081751",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\u2764\ud83d\ude02\ud83d\ude02\ud83d\ude0a",
+                    "author": "@AmitBamniya-f1q",
+                    "likes": 0,
+                    "publishedAt": "2026-03-13T03:57:54Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@rajeshvari191",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T17:58:25Z"
+                }
+            ]
+        }
+    ]
+}

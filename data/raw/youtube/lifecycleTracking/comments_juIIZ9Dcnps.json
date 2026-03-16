@@ -1,0 +1,47 @@
+{
+    "videoId": "juIIZ9Dcnps",
+    "history": [
+        {
+            "fetchedAt": "20260315_110016",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@RogeniaViana",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T10:52:32Z"
+                },
+                {
+                    "text": "Bye okay hiii",
+                    "author": "@Hilda.Bider.1905",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T10:36:45Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071850",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Bye okay hiii",
+                    "author": "@Hilda.Bider.1905",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T10:36:45Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude2e",
+                    "author": "@DiyanaKazakbaeva",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T11:27:43Z"
+                },
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@RogeniaViana",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T10:52:32Z"
+                }
+            ]
+        }
+    ]
+}

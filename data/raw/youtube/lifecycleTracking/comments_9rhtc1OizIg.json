@@ -1,0 +1,40 @@
+{
+    "videoId": "9rhtc1OizIg",
+    "history": [
+        {
+            "fetchedAt": "20260308_050019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260309_071418",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "0 + 3 = 3",
+                    "author": "@sintudas6866",
+                    "likes": 2,
+                    "publishedAt": "2026-03-08T07:14:16Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260310_071517",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "The first one is correct\ud83e\udd28",
+                    "author": "@MaznBarzan",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T08:35:45Z"
+                },
+                {
+                    "text": "0 + 3 = 3",
+                    "author": "@sintudas6866",
+                    "likes": 2,
+                    "publishedAt": "2026-03-08T07:14:16Z"
+                }
+            ]
+        }
+    ]
+}

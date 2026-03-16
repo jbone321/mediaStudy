@@ -1,0 +1,35 @@
+{
+    "videoId": "9V9eWpvgBrk",
+    "history": [
+        {
+            "fetchedAt": "20260306_230010",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "A\u00ed s\u00f3 d\u00e1 certo na voz de Zez\u00e9 mesmo",
+                    "author": "@Dami\u00e3oSb-w2r",
+                    "likes": 1,
+                    "publishedAt": "2026-03-06T22:31:47Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260309_071317",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Lindaaa,ficou top contigo \u2764",
+                    "author": "@geovaniamonteiro635",
+                    "likes": 1,
+                    "publishedAt": "2026-03-07T14:42:02Z"
+                },
+                {
+                    "text": "A\u00ed s\u00f3 d\u00e1 certo na voz de Zez\u00e9 mesmo",
+                    "author": "@Dami\u00e3oSb-w2r",
+                    "likes": 2,
+                    "publishedAt": "2026-03-06T22:31:47Z"
+                }
+            ]
+        }
+    ]
+}

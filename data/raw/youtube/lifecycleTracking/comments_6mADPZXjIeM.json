@@ -1,0 +1,35 @@
+{
+    "videoId": "6mADPZXjIeM",
+    "history": [
+        {
+            "fetchedAt": "20260309_100014",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e\ud83e\udd75\ud83e\udd75\ud83d\udc80",
+                    "author": "@tapgamingshorts2491",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T09:16:23Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260315_081629",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "TOP\u2764\ud83d\ude2e",
+                    "author": "@LuizHenrique-rd8nf",
+                    "likes": 2,
+                    "publishedAt": "2026-03-11T19:49:06Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83e\udd75\ud83e\udd75\ud83d\udc80",
+                    "author": "@tapgamingshorts2491",
+                    "likes": 3,
+                    "publishedAt": "2026-03-09T09:16:23Z"
+                }
+            ]
+        }
+    ]
+}

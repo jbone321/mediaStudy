@@ -1,0 +1,52 @@
+{
+    "videoId": "kWGYqQCnhTY",
+    "history": [
+        {
+            "fetchedAt": "20260314_110016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260315_081905",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Super \ud83d\udc4dy\ud83d\udc4d",
+                    "author": "@madeshchandra-y9s9w",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T13:56:32Z"
+                },
+                {
+                    "text": "Bz",
+                    "author": "@GeoTriruviansyah",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T13:44:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071834",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Super \ud83d\udc4dy\ud83d\udc4d",
+                    "author": "@madeshchandra-y9s9w",
+                    "likes": 2,
+                    "publishedAt": "2026-03-14T13:56:32Z"
+                },
+                {
+                    "text": "Bz",
+                    "author": "@GeoTriruviansyah",
+                    "likes": 2,
+                    "publishedAt": "2026-03-14T13:44:13Z"
+                },
+                {
+                    "text": "Congratulations bro \ud83c\udf89 your channel is monetize \ud83c\udf89\ud83c\udf89",
+                    "author": "@RDXGaming1Mx",
+                    "likes": 1,
+                    "publishedAt": "2026-03-15T10:25:12Z"
+                }
+            ]
+        }
+    ]
+}

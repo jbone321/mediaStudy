@@ -1,0 +1,40 @@
+{
+    "videoId": "L3C4gPKDV9o",
+    "history": [
+        {
+            "fetchedAt": "20260306_050016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260307_081317",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\ud83d\ude2e\ud83d\ude05",
+                    "author": "@ItsmequeenNAJMA-s2k",
+                    "likes": 0,
+                    "publishedAt": "2026-03-06T13:58:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071325",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "What game is this?",
+                    "author": "@shaastangaming4883",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T09:29:47Z"
+                },
+                {
+                    "text": "\ud83d\ude22\ud83d\ude2e\ud83d\ude05",
+                    "author": "@ItsmequeenNAJMA-s2k",
+                    "likes": 0,
+                    "publishedAt": "2026-03-06T13:58:24Z"
+                }
+            ]
+        }
+    ]
+}

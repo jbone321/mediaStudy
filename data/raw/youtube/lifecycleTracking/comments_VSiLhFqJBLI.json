@@ -1,0 +1,70 @@
+{
+    "videoId": "VSiLhFqJBLI",
+    "history": [
+        {
+            "fetchedAt": "20260308_220014",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260310_071551",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "67",
+                    "author": "@GravesK-q8v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T01:13:55Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260311_071550",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "67",
+                    "author": "@GravesK-q8v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T01:13:55Z"
+                },
+                {
+                    "text": "67",
+                    "author": "@ThiagoSilva-UFC",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T12:38:43Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081815",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "I like your video",
+                    "author": "@emmytudor3891",
+                    "likes": 1,
+                    "publishedAt": "2026-03-11T10:41:15Z"
+                },
+                {
+                    "text": "Hi",
+                    "author": "@emmytudor3891",
+                    "likes": 1,
+                    "publishedAt": "2026-03-11T10:41:08Z"
+                },
+                {
+                    "text": "67",
+                    "author": "@GravesK-q8v",
+                    "likes": 1,
+                    "publishedAt": "2026-03-10T01:13:55Z"
+                },
+                {
+                    "text": "67",
+                    "author": "@ThiagoSilva-UFC",
+                    "likes": 1,
+                    "publishedAt": "2026-03-10T12:38:43Z"
+                }
+            ]
+        }
+    ]
+}

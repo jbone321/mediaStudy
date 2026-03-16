@@ -1,0 +1,22 @@
+{
+    "videoId": "xaDFcXWEQaU",
+    "history": [
+        {
+            "fetchedAt": "20260307_110018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260309_071343",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Game name",
+                    "author": "@KirtanGamer091",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T08:55:36Z"
+                }
+            ]
+        }
+    ]
+}

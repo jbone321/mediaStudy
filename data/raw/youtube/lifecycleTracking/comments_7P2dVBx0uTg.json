@@ -12,6 +12,24 @@
                     "publishedAt": "2026-03-04T11:11:32Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260309_071223",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Maxi cute dress",
+                    "author": "@Shantiyogaraju",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T15:49:35Z"
+                },
+                {
+                    "text": "Summer outfit inspo \ud83e\udd0c\ud83c\udffb",
+                    "author": "@matheensamachara",
+                    "likes": 1,
+                    "publishedAt": "2026-03-04T11:11:32Z"
+                }
+            ]
         }
     ]
 }

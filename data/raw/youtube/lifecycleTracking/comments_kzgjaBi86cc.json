@@ -30,6 +30,30 @@
                     "publishedAt": "2026-03-03T11:48:32Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260310_071119",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Hare Pradhanmantri Apne vote Ke Liye bijali ka Bil kam karna chahte hain",
+                    "author": "@RohitDas-c6n2t",
+                    "likes": 1,
+                    "publishedAt": "2026-03-03T11:48:32Z"
+                },
+                {
+                    "text": "Bhai ka channel subscribe karen",
+                    "author": "@AMARGSACADEMY",
+                    "likes": 2,
+                    "publishedAt": "2026-03-02T09:16:10Z"
+                },
+                {
+                    "text": "Kuch bhi nahi hota hai",
+                    "author": "@DeveshPandit-o6r",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T14:32:07Z"
+                }
+            ]
         }
     ]
 }

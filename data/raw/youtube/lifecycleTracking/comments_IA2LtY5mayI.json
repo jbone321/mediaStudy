@@ -101,6 +101,54 @@
                     "publishedAt": "2026-03-02T07:55:21Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260306_080727",
+            "commentCount": 7,
+            "comments": [
+                {
+                    "text": "\u2764\ud83d\ude02\ud83c\udf89\ud83d\ude22\ud83d\ude2e\ud83d\ude05\ud83d\ude0a",
+                    "author": "@JasurRustamov-g5e2l",
+                    "likes": 3,
+                    "publishedAt": "2026-02-27T04:55:50Z"
+                },
+                {
+                    "text": "5+2=7",
+                    "author": "@LionaCantik22",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T04:16:22Z"
+                },
+                {
+                    "text": "=7",
+                    "author": "@leydamiscubangirl8803",
+                    "likes": 2,
+                    "publishedAt": "2026-02-28T07:05:14Z"
+                },
+                {
+                    "text": "5+2=7",
+                    "author": "@renatahorvath8679",
+                    "likes": 1,
+                    "publishedAt": "2026-03-01T14:40:37Z"
+                },
+                {
+                    "text": "5+2=7",
+                    "author": "@AnahitaParisha",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T03:39:03Z"
+                },
+                {
+                    "text": "5+2=7",
+                    "author": "@baisalbibina8440",
+                    "likes": 1,
+                    "publishedAt": "2026-03-02T07:55:21Z"
+                },
+                {
+                    "text": "5+2=7",
+                    "author": "@Enjoydevi",
+                    "likes": 1,
+                    "publishedAt": "2026-03-04T12:39:50Z"
+                }
+            ]
         }
     ]
 }

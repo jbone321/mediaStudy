@@ -5,6 +5,42 @@
             "fetchedAt": "20260304_170018",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260306_081226",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@UASKORIC",
+                    "likes": 0,
+                    "publishedAt": "2026-03-05T13:09:25Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260307_081244",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Pozdrav supersi, Banjaluka\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@dobrinkamihajlovic1914",
+                    "likes": 0,
+                    "publishedAt": "2026-03-06T21:14:17Z"
+                },
+                {
+                    "text": "Mnogo divno \u2764\u2764\u2764",
+                    "author": "@______900",
+                    "likes": 1,
+                    "publishedAt": "2026-03-04T19:57:28Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@UASKORIC",
+                    "likes": 0,
+                    "publishedAt": "2026-03-05T13:09:25Z"
+                }
+            ]
         }
     ]
 }

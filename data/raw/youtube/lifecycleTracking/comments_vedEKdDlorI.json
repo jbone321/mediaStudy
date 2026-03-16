@@ -1,0 +1,40 @@
+{
+    "videoId": "vedEKdDlorI",
+    "history": [
+        {
+            "fetchedAt": "20260306_110011",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260307_081323",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2697\ufe0f",
+                    "author": "@BharatBhgat",
+                    "likes": 0,
+                    "publishedAt": "2026-03-07T03:38:03Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260309_071251",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2697\ufe0f",
+                    "author": "@BharatBhgat",
+                    "likes": 2,
+                    "publishedAt": "2026-03-07T03:38:03Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude2e",
+                    "author": "@AnjaliYadav-w8b9q",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T03:41:39Z"
+                }
+            ]
+        }
+    ]
+}

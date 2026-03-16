@@ -1,0 +1,22 @@
+{
+    "videoId": "b84hg9gygk4",
+    "history": [
+        {
+            "fetchedAt": "20260306_050019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260307_081321",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Simple and fine",
+                    "author": "@ilehchi2266",
+                    "likes": 1,
+                    "publishedAt": "2026-03-06T13:05:52Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "videoId": "tErdBWs6bL4",
+    "history": [
+        {
+            "fetchedAt": "20260306_110017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260307_081328",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@Code_Hustler",
+                    "likes": 0,
+                    "publishedAt": "2026-03-06T11:27:39Z"
+                },
+                {
+                    "text": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@AnilSaini-c7t",
+                    "likes": 0,
+                    "publishedAt": "2026-03-06T15:34:25Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "videoId": "QQKSznBezoY",
+    "history": [
+        {
+            "fetchedAt": "20260313_110010",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260316_071807",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nice",
+                    "author": "@DaveBench-b6c",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T17:39:09Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "LkA0OTSN1gg",
+    "history": [
+        {
+            "fetchedAt": "20260308_050016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260309_071414",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "how come this game everywhere?",
+                    "author": "@angelmanuelvelez2771",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T06:13:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081732",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Ok, seeing those galoombas get actually stomped is really cursed.",
+                    "author": "@WaySpotYT",
+                    "likes": 1,
+                    "publishedAt": "2026-03-11T12:51:02Z"
+                },
+                {
+                    "text": "how come this game everywhere?",
+                    "author": "@angelmanuelvelez2771",
+                    "likes": 2,
+                    "publishedAt": "2026-03-08T06:13:36Z"
+                }
+            ]
+        }
+    ]
+}

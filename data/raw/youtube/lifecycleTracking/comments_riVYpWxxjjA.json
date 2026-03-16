@@ -1,0 +1,47 @@
+{
+    "videoId": "riVYpWxxjjA",
+    "history": [
+        {
+            "fetchedAt": "20260307_230015",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Earlyyyy",
+                    "author": "@Aidandiaye-f4l",
+                    "likes": 0,
+                    "publishedAt": "2026-03-07T19:40:18Z"
+                },
+                {
+                    "text": "under 1 hour (i better see zero likes)",
+                    "author": "@uravergeperson",
+                    "likes": 1,
+                    "publishedAt": "2026-03-07T18:27:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260309_071402",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "under 1 hour (i better see zero likes)",
+                    "author": "@uravergeperson",
+                    "likes": 5,
+                    "publishedAt": "2026-03-07T18:27:42Z"
+                },
+                {
+                    "text": "Earlyyyy",
+                    "author": "@Aidandiaye-f4l",
+                    "likes": 1,
+                    "publishedAt": "2026-03-07T19:40:18Z"
+                },
+                {
+                    "text": "Sounds the same",
+                    "author": "@PrincessSarah3807",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T01:54:23Z"
+                }
+            ]
+        }
+    ]
+}

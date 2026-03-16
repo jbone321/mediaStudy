@@ -1,0 +1,40 @@
+{
+    "videoId": "zfLvXqhgTBY",
+    "history": [
+        {
+            "fetchedAt": "20260310_100015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260313_081930",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+                    "author": "@feliciaanimah8160",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T18:40:06Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260315_081713",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Daddy\u2764\u2764\u2764\u2764\u2764 nipa fon na 3di as3m fon",
+                    "author": "@glorianyarko8645",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T12:50:29Z"
+                },
+                {
+                    "text": "\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+                    "author": "@feliciaanimah8160",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T18:40:06Z"
+                }
+            ]
+        }
+    ]
+}

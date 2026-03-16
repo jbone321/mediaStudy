@@ -1,0 +1,47 @@
+{
+    "videoId": "2PFT17iYCE8",
+    "history": [
+        {
+            "fetchedAt": "20260314_110023",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "4",
+                    "author": "@UshinorChaidhuri",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T07:41:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260315_081910",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "(2\u2075)\u2155+(2\u2074)\u2155=2^(9/5)",
+                    "author": "@russelltaylor7415",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T18:43:40Z"
+                },
+                {
+                    "text": "4",
+                    "author": "@UshinorChaidhuri",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T07:41:36Z"
+                },
+                {
+                    "text": "\u2075\u221a1024=4",
+                    "author": "@dimascrego1278",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T11:11:43Z"
+                },
+                {
+                    "text": "(32\u00d72)\u2155\u00d7(16)\u2155=(2\u00d72\u00d716\u00d716)\u2155=32\u2155\u00d732\u2155=2\u00d72=4",
+                    "author": "@russelltaylor7415",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T18:46:46Z"
+                }
+            ]
+        }
+    ]
+}

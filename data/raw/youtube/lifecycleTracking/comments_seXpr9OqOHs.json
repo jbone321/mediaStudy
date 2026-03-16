@@ -1,0 +1,22 @@
+{
+    "videoId": "seXpr9OqOHs",
+    "history": [
+        {
+            "fetchedAt": "20260314_110019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260316_071836",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Halo",
+                    "author": "@rudi7893",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T11:33:10Z"
+                }
+            ]
+        }
+    ]
+}

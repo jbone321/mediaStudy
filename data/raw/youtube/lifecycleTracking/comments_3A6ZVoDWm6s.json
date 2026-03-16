@@ -1,0 +1,28 @@
+{
+    "videoId": "3A6ZVoDWm6s",
+    "history": [
+        {
+            "fetchedAt": "20260313_050019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260313_082057",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+                    "author": "@zakichenni",
+                    "likes": 1,
+                    "publishedAt": "2026-03-13T06:39:25Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude22",
+                    "author": "@Adiffa17",
+                    "likes": 0,
+                    "publishedAt": "2026-03-13T06:44:17Z"
+                }
+            ]
+        }
+    ]
+}

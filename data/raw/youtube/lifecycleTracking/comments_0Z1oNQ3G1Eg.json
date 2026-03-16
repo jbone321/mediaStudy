@@ -1,0 +1,35 @@
+{
+    "videoId": "0Z1oNQ3G1Eg",
+    "history": [
+        {
+            "fetchedAt": "20260312_230022",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89 \ud83d\ude02",
+                    "author": "@eo-fi3fh",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T21:47:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260314_082004",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89 \ud83d\ude02",
+                    "author": "@eo-fi3fh",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T21:47:21Z"
+                },
+                {
+                    "text": "\ud83d\ude06",
+                    "author": "@virginiabuckles",
+                    "likes": 0,
+                    "publishedAt": "2026-03-13T23:35:59Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "videoId": "4-LdWDBvWyg",
+    "history": [
+        {
+            "fetchedAt": "20260310_160016",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "First \ud83e\udd47\ud83c\udf89\u2764",
+                    "author": "@tapgamingshorts2491",
+                    "likes": 2,
+                    "publishedAt": "2026-03-10T13:14:34Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260311_071709",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "First \ud83e\udd47\ud83c\udf89\u2764",
+                    "author": "@tapgamingshorts2491",
+                    "likes": 2,
+                    "publishedAt": "2026-03-10T13:14:34Z"
+                },
+                {
+                    "text": "\u042f \u0442\u0443\u0442 \u0440\u0443\u0441 \u043e\u0434\u0438\u043d?",
+                    "author": "@NazarStasuk",
+                    "likes": 0,
+                    "publishedAt": "2026-03-11T05:38:49Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260315_081729",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "First \ud83e\udd47\ud83c\udf89\u2764",
+                    "author": "@tapgamingshorts2491",
+                    "likes": 2,
+                    "publishedAt": "2026-03-10T13:14:34Z"
+                },
+                {
+                    "text": "BAD ENDING FUNK \ud83d\uddff\ud83d\udd25",
+                    "author": "@LuizHenrique-rd8nf",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T21:56:54Z"
+                },
+                {
+                    "text": "\u042f \u0442\u0443\u0442 \u0440\u0443\u0441 \u043e\u0434\u0438\u043d?",
+                    "author": "@NazarStasuk",
+                    "likes": 0,
+                    "publishedAt": "2026-03-11T05:38:49Z"
+                }
+            ]
+        }
+    ]
+}

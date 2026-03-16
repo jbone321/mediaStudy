@@ -17,6 +17,18 @@
             "fetchedAt": "20260304_081053",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260306_081109",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@LuizalbericoBertulani",
+                    "likes": 2,
+                    "publishedAt": "2026-03-02T20:36:00Z"
+                }
+            ]
         }
     ]
 }

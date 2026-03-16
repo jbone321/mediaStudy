@@ -1,0 +1,22 @@
+{
+    "videoId": "U_Z9wVO_pr4",
+    "history": [
+        {
+            "fetchedAt": "20260312_230013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260314_081954",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89",
+                    "author": "@ChloeChlodels",
+                    "likes": 0,
+                    "publishedAt": "2026-03-13T12:46:28Z"
+                }
+            ]
+        }
+    ]
+}

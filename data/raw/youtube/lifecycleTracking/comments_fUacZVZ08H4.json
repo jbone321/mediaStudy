@@ -1,0 +1,40 @@
+{
+    "videoId": "fUacZVZ08H4",
+    "history": [
+        {
+            "fetchedAt": "20260306_110018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260307_081330",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22sorry bro\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22",
+                    "author": "@RomeoBondoc-g7n",
+                    "likes": 1,
+                    "publishedAt": "2026-03-06T15:26:17Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260309_071258",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22sorry bro\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22",
+                    "author": "@RomeoBondoc-g7n",
+                    "likes": 1,
+                    "publishedAt": "2026-03-06T15:26:17Z"
+                },
+                {
+                    "text": "How did you do that?",
+                    "author": "@silviaartiga821",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T13:58:58Z"
+                }
+            ]
+        }
+    ]
+}

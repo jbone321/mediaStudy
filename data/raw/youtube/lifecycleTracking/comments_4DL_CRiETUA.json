@@ -1,0 +1,52 @@
+{
+    "videoId": "4DL_CRiETUA",
+    "history": [
+        {
+            "fetchedAt": "20260309_220014",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260311_071644",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Good",
+                    "author": "@itadori_cold",
+                    "likes": 0,
+                    "publishedAt": "2026-03-11T02:55:13Z"
+                },
+                {
+                    "text": "Placement",
+                    "author": "@StefaniaBelfi",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T13:08:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081916",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "You could have full counterd pekka if better placement",
+                    "author": "@Spyryninja",
+                    "likes": 3,
+                    "publishedAt": "2026-03-11T10:46:27Z"
+                },
+                {
+                    "text": "Placement",
+                    "author": "@StefaniaBelfi",
+                    "likes": 2,
+                    "publishedAt": "2026-03-10T13:08:08Z"
+                },
+                {
+                    "text": "Good",
+                    "author": "@itadori_cold",
+                    "likes": 0,
+                    "publishedAt": "2026-03-11T02:55:13Z"
+                }
+            ]
+        }
+    ]
+}

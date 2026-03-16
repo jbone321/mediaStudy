@@ -1,0 +1,22 @@
+{
+    "videoId": "9Vc8t4mX3Lg",
+    "history": [
+        {
+            "fetchedAt": "20260307_050020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260309_071332",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Very interesting",
+                    "author": "@Meena-c4q9s",
+                    "likes": 1,
+                    "publishedAt": "2026-03-07T15:30:40Z"
+                }
+            ]
+        }
+    ]
+}

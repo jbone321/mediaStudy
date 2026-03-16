@@ -1,0 +1,59 @@
+{
+    "videoId": "5zT7kVL2AKQ",
+    "history": [
+        {
+            "fetchedAt": "20260310_160014",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Exelente profe",
+                    "author": "@LeiginierVargasC\u00e9spedes",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T14:59:54Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260311_071707",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Exelente profe",
+                    "author": "@LeiginierVargasC\u00e9spedes",
+                    "likes": 2,
+                    "publishedAt": "2026-03-10T14:59:54Z"
+                },
+                {
+                    "text": "Hermosa progrecion de acordes me encanto!!!!",
+                    "author": "@MarianoGim\u00e9nez-n9d",
+                    "likes": 0,
+                    "publishedAt": "2026-03-11T02:43:03Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260315_081726",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Exelente profe",
+                    "author": "@LeiginierVargasC\u00e9spedes",
+                    "likes": 2,
+                    "publishedAt": "2026-03-10T14:59:54Z"
+                },
+                {
+                    "text": "Hermosa progrecion de acordes me encanto!!!!",
+                    "author": "@MarianoGim\u00e9nez-n9d",
+                    "likes": 1,
+                    "publishedAt": "2026-03-11T02:43:03Z"
+                },
+                {
+                    "text": "The content is clear and easy to follow It helped me understand better.",
+                    "author": "@DenimShuttle",
+                    "likes": 0,
+                    "publishedAt": "2026-03-11T04:48:34Z"
+                }
+            ]
+        }
+    ]
+}

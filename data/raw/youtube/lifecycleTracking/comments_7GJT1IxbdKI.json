@@ -5,6 +5,18 @@
             "fetchedAt": "20260302_230017",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260306_081111",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "He was tasked by the gods to kill Ares",
+                    "author": "@LeranckNgataki",
+                    "likes": 1,
+                    "publishedAt": "2026-03-05T19:45:55Z"
+                }
+            ]
         }
     ]
 }

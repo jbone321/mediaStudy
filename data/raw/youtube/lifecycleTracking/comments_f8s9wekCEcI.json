@@ -1,0 +1,47 @@
+{
+    "videoId": "f8s9wekCEcI",
+    "history": [
+        {
+            "fetchedAt": "20260309_220013",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Mi favorita m\u00fasica \u2764\ud83d\ude2e\ud83e\udd77\ud83d\ude0e",
+                    "author": "@DavidHernandez-u8m4j",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T20:55:05Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260310_071640",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Mi favorita m\u00fasica \u2764\ud83d\ude2e\ud83e\udd77\ud83d\ude0e",
+                    "author": "@DavidHernandez-u8m4j",
+                    "likes": 2,
+                    "publishedAt": "2026-03-09T20:55:05Z"
+                },
+                {
+                    "text": "Amooo",
+                    "author": "@SILVIAELENAALBINO-d8x",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T00:13:34Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071635",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Amooo",
+                    "author": "@SILVIAELENAALBINO-d8x",
+                    "likes": 1,
+                    "publishedAt": "2026-03-10T00:13:34Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "videoId": "VK798cYefak",
+    "history": [
+        {
+            "fetchedAt": "20260314_170009",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260315_081914",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Very nice edit",
+                    "author": "@GauravMandal-e3y",
+                    "likes": 1,
+                    "publishedAt": "2026-03-15T00:47:35Z"
+                },
+                {
+                    "text": "Can you do hotel room plss or tu boda",
+                    "author": "@rubyg-x5d",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T21:44:16Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071843",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Very nice edit",
+                    "author": "@GauravMandal-e3y",
+                    "likes": 2,
+                    "publishedAt": "2026-03-15T00:47:35Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764",
+                    "author": "@Pedro.fernado",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T21:34:53Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@MarkElias-g8l",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T19:14:19Z"
+                },
+                {
+                    "text": "Can you do hotel room plss or tu boda",
+                    "author": "@rubyg-x5d",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T21:44:16Z"
+                },
+                {
+                    "text": "\u2764\ud83d\ude0a",
+                    "author": "@VanesaLuna-w9s",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T22:56:21Z"
+                }
+            ]
+        }
+    ]
+}

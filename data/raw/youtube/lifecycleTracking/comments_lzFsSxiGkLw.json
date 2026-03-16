@@ -1,0 +1,40 @@
+{
+    "videoId": "lzFsSxiGkLw",
+    "history": [
+        {
+            "fetchedAt": "20260309_220011",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260311_071641",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "That is beautiful",
+                    "author": "@TrishLawrence-q1v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T14:39:12Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081913",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@heathergalbraith367",
+                    "likes": 0,
+                    "publishedAt": "2026-03-11T11:34:42Z"
+                },
+                {
+                    "text": "That is beautiful",
+                    "author": "@TrishLawrence-q1v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T14:39:12Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "videoId": "7yv7ZN1SZDM",
+    "history": [
+        {
+            "fetchedAt": "20260306_110018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260307_081330",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "L",
+                    "author": "@ManuelAlonz0-p3z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-06T23:00:47Z"
+                }
+            ]
+        }
+    ]
+}

@@ -30,6 +30,36 @@
                     "publishedAt": "2026-02-20T13:19:16Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260306_080452",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "is it easier with the straight hair",
+                    "author": "@grwMila1",
+                    "likes": 3,
+                    "publishedAt": "2026-02-17T19:26:46Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260307_080454",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "is it easier with the straight hair",
+                    "author": "@grwMila1",
+                    "likes": 3,
+                    "publishedAt": "2026-02-17T19:26:46Z"
+                },
+                {
+                    "text": "\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udde1\ud83e\udde1\ud83e\udde1\ud83e\udde1\ud83e\udde1\ud83d\udc96\ud83c\udf3a\ud83d\udc90\u2728\ufe0f\ud83d\udcaf\ud83d\udc78\ud83e\uddda\u200d\u2640\ufe0f",
+                    "author": "@ChristelleNiongwa",
+                    "likes": 1,
+                    "publishedAt": "2026-02-20T13:19:16Z"
+                }
+            ]
         }
     ]
 }

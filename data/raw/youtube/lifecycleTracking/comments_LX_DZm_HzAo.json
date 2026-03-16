@@ -1,0 +1,59 @@
+{
+    "videoId": "LX_DZm_HzAo",
+    "history": [
+        {
+            "fetchedAt": "20260307_050014",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "I like cool music \ud83d\udc97\ud83d\udc97\ud83d\udc97",
+                    "author": "@\ubcf5\uc2dc\ub9ac\uc544\ube60",
+                    "likes": 1,
+                    "publishedAt": "2026-03-07T03:10:51Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260307_081358",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "I like cool music \ud83d\udc97\ud83d\udc97\ud83d\udc97",
+                    "author": "@\ubcf5\uc2dc\ub9ac\uc544\ube60",
+                    "likes": 1,
+                    "publishedAt": "2026-03-07T03:10:51Z"
+                },
+                {
+                    "text": "Albert with smile marimar ko \ud83d\udc41\ufe0f\u2764\ufe0f\ud83e\udd70\ud83d\ude0e\ud83d\udcde\ud83d\ude18\ud83d\udc8b\ud83e\udec2 mahal ko nandito sa kabilangkapitbhay gamit ko Ng wifi pra satin YouTube",
+                    "author": "@VilmaLabrague-q5l",
+                    "likes": 0,
+                    "publishedAt": "2026-03-07T06:56:01Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260309_071326",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "I like cool music \ud83d\udc97\ud83d\udc97\ud83d\udc97",
+                    "author": "@\ubcf5\uc2dc\ub9ac\uc544\ube60",
+                    "likes": 4,
+                    "publishedAt": "2026-03-07T03:10:51Z"
+                },
+                {
+                    "text": "Albert with smile marimar ko \ud83d\udc41\ufe0f\u2764\ufe0f\ud83e\udd70\ud83d\ude0e\ud83d\udcde\ud83d\ude18\ud83d\udc8b\ud83e\udec2 mahal ko nandito sa kabilangkapitbhay gamit ko Ng wifi pra satin YouTube",
+                    "author": "@VilmaLabrague-q5l",
+                    "likes": 3,
+                    "publishedAt": "2026-03-07T06:56:01Z"
+                },
+                {
+                    "text": "Beautiful song.",
+                    "author": "@mariacervantes806",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T05:43:22Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "videoId": "HfqnTlEh7ec",
+    "history": [
+        {
+            "fetchedAt": "20260307_230014",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "stone temple pilots \ud83d\udd25",
+                    "author": "@pedrovictor9004",
+                    "likes": 0,
+                    "publishedAt": "2026-03-07T22:24:32Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260309_071402",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\"And I feeeeel!\"",
+                    "author": "@LostDreams1888",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T14:18:18Z"
+                },
+                {
+                    "text": "stone temple pilots \ud83d\udd25",
+                    "author": "@pedrovictor9004",
+                    "likes": 1,
+                    "publishedAt": "2026-03-07T22:24:32Z"
+                }
+            ]
+        }
+    ]
+}

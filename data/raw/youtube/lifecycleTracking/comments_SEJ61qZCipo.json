@@ -1,0 +1,40 @@
+{
+    "videoId": "SEJ61qZCipo",
+    "history": [
+        {
+            "fetchedAt": "20260314_170008",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260315_081913",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "1-\ud83e\ude77 4-\ud83d\udc9a",
+                    "author": "@isabellejacob4522",
+                    "likes": 2,
+                    "publishedAt": "2026-03-14T18:51:41Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071843",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "1-\ud83e\ude77 4-\ud83d\udc9a",
+                    "author": "@isabellejacob4522",
+                    "likes": 2,
+                    "publishedAt": "2026-03-14T18:51:41Z"
+                },
+                {
+                    "text": "1-\ud83e\ude77 4-\ud83d\udc9a",
+                    "author": "@RandaRoberts-r1m",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T18:04:06Z"
+                }
+            ]
+        }
+    ]
+}

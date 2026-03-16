@@ -1,0 +1,27 @@
+{
+    "videoId": "6T9p52rv2FY",
+    "history": [
+        {
+            "fetchedAt": "20260312_230019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260313_082043",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "top",
+                    "author": "@petrosyonah7820",
+                    "likes": 1,
+                    "publishedAt": "2026-03-13T00:52:52Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071749",
+            "commentCount": 0,
+            "comments": []
+        }
+    ]
+}

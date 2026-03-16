@@ -1,0 +1,22 @@
+{
+    "videoId": "b_QYbMPeLPs",
+    "history": [
+        {
+            "fetchedAt": "20260306_170017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260310_071403",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Fai il video",
+                    "author": "@Ruben1-g8k",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T17:30:32Z"
+                }
+            ]
+        }
+    ]
+}

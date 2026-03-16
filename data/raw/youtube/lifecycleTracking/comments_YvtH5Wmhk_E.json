@@ -1,0 +1,64 @@
+{
+    "videoId": "YvtH5Wmhk_E",
+    "history": [
+        {
+            "fetchedAt": "20260309_040015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260310_071606",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\uc778\uc5b4\uc758 \ubcf5\uadfc.\ud83d\ude05",
+                    "author": "@\ud0b4\uc775\uba85",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T11:40:19Z"
+                },
+                {
+                    "text": "\ub808\ubeec\uaebc",
+                    "author": "@\ud6cc\ub96d\ud55c\uc18c\uc2dd",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T07:32:32Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260311_071606",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ub808\ubeec\uaebc",
+                    "author": "@\ud6cc\ub96d\ud55c\uc18c\uc2dd",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T07:32:32Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081833",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\uad6d\ubbfc\ud559\uad50 \ub2e4\ub2c8\ub358 \uc2dc\uc808\uc5d4 \ubab0\ub790\ub294\ub370..\n\uc9c0\uae08 \ubcf4\ub2c8\uae4c \uc778\uc5b4\uac00 \uc6b4\ub3d9\uc744 \ub9ce\uc774 \ud588\uc5c8\ub124...",
+                    "author": "@valken5119",
+                    "likes": 1,
+                    "publishedAt": "2026-03-12T16:42:45Z"
+                },
+                {
+                    "text": "\ub808\ubeec\uaebc",
+                    "author": "@\ud6cc\ub96d\ud55c\uc18c\uc2dd",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T07:32:32Z"
+                },
+                {
+                    "text": "\uc778\uc5b4\uc758 \ubcf5\uadfc.\ud83d\ude05",
+                    "author": "@\ud0b4\uc775\uba85",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T11:40:19Z"
+                }
+            ]
+        }
+    ]
+}

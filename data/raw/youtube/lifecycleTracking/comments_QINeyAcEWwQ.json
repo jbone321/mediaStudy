@@ -5,6 +5,18 @@
             "fetchedAt": "20260228_170019",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260309_070904",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Top",
+                    "author": "@asafjogo",
+                    "likes": 2,
+                    "publishedAt": "2026-03-07T18:43:31Z"
+                }
+            ]
         }
     ]
 }

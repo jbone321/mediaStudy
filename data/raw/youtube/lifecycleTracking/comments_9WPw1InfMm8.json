@@ -1,0 +1,40 @@
+{
+    "videoId": "9WPw1InfMm8",
+    "history": [
+        {
+            "fetchedAt": "20260306_110020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260307_081331",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u041c\u0410\u0428\u0410\u0410\u041b\u041b\u0410\u0425",
+                    "author": "@\u0422\u041e\u0422\u0421\u0410\u041c\u042b\u0419\u041f\u0410\u0420\u0415\u041d",
+                    "likes": 0,
+                    "publishedAt": "2026-03-07T06:15:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260309_071259",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u041c\u0410\u0428\u0410\u0410\u041b\u041b\u0410\u0425",
+                    "author": "@\u0422\u041e\u0422\u0421\u0410\u041c\u042b\u0419\u041f\u0410\u0420\u0415\u041d",
+                    "likes": 0,
+                    "publishedAt": "2026-03-07T06:15:21Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@AiEntertainment-2025",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T04:15:34Z"
+                }
+            ]
+        }
+    ]
+}

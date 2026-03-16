@@ -1,0 +1,95 @@
+{
+    "videoId": "IFe4pKhx4nE",
+    "history": [
+        {
+            "fetchedAt": "20260309_220018",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Very classy! Love it",
+                    "author": "@MissLiluka",
+                    "likes": 2,
+                    "publishedAt": "2026-03-09T19:36:50Z"
+                },
+                {
+                    "text": "Very sharp! Love the hat!",
+                    "author": "@Marcosmos747",
+                    "likes": 2,
+                    "publishedAt": "2026-03-09T18:17:30Z"
+                },
+                {
+                    "text": "Nice",
+                    "author": "@Razielschenkler",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T18:41:30Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260310_071645",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Very classy! Love it",
+                    "author": "@MissLiluka",
+                    "likes": 2,
+                    "publishedAt": "2026-03-09T19:36:50Z"
+                },
+                {
+                    "text": "Very sharp! Love the hat!",
+                    "author": "@Marcosmos747",
+                    "likes": 2,
+                    "publishedAt": "2026-03-09T18:17:30Z"
+                },
+                {
+                    "text": "Simple and elegant. Nice work",
+                    "author": "@DavidSequeira-k2z",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T23:05:29Z"
+                },
+                {
+                    "text": "Nice",
+                    "author": "@Razielschenkler",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T18:41:30Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081922",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Amazing!!",
+                    "author": "@gamalalagi3697",
+                    "likes": 1,
+                    "publishedAt": "2026-03-13T03:48:57Z"
+                },
+                {
+                    "text": "Simple and elegant. Nice work",
+                    "author": "@DavidSequeira-k2z",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T23:05:29Z"
+                },
+                {
+                    "text": "Very classy! Love it",
+                    "author": "@MissLiluka",
+                    "likes": 2,
+                    "publishedAt": "2026-03-09T19:36:50Z"
+                },
+                {
+                    "text": "Very sharp! Love the hat!",
+                    "author": "@Marcosmos747",
+                    "likes": 2,
+                    "publishedAt": "2026-03-09T18:17:30Z"
+                },
+                {
+                    "text": "Nice",
+                    "author": "@Razielschenkler",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T18:41:30Z"
+                }
+            ]
+        }
+    ]
+}

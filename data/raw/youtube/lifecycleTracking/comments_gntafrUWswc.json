@@ -1,0 +1,35 @@
+{
+    "videoId": "gntafrUWswc",
+    "history": [
+        {
+            "fetchedAt": "20260315_110025",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nice job\ud83c\udf89\ud83c\udf89",
+                    "author": "@DutchCarpFishing-o1i",
+                    "likes": 1,
+                    "publishedAt": "2026-03-15T04:09:07Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071856",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Gracias maestra por compartir sus conocimientos, bonito d\u00eda",
+                    "author": "@doroteocarbajalcarrasco3508",
+                    "likes": 1,
+                    "publishedAt": "2026-03-15T16:14:01Z"
+                },
+                {
+                    "text": "Nice job\ud83c\udf89\ud83c\udf89",
+                    "author": "@DutchCarpFishing-o1i",
+                    "likes": 1,
+                    "publishedAt": "2026-03-15T04:09:07Z"
+                }
+            ]
+        }
+    ]
+}

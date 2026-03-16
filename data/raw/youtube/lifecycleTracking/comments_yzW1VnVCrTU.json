@@ -1,0 +1,76 @@
+{
+    "videoId": "yzW1VnVCrTU",
+    "history": [
+        {
+            "fetchedAt": "20260314_082022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260315_081839",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83e\udd70",
+                    "author": "@Vel-oriaSounds",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T14:45:19Z"
+                },
+                {
+                    "text": "Bloco   offe",
+                    "author": "@EdsonCaba\u00e7a-u9r",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T09:20:05Z"
+                },
+                {
+                    "text": "Coladeira",
+                    "author": "@EdsonCaba\u00e7a-u9r",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T09:18:43Z"
+                },
+                {
+                    "text": "\u2079\nBebo",
+                    "author": "@EdsonCaba\u00e7a-u9r",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T09:26:43Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071809",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Every track in this mix is amazing",
+                    "author": "@MidnightSmokeVibes-n8h",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T07:29:25Z"
+                },
+                {
+                    "text": "Bloco   offe",
+                    "author": "@EdsonCaba\u00e7a-u9r",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T09:20:05Z"
+                },
+                {
+                    "text": "\ud83e\udd70",
+                    "author": "@Vel-oriaSounds",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T14:45:19Z"
+                },
+                {
+                    "text": "Coladeira",
+                    "author": "@EdsonCaba\u00e7a-u9r",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T09:18:43Z"
+                },
+                {
+                    "text": "\u2079\nBebo",
+                    "author": "@EdsonCaba\u00e7a-u9r",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T09:26:43Z"
+                }
+            ]
+        }
+    ]
+}

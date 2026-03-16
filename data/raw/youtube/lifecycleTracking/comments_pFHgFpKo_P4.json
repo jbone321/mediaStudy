@@ -1,0 +1,70 @@
+{
+    "videoId": "pFHgFpKo_P4",
+    "history": [
+        {
+            "fetchedAt": "20260309_160015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260310_071628",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\u2764",
+                    "author": "@melcowgaming4322",
+                    "likes": 2,
+                    "publishedAt": "2026-03-09T16:11:32Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081901",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@Aashishmadhu",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T11:34:51Z"
+                },
+                {
+                    "text": "\ud83d\ude22\u2764",
+                    "author": "@melcowgaming4322",
+                    "likes": 3,
+                    "publishedAt": "2026-03-09T16:11:32Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260315_081646",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Dileep \u2764",
+                    "author": "@mohammadunaiscoorg",
+                    "likes": 2,
+                    "publishedAt": "2026-03-14T08:23:47Z"
+                },
+                {
+                    "text": "Dileep+harisree ashokan\ud83d\ude22",
+                    "author": "@agentawm-r2b",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T13:32:29Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@Aashishmadhu",
+                    "likes": 1,
+                    "publishedAt": "2026-03-12T11:34:51Z"
+                },
+                {
+                    "text": "\ud83d\ude22\u2764",
+                    "author": "@melcowgaming4322",
+                    "likes": 4,
+                    "publishedAt": "2026-03-09T16:11:32Z"
+                }
+            ]
+        }
+    ]
+}

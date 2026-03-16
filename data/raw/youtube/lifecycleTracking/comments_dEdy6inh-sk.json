@@ -1,0 +1,35 @@
+{
+    "videoId": "dEdy6inh-sk",
+    "history": [
+        {
+            "fetchedAt": "20260316_040009",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Tacobellion went up, 12 puhcent",
+                    "author": "@matthewstivaletti5288",
+                    "likes": 0,
+                    "publishedAt": "2026-03-16T02:36:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260316_071900",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Tacobellion went up, 12 puhcent",
+                    "author": "@matthewstivaletti5288",
+                    "likes": 1,
+                    "publishedAt": "2026-03-16T02:36:24Z"
+                },
+                {
+                    "text": "So he is alive\ud83d\udc94",
+                    "author": "@ColaDBL",
+                    "likes": 0,
+                    "publishedAt": "2026-03-16T04:31:25Z"
+                }
+            ]
+        }
+    ]
+}

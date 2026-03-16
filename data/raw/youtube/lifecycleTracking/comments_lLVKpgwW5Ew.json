@@ -1,0 +1,40 @@
+{
+    "videoId": "lLVKpgwW5Ew",
+    "history": [
+        {
+            "fetchedAt": "20260308_160025",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260309_071445",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "true definition of trusting the process",
+                    "author": "@onetwothreecats",
+                    "likes": 3,
+                    "publishedAt": "2026-03-08T19:08:43Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260311_071546",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "true definition of trusting the process",
+                    "author": "@onetwothreecats",
+                    "likes": 7,
+                    "publishedAt": "2026-03-08T19:08:43Z"
+                },
+                {
+                    "text": "Wow so cool\u2764",
+                    "author": "@from_eightsa",
+                    "likes": 1,
+                    "publishedAt": "2026-03-10T08:28:49Z"
+                }
+            ]
+        }
+    ]
+}

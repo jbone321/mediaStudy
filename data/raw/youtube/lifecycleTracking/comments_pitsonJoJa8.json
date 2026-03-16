@@ -1,0 +1,59 @@
+{
+    "videoId": "pitsonJoJa8",
+    "history": [
+        {
+            "fetchedAt": "20260312_230017",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Bravooo",
+                    "author": "@SavaDinu-t8n",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T17:25:38Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260314_081958",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+                    "author": "@adysergiu873",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T06:57:43Z"
+                },
+                {
+                    "text": "Bravooo",
+                    "author": "@SavaDinu-t8n",
+                    "likes": 2,
+                    "publishedAt": "2026-03-12T17:25:38Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260315_081817",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Bravooo",
+                    "author": "@SavaDinu-t8n",
+                    "likes": 2,
+                    "publishedAt": "2026-03-12T17:25:38Z"
+                },
+                {
+                    "text": "ADEV\u0102RAT!!!",
+                    "author": "@Ana-MariaVolosincu",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T18:56:49Z"
+                },
+                {
+                    "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+                    "author": "@adysergiu873",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T06:57:43Z"
+                }
+            ]
+        }
+    ]
+}

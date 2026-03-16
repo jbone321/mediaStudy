@@ -1,0 +1,28 @@
+{
+    "videoId": "pTyoW4ykoVQ",
+    "history": [
+        {
+            "fetchedAt": "20260306_110013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260307_081325",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "She's not singing that",
+                    "author": "@rhondagates3060",
+                    "likes": 0,
+                    "publishedAt": "2026-03-06T21:42:25Z"
+                },
+                {
+                    "text": "Boo! Horrible!",
+                    "author": "@mhagen2970",
+                    "likes": 0,
+                    "publishedAt": "2026-03-07T04:09:34Z"
+                }
+            ]
+        }
+    ]
+}

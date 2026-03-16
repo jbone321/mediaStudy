@@ -1,0 +1,77 @@
+{
+    "videoId": "xtgAVlYVSy4",
+    "history": [
+        {
+            "fetchedAt": "20260307_050018",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Purple",
+                    "author": "@Tamim-t9t",
+                    "likes": 0,
+                    "publishedAt": "2026-03-07T02:19:43Z"
+                },
+                {
+                    "text": "Nik me dice usted y me avis si va\u2764",
+                    "author": "@JesusJoelMendozacastro-e4b",
+                    "likes": 0,
+                    "publishedAt": "2026-03-07T02:45:32Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260309_071330",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@angiemichellegarcialopez6190",
+                    "likes": 0,
+                    "publishedAt": "2026-03-08T20:29:13Z"
+                },
+                {
+                    "text": "Nik me dice usted y me avis si va\u2764",
+                    "author": "@JesusJoelMendozacastro-e4b",
+                    "likes": 1,
+                    "publishedAt": "2026-03-07T02:45:32Z"
+                },
+                {
+                    "text": "Purple",
+                    "author": "@Tamim-t9t",
+                    "likes": 3,
+                    "publishedAt": "2026-03-07T02:19:43Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081638",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "The only thing that is not in this picture is a white shirt and black shirt and a blue shirt with",
+                    "author": "@nidhinamdev9111",
+                    "likes": 0,
+                    "publishedAt": "2026-03-11T13:12:13Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@angiemichellegarcialopez6190",
+                    "likes": 0,
+                    "publishedAt": "2026-03-08T20:29:13Z"
+                },
+                {
+                    "text": "Nik me dice usted y me avis si va\u2764",
+                    "author": "@JesusJoelMendozacastro-e4b",
+                    "likes": 3,
+                    "publishedAt": "2026-03-07T02:45:32Z"
+                },
+                {
+                    "text": "Purple",
+                    "author": "@Tamim-t9t",
+                    "likes": 4,
+                    "publishedAt": "2026-03-07T02:19:43Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "videoId": "koPuTJaZ1dU",
+    "history": [
+        {
+            "fetchedAt": "20260310_100015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260315_081713",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u0421\u0443\u043f\u0435\u0440\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@BekzodUmirov-o3w",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T20:45:33Z"
+                },
+                {
+                    "text": "\u0411\u041e\u041b\u0410\u041b\u0410\u0420 1989 \u0439\u0438\u043b\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\u2764\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@BekzodUmirov-o3w",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T20:46:24Z"
+                }
+            ]
+        }
+    ]
+}

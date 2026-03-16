@@ -1,0 +1,64 @@
+{
+    "videoId": "TPDz4Aha7S8",
+    "history": [
+        {
+            "fetchedAt": "20260308_100018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260310_071530",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "x = 3\n3^4 + 3^2 = 81 + 9 = 90\n\nOkay, that's not what you call a 'solution', but it was too obvious.\n\nHelpful to know the powers of a number by heart: 3 - 9  - 27 - 81 - 243 - 729 - 2187 - 6561 - 19683 - 59049 - 177147 - 531441 - etc.",
+                    "author": "@frankyboy1131",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T01:21:56Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260313_081751",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "3(3^x)+1/3(3^x)=90\n3^x=90\u00d73/10=27\nx=3",
+                    "author": "@russelltaylor7415",
+                    "likes": 1,
+                    "publishedAt": "2026-03-11T08:40:41Z"
+                },
+                {
+                    "text": "x = 3\n3^4 + 3^2 = 81 + 9 = 90\n\nOkay, that's not what you call a 'solution', but it was too obvious.\n\nHelpful to know the powers of a number by heart: 3 - 9  - 27 - 81 - 243 - 729 - 2187 - 6561 - 19683 - 59049 - 177147 - 531441 - etc.",
+                    "author": "@frankyboy1131",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T01:21:56Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260314_081714",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "3(3^x)+1/3(3^x)=90\n3^x=90\u00d73/10=27\nx=3",
+                    "author": "@russelltaylor7415",
+                    "likes": 1,
+                    "publishedAt": "2026-03-11T08:40:41Z"
+                },
+                {
+                    "text": "X=3ansji",
+                    "author": "@Keshavsilwalkeshav",
+                    "likes": 0,
+                    "publishedAt": "2026-03-13T09:16:41Z"
+                },
+                {
+                    "text": "x = 3\n3^4 + 3^2 = 81 + 9 = 90\n\nOkay, that's not what you call a 'solution', but it was too obvious.\n\nHelpful to know the powers of a number by heart: 3 - 9  - 27 - 81 - 243 - 729 - 2187 - 6561 - 19683 - 59049 - 177147 - 531441 - etc.",
+                    "author": "@frankyboy1131",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T01:21:56Z"
+                }
+            ]
+        }
+    ]
+}

@@ -5,6 +5,54 @@
             "fetchedAt": "20260227_110027",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260306_080806",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nderek Amreksani.  \ud83d\ude2e\ud83d\ude2e",
+                    "author": "@handokosriyono156",
+                    "likes": 1,
+                    "publishedAt": "2026-03-05T22:14:02Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260309_070757",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Nderek Amreksani.  \ud83d\ude2e\ud83d\ude2e",
+                    "author": "@handokosriyono156",
+                    "likes": 2,
+                    "publishedAt": "2026-03-05T22:14:02Z"
+                },
+                {
+                    "text": "Assalamualaikum nderek nyimak Budoyo mba",
+                    "author": "@miswantomiswanto4070",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T03:30:20Z"
+                },
+                {
+                    "text": "Salam Budoyo indonesia",
+                    "author": "@miswantomiswanto4070",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T03:30:39Z"
+                },
+                {
+                    "text": "Mba semoga sukses Yo mba",
+                    "author": "@miswantomiswanto4070",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T03:31:56Z"
+                },
+                {
+                    "text": "Ko mirip mba intan kadewei",
+                    "author": "@miswantomiswanto4070",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T03:32:38Z"
+                }
+            ]
         }
     ]
 }

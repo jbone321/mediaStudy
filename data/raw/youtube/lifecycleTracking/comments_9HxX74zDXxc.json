@@ -1,0 +1,101 @@
+{
+    "videoId": "9HxX74zDXxc",
+    "history": [
+        {
+            "fetchedAt": "20260309_040013",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Let me dive in",
+                    "author": "@ug_fuga",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T19:34:37Z"
+                },
+                {
+                    "text": "As always \ud83d\udd25\ud83d\udd25",
+                    "author": "@prodmuzu",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T02:02:09Z"
+                },
+                {
+                    "text": "\ud83d\udd25",
+                    "author": "@thamesbeatz",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T01:16:30Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260310_071603",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Fire breakdown \ud83d\udcab",
+                    "author": "@RickyyPhantom",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T03:24:52Z"
+                },
+                {
+                    "text": "Let me dive in",
+                    "author": "@ug_fuga",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T19:34:37Z"
+                },
+                {
+                    "text": "As always \ud83d\udd25\ud83d\udd25",
+                    "author": "@prodmuzu",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T02:02:09Z"
+                },
+                {
+                    "text": "\ud83d\udd25",
+                    "author": "@thamesbeatz",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T01:16:30Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260311_071603",
+            "commentCount": 6,
+            "comments": [
+                {
+                    "text": "Fire breakdown \ud83d\udcab",
+                    "author": "@RickyyPhantom",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T03:24:52Z"
+                },
+                {
+                    "text": "Let me dive in",
+                    "author": "@ug_fuga",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T19:34:37Z"
+                },
+                {
+                    "text": "so good",
+                    "author": "@KavanDignam",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T13:01:09Z"
+                },
+                {
+                    "text": "Bro you must to drop the part 3 asap",
+                    "author": "@666azucargonorrea",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T21:59:46Z"
+                },
+                {
+                    "text": "As always \ud83d\udd25\ud83d\udd25",
+                    "author": "@prodmuzu",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T02:02:09Z"
+                },
+                {
+                    "text": "\ud83d\udd25",
+                    "author": "@thamesbeatz",
+                    "likes": 0,
+                    "publishedAt": "2026-03-09T01:16:30Z"
+                }
+            ]
+        }
+    ]
+}

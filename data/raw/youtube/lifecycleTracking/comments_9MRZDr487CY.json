@@ -5,6 +5,30 @@
             "fetchedAt": "20260304_110018",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260306_081214",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Dobrej zabawy jest czas",
+                    "author": "@WiolettaSkieresz-l9v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-05T13:12:51Z"
+                },
+                {
+                    "text": "Dzi\u015b weso\u0142o my chcemy \u017cy\u0107",
+                    "author": "@WiolettaSkieresz-l9v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-05T13:13:08Z"
+                },
+                {
+                    "text": "Tylko z dobr\u0105 piosenk\u0105 my bawimy si\u0119",
+                    "author": "@WiolettaSkieresz-l9v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-05T13:13:29Z"
+                }
+            ]
         }
     ]
 }
