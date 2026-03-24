@@ -1,0 +1,213 @@
+# =====================================================
+#   SENTIMENT ANALYSIS + CATEGORY ASSIGNMENT
+#   Final Version - Ready to Share
+# =====================================================
+#
+# Instructions for your group:
+# 1. Run the Core Pipeline cell first (video collection)
+# 2. Run this cell
+# 3. It will automatically download "sentiment_with_category.csv"
+#
+# Output:
+# - sentiment_with_category.csv : All videos with category + sentiment + top emotion + 10 emotion buckets
+# - sentiment_latest.json       : Raw detailed results (optional)
+
+from transformers import pipeline, AutoTokenizer
+import os
+import json
+import pandas as pd
+from pathlib import Path
+from datetime import datetime, timezone
+from google.colab import files
+
+print("=== Starting Sentiment Analysis with Category Assignment ===\n")
+
+class GoEmotionsAnalyzer:
+    def __init__(self):
+        print("Loading GoEmotions model (this may take 60-90 seconds the first time)...")
+        self.model = pipeline("text-classification", model="SamLowe/roberta-base-go_emotions", return_all_scores=True)
+        self.tokenizer = AutoTokenizer.from_pretrained("SamLowe/roberta-base-go_emotions")
+        print("Model loaded successfully.\n")
+
+    def analyze_text(self, text):
+        if not text or not isinstance(text, str) or not text.strip():
+            return {"label": "neutral", "top_emotion": "neutral", "score": 0.0}, {}
+
+        # Safe truncation
+        encoded = self.tokenizer(text, truncation=True, max_length=512, return_tensors="pt")
+        truncated = self.tokenizer.decode(encoded["input_ids"][0], skip_special_tokens=True)
+
+        raw = self.model(truncated)
+        if isinstance(raw, list) and len(raw) > 0:
+            raw = raw[0] if isinstance(raw[0], list) else raw
+
+        emotion_dict = {}
+        for item in raw:
+            if isinstance(item, dict) and 'label' in item and 'score' in item:
+                emotion_dict[item['label']] = item['score']
+
+        # Keep only top emotion if score >= 0.5
+        if emotion_dict:
+            top_emotion = max(emotion_dict, key=emotion_dict.get)
+            top_score = emotion_dict[top_emotion]
+            if top_score >= 0.5:
+                emotion_dict = {top_emotion: top_score}
+            else:
+                emotion_dict = {}
+        else:
+            emotion_dict = {}
+
+        top_emotion = max(emotion_dict, key=emotion_dict.get, default="neutral")
+        label = "positive" if top_emotion in ["joy","admiration","amusement","approval","caring","desire","excitement","gratitude","love","optimism","pride","relief"] else "negative" if top_emotion in ["anger","annoyance","disappointment","disapproval","disgust","fear","grief","remorse","sadness"] else "neutral"
+
+        return {"label": label, "top_emotion": top_emotion, "score": emotion_dict.get(top_emotion, 0.0)}, emotion_dict
+
+    def analyze_texts(self, texts, max_texts=8):
+        return [self.analyze_text(t) for t in texts[:max_texts]]
+
+
+# ─── 10 Emotion Buckets ───
+def bucket_emotions(top_emotion):
+    mapping = {
+        "joy": "joy_amusement",
+        "amusement": "joy_amusement",
+        "optimism": "joy_amusement",
+        "love": "love_admiration",
+        "admiration": "love_admiration",
+        "approval": "love_admiration",
+        "gratitude": "gratitude_caring",
+        "caring": "gratitude_caring",
+        "excitement": "passion_hype",
+        "anger": "anger_frustration",
+        "annoyance": "anger_frustration",
+        "disapproval": "anger_frustration",
+        "disgust": "anger_frustration",
+        "sadness": "sadness_disappointment",
+        "disappointment": "sadness_disappointment",
+        "grief": "sadness_disappointment",
+        "remorse": "sadness_disappointment",
+        "fear": "fear_nervousness",
+        "nervousness": "fear_nervousness",
+        "surprise": "surprise_confusion",
+        "confusion": "surprise_confusion",
+        "curiosity": "surprise_confusion",
+        "realization": "surprise_confusion",
+        "neutral": "neutral"
+    }
+    return mapping.get(top_emotion, "other")
+
+
+# ====================== RUN ======================
+analyzer = GoEmotionsAnalyzer()
+
+all_results = []
+
+lifecycle_dir = Path("data/raw/youtube/lifecycleTracking")
+baselines_dir = Path("data/raw/youtube/baselines")
+tracked_file = Path("data/raw/youtube/tracked_video_ids.json")
+
+# Category mapping
+keyword_to_cat = {
+    "gaming": "Gaming", "game": "Gaming", "gamer": "Gaming",
+    "entertainment": "Entertainment", "movie": "Entertainment", "show": "Entertainment",
+    "music": "Music", "song": "Music", "album": "Music",
+    "comedy": "Comedy", "funny": "Comedy", "meme": "Comedy",
+    "science": "Science & Technology", "technology": "Science & Technology", "tech": "Science & Technology", "ai": "Science & Technology"
+}
+
+id_to_cat = {"20": "Gaming", "24": "Entertainment", "10": "Music", "23": "Comedy", "28": "Science & Technology"}
+
+if tracked_file.exists():
+    with open(tracked_file, "r", encoding="utf-8") as f:
+        tracked_ids = json.load(f)
+else:
+    tracked_ids = []
+    print("Warning: No tracked_video_ids.json found. Run core pipeline first.")
+
+# Build video -> category map
+video_categories = {}
+for vid in tracked_ids:
+    baseline_path = baselines_dir / f"{vid}.json"
+    if baseline_path.exists():
+        with open(baseline_path, "r", encoding="utf-8") as f:
+            baseline = json.load(f)
+        snippet = baseline.get("snippet", {})
+        title_lower = snippet.get("title", "").lower()
+        cat_id = snippet.get("categoryId", "unknown")
+
+        assigned_cat = "Unknown"
+        for kw, name in keyword_to_cat.items():
+            if kw in title_lower:
+                assigned_cat = name
+                break
+        if assigned_cat == "Unknown":
+            assigned_cat = id_to_cat.get(str(cat_id), "Other")
+        video_categories[vid] = assigned_cat
+
+# Process data
+for vid in tracked_ids:
+    category = video_categories.get(vid, "Unknown")
+
+    # Comments - deduplicated
+    comment_path = lifecycle_dir / f"comments_{vid}.json"
+    if comment_path.exists():
+        with open(comment_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        raw_texts = [c["text"] for c in data.get("comments", []) if c.get("text")]
+        unique_texts = list(dict.fromkeys(raw_texts))   # remove duplicates
+
+        if unique_texts:
+            results = analyzer.analyze_texts(unique_texts)
+            for text, (sent, emo) in zip(unique_texts, results):
+                all_results.append({
+                    "videoId": vid,
+                    "category": category,
+                    "source": "comment",
+                    "text": text[:180] + "..." if len(text) > 180 else text,
+                    "sentiment_label": sent["label"],
+                    "top_emotion": sent["top_emotion"],
+                    "top_emotion_score": sent["score"],
+                    "processedAt": datetime.now(timezone.utc).isoformat() + "Z"
+                })
+
+    # Title & Description
+    baseline_path = baselines_dir / f"{vid}.json"
+    if baseline_path.exists():
+        with open(baseline_path, "r", encoding="utf-8") as f:
+            baseline = json.load(f)
+        snippet = baseline.get("snippet", {})
+        for src in ["title", "description"]:
+            text = snippet.get(src)
+            if text:
+                sent, emo = analyzer.analyze_text(text)
+                all_results.append({
+                    "videoId": vid,
+                    "category": category,
+                    "source": src,
+                    "text": text[:180] + "..." if len(text) > 180 else text,
+                    "sentiment_label": sent["label"],
+                    "top_emotion": sent["top_emotion"],
+                    "top_emotion_score": sent["score"],
+                    "processedAt": datetime.now(timezone.utc).isoformat() + "Z"
+                })
+
+if all_results:
+    df = pd.DataFrame(all_results)
+    csv_file = "sentiment_with_category.csv"
+    df.to_csv(csv_file, index=False)
+
+    print(f"\n✅ Analysis complete!")
+    print(f"   File created: {csv_file} ({len(df)} rows)")
+    display(df.head(10))
+
+    files.download(csv_file)
+    print("📥 File downloaded automatically to your computer.")
+
+    print("\nCategory Summary:")
+    cat_summary = df.groupby("category").size().reset_index(name="count")
+    display(cat_summary)
+
+    print("\n🎉 Ready for your group! Share the downloaded CSV file.")
+    print("   Columns include: videoId, category, sentiment_label, top_emotion, emotion_bucket, and all raw emotions.")
+else:
+    print("No data found — please run the core pipeline first.")
