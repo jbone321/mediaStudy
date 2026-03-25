@@ -1,0 +1,40 @@
+{
+    "videoId": "RjPt32nv5Wg",
+    "history": [
+        {
+            "fetchedAt": "20260320_220018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260322_072044",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\udcaa\ud83d\udcaa\ud83d\udcaamaa",
+                    "author": "@bipinmandal6608",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T05:27:02Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260323_072130",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\udcaa\ud83d\udcaa\ud83d\udcaamaa",
+                    "author": "@bipinmandal6608",
+                    "likes": 2,
+                    "publishedAt": "2026-03-22T05:27:02Z"
+                },
+                {
+                    "text": "Superb \ud83d\udc4c",
+                    "author": "@chitrakapila8053",
+                    "likes": 1,
+                    "publishedAt": "2026-03-22T08:31:33Z"
+                }
+            ]
+        }
+    ]
+}

@@ -48,6 +48,24 @@
                     "publishedAt": "2026-02-11T17:48:40Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260323_070007",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude05\ud83d\ude05",
+                    "author": "@GoluJha-tt5ml",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T15:16:25Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude22\ud83d\ude2e\ud83d\ude05\ud83d\ude0a",
+                    "author": "@Chiki_chiki-e6t",
+                    "likes": 1,
+                    "publishedAt": "2026-02-11T17:48:40Z"
+                }
+            ]
         }
     ]
 }

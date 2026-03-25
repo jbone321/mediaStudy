@@ -1,0 +1,41 @@
+{
+    "videoId": "CrSeyU8Alkw",
+    "history": [
+        {
+            "fetchedAt": "20260322_220011",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Felicitari\u2764\u2764",
+                    "author": "@LucicaNeacsu-i5r",
+                    "likes": 1,
+                    "publishedAt": "2026-03-22T21:02:35Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260324_072305",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Doi frumosi!",
+                    "author": "@mitreavaly6837",
+                    "likes": 1,
+                    "publishedAt": "2026-03-23T12:04:28Z"
+                },
+                {
+                    "text": "Super \ud83e\udd70",
+                    "author": "@ancutagurban6998",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T14:15:15Z"
+                },
+                {
+                    "text": "Felicitari\u2764\u2764",
+                    "author": "@LucicaNeacsu-i5r",
+                    "likes": 2,
+                    "publishedAt": "2026-03-22T21:02:35Z"
+                }
+            ]
+        }
+    ]
+}

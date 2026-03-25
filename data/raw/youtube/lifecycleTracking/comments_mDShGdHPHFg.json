@@ -1,0 +1,46 @@
+{
+    "videoId": "mDShGdHPHFg",
+    "history": [
+        {
+            "fetchedAt": "20260321_160016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260322_072113",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Skil darimana???\ud83d\ude02\ud83d\ude02",
+                    "author": "@AryaSaputra-j6c",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T22:53:32Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260323_072159",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Konten yg menggiring opini publik untuk pembenaran hal yg salah",
+                    "author": "@ElusMouse",
+                    "likes": 1,
+                    "publishedAt": "2026-03-22T12:52:02Z"
+                },
+                {
+                    "text": "Skil darimana???\ud83d\ude02\ud83d\ude02",
+                    "author": "@AryaSaputra-j6c",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T22:53:32Z"
+                },
+                {
+                    "text": "Tinggal download saja kan gampang\ud83d\ude02",
+                    "author": "@ayamsBewok",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T14:20:31Z"
+                }
+            ]
+        }
+    ]
+}

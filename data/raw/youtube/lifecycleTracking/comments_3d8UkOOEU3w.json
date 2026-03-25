@@ -1,0 +1,34 @@
+{
+    "videoId": "3d8UkOOEU3w",
+    "history": [
+        {
+            "fetchedAt": "20260321_220018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260322_072127",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "lmao",
+                    "author": "@kawkawshi775",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T23:20:55Z"
+                },
+                {
+                    "text": "Lmfao",
+                    "author": "@ryancharlebois9417",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T01:52:22Z"
+                },
+                {
+                    "text": "How i hate to farm most of their bosses, all stupid immunity-japping phases. in generally i like bossing but poe just makes it so annoying.",
+                    "author": "@Xeratas",
+                    "likes": 3,
+                    "publishedAt": "2026-03-21T23:38:21Z"
+                }
+            ]
+        }
+    ]
+}

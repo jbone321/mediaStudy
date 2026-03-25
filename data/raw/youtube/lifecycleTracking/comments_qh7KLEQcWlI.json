@@ -1,0 +1,851 @@
+{
+    "videoId": "qh7KLEQcWlI",
+    "history": [
+        {
+            "fetchedAt": "20260319_000730",
+            "commentCount": 8,
+            "comments": [
+                {
+                    "text": "Thank you ! It s Nice to test .",
+                    "author": "@louloup4246",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T21:48:22Z"
+                },
+                {
+                    "text": "Just started using the M5 pro with the same specs as you,  but still getting loading times almost the same as the maxed out m1 Max in logic, you think it could just be because I transferred the M1 system to the m5 with migration assistant?",
+                    "author": "@imadamwoods",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T23:51:10Z"
+                },
+                {
+                    "text": "hello",
+                    "author": "@Ivooo-i6v",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T20:02:49Z"
+                },
+                {
+                    "text": "The m4 and m5 are probably too close for a good comparison, m3 or lower vs m5 would probably get more noticeable results. Maybe m2 vs m5",
+                    "author": "@CytoNep",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T20:19:07Z"
+                },
+                {
+                    "text": "I respect you took the time to do this but this is a very poor comparison and very unrealistic. \n\n1. A realistic test would be to push it until it crackles. Not until your cpu is overloaded massively at 127%.\n2. Just use something CPU limited not RAM limited. Serum + third party plugins on a track and then duplicate that track as much as you can seeing how much it can do before it becomes unstable. Eventually group every 5 tracks to be more realistic and take into account how grouping would distribute loads across cores.\n3. Test single core performance as well by loading one single track only with a heavy plugin like a StandardClip with 64x oversampling and see how many instances of that plugin it can run on a single track. This is important for mastering guys who work on a one track project.\n\nBottom line I haven\u2019t learned anything from this video other than the new generation is clearly better for on device AI music related stuff.",
+                    "author": "@madsonit",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T21:48:21Z"
+                },
+                {
+                    "text": "9:59 looks like I\u2019m getting 48 gigs of ram lol",
+                    "author": "@blessed_by_welfare5922",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T22:11:22Z"
+                },
+                {
+                    "text": "AI thumbnail \ud83d\ude1e",
+                    "author": "@1XAli",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:09:49Z"
+                },
+                {
+                    "text": "Dude you lose us with all the talk and non essential video. I still have no idea what the difference is in track count in the first logic test. Would have been nice with some graphs. Anyway I have a job and a life so I don't have time to watch all the fluff... I'm out!!!",
+                    "author": "@eranddroory9987",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T23:12:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260319_071932",
+            "commentCount": 14,
+            "comments": [
+                {
+                    "text": "Thank you ! It s Nice to test .",
+                    "author": "@louloup4246",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T21:48:22Z"
+                },
+                {
+                    "text": "I just purchased 24gb ram and 16inch m5pro model..will it handle heavy projects with mixed kontakt instrument and plugins and audio tracks?..\nI am worried now should i ve go to 48gb ram.",
+                    "author": "@HDSTUDIOSp2",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T02:50:10Z"
+                },
+                {
+                    "text": "Can I have the m4 pro since it\u2019s not as good?\ud83d\ude2d\u270c\ufe0f",
+                    "author": "@cair0693",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T00:41:08Z"
+                },
+                {
+                    "text": "hello",
+                    "author": "@Ivooo-i6v",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T20:02:49Z"
+                },
+                {
+                    "text": "The m4 and m5 are probably too close for a good comparison, m3 or lower vs m5 would probably get more noticeable results. Maybe m2 vs m5",
+                    "author": "@CytoNep",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T20:19:07Z"
+                },
+                {
+                    "text": "Still using a M1 Macbook Air for daily music production.\nI do have to freeze tracks for ease of use sometimes, but its almost as powerful as a Macpro from 2019, all this with silent no fan running.\nIts paid for itself over and over again and still works like new.",
+                    "author": "@tablatom",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T04:32:12Z"
+                },
+                {
+                    "text": "I respect you took the time to do this but this is a very poor comparison and very unrealistic. \n\n1. A realistic test would be to push it until it crackles. Not until your cpu is overloaded massively at 127%.\n2. Just use something CPU limited not RAM limited. Serum + third party plugins on a track and then duplicate that track as much as you can seeing how much it can do before it becomes unstable. Eventually group every 5 tracks to be more realistic and take into account how grouping would distribute loads across cores.\n3. Test single core performance as well by loading one single track only with a heavy plugin like a StandardClip with 64x oversampling and see how many instances of that plugin it can run on a single track. This is important for mastering guys who work on a one track project.\n\nBottom line I haven\u2019t learned anything from this video other than the new generation is clearly better for on device AI music related stuff.",
+                    "author": "@madsonit",
+                    "likes": 5,
+                    "publishedAt": "2026-03-18T21:48:21Z"
+                },
+                {
+                    "text": "I'm gonna sit this upgrade out... M1 MacBook pro is doing just fine.",
+                    "author": "@byronalexander5785",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T00:55:40Z"
+                },
+                {
+                    "text": "Just started using the M5 pro with the same specs as you,  but still getting loading times almost the same as the maxed out m1 Max in logic, you think it could just be because I transferred the M1 system to the m5 with migration assistant?",
+                    "author": "@imadamwoods",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T23:51:10Z"
+                },
+                {
+                    "text": "Guys i got 2 maxed out intel mid 2012 16 gb ram and 1tb ssd super fast, i want to get a m apple computer but im new to this so any suggestions? M1, m2, m3, m4, m5 ?? I aint got a clue, they all sound like bmw \ud83d\ude02\ud83d\ude05",
+                    "author": "@Ketarii3",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T00:37:19Z"
+                },
+                {
+                    "text": "9:59 looks like I\u2019m getting 48 gigs of ram lol",
+                    "author": "@blessed_by_welfare5922",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T22:11:22Z"
+                },
+                {
+                    "text": "Didn\u2019t understand this test TBH.\nAnyway, No one will have 100s of the same exact instrument track in Kontakt or Serum.",
+                    "author": "@havefun7203",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T02:15:59Z"
+                },
+                {
+                    "text": "Dude you lose us with all the talk and non essential video. I still have no idea what the difference is in track count in the first logic test. Would have been nice with some graphs. Anyway I have a job and a life so I don't have time to watch all the fluff... I'm out!!!",
+                    "author": "@eranddroory9987",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T23:12:40Z"
+                },
+                {
+                    "text": "AI thumbnail \ud83d\ude1e",
+                    "author": "@1XAli",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:09:49Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260320_071836",
+            "commentCount": 18,
+            "comments": [
+                {
+                    "text": "Thank you ! It s Nice to test .",
+                    "author": "@louloup4246",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T21:48:22Z"
+                },
+                {
+                    "text": "I just purchased 24gb ram and 16inch m5pro model..will it handle heavy projects with mixed kontakt instrument and plugins and audio tracks?..\nI am worried now should i ve go to 48gb ram.",
+                    "author": "@HDSTUDIOSp2",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T02:50:10Z"
+                },
+                {
+                    "text": "What is the name of the song at @ 2:20?",
+                    "author": "@georgelevene234",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T02:48:42Z"
+                },
+                {
+                    "text": "I'm gonna sit this upgrade out... M1 MacBook pro is doing just fine.",
+                    "author": "@byronalexander5785",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T00:55:40Z"
+                },
+                {
+                    "text": "hello",
+                    "author": "@Ivooo-i6v",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T20:02:49Z"
+                },
+                {
+                    "text": "The issue with not listening for crackling noises is that from other tests, is that those issues seem to appear long before they should. And theoretically it could be the case that the difference is much smaller in practice, as you can't add more tracks/plugins when you run in to those issues, and if it is a bigger issue with M5 max/pro than M4, because of the difference in CPU scheduling, because Ableton Live and Logic can't fully utilize the Efficiency cores in M4 architecture and thus only run on a single core type, whereas with M5 Max/Pro, you may get unexpected performance drops when one of the mid core (the supercores is the one's that are comparable to Performance cores of the old system, the new Performance cores sit between Efficeny cores and P-cores of the past, so they are sort of an Efficiency core).",
+                    "author": "@TheJonHolstein",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T10:15:02Z"
+                },
+                {
+                    "text": "The m4 and m5 are probably too close for a good comparison, m3 or lower vs m5 would probably get more noticeable results. Maybe m2 vs m5",
+                    "author": "@CytoNep",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T20:19:07Z"
+                },
+                {
+                    "text": "Can I have the m4 pro since it\u2019s not as good?\ud83d\ude2d\u270c\ufe0f",
+                    "author": "@cair0693",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T00:41:08Z"
+                },
+                {
+                    "text": "Just started using the M5 pro with the same specs as you,  but still getting loading times almost the same as the maxed out m1 Max in logic, you think it could just be because I transferred the M1 system to the m5 with migration assistant?",
+                    "author": "@imadamwoods",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T23:51:10Z"
+                },
+                {
+                    "text": "Still using a M1 Macbook Air for daily music production.\nI do have to freeze tracks for ease of use sometimes, but its almost as powerful as a Macpro from 2019, all this with silent no fan running.\nIts paid for itself over and over again and still works like new.",
+                    "author": "@tablatom",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T04:32:12Z"
+                },
+                {
+                    "text": "9:59 looks like I\u2019m getting 48 gigs of ram lol",
+                    "author": "@blessed_by_welfare5922",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T22:11:22Z"
+                },
+                {
+                    "text": "Guys i got 2 maxed out intel mid 2012 16 gb ram and 1tb ssd super fast, i want to get a m apple computer but im new to this so any suggestions? M1, m2, m3, m4, m5 ?? I aint got a clue, they all sound like bmw \ud83d\ude02\ud83d\ude05",
+                    "author": "@Ketarii3",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T00:37:19Z"
+                },
+                {
+                    "text": "Only if you need more RAM then it\u2019s needed to upgrade to the Max chips because of the limitation Apple has for RAM and chipsets. \n\nOther than that, this test proves these machines are insanely powerful!  \n\nI\u2019m looking forward to the Max version but as a Mac Studio instead.",
+                    "author": "@JesusArmasOficial",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T21:55:18Z"
+                },
+                {
+                    "text": "I respect you took the time to do this but this is a very poor comparison and very unrealistic. \n\n1. A realistic test would be to push it until it crackles. Not until your cpu is overloaded massively at 127%.\n2. Just use something CPU limited not RAM limited. Serum + third party plugins on a track and then duplicate that track as much as you can seeing how much it can do before it becomes unstable. Eventually group every 5 tracks to be more realistic and take into account how grouping would distribute loads across cores.\n3. Test single core performance as well by loading one single track only with a heavy plugin like a StandardClip with 64x oversampling and see how many instances of that plugin it can run on a single track. This is important for mastering guys who work on a one track project.\n\nBottom line I haven\u2019t learned anything from this video other than the new generation is clearly better for on device AI music related stuff.",
+                    "author": "@madsonit",
+                    "likes": 8,
+                    "publishedAt": "2026-03-18T21:48:21Z"
+                },
+                {
+                    "text": "Logic Audio is so incredibly badly optimized that it isn't even funny. Please test something like Reaper to actually see the differences between the computers.",
+                    "author": "@niklassilen4313",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T21:18:18Z"
+                },
+                {
+                    "text": "AI thumbnail \ud83d\ude1e",
+                    "author": "@1XAli",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:09:49Z"
+                },
+                {
+                    "text": "Didn\u2019t understand this test TBH.\nAnyway, No one will have 100s of the same exact instrument track in Kontakt or Serum.",
+                    "author": "@havefun7203",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T02:15:59Z"
+                },
+                {
+                    "text": "Dude you lose us with all the talk and non essential video. I still have no idea what the difference is in track count in the first logic test. Would have been nice with some graphs. Anyway I have a job and a life so I don't have time to watch all the fluff... I'm out!!!",
+                    "author": "@eranddroory9987",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T23:12:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260321_071830",
+            "commentCount": 22,
+            "comments": [
+                {
+                    "text": "Thank you ! It s Nice to test .",
+                    "author": "@louloup4246",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T21:48:22Z"
+                },
+                {
+                    "text": "can you test it how it works with ozone on it (if you have on)? it's smth that always gives me problems with system overload in m3 pro",
+                    "author": "@Omonek",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T22:07:15Z"
+                },
+                {
+                    "text": "I'm gonna sit this upgrade out... M1 MacBook pro is doing just fine.",
+                    "author": "@byronalexander5785",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T00:55:40Z"
+                },
+                {
+                    "text": "What is the name of the song at @ 2:20?",
+                    "author": "@georgelevene234",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T02:48:42Z"
+                },
+                {
+                    "text": "hello",
+                    "author": "@Ivooo-i6v",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T20:02:49Z"
+                },
+                {
+                    "text": "I just purchased 24gb ram and 16inch m5pro model..will it handle heavy projects with mixed kontakt instrument and plugins and audio tracks?..\nI am worried now should i ve go to 48gb ram.",
+                    "author": "@HDSTUDIOSp2",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T02:50:10Z"
+                },
+                {
+                    "text": "The issue with not listening for crackling noises is that from other tests, is that those issues seem to appear long before they should. And theoretically it could be the case that the difference is much smaller in practice, as you can't add more tracks/plugins when you run in to those issues, and if it is a bigger issue with M5 max/pro than M4, because of the difference in CPU scheduling, because Ableton Live and Logic can't fully utilize the Efficiency cores in M4 architecture and thus only run on a single core type, whereas with M5 Max/Pro, you may get unexpected performance drops when one of the mid core (the supercores is the one's that are comparable to Performance cores of the old system, the new Performance cores sit between Efficeny cores and P-cores of the past, so they are sort of an Efficiency core).",
+                    "author": "@TheJonHolstein",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T10:15:02Z"
+                },
+                {
+                    "text": "The m4 and m5 are probably too close for a good comparison, m3 or lower vs m5 would probably get more noticeable results. Maybe m2 vs m5",
+                    "author": "@CytoNep",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T20:19:07Z"
+                },
+                {
+                    "text": "Only if you need more RAM then it\u2019s needed to upgrade to the Max chips because of the limitation Apple has for RAM and chipsets. \n\nOther than that, this test proves these machines are insanely powerful!  \n\nI\u2019m looking forward to the Max version but as a Mac Studio instead.",
+                    "author": "@JesusArmasOficial",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T21:55:18Z"
+                },
+                {
+                    "text": "Still using a M1 Macbook Air for daily music production.\nI do have to freeze tracks for ease of use sometimes, but its almost as powerful as a Macpro from 2019, all this with silent no fan running.\nIts paid for itself over and over again and still works like new.",
+                    "author": "@tablatom",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T04:32:12Z"
+                },
+                {
+                    "text": "Can I have the m4 pro since it\u2019s not as good?\ud83d\ude2d\u270c\ufe0f",
+                    "author": "@cair0693",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T00:41:08Z"
+                },
+                {
+                    "text": "Logic Audio is so incredibly badly optimized that it isn't even funny. Please test something like Reaper to actually see the differences between the computers.",
+                    "author": "@niklassilen4313",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T21:18:18Z"
+                },
+                {
+                    "text": "Can anyone enlighten me... Why, for music production, would you not change the processing threads to all of them? Is there a benefit to keeping it on automatic?",
+                    "author": "@nickmeredith002",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T11:24:40Z"
+                },
+                {
+                    "text": "I\u2019m still cool with my M1 Pro\u2026. 16 gigs of ram 1 terabyte SSD drive",
+                    "author": "@JasonJones-n3y",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T12:52:24Z"
+                },
+                {
+                    "text": "9:59 looks like I\u2019m getting 48 gigs of ram lol",
+                    "author": "@blessed_by_welfare5922",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T22:11:22Z"
+                },
+                {
+                    "text": "Guys i got 2 maxed out intel mid 2012 16 gb ram and 1tb ssd super fast, i want to get a m apple computer but im new to this so any suggestions? M1, m2, m3, m4, m5 ?? I aint got a clue, they all sound like bmw \ud83d\ude02\ud83d\ude05",
+                    "author": "@Ketarii3",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T00:37:19Z"
+                },
+                {
+                    "text": "I respect you took the time to do this but this is a very poor comparison and very unrealistic. \n\n1. A realistic test would be to push it until it crackles. Not until your cpu is overloaded massively at 127%.\n2. Just use something CPU limited not RAM limited. Serum + third party plugins on a track and then duplicate that track as much as you can seeing how much it can do before it becomes unstable. Eventually group every 5 tracks to be more realistic and take into account how grouping would distribute loads across cores.\n3. Test single core performance as well by loading one single track only with a heavy plugin like a StandardClip with 64x oversampling and see how many instances of that plugin it can run on a single track. This is important for mastering guys who work on a one track project.\n\nBottom line I haven\u2019t learned anything from this video other than the new generation is clearly better for on device AI music related stuff.",
+                    "author": "@madsonit",
+                    "likes": 8,
+                    "publishedAt": "2026-03-18T21:48:21Z"
+                },
+                {
+                    "text": "Just started using the M5 pro with the same specs as you,  but still getting loading times almost the same as the maxed out m1 Max in logic, you think it could just be because I transferred the M1 system to the m5 with migration assistant?",
+                    "author": "@imadamwoods",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T23:51:10Z"
+                },
+                {
+                    "text": "No sh$t the M5 is faster it has 64gb of ram vs 48gb and it's newer. when has an apple made a Mac that couldn't handle music production?",
+                    "author": "@nardospizzaofficial",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T02:39:15Z"
+                },
+                {
+                    "text": "AI thumbnail \ud83d\ude1e",
+                    "author": "@1XAli",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:09:49Z"
+                },
+                {
+                    "text": "Dude you lose us with all the talk and non essential video. I still have no idea what the difference is in track count in the first logic test. Would have been nice with some graphs. Anyway I have a job and a life so I don't have time to watch all the fluff... I'm out!!!",
+                    "author": "@eranddroory9987",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T23:12:40Z"
+                },
+                {
+                    "text": "Didn\u2019t understand this test TBH.\nAnyway, No one will have 100s of the same exact instrument track in Kontakt or Serum.",
+                    "author": "@havefun7203",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T02:15:59Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260322_071902",
+            "commentCount": 23,
+            "comments": [
+                {
+                    "text": "Thank you ! It s Nice to test .",
+                    "author": "@louloup4246",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T21:48:22Z"
+                },
+                {
+                    "text": "can you test it how it works with ozone on it (if you have on)? it's smth that always gives me problems with system overload in m3 pro",
+                    "author": "@Omonek",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T22:07:15Z"
+                },
+                {
+                    "text": "I'm gonna sit this upgrade out... M1 MacBook pro is doing just fine.",
+                    "author": "@byronalexander5785",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T00:55:40Z"
+                },
+                {
+                    "text": "hello",
+                    "author": "@Ivooo-i6v",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T20:02:49Z"
+                },
+                {
+                    "text": "What is the name of the song at @ 2:20?",
+                    "author": "@georgelevene234",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T02:48:42Z"
+                },
+                {
+                    "text": "The issue with not listening for crackling noises is that from other tests, is that those issues seem to appear long before they should. And theoretically it could be the case that the difference is much smaller in practice, as you can't add more tracks/plugins when you run in to those issues, and if it is a bigger issue with M5 max/pro than M4, because of the difference in CPU scheduling, because Ableton Live and Logic can't fully utilize the Efficiency cores in M4 architecture and thus only run on a single core type, whereas with M5 Max/Pro, you may get unexpected performance drops when one of the mid core (the supercores is the one's that are comparable to Performance cores of the old system, the new Performance cores sit between Efficeny cores and P-cores of the past, so they are sort of an Efficiency core).",
+                    "author": "@TheJonHolstein",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T10:15:02Z"
+                },
+                {
+                    "text": "The m4 and m5 are probably too close for a good comparison, m3 or lower vs m5 would probably get more noticeable results. Maybe m2 vs m5",
+                    "author": "@CytoNep",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T20:19:07Z"
+                },
+                {
+                    "text": "I just purchased 24gb ram and 16inch m5pro model..will it handle heavy projects with mixed kontakt instrument and plugins and audio tracks?..\nI am worried now should i ve go to 48gb ram.",
+                    "author": "@HDSTUDIOSp2",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T02:50:10Z"
+                },
+                {
+                    "text": "Only if you need more RAM then it\u2019s needed to upgrade to the Max chips because of the limitation Apple has for RAM and chipsets. \n\nOther than that, this test proves these machines are insanely powerful!  \n\nI\u2019m looking forward to the Max version but as a Mac Studio instead.",
+                    "author": "@JesusArmasOficial",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T21:55:18Z"
+                },
+                {
+                    "text": "Still using a M1 Macbook Air for daily music production.\nI do have to freeze tracks for ease of use sometimes, but its almost as powerful as a Macpro from 2019, all this with silent no fan running.\nIts paid for itself over and over again and still works like new.",
+                    "author": "@tablatom",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T04:32:12Z"
+                },
+                {
+                    "text": "The fact that you can run 1,500+ tracks in a DAW in 2026 is insane.",
+                    "author": "@diamondfieldmusic",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T02:55:51Z"
+                },
+                {
+                    "text": "Can I have the m4 pro since it\u2019s not as good?\ud83d\ude2d\u270c\ufe0f",
+                    "author": "@cair0693",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T00:41:08Z"
+                },
+                {
+                    "text": "9:59 looks like I\u2019m getting 48 gigs of ram lol",
+                    "author": "@blessed_by_welfare5922",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T22:11:22Z"
+                },
+                {
+                    "text": "Can anyone enlighten me... Why, for music production, would you not change the processing threads to all of them? Is there a benefit to keeping it on automatic?",
+                    "author": "@nickmeredith002",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T11:24:40Z"
+                },
+                {
+                    "text": "Logic Audio is so incredibly badly optimized that it isn't even funny. Please test something like Reaper to actually see the differences between the computers.",
+                    "author": "@niklassilen4313",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T21:18:18Z"
+                },
+                {
+                    "text": "Guys i got 2 maxed out intel mid 2012 16 gb ram and 1tb ssd super fast, i want to get a m apple computer but im new to this so any suggestions? M1, m2, m3, m4, m5 ?? I aint got a clue, they all sound like bmw \ud83d\ude02\ud83d\ude05",
+                    "author": "@Ketarii3",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T00:37:19Z"
+                },
+                {
+                    "text": "I\u2019m still cool with my M1 Pro\u2026. 16 gigs of ram 1 terabyte SSD drive",
+                    "author": "@JasonJones-n3y",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T12:52:24Z"
+                },
+                {
+                    "text": "I respect you took the time to do this but this is a very poor comparison and very unrealistic. \n\n1. A realistic test would be to push it until it crackles. Not until your cpu is overloaded massively at 127%.\n2. Just use something CPU limited not RAM limited. Serum + third party plugins on a track and then duplicate that track as much as you can seeing how much it can do before it becomes unstable. Eventually group every 5 tracks to be more realistic and take into account how grouping would distribute loads across cores.\n3. Test single core performance as well by loading one single track only with a heavy plugin like a StandardClip with 64x oversampling and see how many instances of that plugin it can run on a single track. This is important for mastering guys who work on a one track project.\n\nBottom line I haven\u2019t learned anything from this video other than the new generation is clearly better for on device AI music related stuff.",
+                    "author": "@madsonit",
+                    "likes": 8,
+                    "publishedAt": "2026-03-18T21:48:21Z"
+                },
+                {
+                    "text": "Just started using the M5 pro with the same specs as you,  but still getting loading times almost the same as the maxed out m1 Max in logic, you think it could just be because I transferred the M1 system to the m5 with migration assistant?",
+                    "author": "@imadamwoods",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T23:51:10Z"
+                },
+                {
+                    "text": "AI thumbnail \ud83d\ude1e",
+                    "author": "@1XAli",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:09:49Z"
+                },
+                {
+                    "text": "No sh$t the M5 is faster it has 64gb of ram vs 48gb and it's newer. when has an apple made a Mac that couldn't handle music production?",
+                    "author": "@nardospizzaofficial",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T02:39:15Z"
+                },
+                {
+                    "text": "Didn\u2019t understand this test TBH.\nAnyway, No one will have 100s of the same exact instrument track in Kontakt or Serum.",
+                    "author": "@havefun7203",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T02:15:59Z"
+                },
+                {
+                    "text": "Dude you lose us with all the talk and non essential video. I still have no idea what the difference is in track count in the first logic test. Would have been nice with some graphs. Anyway I have a job and a life so I don't have time to watch all the fluff... I'm out!!!",
+                    "author": "@eranddroory9987",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T23:12:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260323_071947",
+            "commentCount": 24,
+            "comments": [
+                {
+                    "text": "The fact that you can run 1,500+ tracks in a DAW in 2026 is insane.",
+                    "author": "@diamondfieldmusic",
+                    "likes": 1,
+                    "publishedAt": "2026-03-22T02:55:51Z"
+                },
+                {
+                    "text": "Thank you ! It s Nice to test .",
+                    "author": "@louloup4246",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T21:48:22Z"
+                },
+                {
+                    "text": "The issue with not listening for crackling noises is that from other tests, is that those issues seem to appear long before they should. And theoretically it could be the case that the difference is much smaller in practice, as you can't add more tracks/plugins when you run in to those issues, and if it is a bigger issue with M5 max/pro than M4, because of the difference in CPU scheduling, because Ableton Live and Logic can't fully utilize the Efficiency cores in M4 architecture and thus only run on a single core type, whereas with M5 Max/Pro, you may get unexpected performance drops when one of the mid core (the supercores is the one's that are comparable to Performance cores of the old system, the new Performance cores sit between Efficeny cores and P-cores of the past, so they are sort of an Efficiency core).",
+                    "author": "@TheJonHolstein",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T10:15:02Z"
+                },
+                {
+                    "text": "I have a m4 MacBook Air do you guys think that\u2019s good enough for Logic Pro",
+                    "author": "@onunze",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T07:43:32Z"
+                },
+                {
+                    "text": "can you test it how it works with ozone on it (if you have on)? it's smth that always gives me problems with system overload in m3 pro",
+                    "author": "@Omonek",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T22:07:15Z"
+                },
+                {
+                    "text": "hello",
+                    "author": "@Ivooo-i6v",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T20:02:49Z"
+                },
+                {
+                    "text": "I'm gonna sit this upgrade out... M1 MacBook pro is doing just fine.",
+                    "author": "@byronalexander5785",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T00:55:40Z"
+                },
+                {
+                    "text": "The m4 and m5 are probably too close for a good comparison, m3 or lower vs m5 would probably get more noticeable results. Maybe m2 vs m5",
+                    "author": "@CytoNep",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T20:19:07Z"
+                },
+                {
+                    "text": "Only if you need more RAM then it\u2019s needed to upgrade to the Max chips because of the limitation Apple has for RAM and chipsets. \n\nOther than that, this test proves these machines are insanely powerful!  \n\nI\u2019m looking forward to the Max version but as a Mac Studio instead.",
+                    "author": "@JesusArmasOficial",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T21:55:18Z"
+                },
+                {
+                    "text": "Still using a M1 Macbook Air for daily music production.\nI do have to freeze tracks for ease of use sometimes, but its almost as powerful as a Macpro from 2019, all this with silent no fan running.\nIts paid for itself over and over again and still works like new.",
+                    "author": "@tablatom",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T04:32:12Z"
+                },
+                {
+                    "text": "Can I have the m4 pro since it\u2019s not as good?\ud83d\ude2d\u270c\ufe0f",
+                    "author": "@cair0693",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T00:41:08Z"
+                },
+                {
+                    "text": "I just purchased 24gb ram and 16inch m5pro model..will it handle heavy projects with mixed kontakt instrument and plugins and audio tracks?..\nI am worried now should i ve go to 48gb ram.",
+                    "author": "@HDSTUDIOSp2",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T02:50:10Z"
+                },
+                {
+                    "text": "9:59 looks like I\u2019m getting 48 gigs of ram lol",
+                    "author": "@blessed_by_welfare5922",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T22:11:22Z"
+                },
+                {
+                    "text": "Can anyone enlighten me... Why, for music production, would you not change the processing threads to all of them? Is there a benefit to keeping it on automatic?",
+                    "author": "@nickmeredith002",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T11:24:40Z"
+                },
+                {
+                    "text": "Logic Audio is so incredibly badly optimized that it isn't even funny. Please test something like Reaper to actually see the differences between the computers.",
+                    "author": "@niklassilen4313",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T21:18:18Z"
+                },
+                {
+                    "text": "I\u2019m still cool with my M1 Pro\u2026. 16 gigs of ram 1 terabyte SSD drive",
+                    "author": "@JasonJones-n3y",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T12:52:24Z"
+                },
+                {
+                    "text": "Guys i got 2 maxed out intel mid 2012 16 gb ram and 1tb ssd super fast, i want to get a m apple computer but im new to this so any suggestions? M1, m2, m3, m4, m5 ?? I aint got a clue, they all sound like bmw \ud83d\ude02\ud83d\ude05",
+                    "author": "@Ketarii3",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T00:37:19Z"
+                },
+                {
+                    "text": "What is the name of the song at @ 2:20?",
+                    "author": "@georgelevene234",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T02:48:42Z"
+                },
+                {
+                    "text": "I respect you took the time to do this but this is a very poor comparison and very unrealistic. \n\n1. A realistic test would be to push it until it crackles. Not until your cpu is overloaded massively at 127%.\n2. Just use something CPU limited not RAM limited. Serum + third party plugins on a track and then duplicate that track as much as you can seeing how much it can do before it becomes unstable. Eventually group every 5 tracks to be more realistic and take into account how grouping would distribute loads across cores.\n3. Test single core performance as well by loading one single track only with a heavy plugin like a StandardClip with 64x oversampling and see how many instances of that plugin it can run on a single track. This is important for mastering guys who work on a one track project.\n\nBottom line I haven\u2019t learned anything from this video other than the new generation is clearly better for on device AI music related stuff.",
+                    "author": "@madsonit",
+                    "likes": 8,
+                    "publishedAt": "2026-03-18T21:48:21Z"
+                },
+                {
+                    "text": "Just started using the M5 pro with the same specs as you,  but still getting loading times almost the same as the maxed out m1 Max in logic, you think it could just be because I transferred the M1 system to the m5 with migration assistant?",
+                    "author": "@imadamwoods",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T23:51:10Z"
+                },
+                {
+                    "text": "AI thumbnail \ud83d\ude1e",
+                    "author": "@1XAli",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:09:49Z"
+                },
+                {
+                    "text": "No sh$t the M5 is faster it has 64gb of ram vs 48gb and it's newer. when has an apple made a Mac that couldn't handle music production?",
+                    "author": "@nardospizzaofficial",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T02:39:15Z"
+                },
+                {
+                    "text": "Didn\u2019t understand this test TBH.\nAnyway, No one will have 100s of the same exact instrument track in Kontakt or Serum.",
+                    "author": "@havefun7203",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T02:15:59Z"
+                },
+                {
+                    "text": "Dude you lose us with all the talk and non essential video. I still have no idea what the difference is in track count in the first logic test. Would have been nice with some graphs. Anyway I have a job and a life so I don't have time to watch all the fluff... I'm out!!!",
+                    "author": "@eranddroory9987",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T23:12:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260325_072047",
+            "commentCount": 25,
+            "comments": [
+                {
+                    "text": "The fact that you can run 1,500+ tracks in a DAW in 2026 is insane.",
+                    "author": "@diamondfieldmusic",
+                    "likes": 1,
+                    "publishedAt": "2026-03-22T02:55:51Z"
+                },
+                {
+                    "text": "The issue with not listening for crackling noises is that from other tests, is that those issues seem to appear long before they should. And theoretically it could be the case that the difference is much smaller in practice, as you can't add more tracks/plugins when you run in to those issues, and if it is a bigger issue with M5 max/pro than M4, because of the difference in CPU scheduling, because Ableton Live and Logic can't fully utilize the Efficiency cores in M4 architecture and thus only run on a single core type, whereas with M5 Max/Pro, you may get unexpected performance drops when one of the mid core (the supercores is the one's that are comparable to Performance cores of the old system, the new Performance cores sit between Efficeny cores and P-cores of the past, so they are sort of an Efficiency core).",
+                    "author": "@TheJonHolstein",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T10:15:02Z"
+                },
+                {
+                    "text": "Thank you ! It s Nice to test .",
+                    "author": "@louloup4246",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T21:48:22Z"
+                },
+                {
+                    "text": "Only if you need more RAM then it\u2019s needed to upgrade to the Max chips because of the limitation Apple has for RAM and chipsets. \n\nOther than that, this test proves these machines are insanely powerful!  \n\nI\u2019m looking forward to the Max version but as a Mac Studio instead.",
+                    "author": "@JesusArmasOficial",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T21:55:18Z"
+                },
+                {
+                    "text": "Still using a M1 Macbook Air for daily music production.\nI do have to freeze tracks for ease of use sometimes, but its almost as powerful as a Macpro from 2019, all this with silent no fan running.\nIts paid for itself over and over again and still works like new.",
+                    "author": "@tablatom",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T04:32:12Z"
+                },
+                {
+                    "text": "I'm gonna sit this upgrade out... M1 MacBook pro is doing just fine.",
+                    "author": "@byronalexander5785",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T00:55:40Z"
+                },
+                {
+                    "text": "I\u2019m still cool with my M1 Pro\u2026. 16 gigs of ram 1 terabyte SSD drive",
+                    "author": "@JasonJones-n3y",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T12:52:24Z"
+                },
+                {
+                    "text": "hello",
+                    "author": "@Ivooo-i6v",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T20:02:49Z"
+                },
+                {
+                    "text": "9:59 looks like I\u2019m getting 48 gigs of ram lol",
+                    "author": "@blessed_by_welfare5922",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T22:11:22Z"
+                },
+                {
+                    "text": "The m4 and m5 are probably too close for a good comparison, m3 or lower vs m5 would probably get more noticeable results. Maybe m2 vs m5",
+                    "author": "@CytoNep",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T20:19:07Z"
+                },
+                {
+                    "text": "What is the name of the song at @ 2:20?",
+                    "author": "@georgelevene234",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T02:48:42Z"
+                },
+                {
+                    "text": "I just purchased 24gb ram and 16inch m5pro model..will it handle heavy projects with mixed kontakt instrument and plugins and audio tracks?..\nI am worried now should i ve go to 48gb ram.",
+                    "author": "@HDSTUDIOSp2",
+                    "likes": 4,
+                    "publishedAt": "2026-03-19T02:50:10Z"
+                },
+                {
+                    "text": "Can I have the m4 pro since it\u2019s not as good?\ud83d\ude2d\u270c\ufe0f",
+                    "author": "@cair0693",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T00:41:08Z"
+                },
+                {
+                    "text": "There's no way I can finish any song by using less than 2500 tracks, so I guess I'm gonna have to wait for M6 pro. Who would've thought these things are so underpowered...",
+                    "author": "@martinziet7157",
+                    "likes": 0,
+                    "publishedAt": "2026-03-24T22:10:28Z"
+                },
+                {
+                    "text": "can you test it how it works with ozone on it (if you have on)? it's smth that always gives me problems with system overload in m3 pro",
+                    "author": "@Omonek",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T22:07:15Z"
+                },
+                {
+                    "text": "I have a m4 MacBook Air do you guys think that\u2019s good enough for Logic Pro",
+                    "author": "@onunze",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T07:43:32Z"
+                },
+                {
+                    "text": "Guys i got 2 maxed out intel mid 2012 16 gb ram and 1tb ssd super fast, i want to get a m apple computer but im new to this so any suggestions? M1, m2, m3, m4, m5 ?? I aint got a clue, they all sound like bmw \ud83d\ude02\ud83d\ude05",
+                    "author": "@Ketarii3",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T00:37:19Z"
+                },
+                {
+                    "text": "Can anyone enlighten me... Why, for music production, would you not change the processing threads to all of them? Is there a benefit to keeping it on automatic?",
+                    "author": "@nickmeredith002",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T11:24:40Z"
+                },
+                {
+                    "text": "Logic Audio is so incredibly badly optimized that it isn't even funny. Please test something like Reaper to actually see the differences between the computers.",
+                    "author": "@niklassilen4313",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T21:18:18Z"
+                },
+                {
+                    "text": "AI thumbnail \ud83d\ude1e",
+                    "author": "@1XAli",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:09:49Z"
+                },
+                {
+                    "text": "Just started using the M5 pro with the same specs as you,  but still getting loading times almost the same as the maxed out m1 Max in logic, you think it could just be because I transferred the M1 system to the m5 with migration assistant?",
+                    "author": "@imadamwoods",
+                    "likes": 2,
+                    "publishedAt": "2026-03-18T23:51:10Z"
+                },
+                {
+                    "text": "No sh$t the M5 is faster it has 64gb of ram vs 48gb and it's newer. when has an apple made a Mac that couldn't handle music production?",
+                    "author": "@nardospizzaofficial",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T02:39:15Z"
+                },
+                {
+                    "text": "I respect you took the time to do this but this is a very poor comparison and very unrealistic. \n\n1. A realistic test would be to push it until it crackles. Not until your cpu is overloaded massively at 127%.\n2. Just use something CPU limited not RAM limited. Serum + third party plugins on a track and then duplicate that track as much as you can seeing how much it can do before it becomes unstable. Eventually group every 5 tracks to be more realistic and take into account how grouping would distribute loads across cores.\n3. Test single core performance as well by loading one single track only with a heavy plugin like a StandardClip with 64x oversampling and see how many instances of that plugin it can run on a single track. This is important for mastering guys who work on a one track project.\n\nBottom line I haven\u2019t learned anything from this video other than the new generation is clearly better for on device AI music related stuff.",
+                    "author": "@madsonit",
+                    "likes": 8,
+                    "publishedAt": "2026-03-18T21:48:21Z"
+                },
+                {
+                    "text": "Didn\u2019t understand this test TBH.\nAnyway, No one will have 100s of the same exact instrument track in Kontakt or Serum.",
+                    "author": "@havefun7203",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T02:15:59Z"
+                },
+                {
+                    "text": "Dude you lose us with all the talk and non essential video. I still have no idea what the difference is in track count in the first logic test. Would have been nice with some graphs. Anyway I have a job and a life so I don't have time to watch all the fluff... I'm out!!!",
+                    "author": "@eranddroory9987",
+                    "likes": 3,
+                    "publishedAt": "2026-03-18T23:12:40Z"
+                }
+            ]
+        }
+    ]
+}

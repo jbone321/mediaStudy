@@ -1,0 +1,52 @@
+{
+    "videoId": "GuCi77f40JA",
+    "history": [
+        {
+            "fetchedAt": "20260320_040019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260321_071944",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Log hmari kdr nhi krenge hmari skil ka faida uthyenge",
+                    "author": "@parveendhiman6172",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T20:09:20Z"
+                },
+                {
+                    "text": "Right",
+                    "author": "@AryanPrajapati-q9q",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T08:46:59Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260322_072010",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Bai par sab ikk jasa nahi hota",
+                    "author": "@Royalbande00",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T07:48:43Z"
+                },
+                {
+                    "text": "Log hmari kdr nhi krenge hmari skil ka faida uthyenge",
+                    "author": "@parveendhiman6172",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T20:09:20Z"
+                },
+                {
+                    "text": "Right",
+                    "author": "@AryanPrajapati-q9q",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T08:46:59Z"
+                }
+            ]
+        }
+    ]
+}

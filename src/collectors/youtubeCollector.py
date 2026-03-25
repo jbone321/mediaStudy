@@ -5,13 +5,21 @@ import googleapiclient.discovery
 from googleapiclient.errors import HttpError
 
 class YoutubeCollector:
-	def __init__(self, apiKey, baseDir="data/raw/youtube"):
-		self.apiKey = apiKey
+	def __init__(self, apiKeys: list, baseDir="data/raw/youtube"):
+		self.apiKeys = apiKeys
+		self.currentKeyIndex = 0
 		self.baseDir = baseDir
-		self.youtube = googleapiclient.discovery.build("youtube", "v3", developerKey=self.apiKey)
+		self.youtube = googleapiclient.discovery.build("youtube", "v3", developerKey=self.apiKeys[0])
 		os.makedirs(self.baseDir, exist_ok=True)
 		os.makedirs(os.path.join(self.baseDir, "baselines"), exist_ok=True)
 		os.makedirs(os.path.join(self.baseDir, "lifecycleTracking"), exist_ok=True)
+		
+	def _rotateKey(self):
+		self.currentKeyIndex += 1
+		if self.currentKeyIndex >= len(self.apiKeys):
+			raise Exception("All keys exhausted")
+		self.youtube = googleapiclient.discovery.build("youtube", "v3", developerKey=self.apiKeys[self.currentKeyIndex])
+		print(f"switching to Api Key {self.currentKeyIndex +1}")
 
 	def getVideoCategories(self, regionCode="US"):
 		"""
@@ -40,7 +48,12 @@ class YoutubeCollector:
 
 			print(f"Categories saved: {outputFile}")
 			return categories
-
+		except googleapiclient.errors.HttpError as e:
+			if e.resp.status == 403 and "quotaExceeded" in str(e.content):
+				self._rotateKey()
+				return self.getVideoCategories(regionCode)
+			print(f"Error fetching categories: {e}")
+			return {}
 		except Exception as e:
 			print(f"Error fetching categories: {e}")
 			return {}
@@ -124,8 +137,19 @@ class YoutubeCollector:
 			return results, videoIds	# videos being tracked
 
 		except googleapiclient.errors.HttpError as e:
+			if e.resp.status == 403 and "quotaExceeded" in str(e.content):
+				self._rotateKey()
+				return self.searchVideos(
+					query=query,
+					categoryId=categoryId,
+					maxResults=maxResults,
+					order=order,
+					regionCode=regionCode
+				)
+
 			print(f"API error: {e.resp.status} - {e.content.decode('utf-8')}")
 			return [], []
+
 		except Exception as e:
 			print(f"Error: {e}")
 			return [], []
@@ -196,6 +220,13 @@ class YoutubeCollector:
 
 			print(f"Delta stats saved at {outputFile}")
 			return results
+
+		except googleapiclient.errors.HttpError as e:
+			if e.resp.status == 403 and "quotaExceeded" in str(e.content):
+				self._rotateKey()
+				return self.getVideoStats(videoIds)
+			print(f"Error fetching stats: {e}")
+			return []
 
 		except Exception as e:
 			print(f"Error fetching stats: {e}")
@@ -273,6 +304,9 @@ class YoutubeCollector:
 
 		except googleapiclient.errors.HttpError as e:
 			status = e.resp.status
+			if status == 403 and "quotaExceeded" in str(e.content):
+				self._rotateKey()
+				return self.getComments(videoId, maxComments)
 			if status == 403:
 				print(f"Comments disabled or forbidden for {videoId}")
 				return []

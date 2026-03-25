@@ -1,0 +1,22 @@
+{
+    "videoId": "SIorGWdeREQ",
+    "history": [
+        {
+            "fetchedAt": "20260323_100011",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260324_072322",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Cecosa voice da me",
+                    "author": "@ayoubbougafou5784",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T15:46:51Z"
+                }
+            ]
+        }
+    ]
+}

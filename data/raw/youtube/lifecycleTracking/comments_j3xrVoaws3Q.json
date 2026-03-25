@@ -1,0 +1,59 @@
+{
+    "videoId": "j3xrVoaws3Q",
+    "history": [
+        {
+            "fetchedAt": "20260322_040017",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "I like your video keep making videos \ud83d\ude0a",
+                    "author": "@BernardoMunoz-n3d",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T20:10:30Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260323_072226",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "I like your video keep making videos \ud83d\ude0a",
+                    "author": "@BernardoMunoz-n3d",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T20:10:30Z"
+                },
+                {
+                    "text": "Remember me\ud83d\ude43",
+                    "author": "@Novathedandyworldlover",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T00:59:47Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260324_072242",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "I like your video keep making videos \ud83d\ude0a",
+                    "author": "@BernardoMunoz-n3d",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T20:10:30Z"
+                },
+                {
+                    "text": "bro the Noob",
+                    "author": "@Dayyan-y1y",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T15:19:47Z"
+                },
+                {
+                    "text": "Remember me\ud83d\ude43",
+                    "author": "@Novathedandyworldlover",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T00:59:47Z"
+                }
+            ]
+        }
+    ]
+}

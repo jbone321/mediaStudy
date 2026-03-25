@@ -1,0 +1,40 @@
+{
+    "videoId": "QsbZ9Zye2lg",
+    "history": [
+        {
+            "fetchedAt": "20260321_072014",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260322_072043",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Baby Drench",
+                    "author": "@MerchItJit",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T11:39:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260323_072129",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "This video was amazing, learned a lot.",
+                    "author": "@antoniochaia",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T09:12:11Z"
+                },
+                {
+                    "text": "Baby Drench",
+                    "author": "@MerchItJit",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T11:39:13Z"
+                }
+            ]
+        }
+    ]
+}

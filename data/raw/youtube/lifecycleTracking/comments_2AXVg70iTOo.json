@@ -1,0 +1,77 @@
+{
+    "videoId": "2AXVg70iTOo",
+    "history": [
+        {
+            "fetchedAt": "20260321_100018",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Hai kakak",
+                    "author": "@SavitricandraDewi",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T09:19:43Z"
+                },
+                {
+                    "text": "GAK BAGUS \ud83d\ude02\ud83d\ude02\ud83d\ude02 CANDA BAGUS KOK \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@riska-v9z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T09:52:03Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260322_072101",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Hai kakak",
+                    "author": "@SavitricandraDewi",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T09:19:43Z"
+                },
+                {
+                    "text": "Kak aku agama Hindu kak",
+                    "author": "@bramnaura",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T00:15:33Z"
+                },
+                {
+                    "text": "Dara",
+                    "author": "@KhotimatulHasanah-y5j",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T11:20:53Z"
+                },
+                {
+                    "text": "GAK BAGUS \ud83d\ude02\ud83d\ude02\ud83d\ude02 CANDA BAGUS KOK \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@riska-v9z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T09:52:03Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260325_072246",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Hai kakak",
+                    "author": "@SavitricandraDewi",
+                    "likes": 2,
+                    "publishedAt": "2026-03-21T09:19:43Z"
+                },
+                {
+                    "text": "Kak aku agama Hindu kak",
+                    "author": "@bramnaura",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T00:15:33Z"
+                },
+                {
+                    "text": "GAK BAGUS \ud83d\ude02\ud83d\ude02\ud83d\ude02 CANDA BAGUS KOK \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@riska-v9z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T09:52:03Z"
+                }
+            ]
+        }
+    ]
+}

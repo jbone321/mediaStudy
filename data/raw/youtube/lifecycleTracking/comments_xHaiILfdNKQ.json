@@ -1,0 +1,22 @@
+{
+    "videoId": "xHaiILfdNKQ",
+    "history": [
+        {
+            "fetchedAt": "20260324_100021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260325_072503",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "O itu opel",
+                    "author": "@rohmathi5291",
+                    "likes": 0,
+                    "publishedAt": "2026-03-25T06:50:13Z"
+                }
+            ]
+        }
+    ]
+}

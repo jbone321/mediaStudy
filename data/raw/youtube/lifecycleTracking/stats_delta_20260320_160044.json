@@ -1,0 +1,340 @@
+{
+    "items": [
+        {
+            "videoId": "CrF6uhSYUsg",
+            "viewCount": 22394,
+            "likeCount": 1313,
+            "commentCount": 18,
+            "pollTimestamp": "2026-03-20T16:00:44.920474Z"
+        },
+        {
+            "videoId": "Fbo85W_Hsgg",
+            "viewCount": 35696,
+            "likeCount": 665,
+            "commentCount": 27,
+            "pollTimestamp": "2026-03-20T16:00:44.920513Z"
+        },
+        {
+            "videoId": "xacIkc4vmQk",
+            "viewCount": 998,
+            "likeCount": 16,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920529Z"
+        },
+        {
+            "videoId": "ieaeMYO90EM",
+            "viewCount": 1485,
+            "likeCount": 0,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920543Z"
+        },
+        {
+            "videoId": "JGBJ4CUSnFo",
+            "viewCount": 409,
+            "likeCount": 0,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920557Z"
+        },
+        {
+            "videoId": "jMGVtXRXE_s",
+            "viewCount": 2333,
+            "likeCount": 6,
+            "commentCount": 4,
+            "pollTimestamp": "2026-03-20T16:00:44.920571Z"
+        },
+        {
+            "videoId": "aOz0RaPVOaY",
+            "viewCount": 306219,
+            "likeCount": 988,
+            "commentCount": 4,
+            "pollTimestamp": "2026-03-20T16:00:44.920584Z"
+        },
+        {
+            "videoId": "5dy8wF11WZc",
+            "viewCount": 1060,
+            "likeCount": 16,
+            "commentCount": 2,
+            "pollTimestamp": "2026-03-20T16:00:44.920598Z"
+        },
+        {
+            "videoId": "JQpjykxCem4",
+            "viewCount": 6392,
+            "likeCount": 43,
+            "commentCount": 4,
+            "pollTimestamp": "2026-03-20T16:00:44.920611Z"
+        },
+        {
+            "videoId": "q8mQSTyXVaY",
+            "viewCount": 46967,
+            "likeCount": 414,
+            "commentCount": 5,
+            "pollTimestamp": "2026-03-20T16:00:44.920625Z"
+        },
+        {
+            "videoId": "Ha2Cx75WjZ8",
+            "viewCount": 786,
+            "likeCount": 3,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920638Z"
+        },
+        {
+            "videoId": "tL4ei4FoPvc",
+            "viewCount": 3767,
+            "likeCount": 166,
+            "commentCount": 6,
+            "pollTimestamp": "2026-03-20T16:00:44.920652Z"
+        },
+        {
+            "videoId": "8XvgtURKiQQ",
+            "viewCount": 698,
+            "likeCount": 19,
+            "commentCount": 2,
+            "pollTimestamp": "2026-03-20T16:00:44.920666Z"
+        },
+        {
+            "videoId": "r8H8vFSePGU",
+            "viewCount": 15757,
+            "likeCount": 129,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920679Z"
+        },
+        {
+            "videoId": "JdFrLRkPeLs",
+            "viewCount": 1020,
+            "likeCount": 51,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920693Z"
+        },
+        {
+            "videoId": "Rn2s8pXsjus",
+            "viewCount": 11517,
+            "likeCount": 20,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920706Z"
+        },
+        {
+            "videoId": "RDs3wDBtJVw",
+            "viewCount": 1269,
+            "likeCount": 20,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920719Z"
+        },
+        {
+            "videoId": "8gwgJk0-wJE",
+            "viewCount": 1524,
+            "likeCount": 88,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920733Z"
+        },
+        {
+            "videoId": "z-K6lveHKqU",
+            "viewCount": 1023,
+            "likeCount": 42,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920746Z"
+        },
+        {
+            "videoId": "XxBcE6J6bG0",
+            "viewCount": 1382,
+            "likeCount": 48,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920758Z"
+        },
+        {
+            "videoId": "05Wuc4mEwfo",
+            "viewCount": 1617,
+            "likeCount": 2,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920772Z"
+        },
+        {
+            "videoId": "drQgrACas-E",
+            "viewCount": 1821,
+            "likeCount": 21,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920785Z"
+        },
+        {
+            "videoId": "oSsjeGAhxPU",
+            "viewCount": 939,
+            "likeCount": 0,
+            "commentCount": 3,
+            "pollTimestamp": "2026-03-20T16:00:44.920798Z"
+        },
+        {
+            "videoId": "LQvEkZ_A8Sk",
+            "viewCount": 4029,
+            "likeCount": 0,
+            "commentCount": 1,
+            "pollTimestamp": "2026-03-20T16:00:44.920833Z"
+        },
+        {
+            "videoId": "_dVpd-gV5y4",
+            "viewCount": 11377,
+            "likeCount": 137,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920847Z"
+        },
+        {
+            "videoId": "mGfmCPgEdwA",
+            "viewCount": 2201,
+            "likeCount": 92,
+            "commentCount": 5,
+            "pollTimestamp": "2026-03-20T16:00:44.920860Z"
+        },
+        {
+            "videoId": "JTwtMfkv8Ig",
+            "viewCount": 1923,
+            "likeCount": 0,
+            "commentCount": 3,
+            "pollTimestamp": "2026-03-20T16:00:44.920873Z"
+        },
+        {
+            "videoId": "Ltn_A3W372c",
+            "viewCount": 2448,
+            "likeCount": 129,
+            "commentCount": 5,
+            "pollTimestamp": "2026-03-20T16:00:44.920886Z"
+        },
+        {
+            "videoId": "sgt1HQfCRoA",
+            "viewCount": 800,
+            "likeCount": 12,
+            "commentCount": 13,
+            "pollTimestamp": "2026-03-20T16:00:44.920900Z"
+        },
+        {
+            "videoId": "NjahLwTrJ-o",
+            "viewCount": 5888,
+            "likeCount": 122,
+            "commentCount": 9,
+            "pollTimestamp": "2026-03-20T16:00:44.920913Z"
+        },
+        {
+            "videoId": "naAgbKcffzs",
+            "viewCount": 161187,
+            "likeCount": 1094,
+            "commentCount": 8,
+            "pollTimestamp": "2026-03-20T16:00:44.920926Z"
+        },
+        {
+            "videoId": "eJV_yOxFZy0",
+            "viewCount": 1123,
+            "likeCount": 34,
+            "commentCount": 1,
+            "pollTimestamp": "2026-03-20T16:00:44.920940Z"
+        },
+        {
+            "videoId": "ZChJ4NTrxwE",
+            "viewCount": 4167,
+            "likeCount": 0,
+            "commentCount": 19,
+            "pollTimestamp": "2026-03-20T16:00:44.920953Z"
+        },
+        {
+            "videoId": "0LbyJZ5rlqQ",
+            "viewCount": 76,
+            "likeCount": 4,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920966Z"
+        },
+        {
+            "videoId": "tfFhvgCyUUk",
+            "viewCount": 5733,
+            "likeCount": 187,
+            "commentCount": 8,
+            "pollTimestamp": "2026-03-20T16:00:44.920979Z"
+        },
+        {
+            "videoId": "mx3_jGCOa6g",
+            "viewCount": 56,
+            "likeCount": 0,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.920992Z"
+        },
+        {
+            "videoId": "u2cSvZ93XmI",
+            "viewCount": 3553,
+            "likeCount": 0,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.921005Z"
+        },
+        {
+            "videoId": "iPmG_AoyeMI",
+            "viewCount": 1261,
+            "likeCount": 5,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.921018Z"
+        },
+        {
+            "videoId": "PNdAwY-HL-c",
+            "viewCount": 1148,
+            "likeCount": 0,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.921031Z"
+        },
+        {
+            "videoId": "OvARwlEEIl0",
+            "viewCount": 1468,
+            "likeCount": 28,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.921044Z"
+        },
+        {
+            "videoId": "QaZyVOEdOO0",
+            "viewCount": 39344,
+            "likeCount": 248,
+            "commentCount": 1,
+            "pollTimestamp": "2026-03-20T16:00:44.921057Z"
+        },
+        {
+            "videoId": "_G85lN2rMzM",
+            "viewCount": 1507,
+            "likeCount": 0,
+            "commentCount": 1,
+            "pollTimestamp": "2026-03-20T16:00:44.921070Z"
+        },
+        {
+            "videoId": "tm7N4em3ubM",
+            "viewCount": 3606,
+            "likeCount": 38,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.921083Z"
+        },
+        {
+            "videoId": "p_okG6LzqTo",
+            "viewCount": 7505,
+            "likeCount": 64,
+            "commentCount": 3,
+            "pollTimestamp": "2026-03-20T16:00:44.921096Z"
+        },
+        {
+            "videoId": "zCBROSAn1H8",
+            "viewCount": 29026,
+            "likeCount": 517,
+            "commentCount": 1,
+            "pollTimestamp": "2026-03-20T16:00:44.921109Z"
+        },
+        {
+            "videoId": "3ykrfuafNG0",
+            "viewCount": 822,
+            "likeCount": 6,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.921122Z"
+        },
+        {
+            "videoId": "DPrFmqOo7OA",
+            "viewCount": 279175,
+            "likeCount": 11936,
+            "commentCount": 38,
+            "pollTimestamp": "2026-03-20T16:00:44.921135Z"
+        },
+        {
+            "videoId": "qzcxaqz7YCQ",
+            "viewCount": 1044,
+            "likeCount": 8,
+            "commentCount": 0,
+            "pollTimestamp": "2026-03-20T16:00:44.921148Z"
+        }
+    ]
+}

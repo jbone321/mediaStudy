@@ -1,0 +1,59 @@
+{
+    "videoId": "YLtwtlvj3Vo",
+    "history": [
+        {
+            "fetchedAt": "20260322_220011",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nie chc\u0119 po\u017cegna\u0144.",
+                    "author": "@KaziaNowak",
+                    "likes": 1,
+                    "publishedAt": "2026-03-22T20:41:34Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260324_072305",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Pi\u0119kna piosenka \ud83d\ude2f\ud83d\ude05",
+                    "author": "@DanutaSzajko-ur2ej",
+                    "likes": 1,
+                    "publishedAt": "2026-03-23T21:54:57Z"
+                },
+                {
+                    "text": "Nie chc\u0119 po\u017cegna\u0144.",
+                    "author": "@KaziaNowak",
+                    "likes": 2,
+                    "publishedAt": "2026-03-22T20:41:34Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260325_072349",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Nie placz Kochana \u2764,ja wroce do Ciebie \ud83e\udec2\ud83d\udc9e\ud83d\ude18 piekna Piosenka \u2764 Dziekuje",
+                    "author": "@MarcoPolo-ij5qc",
+                    "likes": 3,
+                    "publishedAt": "2026-03-24T16:22:39Z"
+                },
+                {
+                    "text": "Nie chc\u0119 po\u017cegna\u0144.",
+                    "author": "@KaziaNowak",
+                    "likes": 2,
+                    "publishedAt": "2026-03-22T20:41:34Z"
+                },
+                {
+                    "text": "Pi\u0119kna piosenka \ud83d\ude2f\ud83d\ude05",
+                    "author": "@DanutaSzajko-ur2ej",
+                    "likes": 1,
+                    "publishedAt": "2026-03-23T21:54:57Z"
+                }
+            ]
+        }
+    ]
+}

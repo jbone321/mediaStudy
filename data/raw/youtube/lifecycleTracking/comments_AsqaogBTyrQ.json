@@ -1,0 +1,40 @@
+{
+    "videoId": "AsqaogBTyrQ",
+    "history": [
+        {
+            "fetchedAt": "20260319_220012",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260320_071925",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Humbert Humbert",
+                    "author": "@Hugobals",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T23:08:51Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260321_071925",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Humbert Humbert",
+                    "author": "@Hugobals",
+                    "likes": 5,
+                    "publishedAt": "2026-03-19T23:08:51Z"
+                },
+                {
+                    "text": "Till this day i still think the mom was really robin",
+                    "author": "@boxheadzombie3400",
+                    "likes": 1,
+                    "publishedAt": "2026-03-20T11:10:52Z"
+                }
+            ]
+        }
+    ]
+}

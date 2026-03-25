@@ -1,0 +1,40 @@
+{
+    "videoId": "FWri7a59pCQ",
+    "history": [
+        {
+            "fetchedAt": "20260323_040013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260324_072312",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@SaraSilveira-g3f",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T13:10:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260325_072355",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@JkJvala",
+                    "likes": 0,
+                    "publishedAt": "2026-03-25T06:11:45Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@SaraSilveira-g3f",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T13:10:20Z"
+                }
+            ]
+        }
+    ]
+}

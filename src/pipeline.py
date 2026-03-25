@@ -21,7 +21,12 @@ class PipelineConfig:
 	def __init__(self):
 		# YouTube collection settings
 		self.youtube = {
-			"apiKey": os.getenv("YOUTUBE_API_KEY"),
+			"apiKeys": [
+				os.getenv("YOUTUBE_API_KEY_1"),
+				os.getenv("YOUTUBE_API_KEY_2"),
+				os.getenv("YOUTUBE_API_KEY_3"),
+				os.getenv("YOUTUBE_API_KEY_4"),
+			],
 			"baseDir": "data/raw/youtube",
 			"categories": ["Entertainment", "Music", "Gaming", "Education", "Howto & Style"],
 			"videosPerCategory": 30,
@@ -30,8 +35,8 @@ class PipelineConfig:
 		}
 
 		self.google = {
-			"cats": [3, 35, 8, 18, 65],
-			"timeframe": "2026-02-11 2026-02-25"
+			"cats": [3, 35, 8, 74, 65],
+			"timeframe": "2026-02-11 2026-03-18"
 		}
 
 		# Sentiment analysis settings
@@ -43,7 +48,7 @@ class PipelineConfig:
 
 	def validate(self) -> bool:
 		# quick check that required settings exist before running
-		if not self.youtube.get("apiKey"):
+		if not any(self.youtube.get("apiKeys", [])):
 			print("Error: YOUTUBE_API_KEY is missing from environment variables.")
 			print("Add it to .env file or export it before running.")
 			return False
@@ -65,8 +70,8 @@ class MediaPipeline:
 
 	def _initializeComponents(self):
 		# intializes pipeline components and ensures correct API authentication
-		if self.config.youtube["apiKey"]:
-			self.collector = YoutubeCollector(self.config.youtube["apiKey"], baseDir=self.config.youtube["baseDir"])
+		if self.config.youtube["apiKeys"]:
+			self.collector = YoutubeCollector(self.config.youtube["apiKeys"], baseDir=self.config.youtube["baseDir"])
 		else:
 			print("No YouTube API key")
 

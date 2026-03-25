@@ -1,0 +1,22 @@
+{
+    "videoId": "aQGtCSa5JCY",
+    "history": [
+        {
+            "fetchedAt": "20260321_100021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260322_072104",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@Murat-n5m8c",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T13:07:08Z"
+                }
+            ]
+        }
+    ]
+}

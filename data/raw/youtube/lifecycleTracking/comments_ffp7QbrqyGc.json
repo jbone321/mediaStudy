@@ -18,6 +18,30 @@
                     "publishedAt": "2026-03-13T11:01:14Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260317_071907",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "I like it",
+                    "author": "@trulytoi6008",
+                    "likes": 1,
+                    "publishedAt": "2026-03-12T21:54:47Z"
+                },
+                {
+                    "text": "Outfit links are on my LTK \ud83d\udc47\ud83c\udffd\nSearch mikismithlifestyle or check the link in my bio.",
+                    "author": "@mikismithlifestyle",
+                    "likes": 1,
+                    "publishedAt": "2026-03-13T11:01:14Z"
+                },
+                {
+                    "text": "I love the whole look and I\u2019m coming to pick up my boots! You\u2019ve had them for too long \ud83d\ude02",
+                    "author": "@BrownFaceinBloom",
+                    "likes": 0,
+                    "publishedAt": "2026-03-16T15:02:52Z"
+                }
+            ]
         }
     ]
 }

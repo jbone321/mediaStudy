@@ -1,0 +1,46 @@
+{
+    "videoId": "oTGQKeRslyY",
+    "history": [
+        {
+            "fetchedAt": "20260319_220016",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude80",
+                    "author": "@V1Xtec",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T19:20:49Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@ThiagoBarreto-s4h",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T19:59:41Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260322_071954",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260324_072058",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude80",
+                    "author": "@V1Xtec",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T19:20:49Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@ThiagoBarreto-s4h",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T19:59:41Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "3Xdl_6hdTno",
+    "history": [
+        {
+            "fetchedAt": "20260319_040018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260319_071950",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Iski jagah apne maa baap ki tasveer banati to achha lagta",
+                    "author": "@AshwaniKumar-yu2bb",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T05:54:57Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260320_071854",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83e\udeb7\ud83e\udeb7",
+                    "author": "@ManojKumar-d3n8l",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T09:14:00Z"
+                },
+                {
+                    "text": "Iski jagah apne maa baap ki tasveer banati to achha lagta",
+                    "author": "@AshwaniKumar-yu2bb",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T05:54:57Z"
+                }
+            ]
+        }
+    ]
+}

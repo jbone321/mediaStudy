@@ -1,0 +1,35 @@
+{
+    "videoId": "gMaaAIzHyV0",
+    "history": [
+        {
+            "fetchedAt": "20260323_100017",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@erkinjurayev-fh2bz",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T07:42:51Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260324_072328",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@erkinjurayev-fh2bz",
+                    "likes": 1,
+                    "publishedAt": "2026-03-23T07:42:51Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@annaalberto3788",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T17:19:54Z"
+                }
+            ]
+        }
+    ]
+}

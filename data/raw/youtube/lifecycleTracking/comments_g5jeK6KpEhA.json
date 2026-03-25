@@ -1,0 +1,34 @@
+{
+    "videoId": "g5jeK6KpEhA",
+    "history": [
+        {
+            "fetchedAt": "20260319_160027",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Very good \ud83d\udc4d",
+                    "author": "@TriizopGaming",
+                    "likes": 4,
+                    "publishedAt": "2026-03-19T12:00:08Z"
+                },
+                {
+                    "text": "\ud83d\ude32",
+                    "author": "@NSTFFXT",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T12:01:06Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@NSTFFXT",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T12:01:17Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260320_071925",
+            "commentCount": 0,
+            "comments": []
+        }
+    ]
+}

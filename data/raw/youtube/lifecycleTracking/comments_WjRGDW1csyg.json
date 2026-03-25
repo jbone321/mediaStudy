@@ -72,6 +72,30 @@
                     "publishedAt": "2026-03-08T21:15:21Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260317_071606",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "ej a ile cos takiego kosztuje?\"",
+                    "author": "@arklord225",
+                    "likes": 0,
+                    "publishedAt": "2026-03-08T16:59:49Z"
+                },
+                {
+                    "text": "Owszem optymalizowac mozesz zawsze ale z gowna balwana nie ulepisz",
+                    "author": "@MateuszSzabat",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T03:02:34Z"
+                },
+                {
+                    "text": "zrobili\u015bcie 2 razy to samo wideo",
+                    "author": "@Mati20o",
+                    "likes": 1,
+                    "publishedAt": "2026-03-08T22:25:24Z"
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,40 @@
+{
+    "videoId": "5thNChTpWoI",
+    "history": [
+        {
+            "fetchedAt": "20260320_100015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260321_071950",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Very good!",
+                    "author": "@efdalte22",
+                    "likes": 1,
+                    "publishedAt": "2026-03-20T18:30:12Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260324_072120",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u041c\u043e\u043b\u043e\u0434\u0446\u044b !!! \u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0438\u0441\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 !!!\u0411\u0440\u0430\u0432\u043e !!! \u2764\u2764\u2764",
+                    "author": "@\u0413\u0430\u043b\u0438\u043d\u0430-\u04483\u043d6\u044d",
+                    "likes": 1,
+                    "publishedAt": "2026-03-23T18:38:26Z"
+                },
+                {
+                    "text": "Very good!",
+                    "author": "@efdalte22",
+                    "likes": 1,
+                    "publishedAt": "2026-03-20T18:30:12Z"
+                }
+            ]
+        }
+    ]
+}

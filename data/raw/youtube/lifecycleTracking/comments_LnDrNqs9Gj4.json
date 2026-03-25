@@ -5,6 +5,36 @@
             "fetchedAt": "20260316_100017",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260317_071940",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "10",
+                    "author": "@rudi7893",
+                    "likes": 1,
+                    "publishedAt": "2026-03-16T10:05:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260319_071856",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Itu simo hahyaa yak",
+                    "author": "@gumilangagi9607",
+                    "likes": 1,
+                    "publishedAt": "2026-03-18T09:40:29Z"
+                },
+                {
+                    "text": "10",
+                    "author": "@rudi7893",
+                    "likes": 1,
+                    "publishedAt": "2026-03-16T10:05:24Z"
+                }
+            ]
         }
     ]
 }

@@ -5,6 +5,18 @@
             "fetchedAt": "20260316_100017",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260318_071943",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "nu",
+                    "author": "@junikoantosyahputra4212",
+                    "likes": 0,
+                    "publishedAt": "2026-03-17T09:40:34Z"
+                }
+            ]
         }
     ]
 }

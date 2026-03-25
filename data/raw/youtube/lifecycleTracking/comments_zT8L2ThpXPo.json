@@ -1,0 +1,46 @@
+{
+    "videoId": "zT8L2ThpXPo",
+    "history": [
+        {
+            "fetchedAt": "20260321_220016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260322_072125",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Bruce Springsteen is the boss\nBut what are we thinking about bob Dylan?",
+                    "author": "@peterschneider946",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T05:15:15Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260323_072213",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Bob Dylan Is the greatest...Been Listening to him since 1964 I was 14 & At school...Now 76 & Yes Listening to his class albums all the time...Bob sent me a message online thanking me for supporting him for so long...\u2764.Pure Genius....",
+                    "author": "@DavidLiggins-f8c",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T17:25:50Z"
+                },
+                {
+                    "text": "'Desire' is Bobs best album.",
+                    "author": "@Amor-Sine-Timor",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T17:20:41Z"
+                },
+                {
+                    "text": "Bruce Springsteen is the boss\nBut what are we thinking about bob Dylan?",
+                    "author": "@peterschneider946",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T05:15:15Z"
+                }
+            ]
+        }
+    ]
+}

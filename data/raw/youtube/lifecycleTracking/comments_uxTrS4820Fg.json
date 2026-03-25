@@ -1,0 +1,34 @@
+{
+    "videoId": "uxTrS4820Fg",
+    "history": [
+        {
+            "fetchedAt": "20260319_040013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260321_071843",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Ok",
+                    "author": "@AlmaLopez-g4y7p",
+                    "likes": 2,
+                    "publishedAt": "2026-03-21T00:52:42Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@PabloCorado-q6k7x",
+                    "likes": 1,
+                    "publishedAt": "2026-03-20T19:20:56Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@AlmaLopez-g4y7p",
+                    "likes": 2,
+                    "publishedAt": "2026-03-21T00:52:54Z"
+                }
+            ]
+        }
+    ]
+}

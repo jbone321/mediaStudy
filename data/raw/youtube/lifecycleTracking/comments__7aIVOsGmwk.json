@@ -1,0 +1,28 @@
+{
+    "videoId": "_7aIVOsGmwk",
+    "history": [
+        {
+            "fetchedAt": "20260321_100020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260322_072103",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Hi bro how to solve zero view problem",
+                    "author": "@zyqoraa",
+                    "likes": 2,
+                    "publishedAt": "2026-03-21T14:31:13Z"
+                },
+                {
+                    "text": "Circle the wolves",
+                    "author": "@CasonMahlandt",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T15:50:14Z"
+                }
+            ]
+        }
+    ]
+}

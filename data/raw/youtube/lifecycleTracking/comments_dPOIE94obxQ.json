@@ -1,0 +1,100 @@
+{
+    "videoId": "dPOIE94obxQ",
+    "history": [
+        {
+            "fetchedAt": "20260321_160019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260322_072116",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Hello bro\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Fadhilmuslim-y2n",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T23:18:04Z"
+                },
+                {
+                    "text": "\ud83c\udf89\u0647\u0644\u0645\u0644",
+                    "author": "@soufianben01",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T18:48:31Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@SomSardar-z7x1o",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T03:12:44Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260323_072202",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\u0647\u0644\u0645\u0644",
+                    "author": "@soufianben01",
+                    "likes": 4,
+                    "publishedAt": "2026-03-21T18:48:31Z"
+                },
+                {
+                    "text": "Hello bro\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Fadhilmuslim-y2n",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T23:18:04Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\u2764\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@MariaMartins-z6y",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T15:19:26Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@SomSardar-z7x1o",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T03:12:44Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260324_072219",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\u0647\u0644\u0645\u0644",
+                    "author": "@soufianben01",
+                    "likes": 4,
+                    "publishedAt": "2026-03-21T18:48:31Z"
+                },
+                {
+                    "text": "Hello bro\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Fadhilmuslim-y2n",
+                    "likes": 1,
+                    "publishedAt": "2026-03-21T23:18:04Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
+                    "author": "@NorelisSuarez-c6h",
+                    "likes": 0,
+                    "publishedAt": "2026-03-23T11:40:49Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\u2764\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@MariaMartins-z6y",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T15:19:26Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@SomSardar-z7x1o",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T03:12:44Z"
+                }
+            ]
+        }
+    ]
+}

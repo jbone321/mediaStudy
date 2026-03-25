@@ -1,0 +1,40 @@
+{
+    "videoId": "1FuvNnKcPj4",
+    "history": [
+        {
+            "fetchedAt": "20260320_040018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260322_072009",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "reasonable reaction",
+                    "author": "@generalgeneric9358",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T06:32:26Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260323_072056",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "reasonable reaction",
+                    "author": "@generalgeneric9358",
+                    "likes": 3,
+                    "publishedAt": "2026-03-22T06:32:26Z"
+                },
+                {
+                    "text": "Activate Sonic Boom\n\n(T-1000 goes splatt)",
+                    "author": "@OverneedBelkanWitch",
+                    "likes": 1,
+                    "publishedAt": "2026-03-22T08:31:44Z"
+                }
+            ]
+        }
+    ]
+}

@@ -5,6 +5,18 @@
             "fetchedAt": "20260314_110012",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260317_071856",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u041c\u0430\u0448\u0430\u043e\u043b\u043b\u043e\u0445",
+                    "author": "@OzodbekTulqinov-b9k",
+                    "likes": 0,
+                    "publishedAt": "2026-03-17T02:21:05Z"
+                }
+            ]
         }
     ]
 }

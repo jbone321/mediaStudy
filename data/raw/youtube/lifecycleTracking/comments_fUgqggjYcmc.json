@@ -1,0 +1,58 @@
+{
+    "videoId": "fUgqggjYcmc",
+    "history": [
+        {
+            "fetchedAt": "20260319_100016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260320_071905",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Nishu \u2764",
+                    "author": "@SurajYadav-w4s5k",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T01:58:18Z"
+                },
+                {
+                    "text": "Nishu Bhai \ud83d\udcaf\u2764",
+                    "author": "@SurajYadav-w4s5k",
+                    "likes": 0,
+                    "publishedAt": "2026-03-20T01:58:26Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260321_071858",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Nishu Bhai \u2764",
+                    "author": "@ShaktiRay-qq2vd",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T05:42:12Z"
+                },
+                {
+                    "text": "Nishu \u2764",
+                    "author": "@SurajYadav-w4s5k",
+                    "likes": 1,
+                    "publishedAt": "2026-03-20T01:58:18Z"
+                },
+                {
+                    "text": "Nishu Bhai \ud83d\udcaf\u2764",
+                    "author": "@SurajYadav-w4s5k",
+                    "likes": 1,
+                    "publishedAt": "2026-03-20T01:58:26Z"
+                },
+                {
+                    "text": "Nishu \u2764",
+                    "author": "@ShaktiRay-qq2vd",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T05:42:18Z"
+                }
+            ]
+        }
+    ]
+}

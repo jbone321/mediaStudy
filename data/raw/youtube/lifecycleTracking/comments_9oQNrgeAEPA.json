@@ -1,0 +1,22 @@
+{
+    "videoId": "9oQNrgeAEPA",
+    "history": [
+        {
+            "fetchedAt": "20260319_100016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260320_071904",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude05",
+                    "author": "@\u0415\u0440\u0431\u043e\u043b\u041a\u0430\u0440\u0438\u043d\u0431\u0430\u0435\u0432",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T16:01:20Z"
+                }
+            ]
+        }
+    ]
+}

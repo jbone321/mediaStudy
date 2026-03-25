@@ -1,0 +1,40 @@
+{
+    "videoId": "YcY8X-1g6Qo",
+    "history": [
+        {
+            "fetchedAt": "20260317_100008",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260318_071950",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Y, Y?",
+                    "author": "@lonlonlon636",
+                    "likes": 0,
+                    "publishedAt": "2026-03-17T20:44:01Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260321_071801",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Y and G",
+                    "author": "@Vero-smile",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T05:57:47Z"
+                },
+                {
+                    "text": "Y, Y?",
+                    "author": "@lonlonlon636",
+                    "likes": 0,
+                    "publishedAt": "2026-03-17T20:44:01Z"
+                }
+            ]
+        }
+    ]
+}

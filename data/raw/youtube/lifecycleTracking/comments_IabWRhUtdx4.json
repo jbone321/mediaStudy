@@ -1,0 +1,22 @@
+{
+    "videoId": "IabWRhUtdx4",
+    "history": [
+        {
+            "fetchedAt": "20260321_160020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260323_072203",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Uni",
+                    "author": "@\u041d\u0430\u0441\u0442\u044f\u0412\u0438\u0440\u0431\u0430\u043b",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T09:37:32Z"
+                }
+            ]
+        }
+    ]
+}

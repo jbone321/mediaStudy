@@ -1,0 +1,40 @@
+{
+    "videoId": "lNgD9NiX9js",
+    "history": [
+        {
+            "fetchedAt": "20260319_040010",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260319_071941",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Jay mata di \u2764\u2764\u2764\u2764",
+                    "author": "@ShivRam-e2l",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T05:59:25Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260320_071847",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Jay mata di \u2764\u2764\u2764\u2764",
+                    "author": "@ShivRam-e2l",
+                    "likes": 2,
+                    "publishedAt": "2026-03-19T05:59:25Z"
+                },
+                {
+                    "text": "Janm Saraswati\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@SahilKumar-j2l9j",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T08:47:44Z"
+                }
+            ]
+        }
+    ]
+}

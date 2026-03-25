@@ -1,0 +1,71 @@
+{
+    "videoId": "qmA9qHFbXtE",
+    "history": [
+        {
+            "fetchedAt": "20260317_071942",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "X=1",
+                    "author": "@rafaelyorro4466",
+                    "likes": 0,
+                    "publishedAt": "2026-03-16T14:28:48Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260318_071945",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Oddly enough, 2 worked.",
+                    "author": "@StevenTorrey",
+                    "likes": 0,
+                    "publishedAt": "2026-03-17T12:45:22Z"
+                },
+                {
+                    "text": "He has skipped an important step after the 3rd step.  If he squares the sqr rte of x, doesn't he have to sgre 2, as well?",
+                    "author": "@StevenTorrey",
+                    "likes": 0,
+                    "publishedAt": "2026-03-17T12:41:00Z"
+                },
+                {
+                    "text": "X=1",
+                    "author": "@rafaelyorro4466",
+                    "likes": 0,
+                    "publishedAt": "2026-03-16T14:28:48Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260319_071858",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Oddly enough, 2 worked.",
+                    "author": "@StevenTorrey",
+                    "likes": 0,
+                    "publishedAt": "2026-03-17T12:45:22Z"
+                },
+                {
+                    "text": "He has skipped an important step after the 3rd step.  If he squares the sqr rte of x, doesn't he have to sgre 2, as well?",
+                    "author": "@StevenTorrey",
+                    "likes": 0,
+                    "publishedAt": "2026-03-17T12:41:00Z"
+                },
+                {
+                    "text": "A = 3^R(X)...\n3(...) = 3(...)\nR(x)/2 = 1/R(x)\nx/2 = 1\nx = 2",
+                    "author": "@gurinate7011",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T07:46:31Z"
+                },
+                {
+                    "text": "X=1",
+                    "author": "@rafaelyorro4466",
+                    "likes": 0,
+                    "publishedAt": "2026-03-16T14:28:48Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "videoId": "6pV2yQKqqTY",
+    "history": [
+        {
+            "fetchedAt": "20260319_000734",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@IvanRasoul",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:34:56Z"
+                },
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@Thedovebrd",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:45:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260319_071936",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Second comment \ud83e\udd48",
+                    "author": "@Juddyboy-p1g",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T02:20:20Z"
+                },
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@IvanRasoul",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:34:56Z"
+                },
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@Thedovebrd",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:45:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260320_071841",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Second comment \ud83e\udd48",
+                    "author": "@Juddyboy-p1g",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T02:20:20Z"
+                },
+                {
+                    "text": "Day 362 of asking to get a free keyboard",
+                    "author": "@Turbowings123",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T13:17:10Z"
+                },
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@IvanRasoul",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:34:56Z"
+                },
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@Thedovebrd",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:45:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260321_071834",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Hi I fell so bad for you that you have to deal with those people",
+                    "author": "@BrodyGolden-g3z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T00:22:11Z"
+                },
+                {
+                    "text": "Second comment \ud83e\udd48",
+                    "author": "@Juddyboy-p1g",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T02:20:20Z"
+                },
+                {
+                    "text": "Day 362 of asking to get a free keyboard",
+                    "author": "@Turbowings123",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T13:17:10Z"
+                },
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@IvanRasoul",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:34:56Z"
+                },
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@Thedovebrd",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:45:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260324_072012",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Hi I fell so bad for you that you have to deal with those people",
+                    "author": "@BrodyGolden-g3z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T00:22:11Z"
+                },
+                {
+                    "text": "Second comment \ud83e\udd48",
+                    "author": "@Juddyboy-p1g",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T02:20:20Z"
+                },
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@IvanRasoul",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:34:56Z"
+                },
+                {
+                    "text": "FIRST COMMENT",
+                    "author": "@Thedovebrd",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T20:45:36Z"
+                }
+            ]
+        }
+    ]
+}

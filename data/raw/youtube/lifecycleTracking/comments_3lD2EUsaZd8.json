@@ -1,0 +1,40 @@
+{
+    "videoId": "3lD2EUsaZd8",
+    "history": [
+        {
+            "fetchedAt": "20260319_100019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260320_071908",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u0aab\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8\u0abf\u0ab8 \u0a97\u0abe\u0ab2\u0acd\u0a9f\u0aa8",
+                    "author": "@RathodAsha-s2t",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T15:26:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260323_072021",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u0aab\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8\u0abf\u0ab8 \u0a97\u0abe\u0ab2\u0acd\u0a9f\u0aa8\u0ac7",
+                    "author": "@bhavikavekariya16",
+                    "likes": 1,
+                    "publishedAt": "2026-03-22T15:24:50Z"
+                },
+                {
+                    "text": "\u0aab\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8\u0abf\u0ab8 \u0a97\u0abe\u0ab2\u0acd\u0a9f\u0aa8",
+                    "author": "@RathodAsha-s2t",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T15:26:08Z"
+                }
+            ]
+        }
+    ]
+}

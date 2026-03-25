@@ -1,0 +1,28 @@
+{
+    "videoId": "8ZBy5M6fzgE",
+    "history": [
+        {
+            "fetchedAt": "20260324_040017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260325_072449",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "10",
+                    "author": "@\uc774\uc7ac\uc6b1-f3e",
+                    "likes": 1,
+                    "publishedAt": "2026-03-24T13:48:13Z"
+                },
+                {
+                    "text": "10",
+                    "author": "@TreiceArthur",
+                    "likes": 1,
+                    "publishedAt": "2026-03-24T21:47:24Z"
+                }
+            ]
+        }
+    ]
+}
