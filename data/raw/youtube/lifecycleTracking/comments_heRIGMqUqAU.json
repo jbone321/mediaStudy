@@ -54,6 +54,30 @@
                     "publishedAt": "2026-02-19T12:19:17Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260403_070555",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764Se feliz",
+                    "author": "@GenesisMarquez-m9l",
+                    "likes": 3,
+                    "publishedAt": "2026-02-18T22:31:46Z"
+                },
+                {
+                    "text": "\ud83d\ude2ew",
+                    "author": "@AltagraciaEvangelista-x7u",
+                    "likes": 2,
+                    "publishedAt": "2026-02-18T23:42:43Z"
+                },
+                {
+                    "text": "Sup",
+                    "author": "@JDChrisRon",
+                    "likes": 1,
+                    "publishedAt": "2026-02-19T12:19:17Z"
+                }
+            ]
         }
     ]
 }

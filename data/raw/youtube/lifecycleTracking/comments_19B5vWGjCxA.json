@@ -1,0 +1,22 @@
+{
+    "videoId": "19B5vWGjCxA",
+    "history": [
+        {
+            "fetchedAt": "20260330_040051",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_072950",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "FC",
+                    "author": "@ragavmunni246",
+                    "likes": 2,
+                    "publishedAt": "2026-03-30T11:13:15Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "videoId": "8LUglCjLXng",
+    "history": [
+        {
+            "fetchedAt": "20260403_040024",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073137",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nice, the red sweater on the blazer... Is a no",
+                    "author": "@felicous",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T13:43:53Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073303",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073211",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nice, the red sweater on the blazer... Is a no",
+                    "author": "@felicous",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T13:43:53Z"
+                }
+            ]
+        }
+    ]
+}

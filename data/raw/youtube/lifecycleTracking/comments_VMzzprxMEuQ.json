@@ -1,0 +1,39 @@
+{
+    "videoId": "VMzzprxMEuQ",
+    "history": [
+        {
+            "fetchedAt": "20260403_100022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073146",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Sim",
+                    "author": "@HuyLong79",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T07:40:59Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073313",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073221",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Sim",
+                    "author": "@HuyLong79",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T07:40:59Z"
+                }
+            ]
+        }
+    ]
+}

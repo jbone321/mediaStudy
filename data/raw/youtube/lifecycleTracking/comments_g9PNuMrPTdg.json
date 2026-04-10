@@ -1,0 +1,58 @@
+{
+    "videoId": "g9PNuMrPTdg",
+    "history": [
+        {
+            "fetchedAt": "20260404_100016",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u042d\u0442\u043e \u0436 \u043d\u0435 \u043e\u043d\u0430.",
+                    "author": "@Igor_Vlasov-1974",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T09:58:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260405_073230",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Es excelente",
+                    "author": "@AlbertoHernandez-x1p",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T11:31:57Z"
+                },
+                {
+                    "text": "\u042d\u0442\u043e \u0436 \u043d\u0435 \u043e\u043d\u0430.",
+                    "author": "@Igor_Vlasov-1974",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T09:58:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073401",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073309",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Es excelente",
+                    "author": "@AlbertoHernandez-x1p",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T11:31:57Z"
+                },
+                {
+                    "text": "\u042d\u0442\u043e \u0436 \u043d\u0435 \u043e\u043d\u0430.",
+                    "author": "@Igor_Vlasov-1974",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T09:58:21Z"
+                }
+            ]
+        }
+    ]
+}

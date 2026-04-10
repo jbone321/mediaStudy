@@ -1,0 +1,40 @@
+{
+    "videoId": "LJblEISaWAA",
+    "history": [
+        {
+            "fetchedAt": "20260328_160016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260329_072646",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "AURA now this is AURA",
+                    "author": "@hannahfuentes4570",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T18:10:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260403_072851",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "AURA now this is AURA",
+                    "author": "@hannahfuentes4570",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T18:10:40Z"
+                },
+                {
+                    "text": "Is this a trend now? \ud83d\ude2d",
+                    "author": "@DamasDamas-ul2yt",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T13:35:31Z"
+                }
+            ]
+        }
+    ]
+}

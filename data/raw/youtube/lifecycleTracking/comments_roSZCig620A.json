@@ -1,0 +1,40 @@
+{
+    "videoId": "roSZCig620A",
+    "history": [
+        {
+            "fetchedAt": "20260327_100013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260328_072622",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "K\ud83d\ude0a",
+                    "author": "@GungunOtwar",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T13:10:41Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260403_072743",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "K\ud83d\ude0a",
+                    "author": "@GungunOtwar",
+                    "likes": 4,
+                    "publishedAt": "2026-03-27T13:10:41Z"
+                },
+                {
+                    "text": "Pagal hai yo",
+                    "author": "@vinaykumar-yi1ux",
+                    "likes": 2,
+                    "publishedAt": "2026-03-31T13:35:26Z"
+                }
+            ]
+        }
+    ]
+}

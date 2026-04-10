@@ -1,0 +1,39 @@
+{
+    "videoId": "w-7QdvVE_QI",
+    "history": [
+        {
+            "fetchedAt": "20260404_100020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073234",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nom du jeu  s'il te plait",
+                    "author": "@naomiMondeFaith",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T20:54:38Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073406",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073313",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nom du jeu  s'il te plait",
+                    "author": "@naomiMondeFaith",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T20:54:38Z"
+                }
+            ]
+        }
+    ]
+}

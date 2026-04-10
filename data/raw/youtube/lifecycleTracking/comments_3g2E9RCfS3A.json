@@ -1,0 +1,22 @@
+{
+    "videoId": "3g2E9RCfS3A",
+    "history": [
+        {
+            "fetchedAt": "20260406_220020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073543",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "7",
+                    "author": "@yuvaraj3978",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T03:24:12Z"
+                }
+            ]
+        }
+    ]
+}

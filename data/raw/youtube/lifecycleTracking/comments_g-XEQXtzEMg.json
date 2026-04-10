@@ -1,0 +1,59 @@
+{
+    "videoId": "g-XEQXtzEMg",
+    "history": [
+        {
+            "fetchedAt": "20260407_040016",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u041e\u0431\u0430\u043b\u0434\u0435\u043d\u043d\u0430\u044f \u043c\u0443\u0437\u044b\u043a\u0430 \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\u2764\ufe0f\u2665\ufe0f\u2665\ufe0f",
+                    "author": "@\u0415\u0432\u0433\u0435\u043d\u0438\u0439-\u043e9\u043c2\u0442",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T17:03:54Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\ud83c\udf89",
+                    "author": "@gabrielvergara1690",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T22:03:47Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@\u042d\u043b\u044f\u043d\u043e\u0440\u0430-\u044f9\u043d",
+                    "likes": 2,
+                    "publishedAt": "2026-04-06T15:53:38Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073501",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u041e\u0431\u0430\u043b\u0434\u0435\u043d\u043d\u0430\u044f \u043c\u0443\u0437\u044b\u043a\u0430 \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\u2764\ufe0f\u2665\ufe0f\u2665\ufe0f",
+                    "author": "@\u0415\u0432\u0433\u0435\u043d\u0438\u0439-\u043e9\u043c2\u0442",
+                    "likes": 2,
+                    "publishedAt": "2026-04-06T17:03:54Z"
+                },
+                {
+                    "text": "Super!",
+                    "author": "@raoulsutt1798",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T15:19:32Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\ud83c\udf89",
+                    "author": "@gabrielvergara1690",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T22:03:47Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@\u042d\u043b\u044f\u043d\u043e\u0440\u0430-\u044f9\u043d",
+                    "likes": 3,
+                    "publishedAt": "2026-04-06T15:53:38Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "videoId": "Y7TQQDf9-a8",
+    "history": [
+        {
+            "fetchedAt": "20260325_220020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260326_072423",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Hello",
+                    "author": "@SachinTyagi-w7x8g",
+                    "likes": 1,
+                    "publishedAt": "2026-03-26T06:10:48Z"
+                },
+                {
+                    "text": "abe bhai main aapka bahut bada fan \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@AhmadHayat-z9t",
+                    "likes": 0,
+                    "publishedAt": "2026-03-26T06:46:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260327_072556",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Hello",
+                    "author": "@SachinTyagi-w7x8g",
+                    "likes": 1,
+                    "publishedAt": "2026-03-26T06:10:48Z"
+                },
+                {
+                    "text": "abe bhai main aapka bahut bada fan \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@AhmadHayat-z9t",
+                    "likes": 0,
+                    "publishedAt": "2026-03-26T06:46:24Z"
+                },
+                {
+                    "text": "Hello",
+                    "author": "@DevSakariya-h3i",
+                    "likes": 0,
+                    "publishedAt": "2026-03-26T14:03:16Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260328_072526",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Hello",
+                    "author": "@SachinTyagi-w7x8g",
+                    "likes": 1,
+                    "publishedAt": "2026-03-26T06:10:48Z"
+                },
+                {
+                    "text": "Hare Krishna \ud83d\ude4f\u2764\ufe0f",
+                    "author": "@MakhonSarkar-i8v7g",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T13:53:49Z"
+                },
+                {
+                    "text": "abe bhai main aapka bahut bada fan \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@AhmadHayat-z9t",
+                    "likes": 0,
+                    "publishedAt": "2026-03-26T06:46:24Z"
+                },
+                {
+                    "text": "Hello",
+                    "author": "@DevSakariya-h3i",
+                    "likes": 0,
+                    "publishedAt": "2026-03-26T14:03:16Z"
+                }
+            ]
+        }
+    ]
+}

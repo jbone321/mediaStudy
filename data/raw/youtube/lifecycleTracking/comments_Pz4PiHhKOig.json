@@ -1,0 +1,64 @@
+{
+    "videoId": "Pz4PiHhKOig",
+    "history": [
+        {
+            "fetchedAt": "20260407_040019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073505",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Me gusta mucha la forma de ense\u00f1ar de estos educadores",
+                    "author": "@matildelaragarrido5577",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T12:44:46Z"
+                },
+                {
+                    "text": "Wow\u2764\u2764",
+                    "author": "@JosefinoGaaa",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T12:17:39Z"
+                },
+                {
+                    "text": "Very nice sir \u2764",
+                    "author": "@MallavarapuSudheerbabu",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T15:48:15Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073442",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Very nice sir \u2764",
+                    "author": "@MallavarapuSudheerbabu",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T15:48:15Z"
+                },
+                {
+                    "text": "Me gusta mucha la forma de ense\u00f1ar de estos educadores",
+                    "author": "@matildelaragarrido5577",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T12:44:46Z"
+                },
+                {
+                    "text": "7 + 2 = 9",
+                    "author": "@sintudas6866",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T11:34:32Z"
+                },
+                {
+                    "text": "Wow\u2764\u2764",
+                    "author": "@JosefinoGaaa",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T12:17:39Z"
+                }
+            ]
+        }
+    ]
+}

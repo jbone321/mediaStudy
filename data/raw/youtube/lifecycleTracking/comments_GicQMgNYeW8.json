@@ -1,0 +1,40 @@
+{
+    "videoId": "GicQMgNYeW8",
+    "history": [
+        {
+            "fetchedAt": "20260328_100011",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_072833",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@lalitamore1573",
+                    "likes": 1,
+                    "publishedAt": "2026-03-30T14:11:48Z"
+                },
+                {
+                    "text": "\ud83d\ude22I'm lmao",
+                    "author": "@Baloch-w3k",
+                    "likes": 1,
+                    "publishedAt": "2026-04-01T16:10:00Z"
+                },
+                {
+                    "text": "\ud83d\ude22\ud83d\ude0a\ud83d\ude05\ud83d\ude2e\ud83d\ude22\ud83c\udf89\ud83d\ude02\ud83d\ude0a",
+                    "author": "@Shehnilfarooq",
+                    "likes": 1,
+                    "publishedAt": "2026-03-31T17:06:20Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude2e",
+                    "author": "@JhontuMia-d3t",
+                    "likes": 1,
+                    "publishedAt": "2026-03-30T14:13:19Z"
+                }
+            ]
+        }
+    ]
+}

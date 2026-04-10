@@ -1,0 +1,40 @@
+{
+    "videoId": "5d57MJPtesw",
+    "history": [
+        {
+            "fetchedAt": "20260405_220014",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073509",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Bravissimo",
+                    "author": "@ytwunder-y5u",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T05:05:31Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073444",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Luv this \u2764",
+                    "author": "@LynHemeon",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T21:53:27Z"
+                },
+                {
+                    "text": "Bravissimo",
+                    "author": "@ytwunder-y5u",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T05:05:31Z"
+                }
+            ]
+        }
+    ]
+}

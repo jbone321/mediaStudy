@@ -1,0 +1,22 @@
+{
+    "videoId": "HAn7xrlwlcc",
+    "history": [
+        {
+            "fetchedAt": "20260404_220016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073433",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "6",
+                    "author": "@JoelLucaslincallo",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T10:03:56Z"
+                }
+            ]
+        }
+    ]
+}

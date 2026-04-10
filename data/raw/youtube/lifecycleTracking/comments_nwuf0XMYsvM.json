@@ -1,0 +1,82 @@
+{
+    "videoId": "nwuf0XMYsvM",
+    "history": [
+        {
+            "fetchedAt": "20260404_040020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073224",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Annelyn-e4x",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T13:20:05Z"
+                },
+                {
+                    "text": "First",
+                    "author": "@piotbombk9951",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T10:29:14Z"
+                },
+                {
+                    "text": "It's blocked actually",
+                    "author": "@shreyanvikareddy5529",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T21:11:53Z"
+                },
+                {
+                    "text": "It's impossible",
+                    "author": "@xVortex_gaming",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T07:00:47Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073354",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "It's impossible",
+                    "author": "@xVortex_gaming",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T07:00:47Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073302",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Annelyn-e4x",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T13:20:05Z"
+                },
+                {
+                    "text": "First",
+                    "author": "@piotbombk9951",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T10:29:14Z"
+                },
+                {
+                    "text": "It's blocked actually",
+                    "author": "@shreyanvikareddy5529",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T21:11:53Z"
+                },
+                {
+                    "text": "It's impossible",
+                    "author": "@xVortex_gaming",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T07:00:47Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "videoId": "bl1-FmYm3lA",
+    "history": [
+        {
+            "fetchedAt": "20260409_220018",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Consejos que valen oro",
+                    "author": "@user-z1s5d",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T21:03:12Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073728",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Por fin consejos de calidad",
+                    "author": "@leonashi1",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T07:21:29Z"
+                },
+                {
+                    "text": "Consejos que valen oro",
+                    "author": "@user-z1s5d",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T21:03:12Z"
+                }
+            ]
+        }
+    ]
+}

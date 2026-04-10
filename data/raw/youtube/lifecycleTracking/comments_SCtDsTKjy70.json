@@ -1,0 +1,41 @@
+{
+    "videoId": "SCtDsTKjy70",
+    "history": [
+        {
+            "fetchedAt": "20260407_100027",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u7de8\u96c6\u304a\u3082\u308d\u3044www",
+                    "author": "@rables-1862",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T09:10:52Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073511",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u4e2d\u76e4\u306a\u3044\u306a\u3063\u305fwww",
+                    "author": "@makani7126",
+                    "likes": 5,
+                    "publishedAt": "2026-04-07T12:13:37Z"
+                },
+                {
+                    "text": "\u7de8\u96c6\u3067\u4e2d\u76e4\u304c\u6d88\u3055\u308c\u305f\u7b11",
+                    "author": "@\u9811\u5f35\u308a\u5c4b\u3067\u3059",
+                    "likes": 3,
+                    "publishedAt": "2026-04-07T14:06:28Z"
+                },
+                {
+                    "text": "\u7de8\u96c6\u304a\u3082\u308d\u3044www",
+                    "author": "@rables-1862",
+                    "likes": 3,
+                    "publishedAt": "2026-04-07T09:10:52Z"
+                }
+            ]
+        }
+    ]
+}

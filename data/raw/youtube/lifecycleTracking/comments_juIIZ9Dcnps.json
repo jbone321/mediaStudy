@@ -42,6 +42,24 @@
                     "publishedAt": "2026-03-15T10:52:32Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260410_071955",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@RogeniaViana",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T10:52:32Z"
+                },
+                {
+                    "text": "Bye okay hiii",
+                    "author": "@hildokalp",
+                    "likes": 1,
+                    "publishedAt": "2026-03-15T10:36:45Z"
+                }
+            ]
         }
     ]
 }

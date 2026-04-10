@@ -1,0 +1,35 @@
+{
+    "videoId": "dggBBFW0CiY",
+    "history": [
+        {
+            "fetchedAt": "20260409_220021",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a",
+                    "author": "@TashaA_Soares",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T19:25:01Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073731",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a",
+                    "author": "@TashaA_Soares",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T19:25:01Z"
+                },
+                {
+                    "text": "re(a)lly cool (i)stance",
+                    "author": "@not_sub19999",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T22:34:35Z"
+                }
+            ]
+        }
+    ]
+}

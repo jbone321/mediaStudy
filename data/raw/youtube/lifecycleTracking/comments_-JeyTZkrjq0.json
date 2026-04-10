@@ -1,0 +1,35 @@
+{
+    "videoId": "-JeyTZkrjq0",
+    "history": [
+        {
+            "fetchedAt": "20260402_220016",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Perfect",
+                    "author": "@Hanael_190",
+                    "likes": 0,
+                    "publishedAt": "2026-04-02T20:43:35Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260404_073052",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Doskona\u0142y pi\u0119kna muzyka",
+                    "author": "@AgataPig\u0142o",
+                    "likes": 2,
+                    "publishedAt": "2026-04-03T09:42:04Z"
+                },
+                {
+                    "text": "Perfect",
+                    "author": "@Hanael_190",
+                    "likes": 1,
+                    "publishedAt": "2026-04-02T20:43:35Z"
+                }
+            ]
+        }
+    ]
+}

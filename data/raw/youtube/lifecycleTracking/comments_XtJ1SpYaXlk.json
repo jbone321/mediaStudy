@@ -1,0 +1,76 @@
+{
+    "videoId": "XtJ1SpYaXlk",
+    "history": [
+        {
+            "fetchedAt": "20260404_220019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073302",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "OH wow you did that. I like everythinggg \u2764\u2764",
+                    "author": "@AuspiciousDramatica",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T02:46:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073437",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764Yesssss\u2764\u2764\u2764",
+                    "author": "@OliviaDaughter",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T00:06:52Z"
+                },
+                {
+                    "text": "Love love love the pants \ud83d\ude0d",
+                    "author": "@Quamirah",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T11:28:37Z"
+                },
+                {
+                    "text": "A hit!!!",
+                    "author": "@Stylishlybritt",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T11:06:27Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073346",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "OH wow you did that. I like everythinggg \u2764\u2764",
+                    "author": "@AuspiciousDramatica",
+                    "likes": 2,
+                    "publishedAt": "2026-04-05T02:46:08Z"
+                },
+                {
+                    "text": "Love love love the pants \ud83d\ude0d",
+                    "author": "@Quamirah",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T11:28:37Z"
+                },
+                {
+                    "text": "A hit!!!",
+                    "author": "@Stylishlybritt",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T11:06:27Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764Yesssss\u2764\u2764\u2764",
+                    "author": "@OliviaDaughter",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T00:06:52Z"
+                }
+            ]
+        }
+    ]
+}

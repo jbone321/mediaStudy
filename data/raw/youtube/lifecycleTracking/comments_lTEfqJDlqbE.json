@@ -1,0 +1,22 @@
+{
+    "videoId": "lTEfqJDlqbE",
+    "history": [
+        {
+            "fetchedAt": "20260329_040013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_072914",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "C",
+                    "author": "@VinaySharma-e6g",
+                    "likes": 1,
+                    "publishedAt": "2026-03-31T13:47:41Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "videoId": "0r-yLt9_NA8",
+    "history": [
+        {
+            "fetchedAt": "20260408_040010",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073535",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Chud Gaya guru \ud83d\ude02",
+                    "author": "@ahshaikh2533",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T06:37:57Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073511",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Chud Gaya guru \ud83d\ude02",
+                    "author": "@ahshaikh2533",
+                    "likes": 10,
+                    "publishedAt": "2026-04-08T06:37:57Z"
+                },
+                {
+                    "text": "Hum bi pele gye the tum bi pele jaoge \ud83d\ude05\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@The_Dream_Catalyst",
+                    "likes": 9,
+                    "publishedAt": "2026-04-08T12:27:48Z"
+                },
+                {
+                    "text": "Akhri iksha toh puri hui",
+                    "author": "@sponsorcensor",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T22:08:24Z"
+                }
+            ]
+        }
+    ]
+}

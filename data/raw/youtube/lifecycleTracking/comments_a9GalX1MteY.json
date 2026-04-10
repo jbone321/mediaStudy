@@ -1,0 +1,40 @@
+{
+    "videoId": "a9GalX1MteY",
+    "history": [
+        {
+            "fetchedAt": "20260326_160027",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260328_072557",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "U nice",
+                    "author": "@antopanter",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T23:44:39Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260330_072702",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "It's done very well but I never trust these tattoos to stay for years especially if the clients are in the sun a lot..  but sometimes it's the style the client wants so you got to do it.",
+                    "author": "@Mulletmans",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T22:26:31Z"
+                },
+                {
+                    "text": "U nice",
+                    "author": "@antopanter",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T23:44:39Z"
+                }
+            ]
+        }
+    ]
+}

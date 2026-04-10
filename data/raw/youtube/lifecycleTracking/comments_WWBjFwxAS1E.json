@@ -1,0 +1,64 @@
+{
+    "videoId": "WWBjFwxAS1E",
+    "history": [
+        {
+            "fetchedAt": "20260404_220013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073255",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@GadachaSaida",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T06:04:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073338",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Western-z7t",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T19:26:58Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@GadachaSaida",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T06:04:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073407",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Top \u2764\u2764\u2764\u2764",
+                    "author": "@Sa3idSa-o3k",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T20:32:56Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Western-z7t",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T19:26:58Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@GadachaSaida",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T06:04:13Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "ygUhYZp2j4o",
+    "history": [
+        {
+            "fetchedAt": "20260408_040018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073543",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Pertama",
+                    "author": "@WanPut-i2q",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T06:15:15Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073519",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Bang ga usah pake yang buat petir\ud83d\ude0ayang kuning itu",
+                    "author": "@danivana2675",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T02:50:41Z"
+                },
+                {
+                    "text": "Pertama",
+                    "author": "@WanPut-i2q",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T06:15:15Z"
+                }
+            ]
+        }
+    ]
+}

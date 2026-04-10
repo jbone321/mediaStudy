@@ -1,0 +1,52 @@
+{
+    "videoId": "R1t8QO60azk",
+    "history": [
+        {
+            "fetchedAt": "20260328_100014",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260329_072631",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@AsgarKhan-zp8sw",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T14:32:07Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@Rihamuniverse",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T04:55:05Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260403_072836",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@AsgarKhan-zp8sw",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T14:32:07Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@Rihamuniverse",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T04:55:05Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+                    "author": "@arhanansari8776",
+                    "likes": 0,
+                    "publishedAt": "2026-03-31T04:16:20Z"
+                }
+            ]
+        }
+    ]
+}

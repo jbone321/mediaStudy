@@ -1,0 +1,881 @@
+{
+    "videoId": "hlRJssBvy1Q",
+    "history": [
+        {
+            "fetchedAt": "20260327_220014",
+            "commentCount": 10,
+            "comments": [
+                {
+                    "text": "Great video! Btw, I love the song at 4:30",
+                    "author": "@sunvera6619",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T16:10:12Z"
+                },
+                {
+                    "text": "Thanks",
+                    "author": "@snapnewz2151",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T15:16:41Z"
+                },
+                {
+                    "text": "What would happen if you train a custom model using vocals or acapellas from a specific genre?\r\nCan it learn the melodic patterns of those vocals and generate results that carry the same style?\r\n\r\nAnd if the model is trained only on vocals, will it generate a full song with instrumentals when prompted, or just output vocals similar to the training data?\r\n\r\nHave you tried this before? I\u2019m really curious.",
+                    "author": "@anhvanhcuteo",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:34:02Z"
+                },
+                {
+                    "text": "And now lets sell our keybpard and piano. And make a prompt",
+                    "author": "@hugotislifebyjas192",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:26:19Z"
+                },
+                {
+                    "text": "Can I go back to songs I have already recorded and replace the vocal with my voice that I created in Suno 5.5?",
+                    "author": "@philborland2003",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T17:47:51Z"
+                },
+                {
+                    "text": "I have a ua apollo interface and when i try to record my vocal, suno is not recognizing my recordings",
+                    "author": "@PeachAndKimchi",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T18:46:23Z"
+                },
+                {
+                    "text": "What type of audio file do you need to upload to use your own vocal? I have wave files that won\u2019t upload because they\u2019re grayed out.",
+                    "author": "@StacyCarterVocals",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:27:26Z"
+                },
+                {
+                    "text": "it doesn't work. I tried it for my voice and it is failure.",
+                    "author": "@kjaan",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T16:40:38Z"
+                },
+                {
+                    "text": "It\u2019s not true, you can not use your own voice on this program. \nI\u2019ve made 3 voice personas (or whatever they want to call it now) and not one of them work, every time I make a new version of the song it just keeps adding the generic voice that it adds when I don\u2019t use my selected voice persona, I honestly don\u2019t see how this is any different than how the old voice persona worked after they disabled the original voice persona feature. \nIs the old voice persona feature (before they disabled it because it worked great) ever coming back, that was worth buying a subscription for but these new voice persona features are definitely not worth the price of the pro subscription that\u2019s for sure.",
+                    "author": "@jdstoner4638",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T19:49:05Z"
+                },
+                {
+                    "text": "Do we have to upload songs instead of our vocal recordings to the custom model training feature? And royalty-free songs at that? That's ridiculous. The vocal copying feature is a complete waste of time. Previous versions could create at least this much similarity anyway. This Suno is infuriating.",
+                    "author": "@mehmetsahin9276",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T19:26:10Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260328_072650",
+            "commentCount": 12,
+            "comments": [
+                {
+                    "text": "\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0627\u0646 \u0627\u0644\u0646\u0637\u0642 \u0633\u064a\u0626 \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u064a\u0636\u0627 \u0628\u0639\u0636 \u0627\u0644\u0627\u0644\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 \u0627\u0644\u0628\u0644\u062f\u064a\u0629 \u0644\u0627\u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0639\u0631\u0641 \u0639\u0644\u064a\u0647\u0627 \u0648\u0644\u0643\u0646 \u0628\u0635\u0631\u0627\u062d\u0629 \u0627\u0646\u0627 \u0627\u0633\u062a\u062e\u062f\u0645\u0629 \u0648\u0647\u0648 \u062c\u064a\u062f \u062d\u064a\u0646 \u062a\u0642\u0648\u0645 \u0628\u0648\u0636\u0639 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u062a\u0627\u062a\u064a \u0646\u062a\u064a\u062c\u0629 \u062c\u064a\u062f\u0629 \u062c\u062f\u0622 \u2764",
+                    "author": "@Esmail4G",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T02:20:10Z"
+                },
+                {
+                    "text": "Great video! Btw, I love the song at 4:30",
+                    "author": "@sunvera6619",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T16:10:12Z"
+                },
+                {
+                    "text": "Thanks",
+                    "author": "@snapnewz2151",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T15:16:41Z"
+                },
+                {
+                    "text": "And now lets sell our keybpard and piano. And make a prompt",
+                    "author": "@hugotislifebyjas192",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:26:19Z"
+                },
+                {
+                    "text": "What would happen if you train a custom model using vocals or acapellas from a specific genre?\r\nCan it learn the melodic patterns of those vocals and generate results that carry the same style?\r\n\r\nAnd if the model is trained only on vocals, will it generate a full song with instrumentals when prompted, or just output vocals similar to the training data?\r\n\r\nHave you tried this before? I\u2019m really curious.",
+                    "author": "@anhvanhcuteo",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:34:02Z"
+                },
+                {
+                    "text": "Can I go back to songs I have already recorded and replace the vocal with my voice that I created in Suno 5.5?",
+                    "author": "@philborland2003",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T17:47:51Z"
+                },
+                {
+                    "text": "Can you train with songs already released? How about the copyright?",
+                    "author": "@TokichiMikuni-g5z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T22:37:10Z"
+                },
+                {
+                    "text": "What type of audio file do you need to upload to use your own vocal? I have wave files that won\u2019t upload because they\u2019re grayed out.",
+                    "author": "@StacyCarterVocals",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:27:26Z"
+                },
+                {
+                    "text": "is not working in a mobile version app right?\ud83d\ude22",
+                    "author": "@jocabz_vibes",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T00:40:45Z"
+                },
+                {
+                    "text": "I have a ua apollo interface and when i try to record my vocal, suno is not recognizing my recordings",
+                    "author": "@PeachAndKimchi",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T18:46:23Z"
+                },
+                {
+                    "text": "it doesn't work. I tried it for my voice and it is failure.",
+                    "author": "@kjaan",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T16:40:38Z"
+                },
+                {
+                    "text": "Do we have to upload songs instead of our vocal recordings to the custom model training feature? And royalty-free songs at that? That's ridiculous. The vocal copying feature is a complete waste of time. Previous versions could create at least this much similarity anyway. This Suno is infuriating.",
+                    "author": "@mehmetsahin9276",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T19:26:10Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260329_072609",
+            "commentCount": 15,
+            "comments": [
+                {
+                    "text": "Suno AI: https://bit.ly/SunoAiNew\nMusic Videos: https://bit.ly/musicvideoAI",
+                    "author": "@AIAutomationLabs",
+                    "likes": 1,
+                    "publishedAt": "2026-03-29T05:15:08Z"
+                },
+                {
+                    "text": "\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0627\u0646 \u0627\u0644\u0646\u0637\u0642 \u0633\u064a\u0626 \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u064a\u0636\u0627 \u0628\u0639\u0636 \u0627\u0644\u0627\u0644\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 \u0627\u0644\u0628\u0644\u062f\u064a\u0629 \u0644\u0627\u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0639\u0631\u0641 \u0639\u0644\u064a\u0647\u0627 \u0648\u0644\u0643\u0646 \u0628\u0635\u0631\u0627\u062d\u0629 \u0627\u0646\u0627 \u0627\u0633\u062a\u062e\u062f\u0645\u0629 \u0648\u0647\u0648 \u062c\u064a\u062f \u062d\u064a\u0646 \u062a\u0642\u0648\u0645 \u0628\u0648\u0636\u0639 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u062a\u0627\u062a\u064a \u0646\u062a\u064a\u062c\u0629 \u062c\u064a\u062f\u0629 \u062c\u062f\u0622 \u2764",
+                    "author": "@Esmail4G",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T02:20:10Z"
+                },
+                {
+                    "text": "Great video! Btw, I love the song at 4:30",
+                    "author": "@sunvera6619",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T16:10:12Z"
+                },
+                {
+                    "text": "Can you train with songs already released? How about the copyright?",
+                    "author": "@TokichiMikuni-g5z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T22:37:10Z"
+                },
+                {
+                    "text": "What type of audio file do you need to upload to use your own vocal? I have wave files that won\u2019t upload because they\u2019re grayed out.",
+                    "author": "@StacyCarterVocals",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:27:26Z"
+                },
+                {
+                    "text": "Thanks",
+                    "author": "@snapnewz2151",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T15:16:41Z"
+                },
+                {
+                    "text": "And now lets sell our keybpard and piano. And make a prompt",
+                    "author": "@hugotislifebyjas192",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:26:19Z"
+                },
+                {
+                    "text": "What would happen if you train a custom model using vocals or acapellas from a specific genre?\r\nCan it learn the melodic patterns of those vocals and generate results that carry the same style?\r\n\r\nAnd if the model is trained only on vocals, will it generate a full song with instrumentals when prompted, or just output vocals similar to the training data?\r\n\r\nHave you tried this before? I\u2019m really curious.",
+                    "author": "@anhvanhcuteo",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:34:02Z"
+                },
+                {
+                    "text": "Oh yeah...this is my voice...\"This license to your Content and Voice Model includes a license to your likeness, voice rights and other indicia of your persona that may be embodied in your Content or Voice Model. For the avoidance of doubt, this license authorizes us to make your Content (including Output that incorporates your Voice Model, but, for clarity, not your Voice Model itself) available to and sublicense such Content to other users of the Service as necessary to provide the Service, and you further grant to Suno the worldwide, fully paid-up, sublicensable, assignable, perpetual and irrevocable right to identify to the public (both on and off the Service) that Output (or any of it) was generated via the Service.\"",
+                    "author": "@Wave_Drop",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T09:58:25Z"
+                },
+                {
+                    "text": "is not working in a mobile version app right?\ud83d\ude22",
+                    "author": "@jocabz_vibes",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T00:40:45Z"
+                },
+                {
+                    "text": "Can I go back to songs I have already recorded and replace the vocal with my voice that I created in Suno 5.5?",
+                    "author": "@philborland2003",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T17:47:51Z"
+                },
+                {
+                    "text": "it doesn't work. I tried it for my voice and it is failure.",
+                    "author": "@kjaan",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T16:40:38Z"
+                },
+                {
+                    "text": "Do we have to upload songs instead of our vocal recordings to the custom model training feature? And royalty-free songs at that? That's ridiculous. The vocal copying feature is a complete waste of time. Previous versions could create at least this much similarity anyway. This Suno is infuriating.",
+                    "author": "@mehmetsahin9276",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T19:26:10Z"
+                },
+                {
+                    "text": "I have a ua apollo interface and when i try to record my vocal, suno is not recognizing my recordings",
+                    "author": "@PeachAndKimchi",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T18:46:23Z"
+                },
+                {
+                    "text": "\u0441\u0430\u043c\u043e\u0435 \u0443\u0436\u0430\u0441\u043d\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 .\u043e\u0442\u043b\u044e\u0447\u043b\u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u044e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e \u0432\u043e\u043a\u0430\u043b\u0430 ,\u0442\u0435\u043f\u0435\u0440\u044c \u0432\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0430\u0440\u0442\u0438\u0438 \u0432\u0441\u0435 \u043a\u0430\u043a \u0438\u0437 \u0434\u0436\u0430\u0437\u0430\u0432\u043e\u0433\u043e \u0444\u0430\u043a\u0443\u043b\u0442\u0435\u0442\u0430",
+                    "author": "@Giterro",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T16:41:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260330_072802",
+            "commentCount": 17,
+            "comments": [
+                {
+                    "text": "Suno AI: https://bit.ly/SunoAiNew\nMusic Videos: https://bit.ly/musicvideoAI",
+                    "author": "@AIAutomationLabs",
+                    "likes": 2,
+                    "publishedAt": "2026-03-29T05:15:08Z"
+                },
+                {
+                    "text": "\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0627\u0646 \u0627\u0644\u0646\u0637\u0642 \u0633\u064a\u0626 \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u064a\u0636\u0627 \u0628\u0639\u0636 \u0627\u0644\u0627\u0644\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 \u0627\u0644\u0628\u0644\u062f\u064a\u0629 \u0644\u0627\u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0639\u0631\u0641 \u0639\u0644\u064a\u0647\u0627 \u0648\u0644\u0643\u0646 \u0628\u0635\u0631\u0627\u062d\u0629 \u0627\u0646\u0627 \u0627\u0633\u062a\u062e\u062f\u0645\u0629 \u0648\u0647\u0648 \u062c\u064a\u062f \u062d\u064a\u0646 \u062a\u0642\u0648\u0645 \u0628\u0648\u0636\u0639 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u062a\u0627\u062a\u064a \u0646\u062a\u064a\u062c\u0629 \u062c\u064a\u062f\u0629 \u062c\u062f\u0622 \u2764",
+                    "author": "@Esmail4G",
+                    "likes": 2,
+                    "publishedAt": "2026-03-28T02:20:10Z"
+                },
+                {
+                    "text": "Great video! Btw, I love the song at 4:30",
+                    "author": "@sunvera6619",
+                    "likes": 3,
+                    "publishedAt": "2026-03-27T16:10:12Z"
+                },
+                {
+                    "text": "Can I go back to songs I have already recorded and replace the vocal with my voice that I created in Suno 5.5?",
+                    "author": "@philborland2003",
+                    "likes": 3,
+                    "publishedAt": "2026-03-27T17:47:51Z"
+                },
+                {
+                    "text": "Can you train with songs already released? How about the copyright?",
+                    "author": "@TokichiMikuni-g5z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T22:37:10Z"
+                },
+                {
+                    "text": "Songs should be only vocals or vocals + Instruments ?",
+                    "author": "@SagarGhoshMusic",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T08:58:10Z"
+                },
+                {
+                    "text": "Thanks",
+                    "author": "@snapnewz2151",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T15:16:41Z"
+                },
+                {
+                    "text": "What type of audio file do you need to upload to use your own vocal? I have wave files that won\u2019t upload because they\u2019re grayed out.",
+                    "author": "@StacyCarterVocals",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:27:26Z"
+                },
+                {
+                    "text": "What would happen if you train a custom model using vocals or acapellas from a specific genre?\r\nCan it learn the melodic patterns of those vocals and generate results that carry the same style?\r\n\r\nAnd if the model is trained only on vocals, will it generate a full song with instrumentals when prompted, or just output vocals similar to the training data?\r\n\r\nHave you tried this before? I\u2019m really curious.",
+                    "author": "@anhvanhcuteo",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:34:02Z"
+                },
+                {
+                    "text": "Oh yeah...this is my voice...\"This license to your Content and Voice Model includes a license to your likeness, voice rights and other indicia of your persona that may be embodied in your Content or Voice Model. For the avoidance of doubt, this license authorizes us to make your Content (including Output that incorporates your Voice Model, but, for clarity, not your Voice Model itself) available to and sublicense such Content to other users of the Service as necessary to provide the Service, and you further grant to Suno the worldwide, fully paid-up, sublicensable, assignable, perpetual and irrevocable right to identify to the public (both on and off the Service) that Output (or any of it) was generated via the Service.\"",
+                    "author": "@Wave_Drop",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T09:58:25Z"
+                },
+                {
+                    "text": "And now lets sell our keybpard and piano. And make a prompt",
+                    "author": "@hugotislifebyjas192",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:26:19Z"
+                },
+                {
+                    "text": "is not working in a mobile version app right?\ud83d\ude22",
+                    "author": "@jocabz_vibes",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T00:40:45Z"
+                },
+                {
+                    "text": "it doesn't work. I tried it for my voice and it is a failure.",
+                    "author": "@kjaan",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:40:38Z"
+                },
+                {
+                    "text": "I have a ua apollo interface and when i try to record my vocal, suno is not recognizing my recordings",
+                    "author": "@PeachAndKimchi",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T18:46:23Z"
+                },
+                {
+                    "text": "Do we have to upload songs instead of our vocal recordings to the custom model training feature? And royalty-free songs at that? That's ridiculous. The vocal copying feature is a complete waste of time. Previous versions could create at least this much similarity anyway. This Suno is infuriating.",
+                    "author": "@mehmetsahin9276",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T19:26:10Z"
+                },
+                {
+                    "text": "\u0441\u0430\u043c\u043e\u0435 \u0443\u0436\u0430\u0441\u043d\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 .\u043e\u0442\u043b\u044e\u0447\u043b\u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u044e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e \u0432\u043e\u043a\u0430\u043b\u0430 ,\u0442\u0435\u043f\u0435\u0440\u044c \u0432\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0430\u0440\u0442\u0438\u0438 \u0432\u0441\u0435 \u043a\u0430\u043a \u0438\u0437 \u0434\u0436\u0430\u0437\u0430\u0432\u043e\u0433\u043e \u0444\u0430\u043a\u0443\u043b\u0442\u0435\u0442\u0430",
+                    "author": "@Giterro",
+                    "likes": 2,
+                    "publishedAt": "2026-03-28T16:41:20Z"
+                },
+                {
+                    "text": "i cant find the option in autosuno",
+                    "author": "@COTFATV",
+                    "likes": 0,
+                    "publishedAt": "2026-03-30T00:35:00Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260403_072813",
+            "commentCount": 19,
+            "comments": [
+                {
+                    "text": "Suno AI: https://bit.ly/SunoAiNew\nMusic Videos: https://bit.ly/musicvideoAI",
+                    "author": "@AIAutomationLabs",
+                    "likes": 3,
+                    "publishedAt": "2026-03-29T05:15:08Z"
+                },
+                {
+                    "text": "\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0627\u0646 \u0627\u0644\u0646\u0637\u0642 \u0633\u064a\u0626 \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u064a\u0636\u0627 \u0628\u0639\u0636 \u0627\u0644\u0627\u0644\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 \u0627\u0644\u0628\u0644\u062f\u064a\u0629 \u0644\u0627\u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0639\u0631\u0641 \u0639\u0644\u064a\u0647\u0627 \u0648\u0644\u0643\u0646 \u0628\u0635\u0631\u0627\u062d\u0629 \u0627\u0646\u0627 \u0627\u0633\u062a\u062e\u062f\u0645\u0629 \u0648\u0647\u0648 \u062c\u064a\u062f \u062d\u064a\u0646 \u062a\u0642\u0648\u0645 \u0628\u0648\u0636\u0639 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u062a\u0627\u062a\u064a \u0646\u062a\u064a\u062c\u0629 \u062c\u064a\u062f\u0629 \u062c\u062f\u0622 \u2764",
+                    "author": "@Esmail4G",
+                    "likes": 2,
+                    "publishedAt": "2026-03-28T02:20:10Z"
+                },
+                {
+                    "text": "Great video! Btw, I love the song at 4:30",
+                    "author": "@sunvera6619",
+                    "likes": 3,
+                    "publishedAt": "2026-03-27T16:10:12Z"
+                },
+                {
+                    "text": "Thank you for the tips \ud83e\udd29\ud83e\udd29",
+                    "author": "@MelGarciaDelsol",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T18:09:06Z"
+                },
+                {
+                    "text": "Thanks",
+                    "author": "@snapnewz2151",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T15:16:41Z"
+                },
+                {
+                    "text": "Can I go back to songs I have already recorded and replace the vocal with my voice that I created in Suno 5.5?",
+                    "author": "@philborland2003",
+                    "likes": 4,
+                    "publishedAt": "2026-03-27T17:47:51Z"
+                },
+                {
+                    "text": "Can you train with songs already released? How about the copyright?",
+                    "author": "@TokichiMikuni-g5z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T22:37:10Z"
+                },
+                {
+                    "text": "And now lets sell our keybpard and piano. And make a prompt",
+                    "author": "@hugotislifebyjas192",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:26:19Z"
+                },
+                {
+                    "text": "What would happen if you train a custom model using vocals or acapellas from a specific genre?\r\nCan it learn the melodic patterns of those vocals and generate results that carry the same style?\r\n\r\nAnd if the model is trained only on vocals, will it generate a full song with instrumentals when prompted, or just output vocals similar to the training data?\r\n\r\nHave you tried this before? I\u2019m really curious.",
+                    "author": "@anhvanhcuteo",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:34:02Z"
+                },
+                {
+                    "text": "Songs should be only vocals or vocals + Instruments ?",
+                    "author": "@SagarGhoshMusic",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T08:58:10Z"
+                },
+                {
+                    "text": "Oh yeah...this is my voice...\"This license to your Content and Voice Model includes a license to your likeness, voice rights and other indicia of your persona that may be embodied in your Content or Voice Model. For the avoidance of doubt, this license authorizes us to make your Content (including Output that incorporates your Voice Model, but, for clarity, not your Voice Model itself) available to and sublicense such Content to other users of the Service as necessary to provide the Service, and you further grant to Suno the worldwide, fully paid-up, sublicensable, assignable, perpetual and irrevocable right to identify to the public (both on and off the Service) that Output (or any of it) was generated via the Service.\"",
+                    "author": "@Wave_Drop",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T09:58:25Z"
+                },
+                {
+                    "text": "i cant find the option in autosuno",
+                    "author": "@COTFATV",
+                    "likes": 0,
+                    "publishedAt": "2026-03-30T00:35:00Z"
+                },
+                {
+                    "text": "What type of audio file do you need to upload to use your own vocal? I have wave files that won\u2019t upload because they\u2019re grayed out.",
+                    "author": "@StacyCarterVocals",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:27:26Z"
+                },
+                {
+                    "text": "is not working in a mobile version app right?\ud83d\ude22",
+                    "author": "@jocabz_vibes",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T00:40:45Z"
+                },
+                {
+                    "text": "it doesn't work. I tried it for my voice and it is a failure.",
+                    "author": "@kjaan",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:40:38Z"
+                },
+                {
+                    "text": "Do we have to upload songs instead of our vocal recordings to the custom model training feature? And royalty-free songs at that? That's ridiculous. The vocal copying feature is a complete waste of time. Previous versions could create at least this much similarity anyway. This Suno is infuriating.",
+                    "author": "@mehmetsahin9276",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T19:26:10Z"
+                },
+                {
+                    "text": "\u0441\u0430\u043c\u043e\u0435 \u0443\u0436\u0430\u0441\u043d\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 .\u043e\u0442\u043b\u044e\u0447\u043b\u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u044e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e \u0432\u043e\u043a\u0430\u043b\u0430 ,\u0442\u0435\u043f\u0435\u0440\u044c \u0432\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0430\u0440\u0442\u0438\u0438 \u0432\u0441\u0435 \u043a\u0430\u043a \u0438\u0437 \u0434\u0436\u0430\u0437\u0430\u0432\u043e\u0433\u043e \u0444\u0430\u043a\u0443\u043b\u0442\u0435\u0442\u0430",
+                    "author": "@Giterro",
+                    "likes": 2,
+                    "publishedAt": "2026-03-28T16:41:20Z"
+                },
+                {
+                    "text": "I have a ua apollo interface and when i try to record my vocal, suno is not recognizing my recordings",
+                    "author": "@PeachAndKimchi",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T18:46:23Z"
+                },
+                {
+                    "text": "So why'd you use an obviously A.I., i.e., artificial voice\u2014what I mean is Not An Actual Person\u2014to narrate this? That's a real turnoff.",
+                    "author": "@GuyMichel-neverbetter",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T00:33:07Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260404_072709",
+            "commentCount": 20,
+            "comments": [
+                {
+                    "text": "Suno AI: https://bit.ly/SunoAiNew\nMusic Videos: https://bit.ly/musicvideoAI",
+                    "author": "@AIAutomationLabs",
+                    "likes": 3,
+                    "publishedAt": "2026-03-29T05:15:08Z"
+                },
+                {
+                    "text": "I'd like to think this \"vocal creation\" section is still experimental, since I followed the procedure by uploading a recording of my own voice, and the result was *very disappointing.* \ud83d\ude2e\u200d\ud83d\udca8 Yet, before Suno and Warner Music signed the agreement (December 2025), I followed the same procedure described above, and the *result was excellent.* How is this possible?!?! \ud83e\udd14 Then Suno removed the vocal personality I'd created.",
+                    "author": "@ORIONE555",
+                    "likes": 4,
+                    "publishedAt": "2026-04-03T18:16:32Z"
+                },
+                {
+                    "text": "Great video! Btw, I love the song at 4:30",
+                    "author": "@sunvera6619",
+                    "likes": 3,
+                    "publishedAt": "2026-03-27T16:10:12Z"
+                },
+                {
+                    "text": "\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0627\u0646 \u0627\u0644\u0646\u0637\u0642 \u0633\u064a\u0626 \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u064a\u0636\u0627 \u0628\u0639\u0636 \u0627\u0644\u0627\u0644\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 \u0627\u0644\u0628\u0644\u062f\u064a\u0629 \u0644\u0627\u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0639\u0631\u0641 \u0639\u0644\u064a\u0647\u0627 \u0648\u0644\u0643\u0646 \u0628\u0635\u0631\u0627\u062d\u0629 \u0627\u0646\u0627 \u0627\u0633\u062a\u062e\u062f\u0645\u0629 \u0648\u0647\u0648 \u062c\u064a\u062f \u062d\u064a\u0646 \u062a\u0642\u0648\u0645 \u0628\u0648\u0636\u0639 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u062a\u0627\u062a\u064a \u0646\u062a\u064a\u062c\u0629 \u062c\u064a\u062f\u0629 \u062c\u062f\u0622 \u2764",
+                    "author": "@Esmail4G",
+                    "likes": 2,
+                    "publishedAt": "2026-03-28T02:20:10Z"
+                },
+                {
+                    "text": "Thank you for the tips \ud83e\udd29\ud83e\udd29",
+                    "author": "@MelGarciaDelsol",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T18:09:06Z"
+                },
+                {
+                    "text": "Thanks",
+                    "author": "@snapnewz2151",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T15:16:41Z"
+                },
+                {
+                    "text": "Can I go back to songs I have already recorded and replace the vocal with my voice that I created in Suno 5.5?",
+                    "author": "@philborland2003",
+                    "likes": 4,
+                    "publishedAt": "2026-03-27T17:47:51Z"
+                },
+                {
+                    "text": "Can you train with songs already released? How about the copyright?",
+                    "author": "@TokichiMikuni-g5z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T22:37:10Z"
+                },
+                {
+                    "text": "And now lets sell our keybpard and piano. And make a prompt",
+                    "author": "@hugotislifebyjas192",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:26:19Z"
+                },
+                {
+                    "text": "Songs should be only vocals or vocals + Instruments ?",
+                    "author": "@SagarGhoshMusic",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T08:58:10Z"
+                },
+                {
+                    "text": "i cant find the option in autosuno",
+                    "author": "@COTFATV",
+                    "likes": 0,
+                    "publishedAt": "2026-03-30T00:35:00Z"
+                },
+                {
+                    "text": "Oh yeah...this is my voice...\"This license to your Content and Voice Model includes a license to your likeness, voice rights and other indicia of your persona that may be embodied in your Content or Voice Model. For the avoidance of doubt, this license authorizes us to make your Content (including Output that incorporates your Voice Model, but, for clarity, not your Voice Model itself) available to and sublicense such Content to other users of the Service as necessary to provide the Service, and you further grant to Suno the worldwide, fully paid-up, sublicensable, assignable, perpetual and irrevocable right to identify to the public (both on and off the Service) that Output (or any of it) was generated via the Service.\"",
+                    "author": "@Wave_Drop",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T09:58:25Z"
+                },
+                {
+                    "text": "What type of audio file do you need to upload to use your own vocal? I have wave files that won\u2019t upload because they\u2019re grayed out.",
+                    "author": "@StacyCarterVocals",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:27:26Z"
+                },
+                {
+                    "text": "What would happen if you train a custom model using vocals or acapellas from a specific genre?\r\nCan it learn the melodic patterns of those vocals and generate results that carry the same style?\r\n\r\nAnd if the model is trained only on vocals, will it generate a full song with instrumentals when prompted, or just output vocals similar to the training data?\r\n\r\nHave you tried this before? I\u2019m really curious.",
+                    "author": "@anhvanhcuteo",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:34:02Z"
+                },
+                {
+                    "text": "is not working in a mobile version app right?\ud83d\ude22",
+                    "author": "@jocabz_vibes",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T00:40:45Z"
+                },
+                {
+                    "text": "it doesn't work. I tried it for my voice and it is a failure.",
+                    "author": "@kjaan",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:40:38Z"
+                },
+                {
+                    "text": "Do we have to upload songs instead of our vocal recordings to the custom model training feature? And royalty-free songs at that? That's ridiculous. The vocal copying feature is a complete waste of time. Previous versions could create at least this much similarity anyway. This Suno is infuriating.",
+                    "author": "@mehmetsahin9276",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T19:26:10Z"
+                },
+                {
+                    "text": "\u0441\u0430\u043c\u043e\u0435 \u0443\u0436\u0430\u0441\u043d\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 .\u043e\u0442\u043b\u044e\u0447\u043b\u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u044e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e \u0432\u043e\u043a\u0430\u043b\u0430 ,\u0442\u0435\u043f\u0435\u0440\u044c \u0432\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0430\u0440\u0442\u0438\u0438 \u0432\u0441\u0435 \u043a\u0430\u043a \u0438\u0437 \u0434\u0436\u0430\u0437\u0430\u0432\u043e\u0433\u043e \u0444\u0430\u043a\u0443\u043b\u0442\u0435\u0442\u0430",
+                    "author": "@Giterro",
+                    "likes": 2,
+                    "publishedAt": "2026-03-28T16:41:20Z"
+                },
+                {
+                    "text": "I have a ua apollo interface and when i try to record my vocal, suno is not recognizing my recordings",
+                    "author": "@PeachAndKimchi",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T18:46:23Z"
+                },
+                {
+                    "text": "So why'd you use an obviously A.I., i.e., artificial voice\u2014what I mean is Not An Actual Person\u2014to narrate this? That's a real turnoff.",
+                    "author": "@GuyMichel-neverbetter",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T00:33:07Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_072831",
+            "commentCount": 21,
+            "comments": [
+                {
+                    "text": "Suno AI: https://bit.ly/SunoAiNew\nMusic Videos: https://bit.ly/musicvideoAI",
+                    "author": "@AIAutomationLabs",
+                    "likes": 3,
+                    "publishedAt": "2026-03-29T05:15:08Z"
+                },
+                {
+                    "text": "I'd like to think this \"vocal creation\" section is still experimental, since I followed the procedure by uploading a recording of my own voice, and the result was *very disappointing.* \ud83d\ude2e\u200d\ud83d\udca8 Yet, before Suno and Warner Music signed the agreement (December 2025), I followed the same procedure described above, and the *result was excellent.* How is this possible?!?! \ud83e\udd14 Then Suno removed the vocal personality I'd created.",
+                    "author": "@ORIONE555",
+                    "likes": 4,
+                    "publishedAt": "2026-04-03T18:16:32Z"
+                },
+                {
+                    "text": "\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0627\u0646 \u0627\u0644\u0646\u0637\u0642 \u0633\u064a\u0626 \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u064a\u0636\u0627 \u0628\u0639\u0636 \u0627\u0644\u0627\u0644\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 \u0627\u0644\u0628\u0644\u062f\u064a\u0629 \u0644\u0627\u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0639\u0631\u0641 \u0639\u0644\u064a\u0647\u0627 \u0648\u0644\u0643\u0646 \u0628\u0635\u0631\u0627\u062d\u0629 \u0627\u0646\u0627 \u0627\u0633\u062a\u062e\u062f\u0645\u0629 \u0648\u0647\u0648 \u062c\u064a\u062f \u062d\u064a\u0646 \u062a\u0642\u0648\u0645 \u0628\u0648\u0636\u0639 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u062a\u0627\u062a\u064a \u0646\u062a\u064a\u062c\u0629 \u062c\u064a\u062f\u0629 \u062c\u062f\u0622 \u2764",
+                    "author": "@Esmail4G",
+                    "likes": 2,
+                    "publishedAt": "2026-03-28T02:20:10Z"
+                },
+                {
+                    "text": "Great video! Btw, I love the song at 4:30",
+                    "author": "@sunvera6619",
+                    "likes": 3,
+                    "publishedAt": "2026-03-27T16:10:12Z"
+                },
+                {
+                    "text": "Thank you for the tips \ud83e\udd29\ud83e\udd29",
+                    "author": "@MelGarciaDelsol",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T18:09:06Z"
+                },
+                {
+                    "text": "Thanks",
+                    "author": "@snapnewz2151",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T15:16:41Z"
+                },
+                {
+                    "text": "Can you train with songs already released? How about the copyright?",
+                    "author": "@TokichiMikuni-g5z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T22:37:10Z"
+                },
+                {
+                    "text": "Songs should be only vocals or vocals + Instruments ?",
+                    "author": "@SagarGhoshMusic",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T08:58:10Z"
+                },
+                {
+                    "text": "i cant find the option in autosuno",
+                    "author": "@COTFATV",
+                    "likes": 0,
+                    "publishedAt": "2026-03-30T00:35:00Z"
+                },
+                {
+                    "text": "Can I go back to songs I have already recorded and replace the vocal with my voice that I created in Suno 5.5?",
+                    "author": "@philborland2003",
+                    "likes": 4,
+                    "publishedAt": "2026-03-27T17:47:51Z"
+                },
+                {
+                    "text": "Oh yeah...this is my voice...\"This license to your Content and Voice Model includes a license to your likeness, voice rights and other indicia of your persona that may be embodied in your Content or Voice Model. For the avoidance of doubt, this license authorizes us to make your Content (including Output that incorporates your Voice Model, but, for clarity, not your Voice Model itself) available to and sublicense such Content to other users of the Service as necessary to provide the Service, and you further grant to Suno the worldwide, fully paid-up, sublicensable, assignable, perpetual and irrevocable right to identify to the public (both on and off the Service) that Output (or any of it) was generated via the Service.\"",
+                    "author": "@Wave_Drop",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T09:58:25Z"
+                },
+                {
+                    "text": "And now lets sell our keybpard and piano. And make a prompt",
+                    "author": "@hugotislifebyjas192",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:26:19Z"
+                },
+                {
+                    "text": "What would happen if you train a custom model using vocals or acapellas from a specific genre?\r\nCan it learn the melodic patterns of those vocals and generate results that carry the same style?\r\n\r\nAnd if the model is trained only on vocals, will it generate a full song with instrumentals when prompted, or just output vocals similar to the training data?\r\n\r\nHave you tried this before? I\u2019m really curious.",
+                    "author": "@anhvanhcuteo",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:34:02Z"
+                },
+                {
+                    "text": "What type of audio file do you need to upload to use your own vocal? I have wave files that won\u2019t upload because they\u2019re grayed out.",
+                    "author": "@StacyCarterVocals",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:27:26Z"
+                },
+                {
+                    "text": "Voices from recordings or uploads stay private can you not use them for IG or TIKTOK",
+                    "author": "@sullybush",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T22:09:01Z"
+                },
+                {
+                    "text": "is not working in a mobile version app right?\ud83d\ude22",
+                    "author": "@jocabz_vibes",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T00:40:45Z"
+                },
+                {
+                    "text": "it doesn't work. I tried it for my voice and it is a failure.",
+                    "author": "@kjaan",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:40:38Z"
+                },
+                {
+                    "text": "Do we have to upload songs instead of our vocal recordings to the custom model training feature? And royalty-free songs at that? That's ridiculous. The vocal copying feature is a complete waste of time. Previous versions could create at least this much similarity anyway. This Suno is infuriating.",
+                    "author": "@mehmetsahin9276",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T19:26:10Z"
+                },
+                {
+                    "text": "I have a ua apollo interface and when i try to record my vocal, suno is not recognizing my recordings",
+                    "author": "@PeachAndKimchi",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T18:46:23Z"
+                },
+                {
+                    "text": "\u0441\u0430\u043c\u043e\u0435 \u0443\u0436\u0430\u0441\u043d\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 .\u043e\u0442\u043b\u044e\u0447\u043b\u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u044e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e \u0432\u043e\u043a\u0430\u043b\u0430 ,\u0442\u0435\u043f\u0435\u0440\u044c \u0432\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0430\u0440\u0442\u0438\u0438 \u0432\u0441\u0435 \u043a\u0430\u043a \u0438\u0437 \u0434\u0436\u0430\u0437\u0430\u0432\u043e\u0433\u043e \u0444\u0430\u043a\u0443\u043b\u0442\u0435\u0442\u0430",
+                    "author": "@Giterro",
+                    "likes": 2,
+                    "publishedAt": "2026-03-28T16:41:20Z"
+                },
+                {
+                    "text": "So why'd you use an obviously A.I., i.e., artificial voice\u2014what I mean is Not An Actual Person\u2014to narrate this? That's a real turnoff.",
+                    "author": "@GuyMichel-neverbetter",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T00:33:07Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_072722",
+            "commentCount": 24,
+            "comments": [
+                {
+                    "text": "Suno AI: https://bit.ly/SunoAiNew\nMusic Videos: https://bit.ly/musicvideoAI",
+                    "author": "@AIAutomationLabs",
+                    "likes": 3,
+                    "publishedAt": "2026-03-29T05:15:08Z"
+                },
+                {
+                    "text": "I recorded my voice for a duration of 1' 50\" with a dynamic microphone. I applied the voice to a song of my own composition; the cloned voice resembles mine in style but the timbre is distant \ud83e\udd14",
+                    "author": "@Mister-Paul-",
+                    "likes": 2,
+                    "publishedAt": "2026-04-08T18:33:39Z"
+                },
+                {
+                    "text": "I'd like to think this \"vocal creation\" section is still experimental, since I followed the procedure by uploading a recording of my own voice, and the result was *very disappointing.* \ud83d\ude2e\u200d\ud83d\udca8 Yet, before Suno and Warner Music signed the agreement (December 2025), I followed the same procedure described above, and the *result was excellent.* How is this possible?!?! \ud83e\udd14 Then Suno removed the vocal personality I'd created.",
+                    "author": "@ORIONE555",
+                    "likes": 4,
+                    "publishedAt": "2026-04-03T18:16:32Z"
+                },
+                {
+                    "text": "Thx for the info.",
+                    "author": "@deek419",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T01:42:14Z"
+                },
+                {
+                    "text": "I've found that without using audio tracks, the vocal fidelity reaches 90%. However, if you use audio tracks, the vocal fidelity drops to 40%, maintaining only the style!",
+                    "author": "@hydorvox",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T19:26:57Z"
+                },
+                {
+                    "text": "\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0627\u0646 \u0627\u0644\u0646\u0637\u0642 \u0633\u064a\u0626 \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u064a\u0636\u0627 \u0628\u0639\u0636 \u0627\u0644\u0627\u0644\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 \u0627\u0644\u0628\u0644\u062f\u064a\u0629 \u0644\u0627\u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0639\u0631\u0641 \u0639\u0644\u064a\u0647\u0627 \u0648\u0644\u0643\u0646 \u0628\u0635\u0631\u0627\u062d\u0629 \u0627\u0646\u0627 \u0627\u0633\u062a\u062e\u062f\u0645\u0629 \u0648\u0647\u0648 \u062c\u064a\u062f \u062d\u064a\u0646 \u062a\u0642\u0648\u0645 \u0628\u0648\u0636\u0639 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u062a\u0627\u062a\u064a \u0646\u062a\u064a\u062c\u0629 \u062c\u064a\u062f\u0629 \u062c\u062f\u0622 \u2764",
+                    "author": "@Esmail4G",
+                    "likes": 3,
+                    "publishedAt": "2026-03-28T02:20:10Z"
+                },
+                {
+                    "text": "Great video! Btw, I love the song at 4:30",
+                    "author": "@sunvera6619",
+                    "likes": 3,
+                    "publishedAt": "2026-03-27T16:10:12Z"
+                },
+                {
+                    "text": "Thank you for the tips \ud83e\udd29\ud83e\udd29",
+                    "author": "@MelGarciaDelsol",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T18:09:06Z"
+                },
+                {
+                    "text": "Thanks",
+                    "author": "@snapnewz2151",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T15:16:41Z"
+                },
+                {
+                    "text": "And now lets sell our keybpard and piano. And make a prompt",
+                    "author": "@hugotislifebyjas192",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:26:19Z"
+                },
+                {
+                    "text": "Songs should be only vocals or vocals + Instruments ?",
+                    "author": "@SagarGhoshMusic",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T08:58:10Z"
+                },
+                {
+                    "text": "Oh yeah...this is my voice...\"This license to your Content and Voice Model includes a license to your likeness, voice rights and other indicia of your persona that may be embodied in your Content or Voice Model. For the avoidance of doubt, this license authorizes us to make your Content (including Output that incorporates your Voice Model, but, for clarity, not your Voice Model itself) available to and sublicense such Content to other users of the Service as necessary to provide the Service, and you further grant to Suno the worldwide, fully paid-up, sublicensable, assignable, perpetual and irrevocable right to identify to the public (both on and off the Service) that Output (or any of it) was generated via the Service.\"",
+                    "author": "@Wave_Drop",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T09:58:25Z"
+                },
+                {
+                    "text": "What would happen if you train a custom model using vocals or acapellas from a specific genre?\r\nCan it learn the melodic patterns of those vocals and generate results that carry the same style?\r\n\r\nAnd if the model is trained only on vocals, will it generate a full song with instrumentals when prompted, or just output vocals similar to the training data?\r\n\r\nHave you tried this before? I\u2019m really curious.",
+                    "author": "@anhvanhcuteo",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:34:02Z"
+                },
+                {
+                    "text": "Can I go back to songs I have already recorded and replace the vocal with my voice that I created in Suno 5.5?",
+                    "author": "@philborland2003",
+                    "likes": 4,
+                    "publishedAt": "2026-03-27T17:47:51Z"
+                },
+                {
+                    "text": "Can you train with songs already released? How about the copyright?",
+                    "author": "@TokichiMikuni-g5z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T22:37:10Z"
+                },
+                {
+                    "text": "i cant find the option in autosuno",
+                    "author": "@COTFATV",
+                    "likes": 0,
+                    "publishedAt": "2026-03-30T00:35:00Z"
+                },
+                {
+                    "text": "Voices from recordings or uploads stay private can you not use them for IG or TIKTOK",
+                    "author": "@sullybush",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T22:09:01Z"
+                },
+                {
+                    "text": "What type of audio file do you need to upload to use your own vocal? I have wave files that won\u2019t upload because they\u2019re grayed out.",
+                    "author": "@StacyCarterVocals",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T20:27:26Z"
+                },
+                {
+                    "text": "is not working in a mobile version app right?\ud83d\ude22",
+                    "author": "@jocabz_vibes",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T00:40:45Z"
+                },
+                {
+                    "text": "Do we have to upload songs instead of our vocal recordings to the custom model training feature? And royalty-free songs at that? That's ridiculous. The vocal copying feature is a complete waste of time. Previous versions could create at least this much similarity anyway. This Suno is infuriating.",
+                    "author": "@mehmetsahin9276",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T19:26:10Z"
+                },
+                {
+                    "text": "it doesn't work. I tried it for my voice and it is a failure.",
+                    "author": "@kjaan",
+                    "likes": 1,
+                    "publishedAt": "2026-03-27T16:40:38Z"
+                },
+                {
+                    "text": "\u0441\u0430\u043c\u043e\u0435 \u0443\u0436\u0430\u0441\u043d\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 .\u043e\u0442\u043b\u044e\u0447\u043b\u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u044e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e \u0432\u043e\u043a\u0430\u043b\u0430 ,\u0442\u0435\u043f\u0435\u0440\u044c \u0432\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0430\u0440\u0442\u0438\u0438 \u0432\u0441\u0435 \u043a\u0430\u043a \u0438\u0437 \u0434\u0436\u0430\u0437\u0430\u0432\u043e\u0433\u043e \u0444\u0430\u043a\u0443\u043b\u0442\u0435\u0442\u0430",
+                    "author": "@Giterro",
+                    "likes": 2,
+                    "publishedAt": "2026-03-28T16:41:20Z"
+                },
+                {
+                    "text": "I have a ua apollo interface and when i try to record my vocal, suno is not recognizing my recordings",
+                    "author": "@PeachAndKimchi",
+                    "likes": 2,
+                    "publishedAt": "2026-03-27T18:46:23Z"
+                },
+                {
+                    "text": "So why'd you use an obviously A.I., i.e., artificial voice\u2014what I mean is Not An Actual Person\u2014to narrate this? That's a real turnoff.",
+                    "author": "@GuyMichel-neverbetter",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T00:33:07Z"
+                }
+            ]
+        }
+    ]
+}

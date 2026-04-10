@@ -1,0 +1,35 @@
+{
+    "videoId": "V0BBNhSvJbY",
+    "history": [
+        {
+            "fetchedAt": "20260408_220020",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@FranciscaEsparzaLimon-p4h",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T20:34:38Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073554",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@FranciscaEsparzaLimon-p4h",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T20:34:38Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@NiloMolina-g6h",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T00:59:28Z"
+                }
+            ]
+        }
+    ]
+}

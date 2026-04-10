@@ -1,0 +1,39 @@
+{
+    "videoId": "74tbJ9ksCDc",
+    "history": [
+        {
+            "fetchedAt": "20260403_220019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073210",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "My bgmi id SHAZY name aayega \ud83d\ude05",
+                    "author": "@ShoebMalik-qj2ho",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T19:37:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073339",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073247",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "My bgmi id SHAZY name aayega \ud83d\ude05",
+                    "author": "@ShoebMalik-qj2ho",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T19:37:21Z"
+                }
+            ]
+        }
+    ]
+}

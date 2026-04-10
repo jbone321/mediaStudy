@@ -1,0 +1,34 @@
+{
+    "videoId": "ct1AkAYsCAE",
+    "history": [
+        {
+            "fetchedAt": "20260404_100019",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "First comment",
+                    "author": "@AYANSHAARAV-tw5jv",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T09:15:06Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073405",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073312",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "First comment",
+                    "author": "@AYANSHAARAV-tw5jv",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T09:15:06Z"
+                }
+            ]
+        }
+    ]
+}

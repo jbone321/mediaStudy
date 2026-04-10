@@ -1,0 +1,34 @@
+{
+    "videoId": "ssVZZJ8Wyvs",
+    "history": [
+        {
+            "fetchedAt": "20260405_040022",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "What the",
+                    "author": "@STLfan2011",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T03:20:58Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073445",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073354",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "What the",
+                    "author": "@STLfan2011",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T03:20:58Z"
+                }
+            ]
+        }
+    ]
+}

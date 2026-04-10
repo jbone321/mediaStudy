@@ -1,0 +1,22 @@
+{
+    "videoId": "L1fVvhBAuH0",
+    "history": [
+        {
+            "fetchedAt": "20260403_040020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260404_073108",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a",
+                    "author": "@NafisaXalilava",
+                    "likes": 1,
+                    "publishedAt": "2026-04-03T12:45:03Z"
+                }
+            ]
+        }
+    ]
+}

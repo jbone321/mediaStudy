@@ -1,0 +1,22 @@
+{
+    "videoId": "co2sAdJI5S4",
+    "history": [
+        {
+            "fetchedAt": "20260331_100014",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_073046",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Hi",
+                    "author": "@hotpotato547",
+                    "likes": 1,
+                    "publishedAt": "2026-03-31T18:42:09Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "videoId": "qYiGGojcYSw",
+    "history": [
+        {
+            "fetchedAt": "20260403_100021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260404_073119",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\udd25",
+                    "author": "@ashishsawant3785",
+                    "likes": 1,
+                    "publishedAt": "2026-04-03T10:50:46Z"
+                },
+                {
+                    "text": "Bhai bhut aage gae ga\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Bhagwan18",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T01:21:33Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073311",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\udd25",
+                    "author": "@ashishsawant3785",
+                    "likes": 1,
+                    "publishedAt": "2026-04-03T10:50:46Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\udd25\ud83d\udd25",
+                    "author": "@prasad1396",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T10:49:46Z"
+                },
+                {
+                    "text": "Bhai bhut aage gae ga\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Bhagwan18",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T01:21:33Z"
+                }
+            ]
+        }
+    ]
+}

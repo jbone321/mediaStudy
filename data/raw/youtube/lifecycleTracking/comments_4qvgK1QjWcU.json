@@ -1,0 +1,28 @@
+{
+    "videoId": "4qvgK1QjWcU",
+    "history": [
+        {
+            "fetchedAt": "20260404_040019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073353",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Arpit carry ka classmate tha Kya?",
+                    "author": "@Zeke1368",
+                    "likes": 2,
+                    "publishedAt": "2026-04-05T07:52:15Z"
+                },
+                {
+                    "text": "Such a cool guyy",
+                    "author": "@chocolat_gelato",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T13:17:12Z"
+                }
+            ]
+        }
+    ]
+}

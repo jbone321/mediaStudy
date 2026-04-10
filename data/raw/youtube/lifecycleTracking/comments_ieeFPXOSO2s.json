@@ -5,6 +5,18 @@
             "fetchedAt": "20260318_100022",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260409_072004",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Perfeito \u2764",
+                    "author": "@MarryMarcussi",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T18:56:32Z"
+                }
+            ]
         }
     ]
 }

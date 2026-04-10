@@ -1,0 +1,51 @@
+{
+    "videoId": "pzWkYjM87KE",
+    "history": [
+        {
+            "fetchedAt": "20260402_220013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073114",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "It's not saturated enough",
+                    "author": "@kaz969",
+                    "likes": 3,
+                    "publishedAt": "2026-04-05T03:01:54Z"
+                },
+                {
+                    "text": "Turn the brightness up a little more bro",
+                    "author": "@gecko-d4p",
+                    "likes": 6,
+                    "publishedAt": "2026-04-04T17:19:19Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073238",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073146",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "It's not saturated enough",
+                    "author": "@kaz969",
+                    "likes": 4,
+                    "publishedAt": "2026-04-05T03:01:54Z"
+                },
+                {
+                    "text": "Turn the brightness up a little more bro",
+                    "author": "@gecko-d4p",
+                    "likes": 7,
+                    "publishedAt": "2026-04-04T17:19:19Z"
+                }
+            ]
+        }
+    ]
+}

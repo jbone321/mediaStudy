@@ -96,6 +96,60 @@
                     "publishedAt": "2026-03-24T11:26:55Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260326_072210",
+            "commentCount": 8,
+            "comments": [
+                {
+                    "text": "Was that the closest fight ever?\nLIVE 3PM CST Tue\u2013Sun \u2192 Twitch.tv/Huuge\nAlso Live at youtube.com/@huuge/live",
+                    "author": "@Huuge",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T13:54:28Z"
+                },
+                {
+                    "text": "Dead man walking lmao",
+                    "author": "@THEEEHIPPPY",
+                    "likes": 7,
+                    "publishedAt": "2026-03-23T14:50:04Z"
+                },
+                {
+                    "text": "Thats happend to me before twice once in pvp once against a rocketeer and I got soo lucky both time....",
+                    "author": "@jollydogns3364",
+                    "likes": 2,
+                    "publishedAt": "2026-03-24T16:11:17Z"
+                },
+                {
+                    "text": "the game computes life in float (decimals and so on) but the hud shows us the rounding in integers so you could very much have less than 0.5 health that would round down to 0 on the hud even tho u had 0.2 typa health. insane situation and also very rare considering u had to take \"broken\" numbers to get to that health.",
+                    "author": "@ArrowintheWeed",
+                    "likes": 8,
+                    "publishedAt": "2026-03-23T23:06:36Z"
+                },
+                {
+                    "text": "Dang I\u2019ve been playing for like 1 day it\u2019s pretty fun",
+                    "author": "@Frosty-o4g",
+                    "likes": 1,
+                    "publishedAt": "2026-03-22T19:30:26Z"
+                },
+                {
+                    "text": "Screen doesnt go grey on low hp? No hunching over?",
+                    "author": "@IANAHB",
+                    "likes": 0,
+                    "publishedAt": "2026-03-25T04:05:04Z"
+                },
+                {
+                    "text": "Thought arc died tbh haven't seen an update that adds anything in months",
+                    "author": "@igoyim",
+                    "likes": 0,
+                    "publishedAt": "2026-03-24T11:26:55Z"
+                },
+                {
+                    "text": "There's no such thing as a gun trade in Arc for some dumbass reason. I've shot people with just about every gun right before going down, and the shot not even registering. Yet, you can have double melee deaths, even if someone clearly swings last. Shit's dumb.",
+                    "author": "@derekcooley9345",
+                    "likes": 0,
+                    "publishedAt": "2026-03-25T09:12:28Z"
+                }
+            ]
         }
     ]
 }

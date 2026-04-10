@@ -1,0 +1,22 @@
+{
+    "videoId": "YELZXOvS0eM",
+    "history": [
+        {
+            "fetchedAt": "20260402_160018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_073133",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "0",
+                    "author": "@SoniaRozra",
+                    "likes": 1,
+                    "publishedAt": "2026-04-02T16:55:34Z"
+                }
+            ]
+        }
+    ]
+}

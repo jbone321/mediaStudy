@@ -1,0 +1,52 @@
+{
+    "videoId": "b0j3dLNF7nU",
+    "history": [
+        {
+            "fetchedAt": "20260408_100023",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260409_073533",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "pls kasi diamon",
+                    "author": "@ArjunaRamdhani-j9y",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T02:09:07Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073617",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "pls kasi diamon",
+                    "author": "@ArjunaRamdhani-j9y",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T02:09:07Z"
+                },
+                {
+                    "text": "didi plz uid lelo 7733309997",
+                    "author": "@ninamajordan",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T10:24:04Z"
+                },
+                {
+                    "text": "didi plz uid lelo 7733309997",
+                    "author": "@ninamajordan",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T10:24:10Z"
+                },
+                {
+                    "text": "didi plz uid lelo 7733309997",
+                    "author": "@ninamajordan",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T10:24:22Z"
+                }
+            ]
+        }
+    ]
+}

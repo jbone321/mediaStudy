@@ -1,0 +1,40 @@
+{
+    "videoId": "N1vslaBOxgU",
+    "history": [
+        {
+            "fetchedAt": "20260407_160018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073527",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@yashislive564",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T05:42:33Z"
+                },
+                {
+                    "text": "Yo tambi\u00e9n lo ago",
+                    "author": "@edetsx-56",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T20:00:33Z"
+                },
+                {
+                    "text": "Tu tambi\u00e9n eres una imagen para ver \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@GermanReguilon",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T16:22:08Z"
+                },
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\u00f1\u00f1\ud83d\ude22\ud83d\ude22\ud83d\ude22",
+                    "author": "@GermanReguilon",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T16:22:40Z"
+                }
+            ]
+        }
+    ]
+}

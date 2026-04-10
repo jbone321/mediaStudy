@@ -1,0 +1,46 @@
+{
+    "videoId": "8NZgx2gfSts",
+    "history": [
+        {
+            "fetchedAt": "20260408_220023",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260409_073557",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\u2764Gracias \u2764\ud83c\udf89",
+                    "author": "@OmarMartinez-j4c",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T03:45:00Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073640",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\u2764Gracias \u2764\ud83c\udf89",
+                    "author": "@OmarMartinez-j4c",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T03:45:00Z"
+                },
+                {
+                    "text": "\u00d6r\u00f6kk\u00e9\u00e9\u00e9!!!!!\u2764\u2764\u2764\u2764",
+                    "author": "@Istv\u00e1nFarag\u00f3-y9r",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T09:41:45Z"
+                },
+                {
+                    "text": "\ud83e\udef6",
+                    "author": "@svetizipp",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T01:55:13Z"
+                }
+            ]
+        }
+    ]
+}

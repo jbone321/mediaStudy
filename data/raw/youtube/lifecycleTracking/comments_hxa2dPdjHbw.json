@@ -1,0 +1,40 @@
+{
+    "videoId": "hxa2dPdjHbw",
+    "history": [
+        {
+            "fetchedAt": "20260405_220015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073510",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "rivals ahh phonk",
+                    "author": "@alexisgrisham2",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T02:11:38Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073420",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "rivals ahh phonk",
+                    "author": "@alexisgrisham2",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T02:11:38Z"
+                },
+                {
+                    "text": "Hola",
+                    "author": "@angelcondori3864",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T00:33:58Z"
+                }
+            ]
+        }
+    ]
+}

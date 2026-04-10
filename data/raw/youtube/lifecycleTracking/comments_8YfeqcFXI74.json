@@ -1,0 +1,40 @@
+{
+    "videoId": "8YfeqcFXI74",
+    "history": [
+        {
+            "fetchedAt": "20260331_100016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_073049",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Om om innovaci\u00f3n",
+                    "author": "@CynthiaAlamillo-e2n",
+                    "likes": 0,
+                    "publishedAt": "2026-03-31T23:43:15Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073132",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\ud83d\ude02\ud83d\ude22\ud83d\ude2e\ud83d\ude05",
+                    "author": "@SanaParween-k4r",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T05:40:47Z"
+                },
+                {
+                    "text": "Om om innovaci\u00f3n",
+                    "author": "@CynthiaAlamillo-e2n",
+                    "likes": 0,
+                    "publishedAt": "2026-03-31T23:43:15Z"
+                }
+            ]
+        }
+    ]
+}

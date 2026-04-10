@@ -1,0 +1,47 @@
+{
+    "videoId": "EuBxXpvw4-M",
+    "history": [
+        {
+            "fetchedAt": "20260407_160023",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@ChamaraSampath-i6l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T14:32:03Z"
+                },
+                {
+                    "text": "\ud83e\udd70\ud83d\udcaf",
+                    "author": "@Gamer_shey",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T15:00:14Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073508",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@ChamaraSampath-i6l",
+                    "likes": 2,
+                    "publishedAt": "2026-04-07T14:32:03Z"
+                },
+                {
+                    "text": "Song name",
+                    "author": "@deamandking5678",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T14:21:15Z"
+                },
+                {
+                    "text": "\ud83e\udd70\ud83d\udcaf",
+                    "author": "@Gamer_shey",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T15:00:14Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "videoId": "wLlDJPptlzk",
+    "history": [
+        {
+            "fetchedAt": "20260402_220013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260404_073050",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "I liked this show. I wish that it was not canceled.",
+                    "author": "@martycontestabile9607",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T04:30:58Z"
+                },
+                {
+                    "text": "Yeah, it wouldnt take effect that fast anyway. Thats into muscle, it takes a while.",
+                    "author": "@whocares26475",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T04:25:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260405_073114",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "I liked this show. I wish that it was not canceled.",
+                    "author": "@martycontestabile9607",
+                    "likes": 3,
+                    "publishedAt": "2026-04-04T04:30:58Z"
+                },
+                {
+                    "text": "\"highlight of the show\" then fails to name the show",
+                    "author": "@thatstranger6114",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T11:52:04Z"
+                },
+                {
+                    "text": "Yeah, it wouldnt take effect that fast anyway. Thats into muscle, it takes a while.",
+                    "author": "@whocares26475",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T04:25:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073146",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "I liked this show. I wish that it was not canceled.",
+                    "author": "@martycontestabile9607",
+                    "likes": 5,
+                    "publishedAt": "2026-04-04T04:30:58Z"
+                },
+                {
+                    "text": "\"highlight of the show\" then fails to name the show",
+                    "author": "@thatstranger6114",
+                    "likes": 3,
+                    "publishedAt": "2026-04-04T11:52:04Z"
+                },
+                {
+                    "text": "My tomy twisted when she stuck it in\ud83d\ude35",
+                    "author": "@LykkeStar14",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T19:43:48Z"
+                },
+                {
+                    "text": "Yeah, it wouldnt take effect that fast anyway. Thats into muscle, it takes a while.",
+                    "author": "@whocares26475",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T04:25:36Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "videoId": "2FZyVQHwEfA",
+    "history": [
+        {
+            "fetchedAt": "20260405_040019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073442",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0fhay",
+                    "author": "@L\u00e2mL\u00ea-e3f",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T12:57:25Z"
+                },
+                {
+                    "text": "Beautiful",
+                    "author": "@PVDhama-q5u",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T00:50:09Z"
+                },
+                {
+                    "text": "Nice",
+                    "author": "@PVDhama-q5u",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T07:37:00Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073350",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "b\u1ed3i c\u1ea3nh \u0111\u1eb9p tuy\u1ec7t v\u1eddi ng\u01b0\u1eddi c\u00f9ng tuy\u1ec7t \u0111\u1eb9p nh\u1ea1c hay \u2764\u2764",
+                    "author": "@Tr\u1ecbnhTr\u1ecbnh-s4s",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T07:05:16Z"
+                },
+                {
+                    "text": "Beautiful",
+                    "author": "@PVDhama-q5u",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T00:50:09Z"
+                },
+                {
+                    "text": "\u2764\ufe0fhay",
+                    "author": "@L\u00e2mL\u00ea-e3f",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T12:57:25Z"
+                },
+                {
+                    "text": "Nice",
+                    "author": "@PVDhama-q5u",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T07:37:00Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073418",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Hay qu\u00e1 m\u1ea5y em \u01a1i!",
+                    "author": "@ThanhDuy-j7v",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T01:54:40Z"
+                },
+                {
+                    "text": "\u2764\ufe0fhay",
+                    "author": "@L\u00e2mL\u00ea-e3f",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T12:57:25Z"
+                },
+                {
+                    "text": "Beautiful",
+                    "author": "@PVDhama-q5u",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T00:50:09Z"
+                },
+                {
+                    "text": "Nice",
+                    "author": "@PVDhama-q5u",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T07:37:00Z"
+                },
+                {
+                    "text": "b\u1ed3i c\u1ea3nh \u0111\u1eb9p tuy\u1ec7t v\u1eddi ng\u01b0\u1eddi c\u00f9ng tuy\u1ec7t \u0111\u1eb9p nh\u1ea1c hay \u2764\u2764",
+                    "author": "@Tr\u1ecbnhTr\u1ecbnh-s4s",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T07:05:16Z"
+                }
+            ]
+        }
+    ]
+}

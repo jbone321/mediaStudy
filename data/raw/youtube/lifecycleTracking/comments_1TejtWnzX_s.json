@@ -1,0 +1,47 @@
+{
+    "videoId": "1TejtWnzX_s",
+    "history": [
+        {
+            "fetchedAt": "20260407_040015",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "J'adore la musique \ud83e\ude77",
+                    "author": "@MercedesMakilherrero",
+                    "likes": 3,
+                    "publishedAt": "2026-04-06T20:53:28Z"
+                },
+                {
+                    "text": "gg",
+                    "author": "@CyntiaAuduy",
+                    "likes": 2,
+                    "publishedAt": "2026-04-06T20:55:39Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073437",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "J'adore la musique \ud83e\ude77",
+                    "author": "@MercedesMakilherrero",
+                    "likes": 3,
+                    "publishedAt": "2026-04-06T20:53:28Z"
+                },
+                {
+                    "text": "J'aimerais trop te voir l\u00e0 o\u00f9 ta fait ton clip 13 novembre \u2764\u2764",
+                    "author": "@L2K.92cg",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T15:33:27Z"
+                },
+                {
+                    "text": "gg",
+                    "author": "@CyntiaAuduy",
+                    "likes": 2,
+                    "publishedAt": "2026-04-06T20:55:39Z"
+                }
+            ]
+        }
+    ]
+}

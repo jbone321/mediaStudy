@@ -1,0 +1,45 @@
+{
+    "videoId": "GHs7R5pe4YM",
+    "history": [
+        {
+            "fetchedAt": "20260404_100018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073231",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Vah bhai mujhe pasand aaya",
+                    "author": "@Bikrant091",
+                    "likes": 4,
+                    "publishedAt": "2026-04-04T10:47:52Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073403",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073310",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Vah bhai mujhe pasand aaya",
+                    "author": "@Bikrant091",
+                    "likes": 4,
+                    "publishedAt": "2026-04-04T10:47:52Z"
+                },
+                {
+                    "text": "Achaa gana hai \ud83d\udc4d",
+                    "author": "@PRADESHI_PREMI",
+                    "likes": 2,
+                    "publishedAt": "2026-04-04T12:16:55Z"
+                }
+            ]
+        }
+    ]
+}

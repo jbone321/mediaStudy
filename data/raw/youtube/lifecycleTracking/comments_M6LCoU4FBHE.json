@@ -1,0 +1,39 @@
+{
+    "videoId": "M6LCoU4FBHE",
+    "history": [
+        {
+            "fetchedAt": "20260405_040022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073309",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a\u2764",
+                    "author": "@legendgaganff",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T04:30:34Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073445",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073355",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a\u2764",
+                    "author": "@legendgaganff",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T04:30:34Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "T0hBZavR6XM",
+    "history": [
+        {
+            "fetchedAt": "20260327_220012",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260328_072648",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Sup",
+                    "author": "@StephanieBrown-i7j7q",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T00:17:34Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260329_072607",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22Mint",
+                    "author": "@\u0e27\u0e31\u0e19\u0e40\u0e1e\u0e47\u0e0d\u0e40\u0e19\u0e32\u0e27\u0e1a\u0e38\u0e15\u0e23\u0e2b\u0e25\u0e2d\u0e14\u0e40\u0e1e\u0e47\u0e0a\u0e23",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T09:09:38Z"
+                },
+                {
+                    "text": "Sup",
+                    "author": "@StephanieBrown-i7j7q",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T00:17:34Z"
+                }
+            ]
+        }
+    ]
+}

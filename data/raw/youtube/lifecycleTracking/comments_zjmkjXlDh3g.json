@@ -1,0 +1,39 @@
+{
+    "videoId": "zjmkjXlDh3g",
+    "history": [
+        {
+            "fetchedAt": "20260404_100013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073227",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                    "author": "@janvipandya6999",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T11:58:25Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073358",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073306",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                    "author": "@janvipandya6999",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T11:58:25Z"
+                }
+            ]
+        }
+    ]
+}

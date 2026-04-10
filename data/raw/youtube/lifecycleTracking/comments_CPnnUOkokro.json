@@ -1,0 +1,40 @@
+{
+    "videoId": "CPnnUOkokro",
+    "history": [
+        {
+            "fetchedAt": "20260407_040018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073552",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@MUKAIBMA",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T06:02:46Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073504",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22",
+                    "author": "@ark7580",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T13:13:39Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@MUKAIBMA",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T06:02:46Z"
+                }
+            ]
+        }
+    ]
+}

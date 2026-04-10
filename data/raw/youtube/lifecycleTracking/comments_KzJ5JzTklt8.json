@@ -5,6 +5,18 @@
             "fetchedAt": "20260323_100019",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260326_072232",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Tegangan 3300 v , bukan 380V .gede bgt om",
+                    "author": "@muhammadnurochman8734",
+                    "likes": 0,
+                    "publishedAt": "2026-03-25T17:10:48Z"
+                }
+            ]
         }
     ]
 }

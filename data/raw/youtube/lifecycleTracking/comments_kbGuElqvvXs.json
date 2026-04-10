@@ -1,0 +1,40 @@
+{
+    "videoId": "kbGuElqvvXs",
+    "history": [
+        {
+            "fetchedAt": "20260407_160024",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073533",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "1-1000 CHF \ud83c\udde8\ud83c\udded STP",
+                    "author": "@Oecam_CH_THAI",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T05:44:11Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073509",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Je suis guin\u00e9enne",
+                    "author": "@scorpionrouge1234",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T18:34:27Z"
+                },
+                {
+                    "text": "1-1000 CHF \ud83c\udde8\ud83c\udded STP",
+                    "author": "@Oecam_CH_THAI",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T05:44:11Z"
+                }
+            ]
+        }
+    ]
+}

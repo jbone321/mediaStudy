@@ -1,0 +1,57 @@
+{
+    "videoId": "RDEQh4NxRrQ",
+    "history": [
+        {
+            "fetchedAt": "20260405_040017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073305",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Like \ud83d\udc4d",
+                    "author": "@JuniorJokerss",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T05:04:33Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073440",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073349",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Like \ud83d\udc4d",
+                    "author": "@JuniorJokerss",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T05:04:33Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073417",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Like \ud83d\udc4d",
+                    "author": "@JuniorJokerss",
+                    "likes": 2,
+                    "publishedAt": "2026-04-05T05:04:33Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@AkashSingh933ji",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T09:40:12Z"
+                }
+            ]
+        }
+    ]
+}

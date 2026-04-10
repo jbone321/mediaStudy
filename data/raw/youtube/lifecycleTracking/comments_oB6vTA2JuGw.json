@@ -1,0 +1,34 @@
+{
+    "videoId": "oB6vTA2JuGw",
+    "history": [
+        {
+            "fetchedAt": "20260403_100023",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260404_073121",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u0627\u0628\u0648 \u064a\u0627\u0633\u0631 \u0627\u0628\u0648 \u064a\u0627\u0633\u0631",
+                    "author": "@RadWegde",
+                    "likes": 0,
+                    "publishedAt": "2026-04-03T15:37:15Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e \u0623\u0647\u0644\u0647 \u062b \u0633\u0627\u0643\u0646 \u0628\u0627\u062d\u0645\u062f",
+                    "author": "@RadWegde",
+                    "likes": 0,
+                    "publishedAt": "2026-04-03T15:37:04Z"
+                },
+                {
+                    "text": "\u062c\u064a\u0628 \u0645\u0639\u0643 \u062a\u0644\u0641\u0648\u0646",
+                    "author": "@RadWegde",
+                    "likes": 0,
+                    "publishedAt": "2026-04-03T15:37:33Z"
+                }
+            ]
+        }
+    ]
+}

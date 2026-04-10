@@ -1,0 +1,76 @@
+{
+    "videoId": "phuMLuLP2kU",
+    "history": [
+        {
+            "fetchedAt": "20260404_100021",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@IB3D99",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T08:22:01Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@RGX20",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T09:16:16Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260405_073234",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@IB3D99",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T08:22:01Z"
+                },
+                {
+                    "text": "\u2764\u2764\ud83c\udf89\ud83c\udf89",
+                    "author": "@DivanshuPatelGaming",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T15:51:37Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@RGX20",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T09:16:16Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073406",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073314",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@IB3D99",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T08:22:01Z"
+                },
+                {
+                    "text": "\u2764\u2764\ud83c\udf89\ud83c\udf89",
+                    "author": "@DivanshuPatelGaming",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T15:51:37Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@RGX20",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T09:16:16Z"
+                }
+            ]
+        }
+    ]
+}

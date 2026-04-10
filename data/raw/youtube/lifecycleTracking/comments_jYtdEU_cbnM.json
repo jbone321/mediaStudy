@@ -1,0 +1,35 @@
+{
+    "videoId": "jYtdEU_cbnM",
+    "history": [
+        {
+            "fetchedAt": "20260405_040021",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u0421\u0442\u0430\u0441 \u041f\u044c\u0435\u0445\u0430?",
+                    "author": "@\u0418\u0437\u043e\u043b\u044c\u0434\u0430\u0420\u0435\u0439",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T03:25:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073353",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u0421\u0442\u0430\u0441 \u041f\u044c\u0435\u0445\u0430?",
+                    "author": "@\u0418\u0437\u043e\u043b\u044c\u0434\u0430\u0420\u0435\u0439",
+                    "likes": 2,
+                    "publishedAt": "2026-04-05T03:25:21Z"
+                },
+                {
+                    "text": "\u041a\u0442\u043e \u043f\u0435\u043b \u0438 \u0447\u044c\u044f \u043f\u0435\u0441\u043d\u044f- \u0433\u043e\u043b\u043e\u0441 \u0437\u043d\u0430\u043a\u043e\u043c \u043d\u0430 \u0441\u043b\u0443\u0445?",
+                    "author": "@Antonina-l1g",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T14:22:06Z"
+                }
+            ]
+        }
+    ]
+}

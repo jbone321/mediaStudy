@@ -29,6 +29,36 @@
                     "publishedAt": "2026-03-05T13:13:29Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260407_071300",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Dobrej zabawy jest czas",
+                    "author": "@WiolettaSkieresz-l9v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-05T13:12:51Z"
+                },
+                {
+                    "text": "Tylko z dobr\u0105 piosenk\u0105 my bawimy si\u0119",
+                    "author": "@WiolettaSkieresz-l9v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-05T13:13:29Z"
+                },
+                {
+                    "text": "Dzi\u015b weso\u0142o my chcemy \u017cy\u0107",
+                    "author": "@WiolettaSkieresz-l9v",
+                    "likes": 0,
+                    "publishedAt": "2026-03-05T13:13:08Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\ud83d\ude05",
+                    "author": "@dariuszkoza352",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T15:37:55Z"
+                }
+            ]
         }
     ]
 }

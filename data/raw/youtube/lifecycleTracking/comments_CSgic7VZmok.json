@@ -1,0 +1,46 @@
+{
+    "videoId": "CSgic7VZmok",
+    "history": [
+        {
+            "fetchedAt": "20260408_040018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073542",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@GHOSTGAMERS681",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T06:45:56Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073603",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@GHOSTGAMERS681",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T06:45:56Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@\u0643\u0631\u064a\u0645\u0643\u0631\u064a\u0645-\u06433\u062f",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T07:53:14Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83c\udf89\ud83c\udf89",
+                    "author": "@\u0643\u0631\u064a\u0645\u0643\u0631\u064a\u0645-\u06433\u062f",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T07:53:35Z"
+                }
+            ]
+        }
+    ]
+}

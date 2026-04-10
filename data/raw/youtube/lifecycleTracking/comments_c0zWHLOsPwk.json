@@ -1,0 +1,40 @@
+{
+    "videoId": "c0zWHLOsPwk",
+    "history": [
+        {
+            "fetchedAt": "20260327_100018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260328_072627",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e",
+                    "author": "@stepankasykorova7080",
+                    "likes": 0,
+                    "publishedAt": "2026-03-28T05:46:53Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260330_072737",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "UU",
+                    "author": "@MatthewAfdul",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T14:26:58Z"
+                },
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e",
+                    "author": "@stepankasykorova7080",
+                    "likes": 1,
+                    "publishedAt": "2026-03-28T05:46:53Z"
+                }
+            ]
+        }
+    ]
+}

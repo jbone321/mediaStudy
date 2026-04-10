@@ -1,0 +1,34 @@
+{
+    "videoId": "SRp7cERMO-0",
+    "history": [
+        {
+            "fetchedAt": "20260405_220018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073513",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Your sooo good!",
+                    "author": "@ShellyWebster-w6y",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T22:31:48Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83d\ude05Milh\u00e3o de um boxe",
+                    "author": "@ThayssaCorrea-fu5po",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T01:04:18Z"
+                },
+                {
+                    "text": "BP \ud83d\ude05",
+                    "author": "@LeizelGalvez-b2g",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T22:45:48Z"
+                }
+            ]
+        }
+    ]
+}

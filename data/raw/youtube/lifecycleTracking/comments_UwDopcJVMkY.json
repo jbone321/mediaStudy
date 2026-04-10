@@ -1,0 +1,35 @@
+{
+    "videoId": "UwDopcJVMkY",
+    "history": [
+        {
+            "fetchedAt": "20260331_220018",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Grande Alberto!\ud83d\udc4d\ud83d\udd1d\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+                    "author": "@Giozenaku86",
+                    "likes": 0,
+                    "publishedAt": "2026-03-31T16:15:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260403_073112",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "wow",
+                    "author": "@MOSTAFA.FAIZI19",
+                    "likes": 0,
+                    "publishedAt": "2026-04-02T14:26:51Z"
+                },
+                {
+                    "text": "Grande Alberto!\ud83d\udc4d\ud83d\udd1d\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+                    "author": "@Giozenaku86",
+                    "likes": 0,
+                    "publishedAt": "2026-03-31T16:15:42Z"
+                }
+            ]
+        }
+    ]
+}

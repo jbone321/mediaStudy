@@ -1,0 +1,47 @@
+{
+    "videoId": "fLvzEc-zRdg",
+    "history": [
+        {
+            "fetchedAt": "20260407_100049",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "So beautiful",
+                    "author": "@virtuatravelguide",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T09:23:13Z"
+                },
+                {
+                    "text": "Beautiful",
+                    "author": "@emmanuellaiyayi",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T19:13:26Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073456",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "So beautiful",
+                    "author": "@virtuatravelguide",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T09:23:13Z"
+                },
+                {
+                    "text": "Awwww beautiful",
+                    "author": "@ChikaProgress",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T17:10:10Z"
+                },
+                {
+                    "text": "Beautiful",
+                    "author": "@emmanuellaiyayi",
+                    "likes": 0,
+                    "publishedAt": "2026-04-06T19:13:26Z"
+                }
+            ]
+        }
+    ]
+}

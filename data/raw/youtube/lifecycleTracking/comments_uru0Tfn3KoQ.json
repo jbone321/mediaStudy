@@ -5,6 +5,18 @@
             "fetchedAt": "20260220_080600",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260408_070552",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "K",
+                    "author": "@DewataBali-r6e",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T13:18:21Z"
+                }
+            ]
         }
     ]
 }

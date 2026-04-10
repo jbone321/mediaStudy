@@ -1,0 +1,35 @@
+{
+    "videoId": "5KqtiTZppQg",
+    "history": [
+        {
+            "fetchedAt": "20260408_220027",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Premier com \ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@SkaydenNC",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T20:19:38Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073600",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "le chocolat tue les chien m\u00eame pas 1mg! juste 0",
+                    "author": "@jBENICHOU-k3b",
+                    "likes": 2,
+                    "publishedAt": "2026-04-09T05:39:25Z"
+                },
+                {
+                    "text": "Premier com \ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@SkaydenNC",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T20:19:38Z"
+                }
+            ]
+        }
+    ]
+}

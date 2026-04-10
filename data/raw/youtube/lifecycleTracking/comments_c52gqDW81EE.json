@@ -1,0 +1,34 @@
+{
+    "videoId": "c52gqDW81EE",
+    "history": [
+        {
+            "fetchedAt": "20260405_100022",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@UmamAnsari-e6m",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T04:58:18Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073504",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073413",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@UmamAnsari-e6m",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T04:58:18Z"
+                }
+            ]
+        }
+    ]
+}

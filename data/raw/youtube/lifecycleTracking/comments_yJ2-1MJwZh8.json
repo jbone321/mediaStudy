@@ -1,0 +1,52 @@
+{
+    "videoId": "yJ2-1MJwZh8",
+    "history": [
+        {
+            "fetchedAt": "20260407_100036",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073514",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\udca3 SUPER \ud83d\udca5 BOMB \ud83d\udca3\ud83d\udca5",
+                    "author": "@Ya3aah",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T10:47:20Z"
+                },
+                {
+                    "text": "Nice \ud83d\udc4d",
+                    "author": "@blahblah-i6p",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T10:22:58Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073536",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\udca3 SUPER \ud83d\udca5 BOMB \ud83d\udca3\ud83d\udca5",
+                    "author": "@Ya3aah",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T10:47:20Z"
+                },
+                {
+                    "text": "Nice \ud83d\udc4d",
+                    "author": "@blahblah-i6p",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T10:22:58Z"
+                },
+                {
+                    "text": "Number one will not stun rey\ud83d\ude2e",
+                    "author": "@adamjhummun6033",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T11:04:52Z"
+                }
+            ]
+        }
+    ]
+}

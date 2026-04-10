@@ -1,0 +1,22 @@
+{
+    "videoId": "d3YywJvCsdA",
+    "history": [
+        {
+            "fetchedAt": "20260326_040013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_072614",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "U",
+                    "author": "@SimhachalamPurri",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T07:24:07Z"
+                }
+            ]
+        }
+    ]
+}

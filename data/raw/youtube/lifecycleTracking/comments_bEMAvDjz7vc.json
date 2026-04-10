@@ -1,0 +1,65 @@
+{
+    "videoId": "bEMAvDjz7vc",
+    "history": [
+        {
+            "fetchedAt": "20260407_040019",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Hola en unos dias voy para ya",
+                    "author": "@GARYF-v8q",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T21:08:26Z"
+                },
+                {
+                    "text": "Est\u00e1n en bah\u00eda blanca?",
+                    "author": "@Carlosmoyano-e2m",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T00:08:52Z"
+                },
+                {
+                    "text": "Donde esta el local?",
+                    "author": "@agusr1119",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T00:34:07Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073504",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Yo quiero cambiar mi ryzen 7 9800x3d",
+                    "author": "@hernanzumbo8234",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T15:03:02Z"
+                },
+                {
+                    "text": "Hola en unos dias voy para ya",
+                    "author": "@GARYF-v8q",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T21:08:26Z"
+                },
+                {
+                    "text": "Donde esta el local?",
+                    "author": "@agusr1119",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T00:34:07Z"
+                },
+                {
+                    "text": "Mejor el Ryzen 5 8600g q el 8500g",
+                    "author": "@ChicoRandomxd",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T21:38:39Z"
+                },
+                {
+                    "text": "Est\u00e1n en bah\u00eda blanca?",
+                    "author": "@Carlosmoyano-e2m",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T00:08:52Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "videoId": "NSL388fTGTg",
+    "history": [
+        {
+            "fetchedAt": "20260401_160036",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073121",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Game name",
+                    "author": "@bhuvan.s4820",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T07:30:55Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "videoId": "97dEgfUf-Fo",
+    "history": [
+        {
+            "fetchedAt": "20260407_100036",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073513",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Game name",
+                    "author": "@SSSreeka",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T11:33:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073450",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Game name",
+                    "author": "@SSSreeka",
+                    "likes": 2,
+                    "publishedAt": "2026-04-07T11:33:24Z"
+                },
+                {
+                    "text": "C\u00f3mo se llama el juego",
+                    "author": "@manuelb.2744",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T21:50:56Z"
+                },
+                {
+                    "text": "Suudi\n\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude05\ud83d\ude05\ud83d\ude05",
+                    "author": "@KhadraMaxamed-s4m",
+                    "likes": 3,
+                    "publishedAt": "2026-04-08T07:57:34Z"
+                },
+                {
+                    "text": "\u2764y\ud83d\ude05\ud83d\ude0au\u2764yu\u2764\u2764\u2764",
+                    "author": "@ArjuneVillapana-l9l",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T14:28:31Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073536",
+            "commentCount": 6,
+            "comments": [
+                {
+                    "text": "Suudi\n\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude05\ud83d\ude05\ud83d\ude05",
+                    "author": "@KhadraMaxamed-s4m",
+                    "likes": 5,
+                    "publishedAt": "2026-04-08T07:57:34Z"
+                },
+                {
+                    "text": "C\u00f3mo se llama el juego",
+                    "author": "@manuelb.2744",
+                    "likes": 3,
+                    "publishedAt": "2026-04-08T21:50:56Z"
+                },
+                {
+                    "text": "Name of this game",
+                    "author": "@shabanashaikh888",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T08:07:37Z"
+                },
+                {
+                    "text": "\u2764y\ud83d\ude05\ud83d\ude0au\u2764yu\u2764\u2764\u2764",
+                    "author": "@ArjuneVillapana-l9l",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T14:28:31Z"
+                },
+                {
+                    "text": "Game name",
+                    "author": "@SSSreeka",
+                    "likes": 2,
+                    "publishedAt": "2026-04-07T11:33:24Z"
+                },
+                {
+                    "text": "Name game",
+                    "author": "@NayaMoon-18",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T07:38:06Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "videoId": "BfJgsrKS2Po",
+    "history": [
+        {
+            "fetchedAt": "20260409_100025",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Wo,",
+                    "author": "@EmmanuelKambinga",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T00:53:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073710",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Wo,",
+                    "author": "@EmmanuelKambinga",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T00:53:24Z"
+                },
+                {
+                    "text": "Hi how are you? \u2764",
+                    "author": "@uneek5336",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T16:36:41Z"
+                }
+            ]
+        }
+    ]
+}

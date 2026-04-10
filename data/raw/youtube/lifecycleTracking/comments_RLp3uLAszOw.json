@@ -1,0 +1,40 @@
+{
+    "videoId": "RLp3uLAszOw",
+    "history": [
+        {
+            "fetchedAt": "20260408_160021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260409_073544",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\u2764\u2764\u2764\u2764",
+                    "author": "@LisaVasquez-j1c",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T23:44:09Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073628",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Un minutito no tontito\u2764\u2764\u2764\u2764",
+                    "author": "@SheylaMartinez-k5i",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T21:13:04Z"
+                },
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\u2764\u2764\u2764\u2764",
+                    "author": "@LisaVasquez-j1c",
+                    "likes": 2,
+                    "publishedAt": "2026-04-08T23:44:09Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "videoId": "G0FpVf7g7NI",
+    "history": [
+        {
+            "fetchedAt": "20260408_100026",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u092f\u093e \u0905\u0932\u094d\u0932\u093e\u0939",
+                    "author": "@LataPandel-c1o",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T08:47:49Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260409_073536",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u092f\u093e \u0905\u0932\u094d\u0932\u093e\u0939",
+                    "author": "@LataPandel-c1o",
+                    "likes": 2,
+                    "publishedAt": "2026-04-08T08:47:49Z"
+                },
+                {
+                    "text": "Allah Hu Akbar",
+                    "author": "@DkKhan-w1z",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T07:13:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073620",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Allah Hu Akbar\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@NaveedShiekh-j6m",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T17:07:11Z"
+                },
+                {
+                    "text": "Allah Hu Akbar",
+                    "author": "@DkKhan-w1z",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T07:13:08Z"
+                },
+                {
+                    "text": "\u092f\u093e \u0905\u0932\u094d\u0932\u093e\u0939",
+                    "author": "@LataPandel-c1o",
+                    "likes": 2,
+                    "publishedAt": "2026-04-08T08:47:49Z"
+                }
+            ]
+        }
+    ]
+}

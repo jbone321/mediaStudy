@@ -1,0 +1,40 @@
+{
+    "videoId": "8DwpGX37DYc",
+    "history": [
+        {
+            "fetchedAt": "20260403_040012",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_073156",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Duelbrothersg23",
+                    "likes": 0,
+                    "publishedAt": "2026-04-03T05:48:57Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260404_073101",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Duelbrothersg23",
+                    "likes": 1,
+                    "publishedAt": "2026-04-03T05:48:57Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Monishasamanta-i2g",
+                    "likes": 1,
+                    "publishedAt": "2026-04-03T14:38:42Z"
+                }
+            ]
+        }
+    ]
+}

@@ -17,6 +17,24 @@
                     "publishedAt": "2026-03-24T17:05:27Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260326_072329",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Venom",
+                    "author": "@IngridaJuod",
+                    "likes": 0,
+                    "publishedAt": "2026-03-25T12:54:23Z"
+                },
+                {
+                    "text": "Which symbiote suit is your favorite",
+                    "author": "@darkarthshadowfall5391",
+                    "likes": 0,
+                    "publishedAt": "2026-03-24T17:05:27Z"
+                }
+            ]
         }
     ]
 }

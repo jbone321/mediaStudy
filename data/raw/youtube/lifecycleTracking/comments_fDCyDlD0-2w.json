@@ -1,0 +1,47 @@
+{
+    "videoId": "fDCyDlD0-2w",
+    "history": [
+        {
+            "fetchedAt": "20260409_220018",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u81ea\u5206\u306f\u3001\u8584\u3044\u30b4\u30e0\u306e\u3084\u3064\u4f7f\u3063\u3066\u307e\u3059\u3002\u3061\u306a\u307f\u306b\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u30ab\u30d0\u30fc\u3082\u3064\u3051\u3066\u307e\u3059",
+                    "author": "@\u306d\u305a\u304a",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T21:42:53Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073728",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u30a8\u30a4\u30e0\u30ea\u30f3\u30b0\u3063\u3066\u6700\u521d\u306f\u9055\u548c\u611f\u3042\u308b\u3051\u3069\u306a\u308c\u308b\u3068\u3044\u3044\u611f\u3058\u306b\u306a\u308b\u3088\u306d\u30fc\u308f\u304b\u308b",
+                    "author": "@\u5e73\u6210T-JPN",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T01:27:46Z"
+                },
+                {
+                    "text": "\u30f4\u30a1\u30ed\u3084\u308b\u3068\u30b9\u30c6\u30a3\u30c3\u30af\u3092\u6700\u5f8c\u307e\u3067\u5012\u3055\u306a\u3044\u3068\u8d70\u308c\u306a\u3044\u304b\u3089\u8a70\u3080",
+                    "author": "@Usaaaaagi",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T06:04:44Z"
+                },
+                {
+                    "text": "30th\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u6301\u3063\u3066\u308b\u3051\u3069\u3001\u52ff\u4f53\u306a\u304f\u3066\u4f7f\u3048\u306a\u3044\u304b\u3089\u518d\u8ca9\u3057\u3066\u304f\u308c",
+                    "author": "@\u306f\u3063\u3074\u4e00AB",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T22:13:01Z"
+                },
+                {
+                    "text": "\u81ea\u5206\u306f\u3001\u8584\u3044\u30b4\u30e0\u306e\u3084\u3064\u4f7f\u3063\u3066\u307e\u3059\u3002\u3061\u306a\u307f\u306b\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u30ab\u30d0\u30fc\u3082\u3064\u3051\u3066\u307e\u3059",
+                    "author": "@\u306d\u305a\u304a",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T21:42:53Z"
+                }
+            ]
+        }
+    ]
+}

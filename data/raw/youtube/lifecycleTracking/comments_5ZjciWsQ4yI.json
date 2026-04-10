@@ -1,0 +1,82 @@
+{
+    "videoId": "5ZjciWsQ4yI",
+    "history": [
+        {
+            "fetchedAt": "20260328_100013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260329_072630",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@aaruRathor-98",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T04:57:37Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260330_072825",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@aaruRathor-98",
+                    "likes": 1,
+                    "publishedAt": "2026-03-29T04:57:37Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\ud83d\ude02\u0627\u0644\u0630\u0630\u2648\ufe0f\ud83e\udeaf\ud83e\ude77\ud83e\ude75\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\ude0a",
+                    "author": "@HalimaAlgammudi",
+                    "likes": 1,
+                    "publishedAt": "2026-03-29T17:30:47Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260403_072834",
+            "commentCount": 6,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Mar\u00edaGabrielaZambranoDelgado",
+                    "likes": 1,
+                    "publishedAt": "2026-03-31T23:55:38Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@aaruRathor-98",
+                    "likes": 1,
+                    "publishedAt": "2026-03-29T04:57:37Z"
+                },
+                {
+                    "text": "Hu ha ha",
+                    "author": "@amritakumari4453",
+                    "likes": 0,
+                    "publishedAt": "2026-04-02T12:05:06Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude2e\u2764\ud83d\ude02\ud83c\udf89\ud83d\ude22\ud83d\ude2e\ud83d\ude0a\ud83d\ude05\ud83d\ude0a",
+                    "author": "@MdRubel-sc1vz",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T14:29:22Z"
+                },
+                {
+                    "text": "Maryam\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\u2764\ufe0f",
+                    "author": "@hansaijaz9088",
+                    "likes": 0,
+                    "publishedAt": "2026-04-02T12:34:35Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\ud83d\ude02\u0627\u0644\u0630\u0630\u2648\ufe0f\ud83e\udeaf\ud83e\ude77\ud83e\ude75\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\ud83d\ude0a",
+                    "author": "@HalimaAlgammudi",
+                    "likes": 2,
+                    "publishedAt": "2026-03-29T17:30:47Z"
+                }
+            ]
+        }
+    ]
+}

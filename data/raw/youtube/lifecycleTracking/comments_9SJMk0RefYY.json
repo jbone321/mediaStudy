@@ -1,0 +1,41 @@
+{
+    "videoId": "9SJMk0RefYY",
+    "history": [
+        {
+            "fetchedAt": "20260409_220020",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "weather cycle type shi",
+                    "author": "@tomas-67dj",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T20:18:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073730",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "weather cycle type shi",
+                    "author": "@tomas-67dj",
+                    "likes": 3,
+                    "publishedAt": "2026-04-09T20:18:20Z"
+                },
+                {
+                    "text": "This is genuinely funny",
+                    "author": "@GlueWizard",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T02:54:10Z"
+                },
+                {
+                    "text": "X7 elixir!?",
+                    "author": "@DavidFlores-h2c",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T03:04:07Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "videoId": "YYE99CqM8ik",
+    "history": [
+        {
+            "fetchedAt": "20260328_100021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_072843",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Guinea pig? Isn't that a dog?",
+                    "author": "@abby_is_random",
+                    "likes": 1,
+                    "publishedAt": "2026-04-02T17:17:57Z"
+                }
+            ]
+        }
+    ]
+}

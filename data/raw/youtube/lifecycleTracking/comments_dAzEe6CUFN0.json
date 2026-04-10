@@ -1,0 +1,22 @@
+{
+    "videoId": "dAzEe6CUFN0",
+    "history": [
+        {
+            "fetchedAt": "20260328_040019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260329_072624",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Gugg",
+                    "author": "@faiz-z9q",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T06:26:41Z"
+                }
+            ]
+        }
+    ]
+}

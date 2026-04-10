@@ -1,0 +1,22 @@
+{
+    "videoId": "zG4MOKEIsYM",
+    "history": [
+        {
+            "fetchedAt": "20260404_040021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073355",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@amanmakrani1493",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T13:49:26Z"
+                }
+            ]
+        }
+    ]
+}

@@ -30,6 +30,30 @@
                     "publishedAt": "2026-03-23T19:17:44Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260403_072332",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "rubber ducky is not the one!",
+                    "author": "@TruGamer4Realz",
+                    "likes": 4,
+                    "publishedAt": "2026-03-21T17:51:59Z"
+                },
+                {
+                    "text": "Why is fan made yellow rainbow friends in the game?",
+                    "author": "@Jake7436",
+                    "likes": 1,
+                    "publishedAt": "2026-04-02T06:46:17Z"
+                },
+                {
+                    "text": "What is the game called?",
+                    "author": "@Cloudynn7452",
+                    "likes": 5,
+                    "publishedAt": "2026-03-23T19:17:44Z"
+                }
+            ]
         }
     ]
 }

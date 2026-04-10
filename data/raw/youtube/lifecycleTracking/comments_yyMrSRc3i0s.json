@@ -1,0 +1,83 @@
+{
+    "videoId": "yyMrSRc3i0s",
+    "history": [
+        {
+            "fetchedAt": "20260402_160022",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@karlaallamuratova585",
+                    "likes": 0,
+                    "publishedAt": "2026-04-02T15:01:34Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260403_073137",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@TMbrawlstar",
+                    "likes": 1,
+                    "publishedAt": "2026-04-02T17:03:36Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@karlaallamuratova585",
+                    "likes": 1,
+                    "publishedAt": "2026-04-02T15:01:34Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@MaiseSilvasantanadesouza-t6p",
+                    "likes": 1,
+                    "publishedAt": "2026-04-02T20:29:22Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@ZayG-c3b5k",
+                    "likes": 1,
+                    "publishedAt": "2026-04-02T22:01:29Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260404_073039",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                    "author": "@vtvcabongiaitri",
+                    "likes": 2,
+                    "publishedAt": "2026-04-04T00:03:07Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@karlaallamuratova585",
+                    "likes": 2,
+                    "publishedAt": "2026-04-02T15:01:34Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@TMbrawlstar",
+                    "likes": 2,
+                    "publishedAt": "2026-04-02T17:03:36Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@MaiseSilvasantanadesouza-t6p",
+                    "likes": 3,
+                    "publishedAt": "2026-04-02T20:29:22Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@ZayG-c3b5k",
+                    "likes": 3,
+                    "publishedAt": "2026-04-02T22:01:29Z"
+                }
+            ]
+        }
+    ]
+}

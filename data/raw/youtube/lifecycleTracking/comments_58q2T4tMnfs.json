@@ -1,0 +1,39 @@
+{
+    "videoId": "58q2T4tMnfs",
+    "history": [
+        {
+            "fetchedAt": "20260404_100020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073234",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Banger",
+                    "author": "@PriyankaManral-h2i",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T12:27:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073406",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073313",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Banger",
+                    "author": "@PriyankaManral-h2i",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T12:27:13Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "5l8uyaihFiA",
+    "history": [
+        {
+            "fetchedAt": "20260330_160023",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_073020",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Love the way you jazzed up the looks",
+                    "author": "@dahliathomas-x8h",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T23:34:02Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260410_073038",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Love this \u2764",
+                    "author": "@Sheis.angeline",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T10:22:13Z"
+                },
+                {
+                    "text": "Love the way you jazzed up the looks",
+                    "author": "@dahliathomas-x8h",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T23:34:02Z"
+                }
+            ]
+        }
+    ]
+}

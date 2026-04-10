@@ -666,6 +666,150 @@
                     "publishedAt": "2026-03-12T22:59:19Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260331_071828",
+            "commentCount": 23,
+            "comments": [
+                {
+                    "text": "Such a good ad.",
+                    "author": "@ASG-Main",
+                    "likes": 56,
+                    "publishedAt": "2026-03-12T22:00:33Z"
+                },
+                {
+                    "text": "You forgot to mention that all Pc's are bottleneck in some way",
+                    "author": "@Milo-wg9qz",
+                    "likes": 55,
+                    "publishedAt": "2026-03-12T22:44:00Z"
+                },
+                {
+                    "text": "In 2026 your game stutters on all hardware due to bad game code, or bad OS code, or bad driver code, or all at once.",
+                    "author": "@guitaristkuro8898",
+                    "likes": 11,
+                    "publishedAt": "2026-03-13T04:00:39Z"
+                },
+                {
+                    "text": "my phone froze right as you asked \"does your pc stutter?\" \ud83d\ude2d",
+                    "author": "@bRuhN0_",
+                    "likes": 11,
+                    "publishedAt": "2026-03-13T17:19:41Z"
+                },
+                {
+                    "text": "bro needs to experience the knee of JUSTICE",
+                    "author": "@theogajmoja",
+                    "likes": 9,
+                    "publishedAt": "2026-03-12T23:07:55Z"
+                },
+                {
+                    "text": "Undervolting can actually increase performance, so at that point power limit it or put a frame cap in game ig.",
+                    "author": "@Grigoriymicro",
+                    "likes": 9,
+                    "publishedAt": "2026-03-12T21:34:05Z"
+                },
+                {
+                    "text": "EZcomputers, the solution to financial bottlenecks.",
+                    "author": "@88Mobius88",
+                    "likes": 2,
+                    "publishedAt": "2026-03-13T06:23:39Z"
+                },
+                {
+                    "text": "Is there any bottleneck?\ni7-2600\nGTX 1650 Super\n16GB DDR3 1333MHz\n512GB SSD\nWindows 10\nFHD @ 60Hz",
+                    "author": "@TheEpicOne123",
+                    "likes": 1,
+                    "publishedAt": "2026-03-14T19:47:44Z"
+                },
+                {
+                    "text": "My CPU is on 100% and my gpu is on 20-30% when I play games \ud83d\ude02",
+                    "author": "@Ayyy1233",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T11:46:48Z"
+                },
+                {
+                    "text": "I don't have bottlenecking issues, I have game optimization issues on games I don't make. (Sadly Payday 3 is one of those games that run well but as soon as a player joins, it stutters for a moment. Also at a random point in time, the game may crash for some unknown reason that still hasn't been answered properly. The rest of my games run mostly fine though, usually only caused by decade old code like Garry's Mod)",
+                    "author": "@user-sd8vt5xm8t",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T21:31:46Z"
+                },
+                {
+                    "text": "I made myself a \"thrown together\" PC the otger week and it's got an i5 7500, 16 GB of memory, and a 2060 Super. Any of this sound particularly unbalanced?",
+                    "author": "@laurarvix",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T01:16:06Z"
+                },
+                {
+                    "text": "Undervolting your GPU does nothing to resolve bottlenecks. In fact, it could make them worse depending on the GPU. \n\nThe bottleneck described in this video is the most noticeable and least desirable one, a CPU bottleneck. Undervolting your GPU doesn't change it's performance much, if at all, on most modern hardware, in fact it may even make the GPU run faster. By pulling voltage your GPU will run cooler, but it can come at the cost of instability, most modern GPUs however have the ability to boost their clocks above their specified speeds so long as there's thermal and power headroom. Voltage reduces thermals *and* power consumption, meaning there's less heat and more power available for this boosting process.\n\nA brief note on power headroom, voltage isn't power, more specifically power in this case is wattage. Computing silicon has a ton of different design specifications, one of which is how many watts it can take. For example my RX 6900 XT has a wattage rating around 300 watts depending on the AIB card, this is sometimes called \"TGP,\" or total graphics power, not to be confused with \"TDP,\" or thermal design power. Basically this means the silicon is designed to pull up to 300W under load.\n\nBy reducing the voltage the wattage needed by the GPU decreases and less heat is generated, meaning more thermal and headroom which boost clocks can take advantage of.\n\nA really good example of this happening is AMD's 5000 series X3D CPUs which are known to have some thermal headroom issues due to its fundamental design. I actually undervolted my 5700X3D and saw a significant improvement in average core clocks *and* temperatures.",
+                    "author": "@CorneliusCornbread",
+                    "likes": 0,
+                    "publishedAt": "2026-03-14T01:56:04Z"
+                },
+                {
+                    "text": "My PC stutters because windows is too fast for it (I can't buy a new PC cuz in Mauritius it costs like 3x the price just because of shipping and stuff)",
+                    "author": "@Mat-ze-boss",
+                    "likes": 0,
+                    "publishedAt": "2026-03-13T20:12:23Z"
+                },
+                {
+                    "text": "I need more RAM bro, i hate AI :(",
+                    "author": "@totallynotthesovietunion2.0",
+                    "likes": 0,
+                    "publishedAt": "2026-03-18T11:26:44Z"
+                },
+                {
+                    "text": "I have a mini pc with integrated graphics, it bottlenecks all the time and no it doesn't have a pcie port to add a graphics card, it doesn't stutter it crashes and won't allow me to play games that are just a little bit graphics intensive since I don't have dedicated graphics, and changing any of the settings via graphics settings doesn't seem to improve performance, so my only option is to get a new pc rip me.",
+                    "author": "@semajreklaw8702",
+                    "likes": 0,
+                    "publishedAt": "2026-03-16T10:50:51Z"
+                },
+                {
+                    "text": "12600k, 3060 ti, 48gb ddr4; what's my bottleneck?",
+                    "author": "@idiotexelive",
+                    "likes": 1,
+                    "publishedAt": "2026-03-12T20:04:56Z"
+                },
+                {
+                    "text": "RX 580 and AMD athlon GOOD LORD",
+                    "author": "@memetan_24",
+                    "likes": 0,
+                    "publishedAt": "2026-03-13T09:14:27Z"
+                },
+                {
+                    "text": "That what we also call \u062d\u0634\u064a\u0647 :)",
+                    "author": "@AREKI.Z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-13T16:27:48Z"
+                },
+                {
+                    "text": "is my Nvidia 5080 and AMD FX-9590 a bottleneck?",
+                    "author": "@alittleeager1485",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T23:22:37Z"
+                },
+                {
+                    "text": "Is my rx7900 xt and ryzen 7 2700 a bottleneck??",
+                    "author": "@CoolGuyWithAPen",
+                    "likes": 1,
+                    "publishedAt": "2026-03-12T22:41:25Z"
+                },
+                {
+                    "text": "What is my biggest bottleneck\nCPU: Intel Core i5\u201114400F\nGPU: NVIDIA GeForce RTX 5060\nRAM: 16 GB DDR5\nStorage: 1 TB NVMe SSD",
+                    "author": "@Milleking",
+                    "likes": 0,
+                    "publishedAt": "2026-03-13T07:02:48Z"
+                },
+                {
+                    "text": "no. i just have an intel gpu from 2015, hey at least my cpu is good (intel i7 4 cores)",
+                    "author": "@Julian2-w",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T22:02:17Z"
+                },
+                {
+                    "text": "Question! Can bottle necking happen with mobile? Bc I think it's happening with my Minecraft app. But idk",
+                    "author": "@Gaygummies",
+                    "likes": 0,
+                    "publishedAt": "2026-03-12T22:59:19Z"
+                }
+            ]
         }
     ]
 }

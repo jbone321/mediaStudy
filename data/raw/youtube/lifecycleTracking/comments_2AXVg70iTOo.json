@@ -72,6 +72,36 @@
                     "publishedAt": "2026-03-21T09:52:03Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260403_072302",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Hai kakak",
+                    "author": "@SavitricandraDewi",
+                    "likes": 2,
+                    "publishedAt": "2026-03-21T09:19:43Z"
+                },
+                {
+                    "text": "Kak aku agama Hindu kak",
+                    "author": "@bramnaura",
+                    "likes": 0,
+                    "publishedAt": "2026-03-22T00:15:33Z"
+                },
+                {
+                    "text": "Dara",
+                    "author": "@KhotimatulHasanah-y5j",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T11:20:53Z"
+                },
+                {
+                    "text": "GAK BAGUS \ud83d\ude02\ud83d\ude02\ud83d\ude02 CANDA BAGUS KOK \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@riska-v9z",
+                    "likes": 0,
+                    "publishedAt": "2026-03-21T09:52:03Z"
+                }
+            ]
         }
     ]
 }

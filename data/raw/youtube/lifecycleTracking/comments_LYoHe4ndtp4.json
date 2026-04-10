@@ -1,0 +1,39 @@
+{
+    "videoId": "LYoHe4ndtp4",
+    "history": [
+        {
+            "fetchedAt": "20260404_100023",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073236",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@GopiJaat-f1v",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T11:21:01Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073409",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073316",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@GopiJaat-f1v",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T11:21:01Z"
+                }
+            ]
+        }
+    ]
+}

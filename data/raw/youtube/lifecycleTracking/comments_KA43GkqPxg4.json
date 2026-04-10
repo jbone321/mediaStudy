@@ -1,0 +1,40 @@
+{
+    "videoId": "KA43GkqPxg4",
+    "history": [
+        {
+            "fetchedAt": "20260406_160025",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073532",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Jay Kedarnath babaki",
+                    "author": "@SurabhSaxena-q9k",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T04:31:18Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073443",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Jay Kedarnath Mandir ki",
+                    "author": "@RamgubindShah",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T16:08:23Z"
+                },
+                {
+                    "text": "Jay Kedarnath babaki",
+                    "author": "@SurabhSaxena-q9k",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T04:31:18Z"
+                }
+            ]
+        }
+    ]
+}

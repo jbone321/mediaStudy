@@ -1,0 +1,22 @@
+{
+    "videoId": "kOEwICHDOBE",
+    "history": [
+        {
+            "fetchedAt": "20260326_040020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260403_072656",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "U",
+                    "author": "@Pietro_Guilherme-v4b",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T18:10:52Z"
+                }
+            ]
+        }
+    ]
+}

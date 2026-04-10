@@ -1,0 +1,40 @@
+{
+    "videoId": "t8oFJw3ZoJ4",
+    "history": [
+        {
+            "fetchedAt": "20260325_220024",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260328_072531",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Aslam76876",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T10:36:07Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260330_072633",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Aslam76876",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T10:36:07Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@Surjeet-w1r9s",
+                    "likes": 0,
+                    "publishedAt": "2026-03-29T07:27:52Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "videoId": "2mqrbuG5QCE",
+    "history": [
+        {
+            "fetchedAt": "20260403_100021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260404_073119",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Very cool",
+                    "author": "@witcherforever-n5w",
+                    "likes": 0,
+                    "publishedAt": "2026-04-03T18:32:00Z"
+                }
+            ]
+        }
+    ]
+}

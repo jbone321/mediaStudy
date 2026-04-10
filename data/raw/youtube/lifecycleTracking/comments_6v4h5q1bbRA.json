@@ -1,0 +1,22 @@
+{
+    "videoId": "6v4h5q1bbRA",
+    "history": [
+        {
+            "fetchedAt": "20260408_160018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260409_073543",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "I can play guitar",
+                    "author": "@MerlinK\u00fchn",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T16:34:26Z"
+                }
+            ]
+        }
+    ]
+}

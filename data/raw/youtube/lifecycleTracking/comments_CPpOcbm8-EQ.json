@@ -17,6 +17,36 @@
                     "publishedAt": "2026-03-25T06:37:51Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260326_072351",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a\ud83d\ude05\ud83d\ude22\ud83d\ude2e\ud83c\udf89\ud83d\ude02\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@MuratAy-ix4jr",
+                    "likes": 2,
+                    "publishedAt": "2026-03-25T06:37:51Z"
+                },
+                {
+                    "text": "15",
+                    "author": "@\uc774\uc7ac\uc6b1-f3e",
+                    "likes": 2,
+                    "publishedAt": "2026-03-25T08:47:21Z"
+                },
+                {
+                    "text": "15\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Abumuslimsmatov",
+                    "likes": 0,
+                    "publishedAt": "2026-03-25T15:33:05Z"
+                },
+                {
+                    "text": "15",
+                    "author": "@sonnyhindsman2008",
+                    "likes": 0,
+                    "publishedAt": "2026-03-25T22:24:10Z"
+                }
+            ]
         }
     ]
 }

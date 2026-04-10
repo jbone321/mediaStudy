@@ -1,0 +1,22 @@
+{
+    "videoId": "wZTbQOe266o",
+    "history": [
+        {
+            "fetchedAt": "20260330_040126",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260330_072949",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Music?",
+                    "author": "@meunomeeninguem1066",
+                    "likes": 0,
+                    "publishedAt": "2026-03-30T04:07:46Z"
+                }
+            ]
+        }
+    ]
+}

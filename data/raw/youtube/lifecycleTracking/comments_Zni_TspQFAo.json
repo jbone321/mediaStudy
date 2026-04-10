@@ -1,0 +1,52 @@
+{
+    "videoId": "Zni_TspQFAo",
+    "history": [
+        {
+            "fetchedAt": "20260405_040018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073441",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\ud83c\udf89",
+                    "author": "@AsuntaLakra-e7n",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T04:48:55Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764100",
+                    "author": "@TahaJamali-p7u",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T12:52:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073350",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\ud83c\udf89",
+                    "author": "@AsuntaLakra-e7n",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T04:48:55Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@KhalifaTam-i9t",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T10:46:13Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764100",
+                    "author": "@TahaJamali-p7u",
+                    "likes": 0,
+                    "publishedAt": "2026-04-05T12:52:13Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "videoId": "cPjAd1prR2o",
+    "history": [
+        {
+            "fetchedAt": "20260408_100026",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Premier commentaire \ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@SkaydenNC",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T09:04:07Z"
+                },
+                {
+                    "text": "2eme\ud83d\ude22",
+                    "author": "@CrepeDoonut",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T09:45:33Z"
+                }
+            ]
+        }
+    ]
+}

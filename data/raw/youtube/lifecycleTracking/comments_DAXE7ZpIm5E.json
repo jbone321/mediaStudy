@@ -1,0 +1,40 @@
+{
+    "videoId": "DAXE7ZpIm5E",
+    "history": [
+        {
+            "fetchedAt": "20260405_220010",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260407_073506",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Km poll",
+                    "author": "@DonnySiolangen-j4v",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T11:51:51Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073415",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a\ud83d\ude2e\u2764 kepada orang tua tapi tidak akan",
+                    "author": "@SusiAmi-w8n",
+                    "likes": 2,
+                    "publishedAt": "2026-04-07T11:37:13Z"
+                },
+                {
+                    "text": "Km poll",
+                    "author": "@DonnySiolangen-j4v",
+                    "likes": 2,
+                    "publishedAt": "2026-04-06T11:51:51Z"
+                }
+            ]
+        }
+    ]
+}

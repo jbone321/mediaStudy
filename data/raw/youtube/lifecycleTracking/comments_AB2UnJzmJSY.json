@@ -1,0 +1,39 @@
+{
+    "videoId": "AB2UnJzmJSY",
+    "history": [
+        {
+            "fetchedAt": "20260403_100020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073145",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@ZaxoiZaxoi-f8u6l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T09:57:12Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260407_073311",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260408_073219",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@ZaxoiZaxoi-f8u6l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-04T09:57:12Z"
+                }
+            ]
+        }
+    ]
+}

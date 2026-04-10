@@ -1,0 +1,40 @@
+{
+    "videoId": "QC94MUEjQ0Y",
+    "history": [
+        {
+            "fetchedAt": "20260404_040022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260405_073225",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "3",
+                    "author": "@Shohstohon",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T16:20:32Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260408_073303",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "2\ud83d\ude0a",
+                    "author": "@sekarjansirani",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T14:33:26Z"
+                },
+                {
+                    "text": "3",
+                    "author": "@Shohstohon",
+                    "likes": 0,
+                    "publishedAt": "2026-04-04T16:20:32Z"
+                }
+            ]
+        }
+    ]
+}
