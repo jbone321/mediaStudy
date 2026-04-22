@@ -1,0 +1,59 @@
+{
+    "videoId": "W0-5T1gvDeE",
+    "history": [
+        {
+            "fetchedAt": "20260413_160023",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "JONNY \u2764",
+                    "author": "@MaiJonathanKaPankhaHu",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T14:45:57Z"
+                },
+                {
+                    "text": "Team apex \ud83d\udd25",
+                    "author": "@MaiJonathanKaPankhaHu",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T14:45:52Z"
+                },
+                {
+                    "text": "Tag on top \u2764",
+                    "author": "@ANTiD0TEx007",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T14:54:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260415_073957",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "On top\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@robertbiatenampui3876",
+                    "likes": 0,
+                    "publishedAt": "2026-04-15T07:31:16Z"
+                },
+                {
+                    "text": "JONNY \u2764",
+                    "author": "@MaiJonathanKaPankhaHu",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T14:45:57Z"
+                },
+                {
+                    "text": "Team apex \ud83d\udd25",
+                    "author": "@MaiJonathanKaPankhaHu",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T14:45:52Z"
+                },
+                {
+                    "text": "Tag on top \u2764",
+                    "author": "@ANTiD0TEx007",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T14:54:20Z"
+                }
+            ]
+        }
+    ]
+}

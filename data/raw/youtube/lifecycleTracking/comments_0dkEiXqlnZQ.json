@@ -54,6 +54,36 @@
                     "publishedAt": "2026-04-10T01:30:05Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260413_073724",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\uc544\uc8fc\ud6c4\uc9c4\uad6d \ub098\ub77c\uacbd\ucc30\n70\ub144\uc804 \uacbd\ucc30\ub4e4\n\uad6c\uc11d\uae30\uc2dc\ub300 \uacbd\ucc30\uc774\uad70\uc694\ud83d\ude05\ud83d\ude05\ud83d\ude05",
+                    "author": "@uro2686",
+                    "likes": 8,
+                    "publishedAt": "2026-04-08T07:54:17Z"
+                },
+                {
+                    "text": "\u0420\u0443\u043a\u0438 \u0447\u0435\u0441\u0430\u043b\u0438\u0441\u044c .\ud83d\ude2e",
+                    "author": "@fainalazutkina-dh3uj",
+                    "likes": 4,
+                    "publishedAt": "2026-04-07T15:23:42Z"
+                },
+                {
+                    "text": "CS luu manh",
+                    "author": "@minhphamngoc2951",
+                    "likes": 2,
+                    "publishedAt": "2026-04-10T01:30:05Z"
+                },
+                {
+                    "text": "\u5783\u573e\u8996\u983bAl\u90fd\u9020\u5047\uff0c\u5462\u5572\u5927\u5361\u8eca\u4fc2\u7f8e\u570b\u5148\u6709\uff0c\u70ba\u4f55\u7a81\u7136\u6709\u67b6\u516c\u5b89\u8eca\uff1f",
+                    "author": "@mokk7723",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T03:14:00Z"
+                }
+            ]
         }
     ]
 }

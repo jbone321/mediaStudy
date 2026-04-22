@@ -17,6 +17,30 @@
                     "publishedAt": "2026-04-08T23:05:27Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260411_073714",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Celular brabo.",
+                    "author": "@DanielOliveiraViolao",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T11:47:29Z"
+                },
+                {
+                    "text": "Slk meu sonho ter um desse ai",
+                    "author": "@minigeto123",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T23:05:27Z"
+                },
+                {
+                    "text": "Na hora que essa bateria estiver ruim, pode jogar o celular fora e comprar outro, pq com essas baterias gen\u00e9ricas, ele n\u00e3o vai servir mais pra nada",
+                    "author": "@themand1989",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T14:08:57Z"
+                }
+            ]
         }
     ]
 }

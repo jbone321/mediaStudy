@@ -1,0 +1,28 @@
+{
+    "videoId": "y-rTm4GxnOw",
+    "history": [
+        {
+            "fetchedAt": "20260414_160015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_074132",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Number 3 and 4 is so good",
+                    "author": "@JosueChirinos-g2h",
+                    "likes": 3,
+                    "publishedAt": "2026-04-16T00:02:32Z"
+                },
+                {
+                    "text": "\ud83d\udc9a\ud83d\udc9d",
+                    "author": "@JulirenEstores",
+                    "likes": 1,
+                    "publishedAt": "2026-04-16T10:25:48Z"
+                }
+            ]
+        }
+    ]
+}

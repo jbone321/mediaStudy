@@ -1,0 +1,28 @@
+{
+    "videoId": "buH0BOYf2AQ",
+    "history": [
+        {
+            "fetchedAt": "20260415_100022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_074209",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e\u2764\u2764",
+                    "author": "@I_have_a_crush_on_Earth",
+                    "likes": 0,
+                    "publishedAt": "2026-04-15T12:22:32Z"
+                },
+                {
+                    "text": "\u2764\ufe0fa",
+                    "author": "@lidiaarce9871",
+                    "likes": 0,
+                    "publishedAt": "2026-04-20T20:25:53Z"
+                }
+            ]
+        }
+    ]
+}

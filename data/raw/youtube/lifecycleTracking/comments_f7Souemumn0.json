@@ -5,6 +5,18 @@
             "fetchedAt": "20260410_040022",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260413_073945",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@zulmiraadelavalietti2711",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T13:17:18Z"
+                }
+            ]
         }
     ]
 }

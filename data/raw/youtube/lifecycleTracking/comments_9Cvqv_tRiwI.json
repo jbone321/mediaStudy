@@ -1,0 +1,47 @@
+{
+    "videoId": "9Cvqv_tRiwI",
+    "history": [
+        {
+            "fetchedAt": "20260421_040014",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Nice job keep going\u2764\u2764",
+                    "author": "@amberbrereton",
+                    "likes": 0,
+                    "publishedAt": "2026-04-21T03:34:13Z"
+                },
+                {
+                    "text": "good stuff",
+                    "author": "@justfun-s3z",
+                    "likes": 1,
+                    "publishedAt": "2026-04-21T03:05:06Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260422_074541",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Beautiful \u2764",
+                    "author": "@SallyHapi",
+                    "likes": 1,
+                    "publishedAt": "2026-04-21T10:49:36Z"
+                },
+                {
+                    "text": "Nice job keep going\u2764\u2764",
+                    "author": "@amberbrereton",
+                    "likes": 2,
+                    "publishedAt": "2026-04-21T03:34:13Z"
+                },
+                {
+                    "text": "good stuff",
+                    "author": "@justfun-s3z",
+                    "likes": 2,
+                    "publishedAt": "2026-04-21T03:05:06Z"
+                }
+            ]
+        }
+    ]
+}

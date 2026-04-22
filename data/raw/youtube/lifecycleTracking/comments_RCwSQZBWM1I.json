@@ -5,6 +5,18 @@
             "fetchedAt": "20260410_040019",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260414_073831",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "O\u02bbyin nomi",
+                    "author": "@fazliddinshukurov5925",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T04:10:27Z"
+                }
+            ]
         }
     ]
 }

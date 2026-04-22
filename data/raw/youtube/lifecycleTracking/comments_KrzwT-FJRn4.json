@@ -59,6 +59,42 @@
                     "publishedAt": "2026-04-09T06:12:47Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260413_073807",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                    "author": "@Zelyx12",
+                    "likes": 6,
+                    "publishedAt": "2026-04-08T23:57:28Z"
+                },
+                {
+                    "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+                    "author": "@\u0433\u0443\u043b\u0438\u0434\u0443\u043b\u0438\u0434\u0438\u043c\u0430\u0442\u0435\u0445\u043d\u0438\u043a",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T05:38:56Z"
+                },
+                {
+                    "text": "Ella",
+                    "author": "@Jus-p6x",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T01:50:29Z"
+                },
+                {
+                    "text": "B\u00ecnh th\u01b0\u1eddng m\u00e0 \ud83d\ude12",
+                    "author": "@\u0110\u1ec7Ng\u00f4Th\u1ecb-j4b",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T05:01:00Z"
+                },
+                {
+                    "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                    "author": "@GuliGaynazarova",
+                    "likes": 2,
+                    "publishedAt": "2026-04-09T06:12:47Z"
+                }
+            ]
         }
     ]
 }

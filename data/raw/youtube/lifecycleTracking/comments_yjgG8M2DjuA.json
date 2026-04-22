@@ -1,0 +1,28 @@
+{
+    "videoId": "yjgG8M2DjuA",
+    "history": [
+        {
+            "fetchedAt": "20260413_040015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260413_074119",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Jji",
+                    "author": "@afeedamp8591",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T04:22:11Z"
+                },
+                {
+                    "text": "Jji",
+                    "author": "@monkey_d_mehdii569",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T05:38:55Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "videoId": "yB52m7kqfug",
+    "history": [
+        {
+            "fetchedAt": "20260413_040024",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@iqrausman6360",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T18:30:46Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260414_074024",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "This video help me very much in my daily life speaking \u2764\ufe0f\ud83d\ude0a",
+                    "author": "@fabeehababafabeehababa",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T08:51:53Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@iqrausman6360",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T18:30:46Z"
+                }
+            ]
+        }
+    ]
+}

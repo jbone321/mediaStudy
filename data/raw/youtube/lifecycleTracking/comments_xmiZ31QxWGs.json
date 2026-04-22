@@ -5,6 +5,18 @@
             "fetchedAt": "20260404_220016",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260411_073416",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "No need for solar. I made hiddrogen generator for 300eur from parts you can get in local tool shop. You need 14v electricity In my case so running car would provide all power you need. No need for solar",
+                    "author": "@13stile",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T21:54:09Z"
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,35 @@
+{
+    "videoId": "6RQ6fdcOOVc",
+    "history": [
+        {
+            "fetchedAt": "20260410_220022",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Eres chileno? Por que yo si soy",
+                    "author": "@Mart\u00ednCasmer",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T21:46:19Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260413_074028",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "sin comentarios",
+                    "author": "@kyoo-TH",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T04:17:28Z"
+                },
+                {
+                    "text": "Eres chileno? Por que yo si soy",
+                    "author": "@Mart\u00ednCasmer",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T21:46:19Z"
+                }
+            ]
+        }
+    ]
+}

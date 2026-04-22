@@ -30,6 +30,60 @@
                     "publishedAt": "2026-04-08T02:49:47Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260413_073743",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u09a4\u09c1\u09ae\u09bf \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09a6\u09c7\u09b0 \u09ac\u09c1\u099c\u09be\u09a8\u09cb\u09b0 \u09b8\u09ae\u09df \u0993\u09dc\u09a8\u09be \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09b2\u09c7 \u09a4\u09cb\u09ae\u09be\u09b0 \u0987\u099c\u09cd\u099c\u09a4 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09aa\u09be\u09ac\u09c7\u0964",
+                    "author": "@sufumiah9636",
+                    "likes": 3,
+                    "publishedAt": "2026-04-08T02:49:47Z"
+                },
+                {
+                    "text": "Mam this way calculate # 60% / 30 % =? Now Solution, (60/100) / (30/100) = (0.60/0.30)= (2x100) = 200%",
+                    "author": "@akramteran1928",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T03:12:30Z"
+                },
+                {
+                    "text": "Your explanation is wrong",
+                    "author": "@Jed1990-e5y",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T12:49:10Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260422_073923",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "60%\u00f730%=2",
+                    "author": "@mdrafik8915",
+                    "likes": 0,
+                    "publishedAt": "2026-04-21T14:41:51Z"
+                },
+                {
+                    "text": "\u09a4\u09c1\u09ae\u09bf \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09a6\u09c7\u09b0 \u09ac\u09c1\u099c\u09be\u09a8\u09cb\u09b0 \u09b8\u09ae\u09df \u0993\u09dc\u09a8\u09be \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09b2\u09c7 \u09a4\u09cb\u09ae\u09be\u09b0 \u0987\u099c\u09cd\u099c\u09a4 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09aa\u09be\u09ac\u09c7\u0964",
+                    "author": "@sufumiah9636",
+                    "likes": 3,
+                    "publishedAt": "2026-04-08T02:49:47Z"
+                },
+                {
+                    "text": "Your explanation is wrong",
+                    "author": "@Jed1990-e5y",
+                    "likes": 1,
+                    "publishedAt": "2026-04-11T12:49:10Z"
+                },
+                {
+                    "text": "Mam this way calculate # 60% / 30 % =? Now Solution, (60/100) / (30/100) = (0.60/0.30)= (2x100) = 200%",
+                    "author": "@akramteran1928",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T03:12:30Z"
+                }
+            ]
         }
     ]
 }

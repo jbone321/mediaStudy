@@ -1,0 +1,35 @@
+{
+    "videoId": "0waZ4GoLcwo",
+    "history": [
+        {
+            "fetchedAt": "20260414_100017",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\udc97\u2763\ufe0f",
+                    "author": "@AnamikaGupta-p5t",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T09:39:03Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074119",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83e\udd79\ud83e\udd79\ud83e\udd79",
+                    "author": "@Varshasoni-x5e",
+                    "likes": 0,
+                    "publishedAt": "2026-04-19T17:46:47Z"
+                },
+                {
+                    "text": "\ud83d\udc97\u2763\ufe0f",
+                    "author": "@AnamikaGupta-p5t",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T09:39:03Z"
+                }
+            ]
+        }
+    ]
+}

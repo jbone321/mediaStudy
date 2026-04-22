@@ -1,0 +1,22 @@
+{
+    "videoId": "YJUkiy92zAo",
+    "history": [
+        {
+            "fetchedAt": "20260411_040025",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260413_074043",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "G",
+                    "author": "@MugammelCk",
+                    "likes": 2,
+                    "publishedAt": "2026-04-11T10:10:30Z"
+                }
+            ]
+        }
+    ]
+}

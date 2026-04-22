@@ -1,0 +1,59 @@
+{
+    "videoId": "bg4bmZ5VGLE",
+    "history": [
+        {
+            "fetchedAt": "20260410_220024",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Is it real \ud83d\ude02",
+                    "author": "@vikyahmed1849",
+                    "likes": 2,
+                    "publishedAt": "2026-04-10T17:26:57Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260415_073840",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "That's Super Awesome!",
+                    "author": "@TeamRogers7",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T17:05:24Z"
+                },
+                {
+                    "text": "Is it real \ud83d\ude02",
+                    "author": "@vikyahmed1849",
+                    "likes": 3,
+                    "publishedAt": "2026-04-10T17:26:57Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_073920",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "That's Super Awesome!",
+                    "author": "@TeamRogers7",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T17:05:24Z"
+                },
+                {
+                    "text": "Im smart enough to they are ALL FAKE besides the green one.\ud83d\ude02",
+                    "author": "@PirateKatKitties",
+                    "likes": 0,
+                    "publishedAt": "2026-04-20T14:53:40Z"
+                },
+                {
+                    "text": "Is it real \ud83d\ude02",
+                    "author": "@vikyahmed1849",
+                    "likes": 3,
+                    "publishedAt": "2026-04-10T17:26:57Z"
+                }
+            ]
+        }
+    ]
+}

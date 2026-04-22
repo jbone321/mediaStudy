@@ -1,0 +1,28 @@
+{
+    "videoId": "E48C8jeWSV4",
+    "history": [
+        {
+            "fetchedAt": "20260415_040019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_074159",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Hello",
+                    "author": "@Ernazar-x9u",
+                    "likes": 2,
+                    "publishedAt": "2026-04-15T10:22:34Z"
+                },
+                {
+                    "text": "said HELLO",
+                    "author": "@Ernazar-x9u",
+                    "likes": 2,
+                    "publishedAt": "2026-04-15T10:29:09Z"
+                }
+            ]
+        }
+    ]
+}

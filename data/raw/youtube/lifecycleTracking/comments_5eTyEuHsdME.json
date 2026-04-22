@@ -12,6 +12,24 @@
                     "publishedAt": "2026-04-03T15:26:58Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260421_073311",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "In",
+                    "author": "@Pinki-s6p1p",
+                    "likes": 3,
+                    "publishedAt": "2026-04-03T15:26:58Z"
+                },
+                {
+                    "text": "Que besteira",
+                    "author": "@MariadeJesus-xe9xk",
+                    "likes": 1,
+                    "publishedAt": "2026-04-15T14:00:26Z"
+                }
+            ]
         }
     ]
 }

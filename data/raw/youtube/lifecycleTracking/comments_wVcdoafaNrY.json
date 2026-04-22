@@ -1,0 +1,41 @@
+{
+    "videoId": "wVcdoafaNrY",
+    "history": [
+        {
+            "fetchedAt": "20260414_160022",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@BTBISHALFF",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T15:34:27Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074139",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Thanks\u2764\ud83c\udf39",
+                    "author": "@DasharathMahato-g7o",
+                    "likes": 3,
+                    "publishedAt": "2026-04-17T03:41:35Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@BTBISHALFF",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T15:34:27Z"
+                },
+                {
+                    "text": "\u0ca0\ufe35\u0ca0",
+                    "author": "@ManojPal-z9z3f",
+                    "likes": 0,
+                    "publishedAt": "2026-04-18T07:37:36Z"
+                }
+            ]
+        }
+    ]
+}

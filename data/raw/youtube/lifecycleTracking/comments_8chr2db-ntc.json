@@ -1,0 +1,22 @@
+{
+    "videoId": "8chr2db-ntc",
+    "history": [
+        {
+            "fetchedAt": "20260421_220024",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260422_074622",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "A\u00ed. Sim",
+                    "author": "@AntonioCirso-c1g",
+                    "likes": 1,
+                    "publishedAt": "2026-04-21T23:08:54Z"
+                }
+            ]
+        }
+    ]
+}

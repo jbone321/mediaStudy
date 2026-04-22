@@ -1,0 +1,53 @@
+{
+    "videoId": "sOh0zY6TKuE",
+    "history": [
+        {
+            "fetchedAt": "20260413_220017",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Which one do you pick?",
+                    "author": "@UltraBruno",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T20:21:27Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074058",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Which one do you pick?",
+                    "author": "@UltraBruno",
+                    "likes": 2,
+                    "publishedAt": "2026-04-12T20:21:27Z"
+                },
+                {
+                    "text": "TY",
+                    "author": "@jessepaquette498",
+                    "likes": 0,
+                    "publishedAt": "2026-04-20T20:37:51Z"
+                },
+                {
+                    "text": "fondashun",
+                    "author": "@robotdefaultslogochannel9438",
+                    "likes": 1,
+                    "publishedAt": "2026-04-18T02:23:25Z"
+                },
+                {
+                    "text": "i hate ice king",
+                    "author": "@robotdefaultslogochannel9438",
+                    "likes": 1,
+                    "publishedAt": "2026-04-18T02:23:52Z"
+                },
+                {
+                    "text": "TY",
+                    "author": "@jessepaquette498",
+                    "likes": 1,
+                    "publishedAt": "2026-04-20T20:38:00Z"
+                }
+            ]
+        }
+    ]
+}

@@ -35,6 +35,30 @@
                     "publishedAt": "2026-03-08T07:14:16Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260421_071536",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "The first one is correct\ud83e\udd28",
+                    "author": "@MaznBarzan",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T08:35:45Z"
+                },
+                {
+                    "text": "0 + 3 = 3",
+                    "author": "@sintudas6866",
+                    "likes": 3,
+                    "publishedAt": "2026-03-08T07:14:16Z"
+                },
+                {
+                    "text": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f                                                   or       9 - 6 = 3 \u2049",
+                    "author": "@Ber2-i8u",
+                    "likes": 0,
+                    "publishedAt": "2026-04-20T14:55:13Z"
+                }
+            ]
         }
     ]
 }

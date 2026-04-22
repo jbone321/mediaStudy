@@ -24,6 +24,36 @@
                     "publishedAt": "2026-04-09T19:31:51Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260415_073744",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Helio g99",
+                    "author": "@VIX001-V",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T19:00:00Z"
+                },
+                {
+                    "text": "3,8 ghz snapdragon 8 gen 5 bisa ga bang?",
+                    "author": "@ygkVsj",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T09:14:56Z"
+                },
+                {
+                    "text": "Chipset dimensity 8200 ultra",
+                    "author": "@adhwaggt",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T18:30:40Z"
+                },
+                {
+                    "text": "Bisa pasang di hp Nokia 1100 ga?\ud83d\ude2e",
+                    "author": "@gabisabahasainggris4306",
+                    "likes": 0,
+                    "publishedAt": "2026-04-09T19:31:51Z"
+                }
+            ]
         }
     ]
 }

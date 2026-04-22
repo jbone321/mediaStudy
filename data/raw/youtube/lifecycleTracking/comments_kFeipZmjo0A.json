@@ -41,6 +41,48 @@
                     "publishedAt": "2026-04-02T02:02:02Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260413_073206",
+            "commentCount": 6,
+            "comments": [
+                {
+                    "text": "5+5=10\u2764\u2764",
+                    "author": "@HabibaAkter-e7m",
+                    "likes": 1,
+                    "publishedAt": "2026-04-01T14:26:09Z"
+                },
+                {
+                    "text": "10",
+                    "author": "@decembarbehera8411",
+                    "likes": 1,
+                    "publishedAt": "2026-04-01T01:58:26Z"
+                },
+                {
+                    "text": "5+5=10",
+                    "author": "@HDMG-2610",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T14:28:26Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@\u0645\u062d\u0645\u062f\u0627\u0644\u062e\u0636\u0631-\u06288\u062c",
+                    "likes": 0,
+                    "publishedAt": "2026-04-01T13:57:09Z"
+                },
+                {
+                    "text": "55",
+                    "author": "@SalomUzb-o7f",
+                    "likes": 1,
+                    "publishedAt": "2026-04-01T10:17:15Z"
+                },
+                {
+                    "text": "10",
+                    "author": "@sardorshamshiev1136",
+                    "likes": 0,
+                    "publishedAt": "2026-04-02T02:02:02Z"
+                }
+            ]
         }
     ]
 }

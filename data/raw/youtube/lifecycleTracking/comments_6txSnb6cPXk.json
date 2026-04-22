@@ -1,0 +1,52 @@
+{
+    "videoId": "6txSnb6cPXk",
+    "history": [
+        {
+            "fetchedAt": "20260410_160024",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260411_073846",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@EvaehPerkins-n1l2o",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T00:21:08Z"
+                },
+                {
+                    "text": "Congratulations on your 500th video!",
+                    "author": "@EdsonCau\u00e3-g5c",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T04:30:48Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260415_073823",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Boas",
+                    "author": "@Kevin-u6c3o",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T15:11:53Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@EvaehPerkins-n1l2o",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T00:21:08Z"
+                },
+                {
+                    "text": "Congratulations on your 500th video!",
+                    "author": "@EdsonCau\u00e3-g5c",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T04:30:48Z"
+                }
+            ]
+        }
+    ]
+}

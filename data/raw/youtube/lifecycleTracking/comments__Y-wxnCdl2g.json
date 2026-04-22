@@ -1,0 +1,41 @@
+{
+    "videoId": "_Y-wxnCdl2g",
+    "history": [
+        {
+            "fetchedAt": "20260411_100015",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ud83d\ude02\ud83d\ude0a",
+                    "author": "@IzzahIzzu-u6o",
+                    "likes": 1,
+                    "publishedAt": "2026-04-11T06:25:19Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260413_074049",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\ud83d\ude02\ud83d\ude0a",
+                    "author": "@IzzahIzzu-u6o",
+                    "likes": 1,
+                    "publishedAt": "2026-04-11T06:25:19Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@LeenaOk-l9y",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T15:37:18Z"
+                },
+                {
+                    "text": "\ud83c\udf37\ud83c\udf31\ud83c\udf33\ud83c\udf3a",
+                    "author": "@susheelakv6771",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T13:51:39Z"
+                }
+            ]
+        }
+    ]
+}

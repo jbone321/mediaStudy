@@ -1,0 +1,22 @@
+{
+    "videoId": "U2dgTaWNagM",
+    "history": [
+        {
+            "fetchedAt": "20260411_040022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260411_073909",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "yo bab-bro",
+                    "author": "@JohnGetizo-c9n",
+                    "likes": 2,
+                    "publishedAt": "2026-04-11T06:08:11Z"
+                }
+            ]
+        }
+    ]
+}

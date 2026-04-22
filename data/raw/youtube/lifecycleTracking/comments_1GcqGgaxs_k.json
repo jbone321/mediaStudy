@@ -1,0 +1,34 @@
+{
+    "videoId": "1GcqGgaxs_k",
+    "history": [
+        {
+            "fetchedAt": "20260415_160024",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_074224",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764 \u0ab5\u0abe\u0ab9 \u0a9c\u0ac0\u0a97\u0acd\u0aa8\u0ac7\u0ab6 \u0ab8\u0ab0 \u0ab5\u0abe\u0ab9",
+                    "author": "@\u0a9c\u0aaf\u0ac7\u0ab6\u0ab8\u0ab0\u0ab5\u0ac8\u0aaf\u0abe-\u0ab05\u0ab6",
+                    "likes": 1,
+                    "publishedAt": "2026-04-16T14:11:39Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@MakwanaTulasibhai",
+                    "likes": 1,
+                    "publishedAt": "2026-04-18T16:31:06Z"
+                },
+                {
+                    "text": "\u041f\u043e\u0441\u0438\u043c",
+                    "author": "@\u0417\u043e\u0440\u044f\u043d\u0430\u0414\u0440\u043e\u0431\u0456\u0448\u0435\u0440",
+                    "likes": 1,
+                    "publishedAt": "2026-04-16T15:38:10Z"
+                }
+            ]
+        }
+    ]
+}

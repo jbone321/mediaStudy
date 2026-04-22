@@ -5,6 +5,42 @@
             "fetchedAt": "20260409_220026",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260413_073933",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "\u0e2a\u0e27\u0e22\u0e21\u0e32\u0e01\u0e40\u0e25\u0e22\u0e04\u0e48\u0e30",
+                    "author": "@\u0e19\u0e32\u0e27\u0e32-\u0e128\u0e29",
+                    "likes": 2,
+                    "publishedAt": "2026-04-13T05:10:42Z"
+                },
+                {
+                    "text": "\ud83e\uddf8\u2764",
+                    "author": "@asdfgh-13",
+                    "likes": 1,
+                    "publishedAt": "2026-04-12T03:30:21Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@SadoqatSattorova-t2r",
+                    "likes": 1,
+                    "publishedAt": "2026-04-11T15:40:26Z"
+                },
+                {
+                    "text": "\u092d\u093e\u0930\u0940 \u2764",
+                    "author": "@anandsangle2870",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T17:25:09Z"
+                },
+                {
+                    "text": "\u0413\u043e\u0451 \u0431\u0430\u0439\u043d\u0430 \ud83d\udc4d\ud83d\udc4d",
+                    "author": "@JokerJoker-qb5nr",
+                    "likes": 1,
+                    "publishedAt": "2026-04-11T16:27:44Z"
+                }
+            ]
         }
     ]
 }

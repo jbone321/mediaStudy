@@ -5,6 +5,18 @@
             "fetchedAt": "20260406_220014",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260421_073539",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Yeah\u2026. Z pazurem, moja naj \ud83e\udd29",
+                    "author": "@magdalenaurbanska3728",
+                    "likes": 1,
+                    "publishedAt": "2026-04-20T20:29:16Z"
+                }
+            ]
         }
     ]
 }

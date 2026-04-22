@@ -60,6 +60,42 @@
                     "publishedAt": "2026-03-10T06:00:20Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260421_071337",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Me voy a ver el lore de Warframe, despu\u00e9s vuelvo.",
+                    "author": "@Razor-nio",
+                    "likes": 2,
+                    "publishedAt": "2026-03-08T15:08:21Z"
+                },
+                {
+                    "text": "Mira chavito est\u00e1 es una gu\u00eda de las God",
+                    "author": "@jafetmartel7262",
+                    "likes": 3,
+                    "publishedAt": "2026-03-05T20:20:01Z"
+                },
+                {
+                    "text": "Excelente video me sirvio mucho (1400 Horas)",
+                    "author": "@nickjuegos398",
+                    "likes": 0,
+                    "publishedAt": "2026-04-19T11:18:37Z"
+                },
+                {
+                    "text": ":0 eso no lo sab\u00eda, soy nuevo :D\nPara m\u00ed est\u00e1 informaci\u00f3n vale millones, gracias \u2282\u2060(\u2060\u30fb\u2060\u25bd\u2060\u30fb\u2060\u2282\u2060)",
+                    "author": "@LGsus-e7d",
+                    "likes": 2,
+                    "publishedAt": "2026-03-10T03:15:33Z"
+                },
+                {
+                    "text": "Con que personaje est\u00e1s jugando?",
+                    "author": "@joellezcano5612",
+                    "likes": 0,
+                    "publishedAt": "2026-03-10T06:00:20Z"
+                }
+            ]
         }
     ]
 }

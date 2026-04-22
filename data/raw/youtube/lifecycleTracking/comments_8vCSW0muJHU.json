@@ -1,0 +1,35 @@
+{
+    "videoId": "8vCSW0muJHU",
+    "history": [
+        {
+            "fetchedAt": "20260415_040018",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@JamilaJohnson-x3w",
+                    "likes": 1,
+                    "publishedAt": "2026-04-15T01:59:49Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074158",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\udca1",
+                    "author": "@tyravanleer7521",
+                    "likes": 0,
+                    "publishedAt": "2026-04-19T11:04:08Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@JamilaJohnson-x3w",
+                    "likes": 1,
+                    "publishedAt": "2026-04-15T01:59:49Z"
+                }
+            ]
+        }
+    ]
+}

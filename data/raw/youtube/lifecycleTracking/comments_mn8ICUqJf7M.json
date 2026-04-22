@@ -5,6 +5,18 @@
             "fetchedAt": "20260410_040019",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260411_073820",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "M\u00e1ximo\ud83d\udcab\ud83d\udcab\ud83c\udf20\ud83e\udd70\ud83e\udd70\ud83c\udf39\ud83c\udf3a\ud83c\udf3a\ud83d\udc4f\ud83d\udcab\ud83d\udcab\ud83c\udf20\ud83c\udf20",
+                    "author": "@Lu\u00edsRicardo-x2f",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T15:17:25Z"
+                }
+            ]
         }
     ]
 }

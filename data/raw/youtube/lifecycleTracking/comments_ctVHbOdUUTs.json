@@ -1,0 +1,40 @@
+{
+    "videoId": "ctVHbOdUUTs",
+    "history": [
+        {
+            "fetchedAt": "20260410_220020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260413_074027",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Son los mejores m\u00fasicos del mundo \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f quiero que vuelvan a tocar en San Jos\u00e9 tixcacal otra vez",
+                    "author": "@Heydi-m9q",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T22:22:44Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260422_074209",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Mis favoritos \u2764\ud83d\ude0d",
+                    "author": "@MercedSobal",
+                    "likes": 0,
+                    "publishedAt": "2026-04-21T13:52:02Z"
+                },
+                {
+                    "text": "Son los mejores m\u00fasicos del mundo \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f quiero que vuelvan a tocar en San Jos\u00e9 tixcacal otra vez",
+                    "author": "@Heydi-m9q",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T22:22:44Z"
+                }
+            ]
+        }
+    ]
+}

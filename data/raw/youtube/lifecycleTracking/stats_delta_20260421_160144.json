@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "videoId": "DzLuTHRoDB0",
+            "viewCount": 773,
+            "likeCount": 8,
+            "commentCount": 0,
+            "pollTimestamp": "2026-04-21T16:01:44.277446Z"
+        },
+        {
+            "videoId": "xn0wIiMXcDg",
+            "viewCount": 1859,
+            "likeCount": 16,
+            "commentCount": 8,
+            "pollTimestamp": "2026-04-21T16:01:44.277492Z"
+        },
+        {
+            "videoId": "Z1J-LZuMFT0",
+            "viewCount": 531475,
+            "likeCount": 6868,
+            "commentCount": 87,
+            "pollTimestamp": "2026-04-21T16:01:44.277508Z"
+        }
+    ]
+}

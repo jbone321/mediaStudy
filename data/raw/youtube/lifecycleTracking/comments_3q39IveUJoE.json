@@ -1,0 +1,52 @@
+{
+    "videoId": "3q39IveUJoE",
+    "history": [
+        {
+            "fetchedAt": "20260414_100012",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260415_074024",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Nice video \u2764\u2764\u2764\u2764",
+                    "author": "@alishan420new",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T10:46:49Z"
+                },
+                {
+                    "text": "\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\u2764\u2764\u2764",
+                    "author": "@MohdAfzal-q1l",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T13:12:24Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074116",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Nice video \u2764\u2764\u2764\u2764",
+                    "author": "@alishan420new",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T10:46:49Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\u2764\ud83d\ude02",
+                    "author": "@NoshadAnsari-ql3ir",
+                    "likes": 0,
+                    "publishedAt": "2026-04-15T07:43:24Z"
+                },
+                {
+                    "text": "\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\u2764\u2764\u2764",
+                    "author": "@MohdAfzal-q1l",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T13:12:24Z"
+                }
+            ]
+        }
+    ]
+}

@@ -66,6 +66,42 @@
                     "publishedAt": "2026-04-09T03:50:18Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260411_073724",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "L\u1eddi b\u00e0i h\u00e1t r\u1ea5t s\u00e2u s\u1eafc. Hay",
+                    "author": "@Qu\u00fdV\u00f5Ph\u00fa",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T06:29:58Z"
+                },
+                {
+                    "text": "\u0110\u1ea7y \u00fd ngh\u0129a th\u1ea5m th\u00eda Cu\u1ed9c \u0110\u1eddi C\u1ea3m \u01a1n b\u1ea1n nh\u00e9\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@lanhle4219",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T05:54:47Z"
+                },
+                {
+                    "text": "Hay qu\u00e1aaa",
+                    "author": "@phungphi-ls8fm",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T14:20:08Z"
+                },
+                {
+                    "text": "Hay qu\u00e1",
+                    "author": "@H\u01b0\u01a1ngNguy\u1ec5nth\u1ecbthu-i8j",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T04:33:14Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@tranpham4565",
+                    "likes": 1,
+                    "publishedAt": "2026-04-09T03:50:18Z"
+                }
+            ]
         }
     ]
 }

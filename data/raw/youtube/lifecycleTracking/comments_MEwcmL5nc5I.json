@@ -1,0 +1,28 @@
+{
+    "videoId": "MEwcmL5nc5I",
+    "history": [
+        {
+            "fetchedAt": "20260410_160035",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_073911",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Love it",
+                    "author": "@christinahinds2369",
+                    "likes": 0,
+                    "publishedAt": "2026-04-18T09:28:45Z"
+                },
+                {
+                    "text": "Cute\u2764",
+                    "author": "@Mockingbirdblow",
+                    "likes": 0,
+                    "publishedAt": "2026-04-17T21:54:45Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "-x0Tj65tktc",
+    "history": [
+        {
+            "fetchedAt": "20260414_040017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260415_074019",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Game Name",
+                    "author": "@hafsajaan6902",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T11:27:56Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074109",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Game Name",
+                    "author": "@hafsajaan6902",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T11:27:56Z"
+                },
+                {
+                    "text": "Fakes ads",
+                    "author": "@MichaelMonfort",
+                    "likes": 0,
+                    "publishedAt": "2026-04-16T23:05:30Z"
+                }
+            ]
+        }
+    ]
+}

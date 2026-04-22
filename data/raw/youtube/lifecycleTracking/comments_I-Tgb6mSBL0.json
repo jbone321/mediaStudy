@@ -1,0 +1,58 @@
+{
+    "videoId": "I-Tgb6mSBL0",
+    "history": [
+        {
+            "fetchedAt": "20260414_160018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260415_074041",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@rappers420",
+                    "likes": 2,
+                    "publishedAt": "2026-04-14T16:25:38Z"
+                },
+                {
+                    "text": "\u2764\ud83d\udd25",
+                    "author": "@_nydmusic_",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T16:52:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074135",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@rappers420",
+                    "likes": 2,
+                    "publishedAt": "2026-04-14T16:25:38Z"
+                },
+                {
+                    "text": "\ud83d\ude22",
+                    "author": "@LeelawatiDevi-x4z",
+                    "likes": 0,
+                    "publishedAt": "2026-04-15T13:19:33Z"
+                },
+                {
+                    "text": "\u2764\ud83d\udd25",
+                    "author": "@_nydmusic_",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T16:52:20Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@LeelawatiDevi-x4z",
+                    "likes": 0,
+                    "publishedAt": "2026-04-15T13:15:52Z"
+                }
+            ]
+        }
+    ]
+}

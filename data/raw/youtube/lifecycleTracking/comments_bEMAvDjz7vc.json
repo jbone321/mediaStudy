@@ -60,6 +60,48 @@
                     "publishedAt": "2026-04-07T00:08:52Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260411_073550",
+            "commentCount": 6,
+            "comments": [
+                {
+                    "text": "Hola en unos dias voy para ya",
+                    "author": "@GARYF-v8q",
+                    "likes": 1,
+                    "publishedAt": "2026-04-06T21:08:26Z"
+                },
+                {
+                    "text": "Mejor el Ryzen 5 8600g q el 8500g",
+                    "author": "@ChicoRandomxd",
+                    "likes": 2,
+                    "publishedAt": "2026-04-07T21:38:39Z"
+                },
+                {
+                    "text": "Yo quiero cambiar mi ryzen 7 9800x3d",
+                    "author": "@hernanzumbo8234",
+                    "likes": 2,
+                    "publishedAt": "2026-04-07T15:03:02Z"
+                },
+                {
+                    "text": "Es mejor el Ryzen 5 9600X, demasiado bueno, y es barato",
+                    "author": "@LucaAguilar-k5s",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T16:26:34Z"
+                },
+                {
+                    "text": "Donde esta el local?",
+                    "author": "@agusr1119",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T00:34:07Z"
+                },
+                {
+                    "text": "Est\u00e1n en bah\u00eda blanca?",
+                    "author": "@Carlosmoyano-e2m",
+                    "likes": 1,
+                    "publishedAt": "2026-04-07T00:08:52Z"
+                }
+            ]
         }
     ]
 }

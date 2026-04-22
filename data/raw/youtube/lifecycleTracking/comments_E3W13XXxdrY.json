@@ -1,0 +1,59 @@
+{
+    "videoId": "E3W13XXxdrY",
+    "history": [
+        {
+            "fetchedAt": "20260410_160030",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Yo raven h\u00e2te de voir la vid\u00e9o \u2764",
+                    "author": "@Esteban-j1i9e",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T15:29:58Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260411_073850",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Slt j\u2019ai h\u00e2te de voir ta vid\u00e9o et Gg pour les killes",
+                    "author": "@jordyduvinage3412",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T07:09:57Z"
+                },
+                {
+                    "text": "Yo raven h\u00e2te de voir la vid\u00e9o \u2764",
+                    "author": "@Esteban-j1i9e",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T15:29:58Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260414_073906",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Slt j\u2019ai h\u00e2te de voir ta vid\u00e9o et Gg pour les killes",
+                    "author": "@jordyduvinage3412",
+                    "likes": 2,
+                    "publishedAt": "2026-04-11T07:09:57Z"
+                },
+                {
+                    "text": "Yo raven h\u00e2te de voir la vid\u00e9o \u2764",
+                    "author": "@Esteban-j1i9e",
+                    "likes": 2,
+                    "publishedAt": "2026-04-10T15:29:58Z"
+                },
+                {
+                    "text": "C'est quoi le jeu",
+                    "author": "@nelix-ytb-y3d",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T08:11:06Z"
+                }
+            ]
+        }
+    ]
+}

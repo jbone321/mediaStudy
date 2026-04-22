@@ -1,0 +1,40 @@
+{
+    "videoId": "Qy_1d8hvB2s",
+    "history": [
+        {
+            "fetchedAt": "20260411_040021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260411_073908",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\u2764\ud83c\udf89\u2764\ud83c\udf89\ud83c\udf89\u2764",
+                    "author": "@EvaehPerkins-n1l2o",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T04:03:01Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260413_074038",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Bruno js hits diff sometimes \u2764\u2764",
+                    "author": "@Ceec_ur_awesome",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T04:14:49Z"
+                },
+                {
+                    "text": "\ud83c\udf89\u2764\ud83c\udf89\u2764\ud83c\udf89\ud83c\udf89\u2764",
+                    "author": "@EvaehPerkins-n1l2o",
+                    "likes": 1,
+                    "publishedAt": "2026-04-11T04:03:01Z"
+                }
+            ]
+        }
+    ]
+}

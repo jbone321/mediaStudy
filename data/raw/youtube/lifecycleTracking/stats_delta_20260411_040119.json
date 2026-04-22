@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "videoId": "J0QrJkeNm4k",
+            "viewCount": 0,
+            "likeCount": 0,
+            "commentCount": 0,
+            "pollTimestamp": "2026-04-11T04:01:19.820536Z"
+        },
+        {
+            "videoId": "UuBY7W1tTQA",
+            "viewCount": 731,
+            "likeCount": 40,
+            "commentCount": 4,
+            "pollTimestamp": "2026-04-11T04:01:19.820574Z"
+        },
+        {
+            "videoId": "DYdZ_3lI3Fg",
+            "viewCount": 776,
+            "likeCount": 0,
+            "commentCount": 1,
+            "pollTimestamp": "2026-04-11T04:01:19.820589Z"
+        },
+        {
+            "videoId": "ySmu78xWVug",
+            "viewCount": 0,
+            "likeCount": 0,
+            "commentCount": 0,
+            "pollTimestamp": "2026-04-11T04:01:19.820604Z"
+        },
+        {
+            "videoId": "XgifCjOzyGM",
+            "viewCount": 811,
+            "likeCount": 7,
+            "commentCount": 1,
+            "pollTimestamp": "2026-04-11T04:01:19.820619Z"
+        }
+    ]
+}

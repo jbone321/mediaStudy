@@ -1,0 +1,40 @@
+{
+    "videoId": "a3LQgO7810k",
+    "history": [
+        {
+            "fetchedAt": "20260420_220015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_074230",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u0410\u0439 \u043c\u0430\u0448\u0430\u043b\u043b\u0430\u0445 \u0441\u0443\u043f\u0435\u0440 \u2764\ufe0f\ud83e\udd70\ud83d\udc4d\ud83d\ude4f\ud83d\ude18\ud83d\udc96",
+                    "author": "@\u0420\u0430\u043c\u0438\u043b\u044c\u0428\u0430\u043f\u0438\u0435\u0432-\u043a6\u044f9\u0437",
+                    "likes": 1,
+                    "publishedAt": "2026-04-21T00:04:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260422_074525",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u0410\u0439 \u043c\u0430\u0448\u0430\u043b\u043b\u0430\u0445 \u0441\u0443\u043f\u0435\u0440 \u2764\ufe0f\ud83e\udd70\ud83d\udc4d\ud83d\ude4f\ud83d\ude18\ud83d\udc96",
+                    "author": "@\u0420\u0430\u043c\u0438\u043b\u044c\u0428\u0430\u043f\u0438\u0435\u0432-\u043a6\u044f9\u0437",
+                    "likes": 2,
+                    "publishedAt": "2026-04-21T00:04:40Z"
+                },
+                {
+                    "text": "FANAKRAMA OXUYUR",
+                    "author": "@ZakirH\u0259s\u0259nov-q1c",
+                    "likes": 0,
+                    "publishedAt": "2026-04-22T03:06:47Z"
+                }
+            ]
+        }
+    ]
+}

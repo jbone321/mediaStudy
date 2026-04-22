@@ -1,0 +1,35 @@
+{
+    "videoId": "12g3DZOqSSo",
+    "history": [
+        {
+            "fetchedAt": "20260413_160030",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Very fashionable \u2764",
+                    "author": "@stellaijeoma5422",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T16:10:53Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074051",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Very fashionable \u2764",
+                    "author": "@stellaijeoma5422",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T16:10:53Z"
+                },
+                {
+                    "text": "Beautiful",
+                    "author": "@olamigokeanuoluwapo9755",
+                    "likes": 0,
+                    "publishedAt": "2026-04-16T20:30:02Z"
+                }
+            ]
+        }
+    ]
+}

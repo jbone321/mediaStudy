@@ -1,0 +1,35 @@
+{
+    "videoId": "AEM1uXzAh80",
+    "history": [
+        {
+            "fetchedAt": "20260414_220018",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Je\u015bli nie umiesz kocha\u0107 tak jak ja to zdychaj",
+                    "author": "@Piotr-p2f9d",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T20:23:10Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260415_074053",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "By\u0142e\u015b kiedy\u015b w takiej relacji? \ud83d\udc94\ud83d\udc47",
+                    "author": "@ViralMelodyStudio",
+                    "likes": 1,
+                    "publishedAt": "2026-04-15T06:18:50Z"
+                },
+                {
+                    "text": "Je\u015bli nie umiesz kocha\u0107 tak jak ja to zdychaj",
+                    "author": "@Piotr-p2f9d",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T20:23:10Z"
+                }
+            ]
+        }
+    ]
+}

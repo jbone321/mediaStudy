@@ -1,0 +1,52 @@
+{
+    "videoId": "FBzdRAL51yM",
+    "history": [
+        {
+            "fetchedAt": "20260411_100016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260413_074050",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\u2764",
+                    "author": "@rizwanakram537",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T04:18:28Z"
+                },
+                {
+                    "text": "\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39",
+                    "author": "@babitatyagi933",
+                    "likes": 2,
+                    "publishedAt": "2026-04-12T04:08:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260415_073857",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\u2764",
+                    "author": "@rizwanakram537",
+                    "likes": 3,
+                    "publishedAt": "2026-04-13T04:18:28Z"
+                },
+                {
+                    "text": "\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39",
+                    "author": "@babitatyagi933",
+                    "likes": 3,
+                    "publishedAt": "2026-04-12T04:08:13Z"
+                },
+                {
+                    "text": "\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39",
+                    "author": "@YusufKhan-w5x6u",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T14:21:24Z"
+                }
+            ]
+        }
+    ]
+}

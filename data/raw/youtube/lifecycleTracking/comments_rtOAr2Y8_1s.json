@@ -1,0 +1,22 @@
+{
+    "videoId": "rtOAr2Y8_1s",
+    "history": [
+        {
+            "fetchedAt": "20260414_160026",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_074142",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Yes",
+                    "author": "@GoranSr\u0161a",
+                    "likes": 0,
+                    "publishedAt": "2026-04-17T13:35:32Z"
+                }
+            ]
+        }
+    ]
+}

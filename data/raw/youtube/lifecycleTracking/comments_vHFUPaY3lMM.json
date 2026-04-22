@@ -1,0 +1,77 @@
+{
+    "videoId": "vHFUPaY3lMM",
+    "history": [
+        {
+            "fetchedAt": "20260410_160035",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Would you try this trick?",
+                    "author": "@yesolllkim",
+                    "likes": 2,
+                    "publishedAt": "2026-04-10T11:44:53Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@lero24-y5i",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T14:50:09Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260411_073854",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Would you try this trick?",
+                    "author": "@yesolllkim",
+                    "likes": 2,
+                    "publishedAt": "2026-04-10T11:44:53Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@lero24-y5i",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T14:50:09Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@stevesaenz300",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T22:01:38Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260413_074022",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Would you try this trick?",
+                    "author": "@yesolllkim",
+                    "likes": 2,
+                    "publishedAt": "2026-04-10T11:44:53Z"
+                },
+                {
+                    "text": "When you turn or when the wind blows.",
+                    "author": "@VanshikaSahu-u9y",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T14:15:49Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@lero24-y5i",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T14:50:09Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@stevesaenz300",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T22:01:38Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "videoId": "NB-fGtcWxD8",
+    "history": [
+        {
+            "fetchedAt": "20260413_040019",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Anak_Metal",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T02:42:54Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Anak_Metal",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T02:42:58Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074013",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@Anak_Metal",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T02:42:58Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@anak_metal_boy",
+                    "likes": 0,
+                    "publishedAt": "2026-04-19T23:39:09Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@Anak_Metal",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T02:42:54Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@anak_metal_boy",
+                    "likes": 0,
+                    "publishedAt": "2026-04-19T23:39:15Z"
+                }
+            ]
+        }
+    ]
+}

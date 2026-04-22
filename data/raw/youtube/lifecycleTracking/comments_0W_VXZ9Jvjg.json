@@ -1,0 +1,40 @@
+{
+    "videoId": "0W_VXZ9Jvjg",
+    "history": [
+        {
+            "fetchedAt": "20260414_100012",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260415_074024",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Free fire \ud83c\udf89\ud83c\udf89",
+                    "author": "@AngelicaChoquechambipuma",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T12:14:13Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074116",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Free fire \ud83c\udf89\ud83c\udf89",
+                    "author": "@AngelicaChoquechambipuma",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T12:14:13Z"
+                },
+                {
+                    "text": "Winner is free fire\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@AswathyAbhilash-e2p",
+                    "likes": 0,
+                    "publishedAt": "2026-04-16T10:27:51Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "A3wU4V8Q7yA",
+    "history": [
+        {
+            "fetchedAt": "20260411_160010",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260413_074059",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Super ok",
+                    "author": "@Deepthi-w9b",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T08:19:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260414_073954",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Super ok",
+                    "author": "@Deepthi-w9b",
+                    "likes": 0,
+                    "publishedAt": "2026-04-12T08:19:08Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@JabiullahShaik-r3z",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T17:53:18Z"
+                }
+            ]
+        }
+    ]
+}

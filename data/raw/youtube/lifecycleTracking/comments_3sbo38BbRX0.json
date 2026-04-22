@@ -1,0 +1,28 @@
+{
+    "videoId": "3sbo38BbRX0",
+    "history": [
+        {
+            "fetchedAt": "20260420_220015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_074230",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@MarcellaAbrams-x4l",
+                    "likes": 0,
+                    "publishedAt": "2026-04-20T23:32:14Z"
+                },
+                {
+                    "text": "Still want to know if you're a real rapper.",
+                    "author": "@BrendanClements",
+                    "likes": 0,
+                    "publishedAt": "2026-04-20T22:33:53Z"
+                }
+            ]
+        }
+    ]
+}

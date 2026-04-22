@@ -1,0 +1,40 @@
+{
+    "videoId": "xSB7U4s0NN8",
+    "history": [
+        {
+            "fetchedAt": "20260421_160015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260422_074602",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "2 and 3",
+                    "author": "@karinaarvizu3592",
+                    "likes": 0,
+                    "publishedAt": "2026-04-21T23:00:51Z"
+                },
+                {
+                    "text": "Hi",
+                    "author": "@salvovitale436",
+                    "likes": 0,
+                    "publishedAt": "2026-04-21T19:29:58Z"
+                },
+                {
+                    "text": "3",
+                    "author": "@zaibaapatel259",
+                    "likes": 2,
+                    "publishedAt": "2026-04-21T18:55:11Z"
+                },
+                {
+                    "text": "Autotune: \u2705 Ritmo y m\u00fasica: \u274e",
+                    "author": "@Venus-1602",
+                    "likes": 0,
+                    "publishedAt": "2026-04-21T20:54:16Z"
+                }
+            ]
+        }
+    ]
+}

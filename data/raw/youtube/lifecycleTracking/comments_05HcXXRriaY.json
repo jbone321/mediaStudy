@@ -12,6 +12,24 @@
                     "publishedAt": "2026-04-07T08:53:39Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260411_073557",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\uc6b0\ub9ac\uc0ac\ub9c1\uc2a4\ub7f0\uc5f0\uc8fc\uc790\ub2d8\uc2ac\ud508\uc5f0\uc8fc\uace1\ub97c\ub4e4\uc73c\uba74\uc11c\uc61b\ub0a8\ub140\uce5c\uad6c\ub4e4\uc744\n\uc544\ubb34\ub9ac\uc560\ud0c0\ub85d\ucc3f\uc774\ubcf4\uc544\ub3c4\n\ub9cc\ub0a0\uae38\uc774\uc5c6\ub124\n\uc9c0\uae08\ucbe4\uc5b4\ub514\uc11c\ubb34\uc5c7\uc744\ud558\uace0\uc788\ub294\uc9c0\uc54c\uac8c\uc880\ud558\uc5ec\ub2e4\uc624\n\uac10\uc0ac\ud569\ub2c8\ub2e4\ubc97\ub4e4\uc0ac\ub791\ud569\ub2c8\ub2e4\ud83d\ude05",
+                    "author": "@\ubcc0\uc911\ud658-m8w",
+                    "likes": 0,
+                    "publishedAt": "2026-04-11T04:23:10Z"
+                },
+                {
+                    "text": "\uc560\ud0c0\ub3c4\ub85d\ubcf4\uace0\ud30c\ub3c4\ub9cc\ub0a0\uc218\uc5c5\ub0b4\u2764\ufe0f\ud83d\udc95",
+                    "author": "@JKS_Garosu",
+                    "likes": 0,
+                    "publishedAt": "2026-04-07T08:53:39Z"
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,22 @@
+{
+    "videoId": "nVsmQH5yJnI",
+    "history": [
+        {
+            "fetchedAt": "20260410_160029",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260411_073849",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "He is cute",
+                    "author": "@akiso8802",
+                    "likes": 1,
+                    "publishedAt": "2026-04-10T20:29:02Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "videoId": "unZbNhkzwv0",
+    "history": [
+        {
+            "fetchedAt": "20260410_160020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260413_074009",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@RajuMoni-s8z",
+                    "likes": 1,
+                    "publishedAt": "2026-04-12T12:57:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_073857",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@JaezelReignAguilar",
+                    "likes": 0,
+                    "publishedAt": "2026-04-21T04:30:18Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@JaezelReignAguilar",
+                    "likes": 0,
+                    "publishedAt": "2026-04-21T04:30:06Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@RajuMoni-s8z",
+                    "likes": 1,
+                    "publishedAt": "2026-04-12T12:57:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260422_074149",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Ow manster\ud83d\ude02\ud83d\ude05",
+                    "author": "@AironManaog",
+                    "likes": 1,
+                    "publishedAt": "2026-04-21T13:05:45Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@RajuMoni-s8z",
+                    "likes": 1,
+                    "publishedAt": "2026-04-12T12:57:42Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@JaezelReignAguilar",
+                    "likes": 2,
+                    "publishedAt": "2026-04-21T04:30:18Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@JaezelReignAguilar",
+                    "likes": 1,
+                    "publishedAt": "2026-04-21T04:30:06Z"
+                }
+            ]
+        }
+    ]
+}

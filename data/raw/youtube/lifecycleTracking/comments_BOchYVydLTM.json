@@ -1,0 +1,22 @@
+{
+    "videoId": "BOchYVydLTM",
+    "history": [
+        {
+            "fetchedAt": "20260413_220012",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_074054",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Video mai lung ca ma topesc",
+                    "author": "@mariodamian1988",
+                    "likes": 0,
+                    "publishedAt": "2026-04-18T12:48:15Z"
+                }
+            ]
+        }
+    ]
+}

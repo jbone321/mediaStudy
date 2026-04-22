@@ -35,6 +35,36 @@
                     "publishedAt": "2026-04-08T06:15:15Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260421_073639",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Bang ga usah pake yang buat petir\ud83d\ude0ayang kuning itu",
+                    "author": "@danivana2675",
+                    "likes": 2,
+                    "publishedAt": "2026-04-09T02:50:41Z"
+                },
+                {
+                    "text": "Emng lama tapi dapet barang",
+                    "author": "@fylin_ajaa",
+                    "likes": 1,
+                    "publishedAt": "2026-04-21T02:28:48Z"
+                },
+                {
+                    "text": "bang harus di luar",
+                    "author": "@TyoMuhammad-k7x",
+                    "likes": 0,
+                    "publishedAt": "2026-04-17T13:30:31Z"
+                },
+                {
+                    "text": "Pertama",
+                    "author": "@WanPut-i2q",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T06:15:15Z"
+                }
+            ]
         }
     ]
 }

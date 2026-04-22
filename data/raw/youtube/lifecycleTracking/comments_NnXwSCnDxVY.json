@@ -1,0 +1,40 @@
+{
+    "videoId": "NnXwSCnDxVY",
+    "history": [
+        {
+            "fetchedAt": "20260410_160025",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260413_074012",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ud83c\udf89\u2764\ud83d\ude0a",
+                    "author": "@talitawelsh5439",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T00:00:16Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260414_073902",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Essa m\u00fasica \ud83c\udfb6 \u00e9 show",
+                    "author": "@SueliRocha-ib6py",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T16:37:47Z"
+                },
+                {
+                    "text": "\u2764\ud83c\udf89\u2764\ud83d\ude0a",
+                    "author": "@talitawelsh5439",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T00:00:16Z"
+                }
+            ]
+        }
+    ]
+}

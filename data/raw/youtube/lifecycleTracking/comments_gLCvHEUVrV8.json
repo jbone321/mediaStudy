@@ -1,0 +1,47 @@
+{
+    "videoId": "gLCvHEUVrV8",
+    "history": [
+        {
+            "fetchedAt": "20260413_220018",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "C'est une incroyable id\u00e9e bien jou\u00e9",
+                    "author": "@matteosettura",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T16:52:47Z"
+                },
+                {
+                    "text": "Oh belle id\u00e9e, j\u2019aime beaucoup \ud83d\ude0a",
+                    "author": "@Julyhnna.F",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T18:58:45Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260421_074059",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Oh belle id\u00e9e, j\u2019aime beaucoup \ud83d\ude0a",
+                    "author": "@Julyhnna.F",
+                    "likes": 2,
+                    "publishedAt": "2026-04-13T18:58:45Z"
+                },
+                {
+                    "text": "C'est une incroyable id\u00e9e bien jou\u00e9",
+                    "author": "@matteosettura",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T16:52:47Z"
+                },
+                {
+                    "text": "Mes oui vraiment t\u2019es trop intelligent \ud83d\ude2e\ud83d\ude2e",
+                    "author": "@gogo30090",
+                    "likes": 1,
+                    "publishedAt": "2026-04-15T09:37:43Z"
+                }
+            ]
+        }
+    ]
+}

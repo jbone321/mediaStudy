@@ -1,0 +1,35 @@
+{
+    "videoId": "6xELWW0tX4g",
+    "history": [
+        {
+            "fetchedAt": "20260414_040014",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u0412\u043e\u0441\u0445\u0438\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e!\u2764\ud83c\udf89",
+                    "author": "@\u041b\u044e\u0431\u043e\u0432\u044c\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0430-\u04384\u0449",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T02:56:51Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260415_074015",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u0425\u043e\u0440\u043e\u0448\u043e, \u043f\u0440\u0438\u044f\u0442\u043d\u043e \u0441\u043b\u0443\u0448\u0430\u0442\u044c.",
+                    "author": "@Admin-yy4vs",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T12:22:48Z"
+                },
+                {
+                    "text": "\u0412\u043e\u0441\u0445\u0438\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e!\u2764\ud83c\udf89",
+                    "author": "@\u041b\u044e\u0431\u043e\u0432\u044c\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0430-\u04384\u0449",
+                    "likes": 0,
+                    "publishedAt": "2026-04-14T02:56:51Z"
+                }
+            ]
+        }
+    ]
+}

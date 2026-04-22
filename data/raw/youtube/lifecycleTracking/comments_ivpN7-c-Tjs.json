@@ -12,6 +12,24 @@
                     "publishedAt": "2026-04-06T18:49:25Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260413_073636",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\ud83d\ude08\u2764\ufe0f\ud83d\uddff\ud83d\ude08\ud83d\uddff\u2764\ufe0f\ud83d\uddff\ud83d\ude08\u2764\ufe0f",
+                    "author": "@\u0412\u0410\u041d\u042f88\u041a",
+                    "likes": 1,
+                    "publishedAt": "2026-04-12T07:42:33Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@\u062a\u0648\u062a\u0629-\u06486\u0633",
+                    "likes": 3,
+                    "publishedAt": "2026-04-06T18:49:25Z"
+                }
+            ]
         }
     ]
 }

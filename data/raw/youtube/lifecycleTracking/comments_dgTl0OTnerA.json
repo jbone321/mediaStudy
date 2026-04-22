@@ -1,0 +1,28 @@
+{
+    "videoId": "dgTl0OTnerA",
+    "history": [
+        {
+            "fetchedAt": "20260411_160012",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260413_074101",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\ud83d\ude01\ud83d\udc4d",
+                    "author": "@RadhaKrishnan-y1n",
+                    "likes": 1,
+                    "publishedAt": "2026-04-12T08:14:23Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@MohammedAsathullah",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T05:03:20Z"
+                }
+            ]
+        }
+    ]
+}

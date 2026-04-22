@@ -5,6 +5,18 @@
             "fetchedAt": "20260405_100023",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260421_073502",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Bonito outfit.",
+                    "author": "@RodrigoDias-w6j",
+                    "likes": 0,
+                    "publishedAt": "2026-04-19T02:01:16Z"
+                }
+            ]
         }
     ]
 }

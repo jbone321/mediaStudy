@@ -1,0 +1,40 @@
+{
+    "videoId": "PtOBCu63HRo",
+    "history": [
+        {
+            "fetchedAt": "20260411_160012",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_073952",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@swapnapujari02c",
+                    "likes": 1,
+                    "publishedAt": "2026-04-17T13:43:53Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260422_074243",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@swapnapujari02c",
+                    "likes": 2,
+                    "publishedAt": "2026-04-17T13:43:53Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@AdilakshmiKatta-o2b",
+                    "likes": 0,
+                    "publishedAt": "2026-04-22T06:01:44Z"
+                }
+            ]
+        }
+    ]
+}

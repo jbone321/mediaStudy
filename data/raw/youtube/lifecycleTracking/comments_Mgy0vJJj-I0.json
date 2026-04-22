@@ -1,0 +1,22 @@
+{
+    "videoId": "Mgy0vJJj-I0",
+    "history": [
+        {
+            "fetchedAt": "20260415_100021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260421_074209",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "ui",
+                    "author": "@AmalAfiq",
+                    "likes": 0,
+                    "publishedAt": "2026-04-19T07:52:29Z"
+                }
+            ]
+        }
+    ]
+}
