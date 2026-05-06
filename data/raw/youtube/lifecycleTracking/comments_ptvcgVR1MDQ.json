@@ -1,0 +1,22 @@
+{
+    "videoId": "ptvcgVR1MDQ",
+    "history": [
+        {
+            "fetchedAt": "20260429_040021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_074903",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "So cool",
+                    "author": "@SERGIO_1010",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T11:00:08Z"
+                }
+            ]
+        }
+    ]
+}

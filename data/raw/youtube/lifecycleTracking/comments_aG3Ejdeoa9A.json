@@ -1,0 +1,40 @@
+{
+    "videoId": "aG3Ejdeoa9A",
+    "history": [
+        {
+            "fetchedAt": "20260429_220022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_074942",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Buku kesukaanku aku a",
+                    "author": "@BilalSyabil-u7l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-29T22:33:05Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075837",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Buku kesukaanku aku a",
+                    "author": "@BilalSyabil-u7l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-29T22:33:05Z"
+                },
+                {
+                    "text": "\ud83d\ude2eGC \ud83e\udd2f\ud83d\udc80\u2620\ufe0f\ud83e\udef1\ud83e\udef2",
+                    "author": "@SantiagoEscobar-l6g1p",
+                    "likes": 0,
+                    "publishedAt": "2026-05-02T01:34:22Z"
+                }
+            ]
+        }
+    ]
+}

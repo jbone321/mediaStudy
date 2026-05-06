@@ -1,0 +1,35 @@
+{
+    "videoId": "Y8kSxw4-3Pc",
+    "history": [
+        {
+            "fetchedAt": "20260428_100020",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "First comment \ud83d\ude05",
+                    "author": "@mrgfgamer",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T09:36:53Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260429_075152",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@ig_gaming-s5",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T10:26:03Z"
+                },
+                {
+                    "text": "First comment \ud83d\ude05",
+                    "author": "@mrgfgamer",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T09:36:53Z"
+                }
+            ]
+        }
+    ]
+}

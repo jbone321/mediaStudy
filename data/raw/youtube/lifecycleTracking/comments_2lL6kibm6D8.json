@@ -1,0 +1,28 @@
+{
+    "videoId": "2lL6kibm6D8",
+    "history": [
+        {
+            "fetchedAt": "20260425_160015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260427_075735",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@SatulDas-l9t",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T17:02:20Z"
+                },
+                {
+                    "text": "Nice video \ud83d\ude02\ud83d\ude02",
+                    "author": "@Sksagorbk",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T14:04:09Z"
+                }
+            ]
+        }
+    ]
+}

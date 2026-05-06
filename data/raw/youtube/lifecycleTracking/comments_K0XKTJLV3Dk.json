@@ -17,6 +17,24 @@
                     "publishedAt": "2026-04-10T01:39:35Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260424_072620",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Gracias a ti ya me lo se",
+                    "author": "@XimenaOchoa-y6v",
+                    "likes": 0,
+                    "publishedAt": "2026-04-23T05:37:09Z"
+                },
+                {
+                    "text": "Muy bien",
+                    "author": "@JoseGabrielRamirezlara",
+                    "likes": 0,
+                    "publishedAt": "2026-04-10T01:39:35Z"
+                }
+            ]
         }
     ]
 }

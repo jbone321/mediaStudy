@@ -1,0 +1,41 @@
+{
+    "videoId": "acHaarv52ts",
+    "history": [
+        {
+            "fetchedAt": "20260505_100015",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u306a\u3093\u3084\u308d\u3081\u3063\u3061\u3083\u597d\u304d",
+                    "author": "@\u306f\u3089\u3086\u3065",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T09:11:33Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260506_080026",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u304c\u306a\u308a\u3059\u3052\u3047\u75fa\u308c\u308b\u3001\u3001",
+                    "author": "@SHIRO1534-u8w",
+                    "likes": 5,
+                    "publishedAt": "2026-05-05T11:03:49Z"
+                },
+                {
+                    "text": "\u306a\u3093\u3084\u308d\u3081\u3063\u3061\u3083\u597d\u304d",
+                    "author": "@\u306f\u3089\u3086\u3065",
+                    "likes": 1,
+                    "publishedAt": "2026-05-05T09:11:33Z"
+                },
+                {
+                    "text": "\u5168\u3066\u304c\u7dba\u9e97",
+                    "author": "@rables-1862",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T15:40:23Z"
+                }
+            ]
+        }
+    ]
+}

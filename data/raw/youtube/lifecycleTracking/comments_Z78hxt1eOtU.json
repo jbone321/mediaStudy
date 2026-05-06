@@ -1,0 +1,28 @@
+{
+    "videoId": "Z78hxt1eOtU",
+    "history": [
+        {
+            "fetchedAt": "20260425_160023",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074353",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "GG",
+                    "author": "@UE_Pommes13shorts",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T21:39:26Z"
+                },
+                {
+                    "text": "Bester Spike Spieler BTW",
+                    "author": "@UE_Pommes13shorts",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T21:39:42Z"
+                }
+            ]
+        }
+    ]
+}

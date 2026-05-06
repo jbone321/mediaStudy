@@ -35,6 +35,30 @@
                     "publishedAt": "2026-04-15T00:35:02Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260424_074005",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@\u043c\u0431\u0431\u043e\u0431\u0440\u0438\u043a",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T16:56:23Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83d\udc83\ud83d\udc4d\ud83d\udc4d",
+                    "author": "@MariadeF\u00e1timaVieira-f7h",
+                    "likes": 2,
+                    "publishedAt": "2026-04-20T10:58:16Z"
+                },
+                {
+                    "text": "\ud83d\udc4c\ud83c\udf39\u270c\ufe0f\ud83e\udd0f\ud83d\udc8b",
+                    "author": "@CindyModitch",
+                    "likes": 6,
+                    "publishedAt": "2026-04-15T00:35:02Z"
+                }
+            ]
         }
     ]
 }

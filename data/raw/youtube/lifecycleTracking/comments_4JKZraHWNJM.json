@@ -1,0 +1,28 @@
+{
+    "videoId": "4JKZraHWNJM",
+    "history": [
+        {
+            "fetchedAt": "20260424_220017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260425_074426",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Pretty cool!",
+                    "author": "@SuaHatiEnterprise",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T05:58:57Z"
+                },
+                {
+                    "text": "First comment",
+                    "author": "@ANGELDELTARUNE",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T01:33:50Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "videoId": "4VcRTjiHHlI",
+    "history": [
+        {
+            "fetchedAt": "20260425_040021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260425_074440",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@PuskharSingh-n8t",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T07:31:11Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074335",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@abhishekdiwakar1479",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T09:04:33Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@PuskharSingh-n8t",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T07:31:11Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260428_074639",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@VikasSharma-bl6bb",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T09:02:22Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@abhishekdiwakar1479",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T09:04:33Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@PuskharSingh-n8t",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T07:31:11Z"
+                },
+                {
+                    "text": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@UDAYSingh-r3f3k",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T16:47:04Z"
+                }
+            ]
+        }
+    ]
+}

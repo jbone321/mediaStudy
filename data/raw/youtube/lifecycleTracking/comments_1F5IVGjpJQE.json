@@ -1,0 +1,35 @@
+{
+    "videoId": "1F5IVGjpJQE",
+    "history": [
+        {
+            "fetchedAt": "20260504_220021",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Primeiro",
+                    "author": "@AnaMaria-k4d4o",
+                    "likes": 0,
+                    "publishedAt": "2026-05-04T21:06:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075956",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Ksksksk",
+                    "author": "@HectorMazetti-v3j",
+                    "likes": 0,
+                    "publishedAt": "2026-05-04T22:12:05Z"
+                },
+                {
+                    "text": "Primeiro",
+                    "author": "@AnaMaria-k4d4o",
+                    "likes": 0,
+                    "publishedAt": "2026-05-04T21:06:40Z"
+                }
+            ]
+        }
+    ]
+}

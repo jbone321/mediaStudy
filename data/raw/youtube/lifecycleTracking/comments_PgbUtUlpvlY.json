@@ -1,0 +1,35 @@
+{
+    "videoId": "PgbUtUlpvlY",
+    "history": [
+        {
+            "fetchedAt": "20260501_100053",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "First comment pinned",
+                    "author": "@animelovers1234-t2z",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T09:57:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075920",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Division \u2797",
+                    "author": "@KomalaSainiguntla",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T10:14:55Z"
+                },
+                {
+                    "text": "First comment pinned",
+                    "author": "@animelovers1234-t2z",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T09:57:42Z"
+                }
+            ]
+        }
+    ]
+}

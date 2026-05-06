@@ -5,6 +5,18 @@
             "fetchedAt": "20260422_100013",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260424_074352",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\udc4d\u2665\ufe0f",
+                    "author": "@BecakDjangi-e8v",
+                    "likes": 1,
+                    "publishedAt": "2026-04-22T12:15:56Z"
+                }
+            ]
         }
     ]
 }

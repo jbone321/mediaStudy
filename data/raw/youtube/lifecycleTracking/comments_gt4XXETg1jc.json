@@ -1,0 +1,22 @@
+{
+    "videoId": "gt4XXETg1jc",
+    "history": [
+        {
+            "fetchedAt": "20260425_100012",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260429_074936",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Abdullah",
+                    "author": "@NesarAhmed-g5n",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T08:52:38Z"
+                }
+            ]
+        }
+    ]
+}

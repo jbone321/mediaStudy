@@ -1,0 +1,27 @@
+{
+    "videoId": "LeHGnF0Db-o",
+    "history": [
+        {
+            "fetchedAt": "20260423_040022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260424_074429",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Think Logically The Last One",
+                    "author": "@KucingCokelat82",
+                    "likes": 0,
+                    "publishedAt": "2026-04-23T09:20:12Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260427_075520",
+            "commentCount": 0,
+            "comments": []
+        }
+    ]
+}

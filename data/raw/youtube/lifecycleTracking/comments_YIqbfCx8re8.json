@@ -17,6 +17,24 @@
                     "publishedAt": "2026-03-07T07:50:48Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260505_072050",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Mahaba mahaba mahaba tu\ud83c\udfa7\ud83c\udfb6",
+                    "author": "@OffishialAfrikali",
+                    "likes": 1,
+                    "publishedAt": "2026-03-07T07:50:48Z"
+                },
+                {
+                    "text": "Mahaba tu\u2764\u2764\u2764\u2764",
+                    "author": "@JentrixAchieng-q8o",
+                    "likes": 0,
+                    "publishedAt": "2026-05-02T13:59:04Z"
+                }
+            ]
         }
     ]
 }

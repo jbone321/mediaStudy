@@ -1,0 +1,22 @@
+{
+    "videoId": "3wYXcEdF2ig",
+    "history": [
+        {
+            "fetchedAt": "20260426_220013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_074708",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Kevin ghost \u2764\ud83d\ude0a",
+                    "author": "@KevinMunozGuardado",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T18:39:40Z"
+                }
+            ]
+        }
+    ]
+}

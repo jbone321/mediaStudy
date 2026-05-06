@@ -1,0 +1,28 @@
+{
+    "videoId": "CJ450apVyn0",
+    "history": [
+        {
+            "fetchedAt": "20260501_100047",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260505_075918",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Hello",
+                    "author": "@Sergen.\u00c7\u0131nar",
+                    "likes": 2,
+                    "publishedAt": "2026-05-01T12:44:56Z"
+                },
+                {
+                    "text": "nama granny bng",
+                    "author": "@MuhammadFardhan-m2e",
+                    "likes": 2,
+                    "publishedAt": "2026-05-01T15:18:51Z"
+                }
+            ]
+        }
+    ]
+}

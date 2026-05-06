@@ -1,0 +1,40 @@
+{
+    "videoId": "9TcFQ40RzZ8",
+    "history": [
+        {
+            "fetchedAt": "20260430_040025",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_075003",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Pagal",
+                    "author": "@Gudha-z7g",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T06:16:50Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075854",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@bhuruverma370",
+                    "likes": 0,
+                    "publishedAt": "2026-05-04T14:37:52Z"
+                },
+                {
+                    "text": "Pagal",
+                    "author": "@Gudha-z7g",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T06:16:50Z"
+                }
+            ]
+        }
+    ]
+}

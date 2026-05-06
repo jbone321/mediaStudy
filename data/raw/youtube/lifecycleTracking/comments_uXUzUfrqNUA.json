@@ -1,0 +1,22 @@
+{
+    "videoId": "uXUzUfrqNUA",
+    "history": [
+        {
+            "fetchedAt": "20260505_040019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260505_080003",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nice idol",
+                    "author": "@herminialangueta",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T04:02:42Z"
+                }
+            ]
+        }
+    ]
+}

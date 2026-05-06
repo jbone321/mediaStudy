@@ -1,0 +1,47 @@
+{
+    "videoId": "cBefMHxA0Yo",
+    "history": [
+        {
+            "fetchedAt": "20260425_160025",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "I'm second",
+                    "author": "@daniel58635",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T15:58:56Z"
+                },
+                {
+                    "text": "First",
+                    "author": "@ril3yfn",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T14:42:00Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074355",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "I'm second",
+                    "author": "@daniel58635",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T15:58:56Z"
+                },
+                {
+                    "text": "First",
+                    "author": "@ril3yfn",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T14:42:00Z"
+                },
+                {
+                    "text": "You got this",
+                    "author": "@FionnlaghPowers",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T16:10:30Z"
+                }
+            ]
+        }
+    ]
+}

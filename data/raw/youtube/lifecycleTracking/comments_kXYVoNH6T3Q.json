@@ -1,0 +1,28 @@
+{
+    "videoId": "kXYVoNH6T3Q",
+    "history": [
+        {
+            "fetchedAt": "20260427_100019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260428_074819",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "My favourite",
+                    "author": "@FranchescoFernando",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T18:16:14Z"
+                },
+                {
+                    "text": "Early",
+                    "author": "@NipVR25",
+                    "likes": 1,
+                    "publishedAt": "2026-04-27T11:18:39Z"
+                }
+            ]
+        }
+    ]
+}

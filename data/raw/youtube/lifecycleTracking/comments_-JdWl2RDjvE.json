@@ -1,0 +1,40 @@
+{
+    "videoId": "-JdWl2RDjvE",
+    "history": [
+        {
+            "fetchedAt": "20260426_160028",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260427_075840",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Esquisito \ud83d\ude22",
+                    "author": "@MURIL\u00c3O_MOBILADOR",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T17:12:52Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260428_074749",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@marcossantosdasilva-t9n",
+                    "likes": 1,
+                    "publishedAt": "2026-04-28T01:53:48Z"
+                },
+                {
+                    "text": "Esquisito \ud83d\ude22",
+                    "author": "@MURIL\u00c3O_MOBILADOR",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T17:12:52Z"
+                }
+            ]
+        }
+    ]
+}

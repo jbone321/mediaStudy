@@ -1,0 +1,82 @@
+{
+    "videoId": "d4y7fLIxL-c",
+    "history": [
+        {
+            "fetchedAt": "20260426_160026",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260427_075838",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Chula de m\u00e1s !",
+                    "author": "@AlexisHernandez-t8f4l",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T16:55:51Z"
+                },
+                {
+                    "text": "Chula de m\u00e1s !",
+                    "author": "@AlexisHernandez-t8f4l",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T16:56:01Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260429_075041",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Chula de m\u00e1s !",
+                    "author": "@AlexisHernandez-t8f4l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T16:55:51Z"
+                },
+                {
+                    "text": "\u2764\ud83d\ude05\ud83d\ude05\u2764\ud83d\ude2e\ud83d\ude02",
+                    "author": "@pedrohernandezzu\u00f1iga-n6y",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T18:33:39Z"
+                },
+                {
+                    "text": "Chula de m\u00e1s !",
+                    "author": "@AlexisHernandez-t8f4l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T16:56:01Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074654",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Love it",
+                    "author": "@lilianar9067",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T05:08:48Z"
+                },
+                {
+                    "text": "Chula de m\u00e1s !",
+                    "author": "@AlexisHernandez-t8f4l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T16:55:51Z"
+                },
+                {
+                    "text": "\u2764\ud83d\ude05\ud83d\ude05\u2764\ud83d\ude2e\ud83d\ude02",
+                    "author": "@pedrohernandezzu\u00f1iga-n6y",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T18:33:39Z"
+                },
+                {
+                    "text": "Chula de m\u00e1s !",
+                    "author": "@AlexisHernandez-t8f4l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T16:56:01Z"
+                }
+            ]
+        }
+    ]
+}

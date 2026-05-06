@@ -1,0 +1,29 @@
+{
+    "videoId": "vear1SBdgsQ",
+    "history": [
+        {
+            "fetchedAt": "20260423_100018",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@Akshay_Kumar-f6u",
+                    "likes": 3,
+                    "publishedAt": "2026-04-23T08:57:17Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\ud83d\ude0a",
+                    "author": "@AkshayVerma-w7s",
+                    "likes": 2,
+                    "publishedAt": "2026-04-23T08:59:29Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@SanjuBh-m8m",
+                    "likes": 0,
+                    "publishedAt": "2026-04-23T09:10:52Z"
+                }
+            ]
+        }
+    ]
+}

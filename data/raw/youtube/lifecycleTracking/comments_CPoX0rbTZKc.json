@@ -1,0 +1,40 @@
+{
+    "videoId": "CPoX0rbTZKc",
+    "history": [
+        {
+            "fetchedAt": "20260425_074425",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074321",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764 assa",
+                    "author": "@Menezes-n4p",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T13:00:21Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260427_075654",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764 assa",
+                    "author": "@Menezes-n4p",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T13:00:21Z"
+                },
+                {
+                    "text": "Stop using hacks i Will report to discord \ud83d\ude02",
+                    "author": "@franciscogaldamez_7",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T19:16:34Z"
+                }
+            ]
+        }
+    ]
+}

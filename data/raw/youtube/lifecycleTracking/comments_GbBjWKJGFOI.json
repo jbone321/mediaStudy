@@ -1,0 +1,52 @@
+{
+    "videoId": "GbBjWKJGFOI",
+    "history": [
+        {
+            "fetchedAt": "20260428_160017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260429_075201",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u041a\u0418\u0422\u0410\u0419! \u042f \u041b\u042e\u0411\u041b\u042e \u0422\u0415\u0411\u042f! \ud83d\ude02",
+                    "author": "@\u0414\u0436\u043e\u0440\u0434\u04361970",
+                    "likes": 1,
+                    "publishedAt": "2026-04-28T23:40:57Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@PawelKuczora",
+                    "likes": 1,
+                    "publishedAt": "2026-04-28T20:52:37Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074835",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@PawelKuczora",
+                    "likes": 2,
+                    "publishedAt": "2026-04-28T20:52:37Z"
+                },
+                {
+                    "text": "\u041a\u0418\u0422\u0410\u0419! \u042f \u041b\u042e\u0411\u041b\u042e \u0422\u0415\u0411\u042f! \ud83d\ude02",
+                    "author": "@\u0414\u0436\u043e\u0440\u0434\u04361970",
+                    "likes": 2,
+                    "publishedAt": "2026-04-28T23:40:57Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@DanaFr\u0103culescu",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T19:26:45Z"
+                }
+            ]
+        }
+    ]
+}

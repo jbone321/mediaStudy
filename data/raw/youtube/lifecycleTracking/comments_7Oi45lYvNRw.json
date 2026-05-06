@@ -1,0 +1,40 @@
+{
+    "videoId": "7Oi45lYvNRw",
+    "history": [
+        {
+            "fetchedAt": "20260425_220013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260427_075752",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Ale pi\u0119knie!\ud83d\udcaa\ud83d\udd25\ud83d\ude0a",
+                    "author": "@UrszulaDzikowska-mz6jc",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T13:49:01Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074612",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude2e \u015aLICZNA PIOSENKA BIESIADNA \ud83d\ude05 POZDRAWIAM SERDECZNIE \ud83e\udd70",
+                    "author": "@piotrkwapisz7833",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T06:19:16Z"
+                },
+                {
+                    "text": "Ale pi\u0119knie!\ud83d\udcaa\ud83d\udd25\ud83d\ude0a",
+                    "author": "@UrszulaDzikowska-mz6jc",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T13:49:01Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "L0acb-fdTAk",
+    "history": [
+        {
+            "fetchedAt": "20260504_220021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260505_075955",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@akshiyaaliShaikh",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T04:05:04Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260506_080005",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@akshiyaaliShaikh",
+                    "likes": 1,
+                    "publishedAt": "2026-05-05T04:05:04Z"
+                },
+                {
+                    "text": "And her face look like my teacher",
+                    "author": "@lenaoxton7740",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T20:09:22Z"
+                }
+            ]
+        }
+    ]
+}

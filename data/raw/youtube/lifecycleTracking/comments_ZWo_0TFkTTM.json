@@ -23,6 +23,30 @@
                     "publishedAt": "2026-02-27T05:43:33Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260424_070749",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@SalmamJaviersatiadi",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T22:43:11Z"
+                },
+                {
+                    "text": "Bg aku mau mbg pilssssssssss",
+                    "author": "@ardiansyahel-siraj",
+                    "likes": 2,
+                    "publishedAt": "2026-02-27T05:06:18Z"
+                },
+                {
+                    "text": "MBG",
+                    "author": "@MuhammadEzzar-f8x",
+                    "likes": 1,
+                    "publishedAt": "2026-02-27T05:43:33Z"
+                }
+            ]
         }
     ]
 }

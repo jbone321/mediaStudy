@@ -1,0 +1,40 @@
+{
+    "videoId": "KYFuVqCYWmU",
+    "history": [
+        {
+            "fetchedAt": "20260429_220020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_074940",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Como isso nao viraliza?",
+                    "author": "@jeansicka2073",
+                    "likes": 3,
+                    "publishedAt": "2026-04-29T23:44:14Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075835",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Nostalgia \ud83d\ude13\ud83d\ude2d\ud83d\ude22\ud83d\ude22",
+                    "author": "@VeteransAOW3RTS",
+                    "likes": 1,
+                    "publishedAt": "2026-05-02T11:01:58Z"
+                },
+                {
+                    "text": "Como isso nao viraliza?",
+                    "author": "@jeansicka2073",
+                    "likes": 6,
+                    "publishedAt": "2026-04-29T23:44:14Z"
+                }
+            ]
+        }
+    ]
+}

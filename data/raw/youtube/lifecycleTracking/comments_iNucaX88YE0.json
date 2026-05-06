@@ -1,0 +1,22 @@
+{
+    "videoId": "iNucaX88YE0",
+    "history": [
+        {
+            "fetchedAt": "20260425_160021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074353",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nice",
+                    "author": "@AestheticZOne.10",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T07:37:21Z"
+                }
+            ]
+        }
+    ]
+}

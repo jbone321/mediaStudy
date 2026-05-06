@@ -1,0 +1,59 @@
+{
+    "videoId": "DzgEinDkQFQ",
+    "history": [
+        {
+            "fetchedAt": "20260424_040013",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Uv uhh\ud83d\ude0a",
+                    "author": "@DanishKhan-b5v8b",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T03:46:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074246",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Uv uhh\ud83d\ude0a",
+                    "author": "@DanishKhan-b5v8b",
+                    "likes": 1,
+                    "publishedAt": "2026-04-24T03:46:08Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@beauty_singh_Nishad",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T05:25:28Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260427_075603",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764",
+                    "author": "@beauty_singh_Nishad",
+                    "likes": 3,
+                    "publishedAt": "2026-04-26T05:25:28Z"
+                },
+                {
+                    "text": "L\u2764\ufe0f",
+                    "author": "@ShivaKumar-y8g6i",
+                    "likes": 5,
+                    "publishedAt": "2026-04-26T14:25:25Z"
+                },
+                {
+                    "text": "Uv uhh\ud83d\ude0a",
+                    "author": "@DanishKhan-b5v8b",
+                    "likes": 3,
+                    "publishedAt": "2026-04-24T03:46:08Z"
+                }
+            ]
+        }
+    ]
+}

@@ -54,6 +54,72 @@
                     "publishedAt": "2026-04-08T19:47:12Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260501_073340",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Par\u00e7an\u0131n ad\u0131 ne hocam",
+                    "author": "@umutunutur3442",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T10:28:21Z"
+                },
+                {
+                    "text": "Her zaman \u00fcstat i\u015filer \u2764",
+                    "author": "@halilkaracaml6140",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T13:25:57Z"
+                },
+                {
+                    "text": "Harikas\u0131n\u0131z. Hepinizi tebrik ederim.",
+                    "author": "@celilkeles3544",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T09:14:38Z"
+                },
+                {
+                    "text": "Sizi seviyorum \u2764",
+                    "author": "@izmirturkey9275",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T19:47:12Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260506_074120",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Her zaman \u00fcstat i\u015filer \u2764",
+                    "author": "@halilkaracaml6140",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T13:25:57Z"
+                },
+                {
+                    "text": "Harikas\u0131n\u0131z. Hepinizi tebrik ederim.",
+                    "author": "@celilkeles3544",
+                    "likes": 1,
+                    "publishedAt": "2026-04-05T09:14:38Z"
+                },
+                {
+                    "text": "\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83c\uddf9\ud83c\uddf7",
+                    "author": "@bahattinkeklikci8909",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T19:58:41Z"
+                },
+                {
+                    "text": "Sizi seviyorum \u2764",
+                    "author": "@izmirturkey9275",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T19:47:12Z"
+                },
+                {
+                    "text": "Par\u00e7an\u0131n ad\u0131 ne hocam",
+                    "author": "@umutunutur3442",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T10:28:21Z"
+                }
+            ]
         }
     ]
 }

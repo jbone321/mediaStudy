@@ -66,6 +66,84 @@
                     "publishedAt": "2026-04-13T07:58:49Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260425_073922",
+            "commentCount": 6,
+            "comments": [
+                {
+                    "text": "\ub098\ub294 42\ub144\uc9f8 \ud32c\uc774\ub2e4~ \ub108\ubb34 \uc88b\ub2e4~ \ub0b4 \ud3f0 \uceec\ub7ec\ub9c1\ub3c4 \ub4c0\ub780\uc774 \ub178\ub798\ub2e4\u2764\u2764\u2764\u2764\u2764\ud83d\ude0a",
+                    "author": "@\uc2ec\uc0c1\uc0ac\uc131-j8h",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T06:07:52Z"
+                },
+                {
+                    "text": "\ubbf8\ubaa8\uc5d0 \uac00\ub824\uc9c4 \uc2e4\ub825\ud30c~",
+                    "author": "@johnnyboy8337",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T11:48:02Z"
+                },
+                {
+                    "text": "Amo Duran Duran \u2764\u2764\u2764\u2764\u2764",
+                    "author": "@eliregina3115",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T09:45:55Z"
+                },
+                {
+                    "text": "\ud574\uc678\uc5d0\uc11c\ub294 Invisible\uc774 \uba54\uae30\uc194 \ub54c\ub9e4 \uc720\ud589 \ud0c0\uace0 \uc788\ub358\ub370",
+                    "author": "@liverpool_8-12",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T09:32:39Z"
+                },
+                {
+                    "text": "Duran Duran reminds me of the rubio twins.  Great friends of mine.",
+                    "author": "@BraddPitt-w4p",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T09:39:05Z"
+                },
+                {
+                    "text": "\ub274\uc6e8\uc774\ube0c \ucd5c\uace0\uc758 \uadf8\ub8f9\uc0ac\uc6b4\ub4dc",
+                    "author": "@seungwonkim8838",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T07:58:49Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260427_074959",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "\ub098\ub294 42\ub144\uc9f8 \ud32c\uc774\ub2e4~ \ub108\ubb34 \uc88b\ub2e4~ \ub0b4 \ud3f0 \uceec\ub7ec\ub9c1\ub3c4 \ub4c0\ub780\uc774 \ub178\ub798\ub2e4\u2764\u2764\u2764\u2764\u2764\ud83d\ude0a",
+                    "author": "@\uc2ec\uc0c1\uc0ac\uc131-j8h",
+                    "likes": 1,
+                    "publishedAt": "2026-04-14T06:07:52Z"
+                },
+                {
+                    "text": "Amo Duran Duran \u2764\u2764\u2764\u2764\u2764",
+                    "author": "@eliregina3115",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T09:45:55Z"
+                },
+                {
+                    "text": "\ubbf8\ubaa8\uc5d0 \uac00\ub824\uc9c4 \uc2e4\ub825\ud30c~",
+                    "author": "@johnnyboy8337",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T11:48:02Z"
+                },
+                {
+                    "text": "\ud574\uc678\uc5d0\uc11c\ub294 Invisible\uc774 \uba54\uae30\uc194 \ub54c\ub9e4 \uc720\ud589 \ud0c0\uace0 \uc788\ub358\ub370",
+                    "author": "@liverpool_8-12",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T09:32:39Z"
+                },
+                {
+                    "text": "\ub274\uc6e8\uc774\ube0c \ucd5c\uace0\uc758 \uadf8\ub8f9\uc0ac\uc6b4\ub4dc",
+                    "author": "@seungwonkim8838",
+                    "likes": 0,
+                    "publishedAt": "2026-04-13T07:58:49Z"
+                }
+            ]
         }
     ]
 }

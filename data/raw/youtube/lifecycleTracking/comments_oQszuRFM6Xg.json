@@ -1,0 +1,58 @@
+{
+    "videoId": "oQszuRFM6Xg",
+    "history": [
+        {
+            "fetchedAt": "20260505_040025",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260505_080009",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89",
+                    "author": "@ShoxruxAbdisattorov-w3b",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T04:55:45Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260506_080020",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "4\u221a3",
+                    "author": "@ThalaHitKing-74518",
+                    "likes": 1,
+                    "publishedAt": "2026-05-05T16:02:03Z"
+                },
+                {
+                    "text": "\ud83c\udf89",
+                    "author": "@ShoxruxAbdisattorov-w3b",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T04:55:45Z"
+                },
+                {
+                    "text": "4\u221a3 => Opcion D",
+                    "author": "@luispenaloza9301",
+                    "likes": 0,
+                    "publishedAt": "2026-05-06T01:45:55Z"
+                },
+                {
+                    "text": "D",
+                    "author": "@NikileswaraSridhar-u1f",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T14:00:59Z"
+                },
+                {
+                    "text": "D",
+                    "author": "@angelamaro6689",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T17:04:03Z"
+                }
+            ]
+        }
+    ]
+}

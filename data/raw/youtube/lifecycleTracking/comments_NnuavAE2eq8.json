@@ -1,0 +1,40 @@
+{
+    "videoId": "NnuavAE2eq8",
+    "history": [
+        {
+            "fetchedAt": "20260426_040021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074415",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "13",
+                    "author": "@sintudas6866",
+                    "likes": 2,
+                    "publishedAt": "2026-04-26T04:36:34Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260427_075813",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "13",
+                    "author": "@sintudas6866",
+                    "likes": 2,
+                    "publishedAt": "2026-04-26T04:36:34Z"
+                },
+                {
+                    "text": "Errado . Correto : 10",
+                    "author": "@mariaritaalmeida7973",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T09:55:45Z"
+                }
+            ]
+        }
+    ]
+}

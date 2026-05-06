@@ -1,0 +1,35 @@
+{
+    "videoId": "OBi9Sffd7Ko",
+    "history": [
+        {
+            "fetchedAt": "20260426_220017",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Opa dba mano queria saber o nome do jogo",
+                    "author": "@SkyArthurgames3541",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T21:03:42Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260427_075853",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Dredge esse jogo \u00e9 maravilhoso",
+                    "author": "@Wolfszera",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T06:19:09Z"
+                },
+                {
+                    "text": "Opa dba mano queria saber o nome do jogo",
+                    "author": "@SkyArthurgames3541",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T21:03:42Z"
+                }
+            ]
+        }
+    ]
+}

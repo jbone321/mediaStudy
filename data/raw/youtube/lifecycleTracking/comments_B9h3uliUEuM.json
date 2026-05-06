@@ -1,0 +1,35 @@
+{
+    "videoId": "B9h3uliUEuM",
+    "history": [
+        {
+            "fetchedAt": "20260505_040018",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Maravilloso talento un portento!!!\u2764\u2764\u2764",
+                    "author": "@patriciacid7207",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T03:46:58Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260506_080013",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Maravilloso talento un portento!!!\u2764\u2764\u2764",
+                    "author": "@patriciacid7207",
+                    "likes": 1,
+                    "publishedAt": "2026-05-05T03:46:58Z"
+                },
+                {
+                    "text": "Es magn\u00edfico como toca el acorde\u00f3n que para que suene bien es muy complicado.",
+                    "author": "@joseenriquecodinaseijas7757",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T12:21:04Z"
+                }
+            ]
+        }
+    ]
+}

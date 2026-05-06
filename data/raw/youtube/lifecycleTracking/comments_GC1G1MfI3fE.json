@@ -1,0 +1,22 @@
+{
+    "videoId": "GC1G1MfI3fE",
+    "history": [
+        {
+            "fetchedAt": "20260501_040018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260505_075859",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "My faveti sony",
+                    "author": "@BhudeoSidam",
+                    "likes": 1,
+                    "publishedAt": "2026-05-03T06:55:46Z"
+                }
+            ]
+        }
+    ]
+}

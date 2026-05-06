@@ -1,0 +1,64 @@
+{
+    "videoId": "o-z2PpGBnb4",
+    "history": [
+        {
+            "fetchedAt": "20260425_160031",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074358",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@MoArshal-b3g",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T02:56:53Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074554",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@MoArshal-b3g",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T02:56:53Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@openLion-oo976",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T16:28:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260506_075434",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@MoArshal-b3g",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T02:56:53Z"
+                },
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@SunilKumar-i8s9t",
+                    "likes": 0,
+                    "publishedAt": "2026-05-06T06:55:00Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@openLion-oo976",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T16:28:08Z"
+                }
+            ]
+        }
+    ]
+}

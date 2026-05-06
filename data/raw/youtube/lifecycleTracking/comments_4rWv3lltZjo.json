@@ -1,0 +1,40 @@
+{
+    "videoId": "4rWv3lltZjo",
+    "history": [
+        {
+            "fetchedAt": "20260427_040019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260427_075908",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Hello Bro",
+                    "author": "@HorrorGamesWorld2",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T07:33:54Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074725",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Sahil\u2764\ud83c\udf89",
+                    "author": "@SahilTripathy-p4f5d",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T17:54:59Z"
+                },
+                {
+                    "text": "Hello Bro",
+                    "author": "@HorrorGamesWorld2",
+                    "likes": 1,
+                    "publishedAt": "2026-04-27T07:33:54Z"
+                }
+            ]
+        }
+    ]
+}

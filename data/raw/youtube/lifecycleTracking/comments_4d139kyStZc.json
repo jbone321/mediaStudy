@@ -1,0 +1,22 @@
+{
+    "videoId": "4d139kyStZc",
+    "history": [
+        {
+            "fetchedAt": "20260426_160030",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_074700",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "T",
+                    "author": "@user-f9i1z",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T18:23:15Z"
+                }
+            ]
+        }
+    ]
+}

@@ -17,6 +17,24 @@
                     "publishedAt": "2026-04-22T05:27:47Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260424_074307",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "F\u00e1cil, es la opci\u00f3n C",
+                    "author": "@noenarvaez-b3v",
+                    "likes": 0,
+                    "publishedAt": "2026-04-22T20:52:00Z"
+                },
+                {
+                    "text": "9",
+                    "author": "@SomarathneRajapaksha",
+                    "likes": 1,
+                    "publishedAt": "2026-04-22T05:27:47Z"
+                }
+            ]
         }
     ]
 }

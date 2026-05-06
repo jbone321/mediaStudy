@@ -35,6 +35,60 @@
                     "publishedAt": "2026-04-22T03:06:47Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260424_074219",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u0410\u0439 \u043c\u0430\u0448\u0430\u043b\u043b\u0430\u0445 \u0441\u0443\u043f\u0435\u0440 \u2764\ufe0f\ud83e\udd70\ud83d\udc4d\ud83d\ude4f\ud83d\ude18\ud83d\udc96",
+                    "author": "@\u0420\u0430\u043c\u0438\u043b\u044c\u0428\u0430\u043f\u0438\u0435\u0432-\u043a6\u044f9\u0437",
+                    "likes": 2,
+                    "publishedAt": "2026-04-21T00:04:40Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@\u0421\u0435\u0432\u0434\u0430\u0418\u0441\u043b\u0430\u043c\u043e\u0432\u0430-\u04368\u0439",
+                    "likes": 0,
+                    "publishedAt": "2026-04-22T09:06:10Z"
+                },
+                {
+                    "text": "FANAKRAMA OXUYUR",
+                    "author": "@ZakirH\u0259s\u0259nov-q1c",
+                    "likes": 0,
+                    "publishedAt": "2026-04-22T03:06:47Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260506_074942",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\u0410\u0439 \u043c\u0430\u0448\u0430\u043b\u043b\u0430\u0445 \u0441\u0443\u043f\u0435\u0440 \u2764\ufe0f\ud83e\udd70\ud83d\udc4d\ud83d\ude4f\ud83d\ude18\ud83d\udc96",
+                    "author": "@\u0420\u0430\u043c\u0438\u043b\u044c\u0428\u0430\u043f\u0438\u0435\u0432-\u043a6\u044f9\u0437",
+                    "likes": 3,
+                    "publishedAt": "2026-04-21T00:04:40Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@\u0421\u0435\u0432\u0434\u0430\u0418\u0441\u043b\u0430\u043c\u043e\u0432\u0430-\u04368\u0439",
+                    "likes": 1,
+                    "publishedAt": "2026-04-22T09:06:10Z"
+                },
+                {
+                    "text": "FANAKRAMA OXUYUR",
+                    "author": "@ZakirH\u0259s\u0259nov-q1c",
+                    "likes": 1,
+                    "publishedAt": "2026-04-22T03:06:47Z"
+                },
+                {
+                    "text": "\ud83d\udc7f\ud83d\udc7f\ud83d\udc7f\ud83d\udc7f\ud83d\udc7f\ud83d\ude49\ud83d\ude49\ud83d\ude49\ud83d\ude49\ud83d\ude49",
+                    "author": "@afetafet5796",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T22:20:41Z"
+                }
+            ]
         }
     ]
 }

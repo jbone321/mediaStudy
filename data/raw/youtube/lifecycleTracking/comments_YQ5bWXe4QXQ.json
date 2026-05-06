@@ -1,0 +1,40 @@
+{
+    "videoId": "YQ5bWXe4QXQ",
+    "history": [
+        {
+            "fetchedAt": "20260426_220016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260427_075852",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "bro was so slow you probably could've stuck it lol",
+                    "author": "@supasem",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T22:41:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260428_074758",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "bro was so slow you probably could've stuck it lol",
+                    "author": "@supasem",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T22:41:36Z"
+                },
+                {
+                    "text": "why does your movement look like your stressing out completely? \ud83d\ude05",
+                    "author": "@KindriEvans",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T13:27:22Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "videoId": "yDEPOy-kjJ8",
+    "history": [
+        {
+            "fetchedAt": "20260423_220021",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Wow",
+                    "author": "@TZANUJ",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T18:02:31Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260424_074456",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Holy yap",
+                    "author": "@Izzybella1285",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T22:22:22Z"
+                },
+                {
+                    "text": "Wow",
+                    "author": "@TZANUJ",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T18:02:31Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260425_074340",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Holy yap",
+                    "author": "@Izzybella1285",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T22:22:22Z"
+                },
+                {
+                    "text": "Wow",
+                    "author": "@TZANUJ",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T18:02:31Z"
+                },
+                {
+                    "text": "LEVEL ID PLSA",
+                    "author": "@lily47502",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T10:05:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075345",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Holy yap",
+                    "author": "@Izzybella1285",
+                    "likes": 2,
+                    "publishedAt": "2026-04-23T22:22:22Z"
+                },
+                {
+                    "text": "Just walk around it",
+                    "author": "@BilNaethanVaughnEnoya",
+                    "likes": 0,
+                    "publishedAt": "2026-05-04T13:46:52Z"
+                },
+                {
+                    "text": "Wow",
+                    "author": "@TZANUJ",
+                    "likes": 2,
+                    "publishedAt": "2026-04-23T18:02:31Z"
+                },
+                {
+                    "text": "LEVEL ID PLSA",
+                    "author": "@lily47502",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T10:05:20Z"
+                }
+            ]
+        }
+    ]
+}

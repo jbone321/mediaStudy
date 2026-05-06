@@ -1,0 +1,22 @@
+{
+    "videoId": "I7tbtfpK6is",
+    "history": [
+        {
+            "fetchedAt": "20260505_220025",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260506_080057",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Furtivo011",
+                    "author": "@hiagohenrique3996",
+                    "likes": 1,
+                    "publishedAt": "2026-05-06T00:03:36Z"
+                }
+            ]
+        }
+    ]
+}

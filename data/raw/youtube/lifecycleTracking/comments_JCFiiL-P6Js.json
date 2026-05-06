@@ -1,0 +1,52 @@
+{
+    "videoId": "JCFiiL-P6Js",
+    "history": [
+        {
+            "fetchedAt": "20260426_160024",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260428_074745",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\udc83\ud83d\udc83\ud83d\udc83\ud83d\udc83\ud83d\udc83",
+                    "author": "@svetizipp",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T22:13:20Z"
+                },
+                {
+                    "text": "\ud83d\udc83\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83e\udd40\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udc4d\u2764\ufe0f\ud83e\udef4\ud83d\udc44",
+                    "author": "@bratnysandra",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T12:13:28Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260429_075039",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Parab\u00e9ns!",
+                    "author": "@galianooliveira-er7ev",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T11:28:34Z"
+                },
+                {
+                    "text": "\ud83d\udc83\ud83d\udc83\ud83d\udc83\ud83d\udc83\ud83d\udc83",
+                    "author": "@svetizipp",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T22:13:20Z"
+                },
+                {
+                    "text": "\ud83d\udc83\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83e\udd40\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udc4d\u2764\ufe0f\ud83e\udef4\ud83d\udc44",
+                    "author": "@bratnysandra",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T12:13:28Z"
+                }
+            ]
+        }
+    ]
+}

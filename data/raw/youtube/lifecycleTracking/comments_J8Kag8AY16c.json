@@ -1,0 +1,22 @@
+{
+    "videoId": "J8Kag8AY16c",
+    "history": [
+        {
+            "fetchedAt": "20260505_220025",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260506_080057",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "O que eu acabei de ver...",
+                    "author": "@BlackOne22",
+                    "likes": 1,
+                    "publishedAt": "2026-05-06T01:05:51Z"
+                }
+            ]
+        }
+    ]
+}

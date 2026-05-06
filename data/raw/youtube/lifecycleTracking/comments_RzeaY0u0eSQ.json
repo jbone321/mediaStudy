@@ -1,0 +1,22 @@
+{
+    "videoId": "RzeaY0u0eSQ",
+    "history": [
+        {
+            "fetchedAt": "20260428_100015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260506_075657",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Nice",
+                    "author": "@gojoosatoruu",
+                    "likes": 1,
+                    "publishedAt": "2026-05-05T16:02:35Z"
+                }
+            ]
+        }
+    ]
+}

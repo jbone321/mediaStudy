@@ -1,0 +1,40 @@
+{
+    "videoId": "xFXKbEp1ca4",
+    "history": [
+        {
+            "fetchedAt": "20260428_220020",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260429_075213",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Oooooo loco",
+                    "author": "@JacksondasilvaJaquinho",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T22:36:59Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075747",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Nossa brabo",
+                    "author": "@Vaniacordeiro-k1k",
+                    "likes": 0,
+                    "publishedAt": "2026-05-02T12:36:56Z"
+                },
+                {
+                    "text": "Oooooo loco",
+                    "author": "@JacksondasilvaJaquinho",
+                    "likes": 1,
+                    "publishedAt": "2026-04-28T22:36:59Z"
+                }
+            ]
+        }
+    ]
+}

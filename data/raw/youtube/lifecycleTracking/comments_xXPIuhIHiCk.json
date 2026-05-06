@@ -1,0 +1,64 @@
+{
+    "videoId": "xXPIuhIHiCk",
+    "history": [
+        {
+            "fetchedAt": "20260425_040016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260425_074435",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "kok smpi slesailagunya?",
+                    "author": "@bonniefav6790",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T04:05:05Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074331",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\udc9f\ud83d\udc4d\ud83d\ude1c\ud83d\udc93\ud83d\udc90",
+                    "author": "@FARRAELIESYABINTIISMAILMoe",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T18:29:23Z"
+                },
+                {
+                    "text": "kok smpi slesailagunya?",
+                    "author": "@bonniefav6790",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T04:05:05Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260428_074634",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Tetap hadir,",
+                    "author": "@GenjiSaragih-gn1bh",
+                    "likes": 1,
+                    "publishedAt": "2026-04-27T17:58:48Z"
+                },
+                {
+                    "text": "\ud83d\udc9f\ud83d\udc4d\ud83d\ude1c\ud83d\udc93\ud83d\udc90",
+                    "author": "@FARRAELIESYABINTIISMAILMoe",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T18:29:23Z"
+                },
+                {
+                    "text": "kok smpi slesailagunya?",
+                    "author": "@bonniefav6790",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T04:05:05Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "videoId": "eC92SEGtTJY",
+    "history": [
+        {
+            "fetchedAt": "20260505_100019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260506_080029",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "o",
+                    "author": "@karlsdivinagracia7050",
+                    "likes": 2,
+                    "publishedAt": "2026-05-05T14:29:33Z"
+                }
+            ]
+        }
+    ]
+}

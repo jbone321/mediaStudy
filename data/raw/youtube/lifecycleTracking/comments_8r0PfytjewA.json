@@ -1,0 +1,64 @@
+{
+    "videoId": "8r0PfytjewA",
+    "history": [
+        {
+            "fetchedAt": "20260424_040015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260424_074504",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u201cThis song just takes me somewhere else\u2026 does it hit you the same way?\u201d",
+                    "author": "@MusicMelodis-s5k",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T05:15:56Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074247",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Uske pehle u know what to do",
+                    "author": "@aartiaswani6237",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T14:49:53Z"
+                },
+                {
+                    "text": "\u201cThis song just takes me somewhere else\u2026 does it hit you the same way?\u201d",
+                    "author": "@MusicMelodis-s5k",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T05:15:56Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260428_074545",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83e\udef6\ud83c\udfff\ud83e\udef6\ud83c\udfff\ud83e\udef6\ud83c\udfff\ud83d\udda4\ud83d\udda4\ud83d\udda4\ud83d\udda4",
+                    "author": "@sonammujawar3723",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T16:07:11Z"
+                },
+                {
+                    "text": "\u201cThis song just takes me somewhere else\u2026 does it hit you the same way?\u201d",
+                    "author": "@MusicMelodis-s5k",
+                    "likes": 1,
+                    "publishedAt": "2026-04-24T05:15:56Z"
+                },
+                {
+                    "text": "Uske pehle u know what to do",
+                    "author": "@aartiaswani6237",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T14:49:53Z"
+                }
+            ]
+        }
+    ]
+}

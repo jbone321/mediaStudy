@@ -59,6 +59,42 @@
                     "publishedAt": "2026-04-12T11:54:58Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260505_074745",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Feelling aura\ud83d\udc80",
+                    "author": "@azfareditss0",
+                    "likes": 3,
+                    "publishedAt": "2026-04-11T07:44:20Z"
+                },
+                {
+                    "text": "\u2764\ud83c\udf89",
+                    "author": "@AbdullahFFx9",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T17:52:41Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83d\ude02\u2764\ud83c\udf89\ud83d\ude02\u2764",
+                    "author": "@eyllaydn7974",
+                    "likes": 1,
+                    "publishedAt": "2026-04-12T11:54:58Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83d\ude02\u2764",
+                    "author": "@eyllaydn7974",
+                    "likes": 1,
+                    "publishedAt": "2026-04-12T11:55:14Z"
+                },
+                {
+                    "text": "Aura de mais",
+                    "author": "@Maria-w4l3j",
+                    "likes": 1,
+                    "publishedAt": "2026-04-13T16:11:04Z"
+                }
+            ]
         }
     ]
 }

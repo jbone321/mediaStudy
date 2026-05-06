@@ -1,0 +1,76 @@
+{
+    "videoId": "wqjZ3ENyJt8",
+    "history": [
+        {
+            "fetchedAt": "20260428_040013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260428_074841",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@Hv........oooooo",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T05:01:20Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260429_075135",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Jalpara \u274cinderdev \u2705",
+                    "author": "@learninglmarathonquize",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T06:51:07Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@Hv........oooooo",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T05:01:20Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@URI__REVEL",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T08:54:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075706",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "Jalpara \u274cinderdev \u2705",
+                    "author": "@learninglmarathonquize",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T06:51:07Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@Hv........oooooo",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T05:01:20Z"
+                },
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@Vaibhav-v9x5o",
+                    "likes": 0,
+                    "publishedAt": "2026-05-03T03:28:32Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@URI__REVEL",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T08:54:40Z"
+                }
+            ]
+        }
+    ]
+}

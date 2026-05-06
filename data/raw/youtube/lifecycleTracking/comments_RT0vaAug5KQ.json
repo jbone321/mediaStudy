@@ -1,0 +1,82 @@
+{
+    "videoId": "RT0vaAug5KQ",
+    "history": [
+        {
+            "fetchedAt": "20260423_100022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260424_074442",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@PaulaandreaQuinterorosa",
+                    "likes": 0,
+                    "publishedAt": "2026-04-23T18:20:23Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074226",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@PaulaandreaQuinterorosa",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T18:20:23Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\ud83c\udf89\u2764",
+                    "author": "@EdwingSiles",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T04:15:21Z"
+                },
+                {
+                    "text": "\u2764\ufe0f coraz\u00f3n",
+                    "author": "@yasminsanchez3799",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T18:59:10Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074347",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@PaulaandreaQuinterorosa",
+                    "likes": 2,
+                    "publishedAt": "2026-04-23T18:20:23Z"
+                },
+                {
+                    "text": "\u2764\ufe0f coraz\u00f3n",
+                    "author": "@yasminsanchez3799",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T18:59:10Z"
+                },
+                {
+                    "text": "\u2764\ufe0f\ud83c\udf89\u2764",
+                    "author": "@EdwingSiles",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T04:15:21Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@MustafaAk\u0131n-b5x",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T09:42:28Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@HeidyMejia-q9e",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T18:25:55Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "videoId": "YcxdrRTSG3k",
+    "history": [
+        {
+            "fetchedAt": "20260505_160028",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Clothing Analysis: Create a clothing style analysis graphic using this portrait. Analyze the subject\u2019s facial features, coloring, and overall appearance, then independently determine which styles suit them and which don\u2019t. Show side-by-side comparisons with clear \u201cworks / doesn\u2019t work\u201d verdicts. Visual-first, short labels only, no paragraphs.\n\nPrompt: Create a make up analysis graphic using this portrait. Show side-by-side hairstyles comparisons to highlight which make up suit the subject best. Make it visual-first, with short labels only and no paragraphs\nColor analysis:\nCreate a personal color analysis graphic using this portrait. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. Make it visual-first, with short labels only and no paragraphs.",
+                    "author": "@priyapathivada",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T10:04:50Z"
+                },
+                {
+                    "text": "Hair analysis: Create a hairstyle analysis graphic using this portrait. Show side-by-side hairstyles comparisons to highlight which hairstyles suit the subject best. Make it visual-first, with short labels only and no paragraphs , with hair length guide , best and worst hair partitions, bangs guide , hair texture and volume guide , best & worst hair colour guide\nBest features : \nAnalyze the best facial features and lable them individualy side by side\nSkin and hair analysis ; labels only no paragarph analysis in potrait side by side comparations to highlight. Make it visual first.",
+                    "author": "@priyapathivada",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T10:05:18Z"
+                }
+            ]
+        }
+    ]
+}

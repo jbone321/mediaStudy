@@ -1,0 +1,40 @@
+{
+    "videoId": "ZlV-NsfAVAg",
+    "history": [
+        {
+            "fetchedAt": "20260429_040014",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_074857",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Super \ud83d\udc4d",
+                    "author": "@FamilyPassage",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T04:29:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075754",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Super \ud83d\udc4d",
+                    "author": "@FamilyPassage",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T04:29:08Z"
+                },
+                {
+                    "text": "Super \u2764",
+                    "author": "@RamuRamu-j7d3z",
+                    "likes": 0,
+                    "publishedAt": "2026-05-04T14:12:21Z"
+                }
+            ]
+        }
+    ]
+}

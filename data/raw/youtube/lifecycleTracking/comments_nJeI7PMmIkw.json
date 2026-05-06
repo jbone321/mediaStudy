@@ -1,0 +1,22 @@
+{
+    "videoId": "nJeI7PMmIkw",
+    "history": [
+        {
+            "fetchedAt": "20260426_100011",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_074635",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Stupid video",
+                    "author": "@genlozada3885",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T15:44:28Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "videoId": "GJgKDIUTUB0",
+    "history": [
+        {
+            "fetchedAt": "20260426_160019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260427_075831",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Both pyari awaz ha",
+                    "author": "@RanamudasserKhan",
+                    "likes": 1,
+                    "publishedAt": "2026-04-27T07:49:17Z"
+                },
+                {
+                    "text": "Agha Majid KO singing Karni chya",
+                    "author": "@RanamudasserKhan",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T07:49:41Z"
+                }
+            ]
+        }
+    ]
+}

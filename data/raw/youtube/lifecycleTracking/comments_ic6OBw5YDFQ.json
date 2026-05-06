@@ -1,0 +1,35 @@
+{
+    "videoId": "ic6OBw5YDFQ",
+    "history": [
+        {
+            "fetchedAt": "20260425_100013",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@bb24198",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T09:40:49Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074340",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@bb24198",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T09:40:49Z"
+                },
+                {
+                    "text": "nice\u2764\u2764",
+                    "author": "@Anivlogz2498",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T10:12:05Z"
+                }
+            ]
+        }
+    ]
+}

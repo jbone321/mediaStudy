@@ -12,6 +12,24 @@
                     "publishedAt": "2026-04-09T08:36:55Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260505_074616",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\udc83\ud83d\udc83\ud83d\udc83\ud83d\udc83",
+                    "author": "@nergizzafer6361",
+                    "likes": 1,
+                    "publishedAt": "2026-05-03T16:33:33Z"
+                },
+                {
+                    "text": "\u2764",
+                    "author": "@D\u00fcnyaHaliTr",
+                    "likes": 2,
+                    "publishedAt": "2026-04-09T08:36:55Z"
+                }
+            ]
         }
     ]
 }

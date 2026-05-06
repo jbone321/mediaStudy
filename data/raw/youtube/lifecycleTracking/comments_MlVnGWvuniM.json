@@ -54,6 +54,36 @@
                     "publishedAt": "2026-03-27T08:58:41Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260425_072646",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@\u0e2d\u0e20\u0e34\u0e25\u0e31\u0e01\u0e29\u0e13\u0e4c\u0e27\u0e23\u0e32\u0e01\u0e25\u0e32\u0e07-\u0e272\u0e13",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T09:26:46Z"
+                },
+                {
+                    "text": "\u0e1e\u0e2d\u0e44\u0e14\u0e49",
+                    "author": "@pitcrakhun",
+                    "likes": 1,
+                    "publishedAt": "2026-03-26T15:14:46Z"
+                },
+                {
+                    "text": "What is the name of game",
+                    "author": "@kazuku232",
+                    "likes": 2,
+                    "publishedAt": "2026-03-26T18:06:10Z"
+                },
+                {
+                    "text": "I Will Beat YOUUUUU",
+                    "author": "@Toyota-Old-2000",
+                    "likes": 0,
+                    "publishedAt": "2026-03-27T08:58:41Z"
+                }
+            ]
         }
     ]
 }

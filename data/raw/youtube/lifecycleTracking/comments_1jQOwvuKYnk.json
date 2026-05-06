@@ -1,0 +1,28 @@
+{
+    "videoId": "1jQOwvuKYnk",
+    "history": [
+        {
+            "fetchedAt": "20260425_160028",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074356",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "50",
+                    "author": "@sintudas6866",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T17:43:37Z"
+                },
+                {
+                    "text": "\u2764\u2764",
+                    "author": "@JosefinoGaaa",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T18:04:38Z"
+                }
+            ]
+        }
+    ]
+}

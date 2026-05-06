@@ -54,6 +54,36 @@
                     "publishedAt": "2026-03-15T01:52:52Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260424_071321",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+                    "author": "@onuryavuz61",
+                    "likes": 1,
+                    "publishedAt": "2026-03-09T19:38:57Z"
+                },
+                {
+                    "text": "Cumalar hay\u0131rl\u0131 kandiller dilerim \u015fekerim benim",
+                    "author": "@HasanHusey\u0131n-b9u",
+                    "likes": 1,
+                    "publishedAt": "2026-04-24T06:52:31Z"
+                },
+                {
+                    "text": "\ud83d\udc4d\ud83c\udffb\ud83d\ude0e",
+                    "author": "@erdogan7706",
+                    "likes": 0,
+                    "publishedAt": "2026-03-06T16:22:41Z"
+                },
+                {
+                    "text": "\ud83e\udef6",
+                    "author": "@\u041c\u0438\u0442\u043a\u0430\u0421\u0438\u043c\u0435\u043e\u043d\u043e\u0432\u0430-\u04357\u0439",
+                    "likes": 0,
+                    "publishedAt": "2026-03-15T01:52:52Z"
+                }
+            ]
         }
     ]
 }

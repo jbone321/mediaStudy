@@ -1,0 +1,41 @@
+{
+    "videoId": "btF3Kk5AxGg",
+    "history": [
+        {
+            "fetchedAt": "20260423_040020",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Gyan Bhai ki \u2764\u2764",
+                    "author": "@RivelFF",
+                    "likes": 2,
+                    "publishedAt": "2026-04-23T02:33:57Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260424_074428",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Gyan Bhai ki \u2764\u2764",
+                    "author": "@RivelFF",
+                    "likes": 2,
+                    "publishedAt": "2026-04-23T02:33:57Z"
+                },
+                {
+                    "text": "Raistar na aa jhaye",
+                    "author": "@AnuragAnurag-s8z9x",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T04:35:07Z"
+                },
+                {
+                    "text": "Gyan gaming",
+                    "author": "@RehanSyed-k3u-x8t",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T12:13:18Z"
+                }
+            ]
+        }
+    ]
+}

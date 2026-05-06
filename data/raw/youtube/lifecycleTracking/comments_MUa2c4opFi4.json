@@ -1,0 +1,64 @@
+{
+    "videoId": "MUa2c4opFi4",
+    "history": [
+        {
+            "fetchedAt": "20260427_100016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260428_074817",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "C\u00f3mo yo",
+                    "author": "@YuneisiGarc\u00eda-r8q",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T02:17:28Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074733",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "The idea is very impressive It helped me understand better.",
+                    "author": "@sarifulmondal4373",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T14:33:04Z"
+                },
+                {
+                    "text": "C\u00f3mo yo",
+                    "author": "@YuneisiGarc\u00eda-r8q",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T02:17:28Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075641",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "The idea is very impressive It helped me understand better.",
+                    "author": "@sarifulmondal4373",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T14:33:04Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@CintalapaChiapas-u5n",
+                    "likes": 0,
+                    "publishedAt": "2026-05-03T02:37:25Z"
+                },
+                {
+                    "text": "C\u00f3mo yo",
+                    "author": "@YuneisiGarc\u00eda-r8q",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T02:17:28Z"
+                }
+            ]
+        }
+    ]
+}

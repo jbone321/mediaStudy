@@ -1,0 +1,70 @@
+{
+    "videoId": "yOOUWv9WhcA",
+    "history": [
+        {
+            "fetchedAt": "20260425_160022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074353",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ud83d\ude4f",
+                    "author": "@San-uu7qc",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T19:51:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260427_075740",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Kaha the abhi tak guddu rangila kha hi",
+                    "author": "@ManojChauhan7878",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T16:28:30Z"
+                },
+                {
+                    "text": "\u2764\ud83d\ude4f",
+                    "author": "@San-uu7qc",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T19:51:36Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074547",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Kaha the abhi tak guddu rangila kha hi",
+                    "author": "@ManojChauhan7878",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T16:28:30Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075517",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Kaha the abhi tak guddu rangila kha hi",
+                    "author": "@ManojChauhan7878",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T16:28:30Z"
+                },
+                {
+                    "text": "\u2764\ud83d\ude4f",
+                    "author": "@San-uu7qc",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T19:51:36Z"
+                }
+            ]
+        }
+    ]
+}

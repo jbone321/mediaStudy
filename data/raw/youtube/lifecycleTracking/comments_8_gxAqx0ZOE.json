@@ -1,0 +1,64 @@
+{
+    "videoId": "8_gxAqx0ZOE",
+    "history": [
+        {
+            "fetchedAt": "20260424_160022",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260425_074417",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@FajarGaming-r1p2x",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T03:33:04Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074314",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@FajarGaming-r1p2x",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T03:33:04Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@cgvlog8",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T07:48:49Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075428",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764",
+                    "author": "@FajarGaming-r1p2x",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T03:33:04Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@SupariKumar",
+                    "likes": 1,
+                    "publishedAt": "2026-05-02T14:06:22Z"
+                },
+                {
+                    "text": "\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+                    "author": "@cgvlog8",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T07:48:49Z"
+                }
+            ]
+        }
+    ]
+}

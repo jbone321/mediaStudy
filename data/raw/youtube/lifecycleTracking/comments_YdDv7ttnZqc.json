@@ -1,0 +1,40 @@
+{
+    "videoId": "YdDv7ttnZqc",
+    "history": [
+        {
+            "fetchedAt": "20260423_220014",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260424_074450",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\ud83d\ude0a",
+                    "author": "@ThirupaluPutakalapudi",
+                    "likes": 1,
+                    "publishedAt": "2026-04-24T05:39:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074234",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f\ud83d\ude0a",
+                    "author": "@ThirupaluPutakalapudi",
+                    "likes": 1,
+                    "publishedAt": "2026-04-24T05:39:08Z"
+                },
+                {
+                    "text": "\ud83d\ude05\ud83d\ude05",
+                    "author": "@sarojabond4937",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T00:09:36Z"
+                }
+            ]
+        }
+    ]
+}

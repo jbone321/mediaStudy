@@ -1,0 +1,22 @@
+{
+    "videoId": "BbAqii1bkaM",
+    "history": [
+        {
+            "fetchedAt": "20260426_074404",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260505_075530",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "cool bro",
+                    "author": "@FransPranajayakbarek-v6k",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T17:00:33Z"
+                }
+            ]
+        }
+    ]
+}

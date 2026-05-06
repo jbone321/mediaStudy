@@ -1,0 +1,35 @@
+{
+    "videoId": "75IXdhBBPwU",
+    "history": [
+        {
+            "fetchedAt": "20260429_220021",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Tu attends un signe\u2026 ou tu avances seul ? \ud83d\udd25",
+                    "author": "@StephGMusicOfficiel",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T20:31:25Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074940",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Tu attends un signe\u2026 ou tu avances seul ? \ud83d\udd25",
+                    "author": "@StephGMusicOfficiel",
+                    "likes": 0,
+                    "publishedAt": "2026-04-29T20:31:25Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@sandrineschaeffner",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T08:04:01Z"
+                }
+            ]
+        }
+    ]
+}

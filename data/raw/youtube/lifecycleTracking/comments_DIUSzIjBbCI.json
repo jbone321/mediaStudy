@@ -1,0 +1,82 @@
+{
+    "videoId": "DIUSzIjBbCI",
+    "history": [
+        {
+            "fetchedAt": "20260424_220011",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260425_074421",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@URI__REVEL",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T05:24:23Z"
+                },
+                {
+                    "text": "5 lakh \ud83d\ude02",
+                    "author": "@amitbedwar",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T03:26:40Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260428_074619",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "5 lakh \ud83d\ude02",
+                    "author": "@amitbedwar",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T03:26:40Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@URI__REVEL",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T05:24:23Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Hv........oooooo",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T05:02:18Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075432",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "5 lakh \ud83d\ude02",
+                    "author": "@amitbedwar",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T03:26:40Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@URI__REVEL",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T05:24:23Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Hv........oooooo",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T05:02:18Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@Vaibhav-v9x5o",
+                    "likes": 0,
+                    "publishedAt": "2026-05-03T03:28:08Z"
+                }
+            ]
+        }
+    ]
+}

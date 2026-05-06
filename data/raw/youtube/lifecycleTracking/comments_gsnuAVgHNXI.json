@@ -35,6 +35,30 @@
                     "publishedAt": "2026-03-26T21:30:28Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260424_072229",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83c\udf89",
+                    "author": "@aisusilawati1014",
+                    "likes": 1,
+                    "publishedAt": "2026-03-23T11:35:16Z"
+                },
+                {
+                    "text": "\ud83d\ude2e",
+                    "author": "@huidromlakhipiyaridevi2845",
+                    "likes": 1,
+                    "publishedAt": "2026-04-22T14:11:03Z"
+                },
+                {
+                    "text": "\ud83c\udf89",
+                    "author": "@othmanelatreche6463",
+                    "likes": 3,
+                    "publishedAt": "2026-03-26T21:30:28Z"
+                }
+            ]
         }
     ]
 }

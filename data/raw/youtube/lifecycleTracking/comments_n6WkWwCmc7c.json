@@ -1,0 +1,40 @@
+{
+    "videoId": "n6WkWwCmc7c",
+    "history": [
+        {
+            "fetchedAt": "20260425_040013",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260427_075705",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u0e1d\u0e31\u0e19\u0e14\u0e35\u0e04\u0e48\u0e30\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@\u0e18\u0e31\u0e19\u0e22\u0e4c\u0e19\u0e34\u0e0a\u0e32\u0e1e\u0e07\u0e28\u0e4c\u0e40\u0e25\u0e34\u0e28\u0e2d\u0e32\u0e23\u0e35",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T14:31:26Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074516",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u0e1d\u0e31\u0e19\u0e14\u0e35\u0e04\u0e48\u0e30\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@\u0e18\u0e31\u0e19\u0e22\u0e4c\u0e19\u0e34\u0e0a\u0e32\u0e1e\u0e07\u0e28\u0e4c\u0e40\u0e25\u0e34\u0e28\u0e2d\u0e32\u0e23\u0e35",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T14:31:26Z"
+                },
+                {
+                    "text": "U",
+                    "author": "@thawornnuasaen771",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T05:12:02Z"
+                }
+            ]
+        }
+    ]
+}

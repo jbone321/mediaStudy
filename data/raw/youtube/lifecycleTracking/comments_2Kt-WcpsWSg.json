@@ -5,6 +5,18 @@
             "fetchedAt": "20260422_040014",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074137",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@EvertonSilva-x9l",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T17:46:51Z"
+                }
+            ]
         }
     ]
 }

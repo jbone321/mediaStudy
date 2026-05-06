@@ -5,6 +5,18 @@
             "fetchedAt": "20260422_100022",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260424_074358",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Si",
+                    "author": "@SandyOrdo\u00f1ez-g8n",
+                    "likes": 0,
+                    "publishedAt": "2026-04-22T23:58:11Z"
+                }
+            ]
         }
     ]
 }

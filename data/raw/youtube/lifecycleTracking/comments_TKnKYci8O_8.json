@@ -1,0 +1,28 @@
+{
+    "videoId": "TKnKYci8O_8",
+    "history": [
+        {
+            "fetchedAt": "20260428_160024",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_074842",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Me encanta la canci\u00f3n \ud83d\ude0d",
+                    "author": "@MariaRosario-n2o8p",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T07:06:28Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e",
+                    "author": "@JheniferSoares-d6h",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T23:41:49Z"
+                }
+            ]
+        }
+    ]
+}

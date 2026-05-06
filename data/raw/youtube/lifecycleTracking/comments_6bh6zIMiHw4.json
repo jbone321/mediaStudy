@@ -1,0 +1,28 @@
+{
+    "videoId": "6bh6zIMiHw4",
+    "history": [
+        {
+            "fetchedAt": "20260427_040015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260428_074807",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\uc640",
+                    "author": "@\uc7a5\uc740\uc11c-r5h",
+                    "likes": 2,
+                    "publishedAt": "2026-04-27T10:43:56Z"
+                },
+                {
+                    "text": "\u2206",
+                    "author": "@Mihriban\u00c7evik-u8y",
+                    "likes": 0,
+                    "publishedAt": "2026-04-27T15:49:42Z"
+                }
+            ]
+        }
+    ]
+}

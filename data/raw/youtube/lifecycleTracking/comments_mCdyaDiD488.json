@@ -1,0 +1,34 @@
+{
+    "videoId": "mCdyaDiD488",
+    "history": [
+        {
+            "fetchedAt": "20260429_100015",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_074913",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Uff el hueso \ud83d\udc80",
+                    "author": "@mayte-q10h",
+                    "likes": 2,
+                    "publishedAt": "2026-04-29T22:59:16Z"
+                },
+                {
+                    "text": "\ud83d\udc98\ud83d\udc98",
+                    "author": "@ShamimaAkter-n1w9m",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T14:45:16Z"
+                },
+                {
+                    "text": "\ud83d\ude2e\u2764\ud83c\udf89\ud83d\ude02",
+                    "author": "@PlNte-j7c",
+                    "likes": 2,
+                    "publishedAt": "2026-04-29T16:53:57Z"
+                }
+            ]
+        }
+    ]
+}

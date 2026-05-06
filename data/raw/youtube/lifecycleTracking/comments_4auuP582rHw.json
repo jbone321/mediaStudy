@@ -1,0 +1,70 @@
+{
+    "videoId": "4auuP582rHw",
+    "history": [
+        {
+            "fetchedAt": "20260426_040018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074412",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@vanrajsinhkanchva753",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T06:11:08Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260427_075808",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@vanrajsinhkanchva753",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T06:11:08Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83c\udf89\ud83c\udf89",
+                    "author": "@SarmaSir-r4h",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T08:51:18Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075541",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@vanrajsinhkanchva753",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T06:11:08Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "author": "@ThakorashaSidhpurumaruThak-x4q",
+                    "likes": 0,
+                    "publishedAt": "2026-05-04T15:14:16Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude0a\ud83d\ude05\ud83d\ude05",
+                    "author": "@AdarshPrajapatiAdarshPraja-t1p",
+                    "likes": 0,
+                    "publishedAt": "2026-05-04T07:26:48Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83c\udf89\ud83c\udf89",
+                    "author": "@SarmaSir-r4h",
+                    "likes": 0,
+                    "publishedAt": "2026-04-26T08:51:18Z"
+                }
+            ]
+        }
+    ]
+}

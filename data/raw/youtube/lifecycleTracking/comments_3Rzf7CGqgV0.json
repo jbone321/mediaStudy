@@ -1,0 +1,40 @@
+{
+    "videoId": "3Rzf7CGqgV0",
+    "history": [
+        {
+            "fetchedAt": "20260423_100023",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260424_074443",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "7",
+                    "author": "@Siraj\u00d1eddar",
+                    "likes": 0,
+                    "publishedAt": "2026-04-23T20:14:12Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260429_074812",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+                    "author": "@AliHaidar-h2i",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T16:03:42Z"
+                },
+                {
+                    "text": "7",
+                    "author": "@Siraj\u00d1eddar",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T20:14:12Z"
+                }
+            ]
+        }
+    ]
+}

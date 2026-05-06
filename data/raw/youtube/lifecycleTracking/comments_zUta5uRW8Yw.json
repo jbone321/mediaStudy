@@ -1,0 +1,41 @@
+{
+    "videoId": "zUta5uRW8Yw",
+    "history": [
+        {
+            "fetchedAt": "20260430_040025",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Just give then to charity",
+                    "author": "@FabioAlanisChapa",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T01:37:07Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_075003",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "Some people are just greedy and mean",
+                    "author": "@tomrathmann6843",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T06:17:24Z"
+                },
+                {
+                    "text": "I want free donut",
+                    "author": "@aliyaaaa-h9c",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T05:27:31Z"
+                },
+                {
+                    "text": "Just give then to charity",
+                    "author": "@FabioAlanisChapa",
+                    "likes": 5,
+                    "publishedAt": "2026-04-30T01:37:07Z"
+                }
+            ]
+        }
+    ]
+}

@@ -48,6 +48,36 @@
                     "publishedAt": "2026-04-08T11:22:27Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260424_073547",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02\ud83d\ude02",
+                    "author": "@SusantaMalik-e1j",
+                    "likes": 1,
+                    "publishedAt": "2026-04-08T09:29:58Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764nice \u2764\u2764\u2764\u2764",
+                    "author": "@Orthirani-k7i",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T11:28:10Z"
+                },
+                {
+                    "text": "\ud83d\ude02\ud83d\ude0a",
+                    "author": "@\u09ae\u09c1\u09ae\u09bf\u09a8\u0987\u09b8\u09b2\u09be\u09ae2025",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T17:07:20Z"
+                },
+                {
+                    "text": "Haha",
+                    "author": "@AyatullahAyatullah-x5h",
+                    "likes": 0,
+                    "publishedAt": "2026-04-08T11:21:09Z"
+                }
+            ]
         }
     ]
 }

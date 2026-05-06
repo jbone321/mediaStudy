@@ -1,0 +1,40 @@
+{
+    "videoId": "u9izXpdmk0g",
+    "history": [
+        {
+            "fetchedAt": "20260423_100011",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260426_074219",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@sachinmattu-r7l5l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T15:07:09Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074339",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Nice video",
+                    "author": "@jaswantsingh-bj8vt",
+                    "likes": 0,
+                    "publishedAt": "2026-04-30T12:10:57Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@sachinmattu-r7l5l",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T15:07:09Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "videoId": "zTZ2u1xebqg",
+    "history": [
+        {
+            "fetchedAt": "20260425_220016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260428_074713",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Boaa",
+                    "author": "@AlcideaAlcidea",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T05:19:06Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260429_075004",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Ae sim",
+                    "author": "@yt-code-ezz",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T23:19:15Z"
+                },
+                {
+                    "text": "Boaa",
+                    "author": "@AlcideaAlcidea",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T05:19:06Z"
+                }
+            ]
+        }
+    ]
+}

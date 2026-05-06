@@ -96,6 +96,60 @@
                     "publishedAt": "2026-03-19T21:46:47Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260505_072946",
+            "commentCount": 8,
+            "comments": [
+                {
+                    "text": "It's multiplicative, NOT additive...\n\nThe math for 66% (infused terror), 33% (protection), 33% (reaper shroud) would be (using counter probability): \n\n0.67*(0.67*0.34) = 0.1526 = 15.26% remaining damage \n\n-> 1-0.1526 = 0.8474 -> 84.74% total damage reduction.",
+                    "author": "@luca7675",
+                    "likes": 4,
+                    "publishedAt": "2026-03-19T22:42:06Z"
+                },
+                {
+                    "text": "Multiplicative mean -66% x -33% which equates to about an extra -21% Dmg reduction so altogether would ADD to about -54% reduction. (my math is not 100% accurate) \n\nYou're thinking additively. Which is incorrect for this case.",
+                    "author": "@TheCoastalABCBrother",
+                    "likes": 9,
+                    "publishedAt": "2026-03-19T21:49:09Z"
+                },
+                {
+                    "text": "It's amazing how few players actually understand what \"multiplicative\" means.  It is very specific.\n\nBUT ... Throw around a completely meaningless/undefined term such as \"diminishing returns\" and people get it.",
+                    "author": "@elnrik8655",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T22:22:37Z"
+                },
+                {
+                    "text": "It will be 77.2% reduction, stacks multiplicatively doesnt work like a conventional addition",
+                    "author": "@zeb2915",
+                    "likes": 3,
+                    "publishedAt": "2026-03-19T21:57:49Z"
+                },
+                {
+                    "text": "You are the king of the Silvari. Keep my hopes alive bud.",
+                    "author": "@cookingkoalas1380",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T22:03:09Z"
+                },
+                {
+                    "text": "Simple math is long gone nowadays....",
+                    "author": "@GrindingMadness",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T21:43:27Z"
+                },
+                {
+                    "text": "Math is harder for non-Reapers.",
+                    "author": "@nurkane",
+                    "likes": 0,
+                    "publishedAt": "2026-03-19T21:25:20Z"
+                },
+                {
+                    "text": "Lol key word multiplicatively. I support ya bud but your wrong on this one \ud83d\ude02",
+                    "author": "@one_eyeddd473",
+                    "likes": 1,
+                    "publishedAt": "2026-03-19T22:42:24Z"
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,40 @@
+{
+    "videoId": "JO5tL8HvewQ",
+    "history": [
+        {
+            "fetchedAt": "20260423_040021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260424_074428",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@RenukaMewara-fv2fy",
+                    "likes": 1,
+                    "publishedAt": "2026-04-23T09:26:28Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074333",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\ud83d\ude02",
+                    "author": "@RenukaMewara-fv2fy",
+                    "likes": 4,
+                    "publishedAt": "2026-04-23T09:26:28Z"
+                },
+                {
+                    "text": "Yo no me gusta que no \ud83d\ude05\ud83d\ude05\ud83d\ude05",
+                    "author": "@ClaudioNexticapan",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T02:36:38Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "videoId": "fGErrdHjBTQ",
+    "history": [
+        {
+            "fetchedAt": "20260505_100023",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260506_080033",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude0e",
+                    "author": "@Akberalichy",
+                    "likes": 0,
+                    "publishedAt": "2026-05-05T11:35:20Z"
+                }
+            ]
+        }
+    ]
+}

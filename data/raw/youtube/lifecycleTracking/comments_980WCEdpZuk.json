@@ -1,0 +1,82 @@
+{
+    "videoId": "980WCEdpZuk",
+    "history": [
+        {
+            "fetchedAt": "20260428_100017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260429_075150",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "A+",
+                    "author": "@featherwood4496",
+                    "likes": 2,
+                    "publishedAt": "2026-04-28T12:56:57Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260501_074824",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "A+",
+                    "author": "@featherwood4496",
+                    "likes": 2,
+                    "publishedAt": "2026-04-28T12:56:57Z"
+                },
+                {
+                    "text": "Apsolute Legend",
+                    "author": "@mrtv\u00fdprinc",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T18:57:42Z"
+                },
+                {
+                    "text": "Sure\nINothin is like Chester\nAlso a dawm A1",
+                    "author": "@MonikaHenkel-r8z",
+                    "likes": 1,
+                    "publishedAt": "2026-04-29T22:48:28Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075723",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "Rip Chester",
+                    "author": "@annamanzoni-sl4wh",
+                    "likes": 4,
+                    "publishedAt": "2026-05-01T16:34:00Z"
+                },
+                {
+                    "text": "A+",
+                    "author": "@featherwood4496",
+                    "likes": 3,
+                    "publishedAt": "2026-04-28T12:56:57Z"
+                },
+                {
+                    "text": "Apsolute Legend",
+                    "author": "@mrtv\u00fdprinc",
+                    "likes": 3,
+                    "publishedAt": "2026-04-30T18:57:42Z"
+                },
+                {
+                    "text": "Right\nJust Chester is the best.\nNo AI no KI no replace nothin",
+                    "author": "@MonikaHenkel-g3g",
+                    "likes": 2,
+                    "publishedAt": "2026-05-01T10:23:21Z"
+                },
+                {
+                    "text": "Sure\nINothin is like Chester\nAlso a dawm A1",
+                    "author": "@MonikaHenkel-r8z",
+                    "likes": 3,
+                    "publishedAt": "2026-04-29T22:48:28Z"
+                }
+            ]
+        }
+    ]
+}

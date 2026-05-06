@@ -1,0 +1,22 @@
+{
+    "videoId": "gXaPsrgYrtw",
+    "history": [
+        {
+            "fetchedAt": "20260428_100016",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260429_075149",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Fenomena",
+                    "author": "@culemerida",
+                    "likes": 0,
+                    "publishedAt": "2026-04-28T18:05:17Z"
+                }
+            ]
+        }
+    ]
+}

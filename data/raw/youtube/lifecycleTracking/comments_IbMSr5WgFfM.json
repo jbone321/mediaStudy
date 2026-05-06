@@ -5,6 +5,18 @@
             "fetchedAt": "20260421_040018",
             "commentCount": 0,
             "comments": []
+        },
+        {
+            "fetchedAt": "20260424_074246",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "No",
+                    "author": "@mariadelrefugio9497",
+                    "likes": 1,
+                    "publishedAt": "2026-04-22T08:42:48Z"
+                }
+            ]
         }
     ]
 }

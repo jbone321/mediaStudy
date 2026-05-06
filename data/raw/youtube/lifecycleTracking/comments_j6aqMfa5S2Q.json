@@ -1,0 +1,28 @@
+{
+    "videoId": "j6aqMfa5S2Q",
+    "history": [
+        {
+            "fetchedAt": "20260428_040019",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260429_075140",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "\u2764\u2764\u2764\u2764",
+                    "author": "@billagamer67",
+                    "likes": 3,
+                    "publishedAt": "2026-04-28T09:59:16Z"
+                },
+                {
+                    "text": "\u2764\u2764\u2764\u2764\u2764",
+                    "author": "@billagamer67",
+                    "likes": 2,
+                    "publishedAt": "2026-04-28T09:59:28Z"
+                }
+            ]
+        }
+    ]
+}

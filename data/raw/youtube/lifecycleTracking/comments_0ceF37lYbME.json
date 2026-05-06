@@ -35,6 +35,42 @@
                     "publishedAt": "2026-04-15T13:27:28Z"
                 }
             ]
+        },
+        {
+            "fetchedAt": "20260501_074056",
+            "commentCount": 5,
+            "comments": [
+                {
+                    "text": "\u2764\ufe0f",
+                    "author": "@MohmadJlal-yv6zf",
+                    "likes": 1,
+                    "publishedAt": "2026-04-30T16:15:53Z"
+                },
+                {
+                    "text": "Aameen",
+                    "author": "@mumtazmumtaz804",
+                    "likes": 0,
+                    "publishedAt": "2026-04-15T16:11:20Z"
+                },
+                {
+                    "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22",
+                    "author": "@Usmanalwan",
+                    "likes": 0,
+                    "publishedAt": "2026-04-19T15:10:37Z"
+                },
+                {
+                    "text": "Be shak \u2764",
+                    "author": "@Imran_khan120",
+                    "likes": 0,
+                    "publishedAt": "2026-04-15T19:26:05Z"
+                },
+                {
+                    "text": "Assalamualaikum, beshak  ..",
+                    "author": "@RubeenaNasreen",
+                    "likes": 0,
+                    "publishedAt": "2026-04-15T13:27:28Z"
+                }
+            ]
         }
     ]
 }

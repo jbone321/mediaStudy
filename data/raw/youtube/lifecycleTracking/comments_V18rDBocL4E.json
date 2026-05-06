@@ -1,0 +1,40 @@
+{
+    "videoId": "V18rDBocL4E",
+    "history": [
+        {
+            "fetchedAt": "20260424_220021",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260425_074429",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Fit 1 definitely. It has that pop of colour!",
+                    "author": "@L0ading_Hndle",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T23:12:32Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074326",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Both are beautiful but I love the first one more \u2764",
+                    "author": "@cherishedfamily",
+                    "likes": 0,
+                    "publishedAt": "2026-04-25T20:01:31Z"
+                },
+                {
+                    "text": "Fit 1 definitely. It has that pop of colour!",
+                    "author": "@L0ading_Hndle",
+                    "likes": 0,
+                    "publishedAt": "2026-04-24T23:12:32Z"
+                }
+            ]
+        }
+    ]
+}

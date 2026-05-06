@@ -1,0 +1,40 @@
+{
+    "videoId": "RHBmUbf3VOQ",
+    "history": [
+        {
+            "fetchedAt": "20260501_040018",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260501_075008",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "Q pedazo de canci\u00f3n! Ic\u00f3nica y atemporal",
+                    "author": "@mauriciopagella2247",
+                    "likes": 1,
+                    "publishedAt": "2026-05-01T04:09:09Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260505_075859",
+            "commentCount": 2,
+            "comments": [
+                {
+                    "text": "Q pedazo de canci\u00f3n! Ic\u00f3nica y atemporal",
+                    "author": "@mauriciopagella2247",
+                    "likes": 2,
+                    "publishedAt": "2026-05-01T04:09:09Z"
+                },
+                {
+                    "text": "Hermosas interpretaciones \u2764",
+                    "author": "@PaulaVarela-p9u",
+                    "likes": 0,
+                    "publishedAt": "2026-05-01T13:32:18Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "videoId": "AE2kXY6_BfA",
+    "history": [
+        {
+            "fetchedAt": "20260425_040017",
+            "commentCount": 0,
+            "comments": []
+        },
+        {
+            "fetchedAt": "20260425_074436",
+            "commentCount": 1,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22",
+                    "author": "@sweetmomnazifa7034",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T04:09:45Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260426_074332",
+            "commentCount": 3,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22",
+                    "author": "@sweetmomnazifa7034",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T04:09:45Z"
+                },
+                {
+                    "text": "\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c",
+                    "author": "@Kamoldin-g3i",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T17:30:09Z"
+                },
+                {
+                    "text": "\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c",
+                    "author": "@CorazonBolan",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T04:16:27Z"
+                }
+            ]
+        },
+        {
+            "fetchedAt": "20260427_075711",
+            "commentCount": 4,
+            "comments": [
+                {
+                    "text": "\ud83d\ude22",
+                    "author": "@sweetmomnazifa7034",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T04:09:45Z"
+                },
+                {
+                    "text": "\u0986\u09ae\u09bf \u09a6\u09c7\u09ac\u2764",
+                    "author": "@RainSaha-h6e",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T12:21:20Z"
+                },
+                {
+                    "text": "\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c",
+                    "author": "@Kamoldin-g3i",
+                    "likes": 1,
+                    "publishedAt": "2026-04-25T17:30:09Z"
+                },
+                {
+                    "text": "\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c",
+                    "author": "@CorazonBolan",
+                    "likes": 1,
+                    "publishedAt": "2026-04-26T04:16:27Z"
+                }
+            ]
+        }
+    ]
+}
